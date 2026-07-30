@@ -217,3 +217,4 @@ PW-23D 第九雷完整後，異域軍士開始把陸沉預鋪完成、太古星�
 | 2026-07-25 | 神識戰術強度節奏表 | 新增四之三，被動先天感知不變，主動戰術能力（多線觀察/佈局/殺局公式）掛靠命圖三階段分級解鎖，附殺局公式失敗模式 | 正式；Codex／Claude 共識，回應 `CHECKLIST_PENDING_DECISIONS.md` 第131題 |
 | 2026-07-27 | 九禁修行成長節點 | 新增四之四，九禁修行（見 `characters/CHARACTER_LU_CHEN.md` 十之二）篇章對照速查表，掛靠既有十雷/命圖/萬體鑄身經節奏，不新開獨立進度表 | 正式；jie-power-system/jie-canon/jie-continuity 三方審查後定案，回應 `CHECKLIST_PENDING_DECISIONS.md` 第138題補充 |
 | 2026-07-28 | 四之四表修正與擴充 | 修正禁速具名篇章的既存內部矛盾（第九篇→第十篇，與 `CHARACTER_LU_CHEN.md` 十之二對齊）；禁天於第九篇的鬆動動作限縮為一次性應急反應；新增劫雷戰體（`CHARACTER_LU_CHEN.md` 十之三）雷痕計數安全閥，僅計十雷取得節奏表節點；新增《古神禁典》解讀進度不得超前本表的單向依附規則 | 正式；power-system/continuity/character/canon 四方審查後定案，回應 `CHECKLIST_PENDING_DECISIONS.md` 第139、140、141題 |
+| 2026-07-30 | 命圖初成正文落點 | Volume05 ch012～017先試用會鎖死演化的六槽模板，再以九息一次性自我設限撤圖；鎮界停滯十二日後，六雷形成不規整初始骨架，玄衡以保留出口的方式正式入環 | 正式；見 `events/EVENT_FATE_MAP_INITIAL_FORM.md` |

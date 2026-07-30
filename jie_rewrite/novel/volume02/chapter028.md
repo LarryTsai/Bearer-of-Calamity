@@ -1,4 +1,4 @@
-# 第二十八章 承身
+# 第二十八章 兩具身體都在搖，第三個自己先學站穩
 
 > 定位：第六篇「太玄宗・鎮岳入門」Segment B 第六階段，陸沉搭起連通萬年雷池與鎮岳峰小閣的子母挪移陣，並因本尊與煌命身的雷核共鳴日漸卡滯，分化出第二具雷身「承身」常駐鎮岳峰鍛體。改編自 `docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md` 二（子母挪移陣設陣）；`docs/systems/SYSTEM_THUNDER_BODY_DIVISION.md` 一、二、五（分工總覽、雷核共鳴機制、承身命名）。承接 `chapter027.md`。
 > 時間：ch027後約半月，陸續進行。命圖尚未開。

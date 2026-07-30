@@ -1,4 +1,4 @@
-# 第一章 殘息
+# 第一章 重量回來了，腳步也追了上來
 
 > 定位：第五篇「界隙照命」開篇，陸沉墜落上界道天界邊緣，照命雷雛形穿越界壓後穩定成種。改編自 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 十一（道天界）與 `docs/MACRO_OUTLINE.md` 第五篇必要卡點。承接 `novel/volume01/chapter025.md`。
 > 時間：緊接 chapter025 結尾，虛空鬆動起。
