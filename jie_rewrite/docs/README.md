@@ -31,7 +31,7 @@
   - `systems/SYSTEM_MYRIAD_BODY_FORGING_SCRIPTURE.md`：《萬體鑄身經》公開前四篇與鎮岳真傳後四篇。
   - `systems/SYSTEM_FORMLESS_SEPARATION_SCROLL.md`：《無相離身卷》、虛渡、雷身與分身前置。
   - `systems/SYSTEM_THUNDER_ALCHEMY.md`：雷煉丹原理、雷紋丹分級、丹劫機制與煉丹閣經濟制度。
-  - `systems/SYSTEM_THUNDER_BODY_DIVISION.md`：太玄初期（一至三雷）本尊與雷身分工、雷核共鳴、承身雷命名。
+  - `systems/SYSTEM_THUNDER_BODY_DIVISION.md`：太玄初期（一至三雷）本尊與雷身分工、雷核共鳴、承身命名。
   - `systems/SYSTEM_THUNDER_BODY_SCALING.md`：十雷齊備後雷身戰力比例、本尊化雷、三雷合體、九雷合一、十雷一體。
   - `systems/SYSTEM_CULTIVATION_TIMELINE.md`：原作事件、荒劫年齡／境界差、十雷成熟度與安全閥控制表。
   - `systems/SYSTEM_THUNDER_POOLS.md`：雷池四層結構、雷池類型、取種／養種／煉種／生種四種取得方式。
@@ -63,7 +63,7 @@
   - `events/EVENT_FINALE_TIMELINE_OVERVIEW.md`：終局三段結構唯一統籌來源——十二篇尾聲→銜接段「長息」→第十三篇大劫決裂，取代舊版「十三篇後延伸收尾」錯誤順序。
   - `events/EVENT_MINGZANG_FATE_MAP_ORIGIN.md`：太玄命藏，太玄命圖起源（無星古圖甦醒），劫厄穩定成實體。
   - `events/EVENT_TAIXUAN_PAVILION_SIEGE.md`：太玄閣滅閣雷劫、追雷入虛空，界海雷淵取照命雷雛形，劫厄界隙首次顯形，道天界命名起源。
-  - `events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md`：太玄宗近域萬年雷池、子母挪移陣與本尊／第一雷身／承身雷夜間淬體日常。
+  - `events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md`：太玄宗近域萬年雷池、子母挪移陣與本尊／煌命身／承身夜間淬體日常。
   - `events/EVENT_TAIXUAN_ANCIENT_THUNDER_VEIN_RECONNECTION.md`：七峰古雷脈大難、擊碎主雷眼與小閣子陣永久熔毀。
   - `events/EVENT_TAIXUAN_THUNDER_MESSAGE_NETWORK.md`：雷訊原型、七峰基地臺試行事故與制度化後果。
   - `events/EVENT_LUO_SHENGYI_THUNDER_MESSAGE_DAILY_LIFE.md`：生與劫的雷身辨認、三身傷藥、第一對雷訊令、醫療碼與異域沉默。
