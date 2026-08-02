@@ -6,6 +6,7 @@
 
 ## 權威規則
 
+- 作者當前明確裁示最高；跨對談整理以 `AUTHOR_CORE_REQUIREMENTS.md` 為作者硬需求入口。若現行唯一來源或正文違反其中硬需求，須建立合理因果後回歸修正，不得用舊設定否決。
 - 人物以 `characters/` 為唯一來源。
 - 十雷與命圖體系以 `systems/` 為唯一來源。
 - 團體與組織以 `factions/` 為唯一來源。
@@ -14,6 +15,8 @@
 
 ## 文件索引
 
+- `AUTHOR_CORE_REQUIREMENTS.md`：從 `new_story*.txt`、`basic_rule.txt` 與作者最新裁示提煉的硬需求及衝突解讀；所有開發與 closed-loop review 動筆前必讀。
+- `AUTHOR_REQUIREMENTS_AUDIT_MATRIX.md`：作者裁示逐項對照現行唯一來源、正文驗證範圍與尚未關閉的卷章工作；用來區分「文件已一致」與「正文仍待驗證」。
 - `CHECKLIST_PENDING_DECISIONS.md`：Codex／Claude 共同維護的待確認問題清單；核取前不視為正式設定。第 1～36 題已全數回填；第二輪第 37 題起持續擴充中，已回填項目見文中 ✅ 標記與 `CHECKLIST_RESOLVED_HISTORY.md`。
 - `CHECKLIST_RESOLVED_HISTORY.md`：已回填項目的討論過程存檔（Codex 提案／Claude 意見／最終決定），僅供追溯，不作為設定依據。
 - `WRITING_GUIDELINES.md`：正文視角、稱呼、戰鬥、揭密、原作邊界與提交前檢查規格。
@@ -23,8 +26,11 @@
 
 - `characters/`：人物設定集。
   - `characters/CHARACTER_LU_CHEN.md`：主角陸沉（稱號「劫」）的人物設定集。
+  - `characters/CHARACTER_WITCH.md`：魔女的原作身分安全閥、與陸沉的長期知己／試探／道路對手關係及跨卷回收規則。
 - `systems/`：力量系統唯一來源。
   - `systems/SYSTEM_TEN_CALAMITY_THUNDERS.md`：十雷正式名稱、進階與取得節奏。
+  - `systems/SYSTEM_LU_CHEN_FORMATION_SCOPE.md`：陸沉在太玄宗正式學陣、偏科專精、任意陣法威脅的處理層級、照命破陣流程與禁止陣道爭鋒邊界。
+  - `systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md`：劫以人格驅動自我修正／重構、十雷承載矛盾、萬劫定序成長階段，以及只承接同一仙王《古神禁典》的傳承邊界。
   - `systems/SYSTEM_MYRIAD_CALAMITY_WEAPON_EMBRYO.md`：萬劫兵胎來源、形態學習限制、毀損重鑄規則、與無聲渡笛的關係。
   - `systems/SYSTEM_TAIXUAN_OLD_TOKEN.md`：太玄舊令基本性質、命印共鳴限制、合令畫面、太玄閣老人辨認依據。
   - `systems/SYSTEM_TAIXUAN_FATE_MAP_AND_JIE_REALM.md`：太玄命圖必要性、核心結構與能力、戰鬥運用；太古星天圖、劫藏與以劫為種。
@@ -48,13 +54,14 @@
 - `STORY_PACING_AND_WORLD_GUIDE.md`：陸沉線高潮波形、長程懸念、公平反轉、能力首秀、十雷標誌畫面與世界觀展示準則。
 - `outlines/OUTLINE_TIANSHEN_ACADEMY.md`：天神書院篇四十八章六幕目錄；正文控制跨度約八至九個月，含書院生活、周晏殘陣案、荒劫排位、外圍七站、雷訊試網與第七雷雙戰場。
 - `events/`：已定稿重大事件。
+  - `events/EVENT_WITCH_LU_CHEN_LOWER_REALM_ARC.md`：魔女與陸沉在北海以前的六次相遇、三次招攬、百斷山互救、假殺荒委託與北海回收。
   - `events/EVENT_TIANSHEN_ACADEMY_AMBUSH.md`：荒初入書院遭王家特定旁支／異域外接組設局；周晏為唯一現場執行者，洛生衣承釘救人，劫於持續滅證威脅中斬周晏，孟天正定調「下次留活口」。
   - `events/EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`：天神書院首席之爭，含院長（孟天正）認出劫之體修根基、排位前兩院首次招攬與排位後加碼重申、荒劫成長方式對照、司天鑑觀戰後的災源判定。
   - `events/EVENT_CHENLEI_VALLEY_NIGHT.md`：序篇沉雷谷血祭之夜，陸沉六歲時「劫」稱號成立事件，含族老會表決、母親三層後手、老族長結局與存活比例。
   - `events/EVENT_XIANGU_RUINS_ZHEXIAN.md`：仙古遺跡反敗謫仙，鎮無央首次顯化外環；含與《完美世界》原作銜接安全閥。
-  - `events/EVENT_SOUL_DOMAIN_ZHENWUYANG.md`：太玄雷魂秘地，鎮魄獅歸位，第三雷鎮魄成種。
-  - `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`：仙古死寂雷域，第四雷令玄衡止戈、第五雷結命印，後續正式歸入外環；含天罰一脈災源封殺令伏筆。
-  - `events/EVENT_SCORCHED_NEST_JINCHANGMING.md`：帝關焚羽古巢，玄燼凰歸位，第八雷燃身接續餘命。
+  - `events/EVENT_SOUL_DOMAIN_ZHENWUYANG.md`：陸沉主動追入外部雷魂域取得鎮魄；守墓獅鎮無央不贈雷，取雷後自主歸位。
+  - `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`：死寂雷域只留線索；陸沉分別由外部無聲雷池、定疆雷界取得歸寂與鎮界，玄衡不養雷而自主同行。
+  - `events/EVENT_SCORCHED_NEST_JINCHANGMING.md`：陸沉主動追入燃身雷界取得外部本源；玄燼凰守池讓路，燼長明不贈火而自主歸位。
   - `events/EVENT_SECOND_THUNDER_JIEMING.md`：陸沉初入上界負傷期間，斬斷祭子命線，第二雷劫命歸位。
   - `events/EVENT_TWO_FALLEN_SECTS_ECHO.md`：三千州重逢後，補天閣與太玄閣兩座倒下山門的鏡像回音。
   - `events/EVENT_BORDER_RIFT_FRONT_CAMPAIGN.md`：帝關邊荒主線，裂界防線、血原巡獵、王家逼令、荒劫分守、焚羽古巢與天譴截矛。

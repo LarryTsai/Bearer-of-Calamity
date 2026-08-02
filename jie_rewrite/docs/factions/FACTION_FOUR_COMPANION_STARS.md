@@ -29,9 +29,9 @@
 | 伴星 | 歸位節奏 | 接入命圖的淬煉 |
 | --- | --- | --- |
 | 劫厄 | 幼年以夢、雷聲、黑影感應；界隙短暫顯形，即追雷入虛空、界海雷淵取照命雛形時首次顯形（`events/EVENT_TAIXUAN_PAVILION_SIEGE.md`），仍為不穩定魂影；太玄命藏命圖成形後才穩定實體（`events/EVENT_MINGZANG_FATE_MAP_ORIGIN.md`） | 不專屬單雷，位於劫核暗側 |
-| 鎮無央 | 七峰大比後、太玄雷魂秘地結命印（`events/EVENT_SOUL_DOMAIN_ZHENWUYANG.md`）；仙古遺跡反敗謫仙一戰首次顯化外環（`events/EVENT_XIANGU_RUINS_ZHEXIAN.md`） | 第三雷鎮魄淬魂 |
-| 玄衡 | 仙古死寂雷域：第四雷歸寂成形時放棄殺意、暫時同行；災域後段與劫共同固定界壁、養出第五雷鎮界雷胚後才交魂印；待命圖骨架成熟再正式占據外環（`events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`） | 第四雷證明承災，第五雷證明鎮界；不因戰敗臣服 |
-| 燼長明 | 帝關焚羽古巢：劫拒取餘命之火先救劫厄，燼凰主動贈火歸位（`events/EVENT_SCORCHED_NEST_JINCHANGMING.md`） | 第八雷燃身接續餘命；不因戰敗臣服 |
+| 鎮無央 | 七峰大比後，陸沉主動進入雷魂域、經兩次首敗後取得外部鎮魄；守墓獅不贈雷，事件結束後才自主結命印（`events/EVENT_SOUL_DOMAIN_ZHENWUYANG.md`）；仙古遺跡反敗謫仙一戰首次顯化外環（`events/EVENT_XIANGU_RUINS_ZHEXIAN.md`） | 鎮魄淬魂；守墓與見證者，不是源雷提供者 |
+| 玄衡 | 仙古死寂雷域先放棄殺意、暫時同行；陸沉其後分別追入外部無聲雷池與界樁雷池／定疆雷界取得歸寂、鎮界。玄衡不贈雷、不養雷；陸沉拒絕把牠留作永久界樁後，牠才交魂印，待命圖骨架成熟再正式占據外環（`events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`） | 見證承災與守界；不因戰敗臣服，也不是歸寂、鎮界來源 |
+| 燼長明 | 帝關燃身雷界：玄燼凰守池並讓路十二息，外部燃身本源自行認可陸沉；燼長明於取雷完成後自願同行（`events/EVENT_SCORCHED_NEST_JINCHANGMING.md`） | 守住「不以他人餘命為薪」的界線；不贈火、不提供源雷 |
 
 歸位不是馴服。每位伴星都保有拒絕陸沉與離開外界行動的權利。
 

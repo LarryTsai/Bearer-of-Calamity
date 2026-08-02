@@ -4,24 +4,24 @@
 
 ## 當前狀態
 
-- 正文尚未開始。
+- 正文已開發至 Volume12；development 與 `novel/published/` 並行維護，實際卷章狀態見 `novel/README.md`。
 - 開局時間錨點：《完美世界》中小荒一歲。
 - 主角：劫。
-- 舊設定僅作參考，未重新確認前不自動視為正式設定。
-- 所有新增設定應先整理至 `docs/`，正文放入 `novel/`。
+- 舊設定、原始對談與歷史 checklist 僅供追溯；現行作者裁示以 `docs/AUTHOR_CORE_REQUIREMENTS.md` 為最高入口。
+- 所有新增設定應同步整理至 `docs/`，正文放入 `novel/`，發布版放入 `novel/published/`。
 
 ## 目錄
 
 - `docs/`：重新確認後的世界觀、人物、能力與時間線。
 - `novel/`：正式正文與卷章內容。
+- `docs/AUTHOR_CORE_REQUIREMENTS.md`：作者不可被舊設定否決的核心硬需求；開發與 review 前必讀。
 - `docs/MACRO_OUTLINE.md`：現行不綁章數的大篇章骨架與時間線卡點。
 
 ## 下一步
 
-1. 依 `docs/MACRO_OUTLINE.md` 鎖定第一篇的事件拆分與章節節奏。
-2. 將第一篇所需人物、勢力、功法與事件設定整理成正文可直接引用的場景卡。
-3. 確認第一章視角、開場畫面與第一個懸念。
-4. 開始撰寫正文，新增設定同步回填 `docs/`，避免正文與設定檔分岔。
+1. 依 `docs/CHECKLIST_NOVEL_REVIEW_FIXES.md` 的 active 區完成尚未閉環的卷章回歸。
+2. 依 `docs/AUTHOR_REQUIREMENTS_AUDIT_MATRIX.md` 維持作者裁示、唯一來源與正文落點一致。
+3. 每次正文修訂同步 development／published，新增設定同步回填 `docs/`。
 
 ## Agent 自動化工作流
 
