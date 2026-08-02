@@ -29,6 +29,7 @@
   - `characters/CHARACTER_WITCH.md`：魔女的原作身分安全閥、與陸沉的長期知己／試探／道路對手關係及跨卷回收規則。
 - `systems/`：力量系統唯一來源。
   - `systems/SYSTEM_TEN_CALAMITY_THUNDERS.md`：十雷正式名稱、進階與取得節奏。
+  - `systems/SYSTEM_HEAVENLY_THUNDER_RANKING.md`：天地異雷榜前 thirty、完整場域威力、境界威脅、原生環境難度與陸沉九雷候選映射。
   - `systems/SYSTEM_LU_CHEN_FORMATION_SCOPE.md`：陸沉在太玄宗正式學陣、偏科專精、任意陣法威脅的處理層級、照命破陣流程與禁止陣道爭鋒邊界。
   - `systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md`：劫以人格驅動自我修正／重構、十雷承載矛盾、萬劫定序成長階段，以及只承接同一仙王《古神禁典》的傳承邊界。
   - `systems/SYSTEM_MYRIAD_CALAMITY_WEAPON_EMBRYO.md`：萬劫兵胎來源、形態學習限制、毀損重鑄規則、與無聲渡笛的關係。
@@ -40,7 +41,7 @@
   - `systems/SYSTEM_THUNDER_BODY_DIVISION.md`：太玄初期（一至三雷）本尊與雷身分工、雷核共鳴、承身命名。
   - `systems/SYSTEM_THUNDER_BODY_SCALING.md`：十雷齊備後雷身戰力比例、本尊化雷、三雷合體、九雷合一、十雷一體。
   - `systems/SYSTEM_CULTIVATION_TIMELINE.md`：原作事件、荒劫年齡／境界差、十雷成熟度與安全閥控制表。
-  - `systems/SYSTEM_THUNDER_POOLS.md`：雷池四層結構、雷池類型、取種／養種／煉種／生種四種取得方式。
+  - `systems/SYSTEM_THUNDER_POOLS.md`：雷池四層結構、雷池類型，以及通過完整考驗後一次取得完整異雷本源的規則。
   - `systems/SYSTEM_THUNDER_COMMUNICATION_NETWORK.md`：雷訊令、雷訊臺／雷訊樁、鏈式中繼、安全限制與四階段發展。
   - `systems/SYSTEM_BATTLEFIELD_THUNDER_POOL_NETWORK.md`：戰雷母池、承雷樁、分雷臺、泄雷工事、能源守恆與五階段發展。
   - `systems/SYSTEM_MYRIAD_CALAMITY_SEALED_DOMAIN.md`：PW-26 終戰後固定公共災害封存域、三區四倉、共管制度與拆除方向。
