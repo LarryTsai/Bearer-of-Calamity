@@ -1,4 +1,4 @@
-# 第一章 重量回來了，腳步也追了上來
+﻿# 第一章 落入道天界
 
 > 定位：第五篇「界隙照命」開篇，陸沉墜落上界道天界邊緣，完整界淵銀雷穿越界壓後在第一雷位「照命」中穩定運轉。改編自 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 十一（道天界）與 `docs/MACRO_OUTLINE.md` 第五篇必要卡點。承接 `novel/volume01/chapter044.md`。
 > 時間：緊接 Volume01 chapter044 結尾，虛空鬆動起。

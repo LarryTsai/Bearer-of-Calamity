@@ -1,4 +1,4 @@
-# 第十章 要斬的是哪條命？他的手沒有偏
+﻿# 第十章 斬命
 
 > 定位：第五篇「界隙照命」第十章，陸沉主動斬斷「生來即為祭子」的既定命線，劫命正式歸位，照命同時進階為煌命。改編自 `docs/events/EVENT_SECOND_THUNDER_JIEMING.md` 二之5、6，標誌畫面依 `docs/STORY_PACING_AND_WORLD_GUIDE.md` 四〈劫命〉呈現。承接 `chapter009.md`。
 > 時間：緊接上一章，同夜。

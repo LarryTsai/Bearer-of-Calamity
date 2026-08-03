@@ -1,4 +1,4 @@
-# 第二章 血引來追兵，黑暗盡頭是藥草味
+﻿# 第二章 黑暗追兵
 
 > 定位：第五篇「界隙照命」第二章，陸沉肉身近乎失去戰鬥力，遭劫族守舊者與外界散修追殺。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之1 前置場景與 `docs/MACRO_OUTLINE.md` 第五篇必要卡點。承接 `chapter001.md`。
 > 時間：落地當夜。

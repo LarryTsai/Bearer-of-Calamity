@@ -1,4 +1,4 @@
-# 第二十六章 今天是誰？
+﻿# 第二十六章 今日是誰
 
 > 定位：第六篇「太玄宗・鎮岳入門」Segment B 第四階段，陸沉向洛生衣坦白雷身存在（不涉細節機制），兩人形成不必挑明的辨認默契。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 九之2「確認」、九之3「默契」，`docs/events/EVENT_LUO_SHENGYI_THUNDER_MESSAGE_DAILY_LIFE.md` 三「三份疼，一筆藥錢」。承接 `chapter025.md`。
 > 時間：ch025次日。命圖尚未開。
