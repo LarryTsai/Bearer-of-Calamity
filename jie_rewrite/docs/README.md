@@ -70,7 +70,7 @@
   - `events/EVENT_MOTHER_FRACTURED_DOMAIN.md`：斷裂道域，洛清禾尋回，陸沉建替代承載結構，母親主動選擇解除綁定。
   - `events/EVENT_FINALE_TIMELINE_OVERVIEW.md`：終局三段結構唯一統籌來源——十二篇尾聲→銜接段「長息」→第十三篇大劫決裂，取代舊版「十三篇後延伸收尾」錯誤順序。
   - `events/EVENT_MINGZANG_FATE_MAP_ORIGIN.md`：太玄命藏，太玄命圖起源（無星古圖甦醒），劫厄穩定成實體。
-  - `events/EVENT_TAIXUAN_PAVILION_SIEGE.md`：太玄閣滅閣雷劫、追雷入虛空，界海雷淵取照命雷雛形，劫厄界隙首次顯形，道天界命名起源。
+  - `events/EVENT_TAIXUAN_PAVILION_SIEGE.md`：太玄閣滅閣雷劫、追雷入虛空，界海雷淵取得界淵銀雷完整本源並命名照命，劫厄界隙首次顯形，道天界命名起源。
   - `events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md`：太玄宗近域萬年雷池、子母挪移陣與本尊／煌命身／承身夜間淬體日常。
   - `events/EVENT_TAIXUAN_ANCIENT_THUNDER_VEIN_RECONNECTION.md`：七峰古雷脈大難、擊碎主雷眼與小閣子陣永久熔毀。
   - `events/EVENT_TAIXUAN_THUNDER_MESSAGE_NETWORK.md`：雷訊原型、七峰基地臺試行事故與制度化後果。
