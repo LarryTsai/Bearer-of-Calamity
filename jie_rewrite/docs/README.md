@@ -99,3 +99,5 @@
   - `characters/CHARACTER_TAIXUAN_ELDER.md`：下界太玄閣守閣人。
   - `characters/CHARACTER_SHI_HAO.md`：石昊與新版原創線的交會設定。
   - `characters/CHARACTER_RIVAL_TIANFA.md`：宿敵司天鑑，天罰一脈傳人，三階段登場節奏（仙古伏筆／天神書院登場／十凶血路死戰）。
+  - `characters/CHARACTER_QING_LI.md`：萬法峰青璃，太玄宗七峰跨峰代表隊成員。
+  - `characters/CHARACTER_FENG_HAN.md`：問劍峰封寒，太玄宗七峰跨峰代表隊成員。

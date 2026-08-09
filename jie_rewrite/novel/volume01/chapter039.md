@@ -1,6 +1,6 @@
 ﻿# 第三十九章 引雷
 
-> 定位：第四篇「下界風暴」第五章，太玄閣滅閣雷劫第二輪禦劫「引雷」，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五（第二輪：引雷）。承接 `chapter019.md`。
+> 定位：第四篇「下界風暴」第五章，太玄閣滅閣雷劫第二輪禦劫「引雷」，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五（第二輪：引雷）。承接 `chapter038.md`。
 > 時間：緊接第一波雷結束、第二波雷落下起。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md`（引雷為被動被古陣誤認機制，非陸沉主動施展陣法）、`docs/characters/CHARACTER_TAIXUAN_ELDER.md`（迴廊盡頭矮牆、西側石階為既定止步邊界；第二輪禦劫負傷為舊傷被界雷餘威震動誘發）、`novel/volume01/chapter006.md`、`chapter012.md`（閣老止步邊界既有畫面）、`docs/AUTHOR_SECRETS.md`（閣老不可完整交代身世）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第134題。
 
