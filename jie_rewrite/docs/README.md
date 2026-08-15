@@ -22,6 +22,7 @@
 - `WRITING_GUIDELINES.md`：正文視角、稱呼、戰鬥、揭密、原作邊界與提交前檢查規格。
 - `REVEAL_TIMELINE.md`：作者真相、讀者線索、角色知情與公開揭露的分級控制表。
 - `canon/PERFECT_WORLD_CANON_TIMELINE.md`：《完美世界》純原作主要事件鐵軌、境界硬錨與不可改寫功業；不混入陸沉原創事件。
+- `canon/PERFECT_WORLD_LU_CHEN_MOUNTAIN_MATRIX.md`：把原作節點對到陸沉的大小山峰、不可逆變化、缺少故事功能與借鑑安全閥；擴章與加角色前先查此表。
 - `world/WORLD_GEOGRAPHY_AND_ROUTES.md`：下界、上界、帝關的相對地理與跨界路線（起點／通道／終點／條件／時間／風險），只畫已用到的路線。
 
 - `characters/`：人物設定集。
