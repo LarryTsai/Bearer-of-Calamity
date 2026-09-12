@@ -48,7 +48,7 @@
 
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
-| 寫手1 | 古世雙界遠行（`OUTLINE_ANCIENT_WORLD_DUAL_REALMS.md`，雙線約50章，全新，`novel/volume06b/`） | 楔子+線A第一幕+線B第一幕（ch001~010）已複核commit（caaeb37、9857719），累計約20%進度。戀愛線風險已在線B第一幕明確排除過關。continuity提醒線B主觀時間已用掉8~9天/十餘日上限，後段15個較重段落要注意壓縮節奏。下一批：線A第二幕或線B第二幕（交替節奏） |
+| 寫手1 | 古世雙界遠行（`OUTLINE_ANCIENT_WORLD_DUAL_REALMS.md`，雙線約50章，全新，`novel/volume06b/`） | ch001~014（楔子+線A第一、二幕+線B第一幕）已複核commit（caaeb37、9857719、a4256af），累計約28%進度。蘇眠（線A原「質疑者」具名化）角色立得住，避免套路化。待處理提醒：劫厄在古世對陸沉的私下稱呼需在A-15前決定（已記進outline）。下一批：線B第二幕或線A第三幕 |
 | 寫手2 | 帝關界路擴寫（`OUTLINE_BORDER_ROAD_EXPANSION.md`，16→31章，`novel/volume07/`） | 禁都與萬禁會全16章（ch005~020）已100%完成並複核commit（6ab2ac2、13073ac、0812290）。**寫手2為Remote Control連線，clear_session對其無效，不用再嘗試**，已通知直接繼續下個任務。剛派發此新任務，尚未回報進度 |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
