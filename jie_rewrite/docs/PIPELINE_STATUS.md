@@ -59,7 +59,7 @@
 
 - 古世雙界遠行（`OUTLINE_ANCIENT_WORLD_DUAL_REALMS.md`，雙線約50章，全新）
 - 帝關界路擴寫（另一團隊`OUTLINE_BORDER_ROAD_EXPANSION.md`，16→31章）
-- 異域V08整卷重建（另一團隊`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`，40→約92章，規模最大，Act III約50章細節還沒逐章拆解）。**2026-09-12補充**：`larry-ad`（獨立腦力激盪session，非本產線）已登記`CHECKLIST_PENDING_DECISIONS.md`第183題（悟道茶會插入設計，含原作第1596~1607章實地查證更正：赤蒙泓未被荒殺死、獸形軀體一條腿而非火鍋、三片茶葉是挑對象算賬非統一徵收）、第184題（立足三部曲前置事件）——兩題皆尚未經四方覆核，排這個任務時先看過。
+- 異域V08整卷重建（另一團隊`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`，40→約92章，規模最大，Act III約50章細節還沒逐章拆解）。**2026-09-12補充**：`larry-ad`（獨立腦力激盪session，非本產線）已登記`CHECKLIST_PENDING_DECISIONS.md`第183題（悟道茶會插入設計，含原作第1596~1607章實地查證更正：赤蒙泓未被荒殺死、獸形軀體一條腿而非火鍋、三片茶葉是挑對象算賬非統一徵收）、第184題（立足三部曲前置事件）——兩題皆尚未經四方覆核，排這個任務時先看過。**【2026-09-13更新】183~186已全數跑完四方覆核並回填設定層級**：186（異域悟道茶會後追殺鏈）覆核時發現原稿把「拆王」寫成追殺鏈逼出的最終高潮，與已核准的`OUTLINE_FOREIGN_DOMAIN_REFORGING.md` Act III規劃（拆王應為「五人輪流受創」中段的平行支線）衝突，已修正回填第九節（對應Act III-2/III-3/III-5/III-6子節，新增4條安全閥）；使用者已裁示「12章不是固定，可以更多」解除篇幅限制。**全部純設定層級補完，不涉及任何已commit正文，不影響現在排程**，實際執行V08重建時直接讀最新版outline即可，不用再另外核對183~186。
 - 書院寶庫插入（`OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`，2章，卡在volume06章節編號方案未裁示——整體後移編號 vs 暫用非整數命名，**使用者已裁示整體後移編號**，執行時machine需注意volume06現有ch031~048要順移）
 - ch080起（volume02）有命藏/命圖初開新弧，尚未排入正式篇號，需另外確認
 - 三千州呼吸段、書院寶庫子情節插入點的舊版outline（另一團隊產出的`OUTLINE_THREE_THOUSAND_STATES_BREATHER.md`）狀態未核對
