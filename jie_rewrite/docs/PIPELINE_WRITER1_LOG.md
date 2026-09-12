@@ -31,5 +31,5 @@
 3. **`novel/volume01/chapter023~028.md`（百斷山，純審查）**——抓到真衝突：舊設定要求凶獸潮觸發洞天突破，但ch028已選擇不抄捷徑。PM裁定方案B（改設定配合正文），我已執行：開`CHECKLIST_PENDING_DECISIONS.md`第181題、回填`CHARACTER_LU_CHEN.md`/`SYSTEM_CULTIVATION_TIMELINE.md`、ch035補一句過場。已commit（b68469a）。
 4. **`novel/volume02/chapter039~079.md`（七峰大比/百宗盟試，純審查）**——精確核對範圍（ch039-060七峰大比、ch061-079百宗盟試）。三項retcon（多目標指揮、雙環域、顧小滿高光戰）確認符合新規範。第四項（三隊制）發現全程單隊寫法，規模遠超預期（至少4-6章情節邏輯）。PM裁定保留單隊正文、三隊制當例外，已回填`MACRO_OUTLINE.md`/`FACTION_TAIXUAN_SECT.md`（commit d6b494a）。順手修正ch039標題疏漏（commit 109be41）。
 
-### 進行中
-5. **文家遭難插段（4章全新寫作）**——章綱`docs/outlines/OUTLINE_WEN_FAMILY_CRISIS.md`四方審查已完成，累積多項局部修正（地樞閣/契環家命名區隔、文奕視角加入可切清單、命圖用詞、傳送陣因果收斂、崩角白石訊號限縮、補死者姓名與文奕情感反應等），PM已全部核准，正在依此調整章綱，準備進jie-chapter-editor/jie-writer階段。
+### 已完成
+5. **文家遭難插段（4章全新寫作）**——章綱`docs/outlines/OUTLINE_WEN_FAMILY_CRISIS.md`四方審查後定案v1.1（地樞閣→運節閣改名、契環家用詞區隔、命圖初開用詞、傳送陣因果收斂為供能中斷、崩角白石訊號改被動辨認並限縮邊界、加陸沉自己的失誤挫折點、補辛墨姓名+文奕情感反應、蘇溫斷交補情感拍），同步把文奕加入`WRITING_GUIDELINES.md`可切視角清單。`jie-writer`模式一寫出全新4章正文：`novel/volume03a/chapter021~024.md`。交付前自己跑完四方審查，全數pass/無reject，修正兩處：ch024「文奕認出/猜到」confidence落差（改為陸沉視角明確判斷「認出手法」，非全知客觀斷言）、確認ch023辛墨私人記憶細節已充分（劍鞘敲陣柱習慣、討酒約定）。已在大綱補記「無相離身卷未實際用於正文」的落差說明。**尚待PM處理**：①`SYSTEM_CULTIVATION_TIMELINE.md` T08欄位已用「命圖初成」描述三千州節點，與本插段大綱限定「命圖初成專屬第十五篇」互相矛盾，continuity建議PM擇一修正，避免下一段寫三千州開篇時卡住；②`novel/README.md`未記載volume03a ch021~024進度，建議同步；③ch009~020尚未成文，建議寫的人核對是否與本插段細節（崩角白石交換情境等）一致。

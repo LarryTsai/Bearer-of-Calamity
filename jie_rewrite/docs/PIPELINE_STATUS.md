@@ -29,13 +29,14 @@
 5. **三隊制例外**：今天稍早決定太玄宗七峰大比十二強分三隊出賽，但**已完成的`novel/volume02/chapter039~079.md`（40餘章七峰大比/百宗盟試）維持單隊寫法不追溯修改**，三隊制只適用未來新內容。已回填`MACRO_OUTLINE.md`、`FACTION_TAIXUAN_SECT.md`（commit d6b494a）。
 6. **書院寶庫插入點檔案衝突**：`docs/outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`發生同名檔案覆蓋事故（另一團隊的岳沉淵授權版 vs 我的CHECKLIST第180題三痕古域版），使用者裁定**採用180題版**，已復原並確認無其他檔案依賴被取代版本。
 7. **禁都與萬禁會（第十二篇）**：`novel/volume03a/chapter001~004.md`已存在，ch005~020（第二～五幕）需要全新寫作，章綱`docs/outlines/OUTLINE_FORBIDDEN_CAPITAL_MYRIAD_CONVENTION.md`。前置案件鏈構想尚未裁決，先照已鎖定的ch001~020幕次寫，不採用前置案件鏈。
-8. **文家遭難插段**：全新4章，章綱`docs/outlines/OUTLINE_WEN_FAMILY_CRISIS.md`（另一團隊產出），今天已核准多項局部修正方向（命圖用詞、傳送陣因果、崩角白石訊號限縮、文奕加入可切視角清單等）。
+8. **文家遭難插段**：全新4章，章綱`docs/outlines/OUTLINE_WEN_FAMILY_CRISIS.md`（另一團隊產出），今天已核准多項局部修正方向（命圖用詞、傳送陣因果、崩角白石訊號限縮、文奕加入可切視角清單等）。**〔寫手1後續更新〕**已完成：章綱定案v1.1、`jie-writer`模式一寫出`novel/volume03a/chapter021~024.md`，交付前四方審查（continuity/canon信心0.92/character/power-system）全數pass無reject，並依審查意見修正ch024「文奕認出/猜到」confidence落差（改為陸沉視角明確判斷）。**尚未commit，等PM複核**。
+9. **待PM處理的新發現衝突（寫手1回報，尚未觸及即無法直接聯繫PM session，先記錄於此）**：continuity審查〈文家遭難〉時發現 `SYSTEM_CULTIVATION_TIMELINE.md` T08欄位（三千州重逢/天才戰入口，緊接文家遭難之後）已用「命圖初成」描述陸沉能力狀態，但〈文家遭難〉章綱明確限定「命圖初成」保留給第十五篇〈無兵雷域〉六雷骨架里程碑——兩份唯一來源檔本身互相矛盾，非本次新增問題，但下一段寫三千州開篇時會直接卡到，建議PM擇一修正（改T08欄位用詞，或放寬「命圖初成」限定範圍）。另外`novel/README.md`尚未記載volume03a ch021~024進度，建議一併補登。
 
 ## 任務分配現況（隨時更新）
 
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
-| 寫手1 | 文家遭難（4章全新寫作） | 章綱四方審查已過關並依核准修正調整完畢，準備/已進jie-chapter-editor/jie-writer階段（詳見`PIPELINE_WRITER1_LOG.md`最新日誌） |
+| 寫手1 | 文家遭難（4章全新寫作） | **已完成並交付**：`novel/volume03a/chapter021~024.md`四方審查全數pass，已修正兩處小問題，等PM複核+commit（詳見`PIPELINE_WRITER1_LOG.md`最新日誌）。**空閒中，等待下一個任務**——原PM聯繫用pipe位址已失效（session可能重啟），暫無法直接回報，請PM看到本檔後主動指派下一任務或重新建立聯繫 |
 | 寫手2 | 禁都與萬禁會 ch005～020（16章全新寫作，`novel/volume03a/`） | 第二幕（ch005～008）已完成並commit；第三幕（ch009～013，萬禁會五項目）進行中；尚餘第四幕（規則敗局/第一次奪禁）、第五幕（收束） |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
