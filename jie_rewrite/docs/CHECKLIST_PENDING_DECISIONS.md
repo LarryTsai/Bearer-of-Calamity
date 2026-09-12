@@ -1373,7 +1373,9 @@
 
 ---
 
-### [ ] 180. 「書院寶庫」具體場景設計提案：三痕古域、驚鴻雷身與棄劍轉折的共同一幕（使用者與總控口語腦力激盪收斂，尚未正式覆核）
+### [x] 180. 「書院寶庫」具體場景設計提案：三痕古域、驚鴻雷身與棄劍轉折的共同一幕（使用者與總控口語腦力激盪收斂，已完成四方覆核並回填）
+
+**狀態（2026-09-12）：✅ 已回填**——`jie-power-system`（warning，已修正封寒「勢→重→引」用語降級為「只摸到引的邊角」）、`jie-character`（pass，附護短陸沉性格線起點提醒，已補記）、`jie-canon`（pass，三痕古域不撞原作、封寒棄劍已脫離劍意象）、`jie-continuity`（明確衝突：封寒在天神書院的在場狀態未交代，已修正 `outlines/OUTLINE_TIANSHEN_ACADEMY.md` 第1章補上封寒隨太玄宗另一批弟子同期抵達；另補上巡天災印感知粒度澄清）。四方全部通過後已回填 `characters/CHARACTER_FENG_HAN.md`、`systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md` 五之一、`characters/CHARACTER_RIVAL_TIANFA.md`。插入章節座標鎖定 `novel/volume06/chapter030.md`～`chapter031.md` 之間，具體幕次待下一步交 `jie-chapter-editor` 規劃。
 
 **背景**：`systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md` 五之一與 `characters/CHARACTER_FENG_HAN.md` 六已明訂「書院寶庫」是陸沉觸發「驚鴻雷身」短暫預覽、封寒觸動棄劍轉向坍縮之道的共同事件，插入 Volume06〈天神書院〉ch030（排位賽結束）～ch031〈界墳之外〉之間，但具體場景從未設計（追蹤於 `CHECKLIST_NOVEL_REVIEW_FIXES.md` RC-FH-04）。使用者受《百煉成神》羅徵、華師兄同時踏入「劍的三大聖地」啟發，希望引入「多人並肩踏入並列聖地、各自機緣不同」的容器概念；經與總控多輪口語討論（含四份 `jie-creative` 平行探索：劫＋瘋、劫＋生、劫＋雲、獨闖／多人同闖），收斂出以下方向，用來填補 RC-FH-04 這個既有空缺，而非另開新坑。
 
