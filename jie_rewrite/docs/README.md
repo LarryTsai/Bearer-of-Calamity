@@ -7,6 +7,7 @@
 ## 權威規則
 
 - 作者當前明確裁示最高；跨對談整理以 `AUTHOR_CORE_REQUIREMENTS.md` 為作者硬需求入口。若現行唯一來源或正文違反其中硬需求，須建立合理因果後回歸修正，不得用舊設定否決。
+- `author_directives/` 保存作者最新直接提供、明確要求必走的完整設定；其內容高於較舊唯一來源與既有正文。若尚未完成回填，以 `AUTHOR_REQUIREMENTS_AUDIT_MATRIX.md` 標示為 active，不得假稱已整合完畢。
 - 人物以 `characters/` 為唯一來源。
 - 十雷與命圖體系以 `systems/` 為唯一來源。
 - 團體與組織以 `factions/` 為唯一來源。
@@ -16,6 +17,18 @@
 ## 文件索引
 
 - `AUTHOR_CORE_REQUIREMENTS.md`：從 `new_story*.txt`、`basic_rule.txt` 與作者最新裁示提煉的硬需求及衝突解讀；所有開發與 closed-loop review 動筆前必讀。
+- `author_directives/AUTHOR_DIRECTIVE_FORBIDDEN_PATH_MAINLINE.md`：禁道、文奕、禁都、萬禁會、奪禁及最終活禁合流的最新必走主線。
+- `author_directives/AUTHOR_DIRECTIVE_BOUNDARY_ROAD_EIGHTH_THUNDER.md`：界路、燼長明加入與第八雷餘命燼雷／燃身的最新主設定。
+- `author_directives/AUTHOR_DIRECTIVE_FOREIGN_DOMAIN_TRANSFORMATION.md`：異域潛伏、五人大劫與完整大道蛻變的最新主設定。
+- `author_directives/AUTHOR_DIRECTIVE_FOREIGN_DOMAIN_EIGHT_THUNDERS_REFORGING.md`：異域返本時八雷 8→0→8 的逆拆、零雷與重新選擇補強設定。
+- `author_directives/AUTHOR_DIRECTIVE_ACADEMY_TO_BORDER_ANCIENT_WORLD_ROAD.md`：天神書院至帝關間，陸沉與三伴星親歷古世覆滅並認識界路工程的必評估大篇章。
+- `author_directives/AUTHOR_DIRECTIVE_LIFE_WITCH_DUAL_REALMS.md`：洛生衣與魔女獨立經歷雙界生滅／虛實循環的必評估人物大篇章。
+- `THREE_DIRECTIVES_REINTEGRATION_ARCHITECTURE.md`：三份裁示回填十二卷的總架構、人物映射與卷章改寫順序。
+- `THREE_DIRECTIVES_STORY_INTEGRATION_REVIEW.md`：從故事因果、角色功業、篇幅容量與後卷回報評估三份裁示的正式整合裁決。
+- `THREE_SUPPLEMENTAL_DIRECTIVES_STORY_STRENGTH_REVIEW.md`：評估八雷返本、古世界路與洛生衣／魔女雙界篇是否使故事變強，並鎖定卷序、P0修正、能力上限與跨卷驗收。
+- `FIVE_MAJOR_ARCS_INTEGRATION_MASTERPLAN.md`：將禁道、古世界路、雙界、現世界路與異域返本合為一條跨卷施工主幹，鎖定卷序、傷勢帳、功業邊界與正文開發順序。
+- `world/WORLD_FORBIDDEN_CAPITAL.md`：禁都文明、歷史分層、公共禁制、最小勢力人物與奪禁能力安全閥。
+- `outlines/OUTLINE_FORBIDDEN_CAPITAL_MYRIAD_CONVENTION.md`：禁都／萬禁會／第一次完整奪禁20章可開發章綱。
 - `AUTHOR_REQUIREMENTS_AUDIT_MATRIX.md`：作者裁示逐項對照現行唯一來源、正文驗證範圍與尚未關閉的卷章工作；用來區分「文件已一致」與「正文仍待驗證」。
 - `CHECKLIST_PENDING_DECISIONS.md`：Codex／Claude 共同維護的待確認問題清單；核取前不視為正式設定。第 1～36 題已全數回填；第二輪第 37 題起持續擴充中，已回填項目見文中 ✅ 標記與 `CHECKLIST_RESOLVED_HISTORY.md`。
 - `CHECKLIST_RESOLVED_HISTORY.md`：已回填項目的討論過程存檔（Codex 提案／Claude 意見／最終決定），僅供追溯，不作為設定依據。
@@ -26,6 +39,7 @@
 - `world/WORLD_GEOGRAPHY_AND_ROUTES.md`：下界、上界、帝關的相對地理與跨界路線（起點／通道／終點／條件／時間／風險），只畫已用到的路線。
 
 - `characters/`：人物設定集。
+  - `characters/CHARACTER_WEN_YI.md`：新長線核心角色文奕；共同禁典、禁都／萬禁會、文家與帝關雙軍師的唯一人物來源。
   - `characters/CHARACTER_LU_CHEN.md`：主角陸沉（稱號「劫」）的人物設定集。
   - `characters/CHARACTER_WITCH.md`：魔女的原作身分安全閥、與陸沉的長期知己／試探／道路對手關係及跨卷回收規則。
 - `systems/`：力量系統唯一來源。
@@ -55,7 +69,10 @@
 - `STORY_CAUSALITY_NETWORK.md`：陸沉全部原創故事的因果與伏筆總網；規定事件來源、能力所得、代價、跨篇回收、高潮層級與待補橋樑。
 - `STORY_PACING_AND_WORLD_GUIDE.md`：陸沉線高潮波形、長程懸念、公平反轉、能力首秀、十雷標誌畫面與世界觀展示準則。
 - `outlines/OUTLINE_TIANSHEN_ACADEMY.md`：天神書院篇四十八章六幕目錄；正文控制跨度約八至九個月，含書院生活、周晏殘陣案、荒劫排位、外圍七站、雷訊試網與第七雷雙戰場。
+- `outlines/OUTLINE_THREE_THOUSAND_STATES.md`：三千州天才戰篇六幕目錄，Volume03正文對應。
 - `events/`：已定稿重大事件。
+  - `events/EVENT_THREE_THOUSAND_STATES_ENTRY_REVIEW.md`：三千州入場驗名機制、假印線索與尊者硬錨。
+  - `events/EVENT_THREE_THOUSAND_STATES_COMPETITION.md`：三千州天才戰賽制與階段結果。
   - `events/EVENT_WITCH_LU_CHEN_LOWER_REALM_ARC.md`：魔女與陸沉在北海以前的六次相遇、三次招攬、百斷山互救、假殺荒委託與北海回收。
   - `events/EVENT_TIANSHEN_ACADEMY_AMBUSH.md`：荒初入書院遭王家特定旁支／異域外接組設局；周晏為唯一現場執行者，洛生衣承釘救人，劫於持續滅證威脅中斬周晏，孟天正定調「下次留活口」。
   - `events/EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`：天神書院首席之爭，含院長（孟天正）認出劫之體修根基、排位前兩院首次招攬與排位後加碼重申、荒劫成長方式對照、司天鑑觀戰後的災源判定。
