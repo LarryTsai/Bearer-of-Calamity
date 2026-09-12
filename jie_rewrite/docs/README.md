@@ -29,6 +29,17 @@
 - `FIVE_MAJOR_ARCS_INTEGRATION_MASTERPLAN.md`：將禁道、古世界路、雙界、現世界路與異域返本合為一條跨卷施工主幹，鎖定卷序、傷勢帳、功業邊界與正文開發順序。
 - `world/WORLD_FORBIDDEN_CAPITAL.md`：禁都文明、歷史分層、公共禁制、最小勢力人物與奪禁能力安全閥。
 - `outlines/OUTLINE_FORBIDDEN_CAPITAL_MYRIAD_CONVENTION.md`：禁都／萬禁會／第一次完整奪禁20章可開發章綱。
+- `outlines/OUTLINE_FAKE_COMMISSION_ARC.md`：第六篇〈真假委託〉幕次拆分（依已完成正文ch029～031逆向整理），含天罰一脈線索埋設位置對照表。
+- `outlines/OUTLINE_WEN_FAMILY_CRISIS.md`：插段〈文家遭難〉幕次拆分提案（4章），含新增勢力與待覆核事項，尚未經canon/continuity/character/power-system覆核。
+- `outlines/OUTLINE_THREE_THOUSAND_STATES_BREATHER.md`：第十三篇三千州爭鋒篇末呼吸段插入點（ch050/051間，2～3章），尚未經覆核。
+- `outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`：天神書院「書院寶庫」自省考驗（淵劫）插入點（ch030/031間，2章），含監察令規避邏輯提案，尚未經覆核。
+- `outlines/OUTLINE_BORDER_ROAD_EXPANSION.md`：Volume07界路篇擴寫（178題#2，原16章擴增至31章）＋主線甲文奕帝關插入點，含三具雷身熄滅/燼長明化灰記憶代價等核心場景設計，尚未經覆核。
+- `outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`：Volume08整卷重建結構規劃（178題#3，原40章擴增至約92章），含插入點結構性發現（ch016/017間，不動既有38章）、8→0→8核心場景、封寒拆王支線與文奕託付插入點；Act III約50章細節尚未展開，需分批交jie-creative後再排逐章大綱，尚未經覆核。
+- `outlines/OUTLINE_VOID_SPIRIT_REALM.md`：第三篇〈虛神界〉七節章綱，文奕、魔女兩線同場開場，尚未經覆核。
+- `outlines/OUTLINE_HUNDRED_BROKEN_MOUNTAIN.md`：第五篇〈百斷山〉六章章綱，魔女互救為全篇核心，尚未經覆核。
+- `outlines/OUTLINE_SEVEN_PEAKS_TOURNAMENT.md`：第十篇〈七峰大比〉十二章章綱，四人隊磨合信任危機為核心，尚未經覆核。
+- `outlines/OUTLINE_HUNDRED_SECTS_ALLIANCE_TRIAL.md`：第十一篇〈百宗盟試〉九章章綱，含雲行初遇；標註與舊版`events/EVENT_HUNDRED_SECTS_ALLIANCE_TRIAL.md`單一代表隊設定的銜接落差待`jie-continuity`裁決。
+- `outlines/OUTLINE_ANCIENT_WORLD_DUAL_REALMS.md`：〈古世雙界遠行〉插段（第十六、十七篇間）雙線約50章章綱，依`author_directives/AUTHOR_DIRECTIVE_ACADEMY_TO_BORDER_ANCIENT_WORLD_ROAD.md`與`AUTHOR_DIRECTIVE_LIFE_WITCH_DUAL_REALMS.md`兩份作者裁示展開，尚未經覆核。
 - `AUTHOR_REQUIREMENTS_AUDIT_MATRIX.md`：作者裁示逐項對照現行唯一來源、正文驗證範圍與尚未關閉的卷章工作；用來區分「文件已一致」與「正文仍待驗證」。
 - `CHECKLIST_PENDING_DECISIONS.md`：Codex／Claude 共同維護的待確認問題清單；核取前不視為正式設定。第 1～36 題已全數回填；第二輪第 37 題起持續擴充中，已回填項目見文中 ✅ 標記與 `CHECKLIST_RESOLVED_HISTORY.md`。
 - `CHECKLIST_RESOLVED_HISTORY.md`：已回填項目的討論過程存檔（Codex 提案／Claude 意見／最終決定），僅供追溯，不作為設定依據。

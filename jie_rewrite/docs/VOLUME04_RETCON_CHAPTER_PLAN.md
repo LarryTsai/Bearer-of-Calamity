@@ -111,5 +111,5 @@ ch022〈證詞交易〉、ch023〈五星救主〉、ch024〈自劃榜名〉、ch
 ## 相關檔案
 
 - `novel/volume04/chapter001.md`～`chapter056.md`（規劃對象，尚未修改）
-- `MACRO_OUTLINE.md` 第八篇、`events/EVENT_XIANGU_RUINS_ZHEXIAN.md`（v2.0已推翻）、`events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`（v2.0現行）、`characters/CHARACTER_FENG_HAN.md`、`characters/CHARACTER_ZHEN_WUYANG.md`、`characters/CHARACTER_RIVAL_TIANFA.md`
+- `MACRO_OUTLINE.md` 第十四篇、`events/EVENT_XIANGU_RUINS_ZHEXIAN.md`（v2.0已推翻）、`events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`（v2.0現行）、`characters/CHARACTER_FENG_HAN.md`、`characters/CHARACTER_ZHEN_WUYANG.md`、`characters/CHARACTER_RIVAL_TIANFA.md`
 - `CHECKLIST_NOVEL_REVIEW_FIXES.md` RC-XH-01
