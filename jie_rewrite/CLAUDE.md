@@ -6,14 +6,26 @@
 
 **先呼叫 `ListAgents` 工具**——不需要使用者告訴你、也不需要記得自己是誰，這個工具的回傳結果第一行固定會寫「This session is 你的名字 [id]」，這是查詢當下事實，不依賴對話記憶，/clear後一樣查得到。
 
-查到自己的名字後：
+**查到的名字本身會隨每次重啟改變，不要死記任何特定名字（含本文件過去可能出現過的任何舊名字）**——查到名字後，直接去讀 `docs/PIPELINE_STATUS.md` 開頭的「目前角色↔session名稱對照」，比對你剛查到的名字對應哪個角色（PM／寫手1／寫手2）：
 
-- 若是 **larry-4e**（或使用者說你是PM）：你是PM，讀 `docs/PIPELINE_STATUS.md`，並在每次重大進度後更新它，讓其他人（含未來/clear後的你自己）能對上現況。
-- 若是 **寫手1**：讀 `docs/PIPELINE_WRITER1_LOG.md`——裡面有你的角色定義、標準作業流程、必須遵守的長期寫作原則，以及你自己過去完成過什麼、卡在哪。
-- 若是 **寫手2**：讀 `docs/PIPELINE_WRITER2_LOG.md`，同上。
-- 若是其他名字：這個repo可能有別的團隊/session也在協作（今天出現過`larry-cd`、`larry-af`等），先讀 `docs/PIPELINE_STATUS.md` 了解現況，不要假設自己是PM或寫手。
+- 是 **PM**：讀 `docs/PIPELINE_STATUS.md` 全文，並在每次重大進度後更新它，讓其他人（含未來/clear後的你自己）能對上現況。
+- 是 **寫手1**：讀 `docs/PIPELINE_WRITER1_LOG.md`——裡面有你的角色定義、標準作業流程、必須遵守的長期寫作原則，以及你自己過去完成過什麼、卡在哪。
+- 是 **寫手2**：讀 `docs/PIPELINE_WRITER2_LOG.md`，同上。
+- 對照不到（名字沒出現在那份表裡）：這個repo可能有別的團隊/session也在協作，或你是今天才被指派的新角色，先讀 `docs/PIPELINE_STATUS.md` 了解現況，不要假設自己是PM或寫手，必要時直接問使用者。
 
 不論哪個角色，都先讀 `docs/PIPELINE_STATUS.md` 對一次全局現況，再讀自己專屬的檔案，就能直接接續工作，不需要使用者重新解釋一次。
+
+## ⚠️ 何時該主動 /clear
+
+為了控制token用量，每個角色（PM、寫手1、寫手2）都應該在**交付一個完整任務、且已經把該記的都寫進`PIPELINE_STATUS.md`／自己的`PIPELINE_WRITERn_LOG.md`之後**，在開始下一個任務前，呼叫 `mcp__ccd_session_mgmt__clear_session`（`session_id` 填 `"self"`）清空自己的對話記錄。時機抓法：
+
+1. 完成任務、回報對方（PM↔寫手互相回報）。
+2. 把這次任務的結果、決策、遺留提醒都寫進對應的status/log檔案——**這一步不能省，清空前沒寫進檔案的東西就是真的遺失了**。
+3. 該說的話都說完，因為呼叫`clear_session`後、輪次結束時就會清空，之前沒寫出來的話不會保留。
+4. 才呼叫`clear_session`（`session_id: "self"`）。
+5. 下一輪開始時，照上面「每次對話開始」那節的流程（呼叫ListAgents→對照PIPELINE_STATUS.md→讀自己的檔案）重新接續。
+
+注意：這個工具每次呼叫都需要使用者當場核准，若使用者當下沒空核准，或你是透過Remote Control連線的session（無法被清除），就先略過這一步繼續工作，不要卡在這裡等。
 
 ## 可用 Agent
 
