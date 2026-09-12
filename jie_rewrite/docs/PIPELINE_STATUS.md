@@ -22,6 +22,7 @@
 5. 記錄每位寫手的優缺點，回饋給雙方，讓兩人互相參考進步。
 6. 有另一個並行的AI團隊（larry-cd等，目前已離線）今天也在同一個repo做過大量規劃工作，出現過一次檔案覆蓋事故（`OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`），已解決但代表**寫新檔案前務必先確認檔案是否已存在**，不能無腦Write。
 7. **經驗教訓（2026-09-12）**：PM與兩位寫手的session曾同時重啟、全部換了新名稱，且SendMessage的舊pipe位址全數失效。靠`CLAUDE.md`裡「先呼叫ListAgents查自己是誰→讀對應log檔」這套機制，三邊都在數分鐘內成功重新自我識別、對接上線，沒有遺失任務進度（因為狀態都寫在檔案而非對話記憶裡）。這證明了「進度寫檔案、身分靠ListAgents查、不依賴對話記憶或固定session名稱」這套設計是必要且有效的，往後持續維持。
+8. **重要限制（2026-09-13發現）**：寫手1（larry-a1）、寫手2（larry-19）、larry-ad 都是**透過Remote Control連線**的session（`SendMessage`回傳結果會標註「it is also connected via Remote Control」）。`clear_session`工具明文規定Remote Control連線的session無法被清除，不論怎麼抓時機呼叫都不會生效——這不是流程問題，是結構性限制。**只有PM（本session，非Remote Control連線）能真的自我清空**；已通知兩位寫手不用再嘗試`clear_session`，直接維持長對話繼續工作。若使用者希望控制寫手的context成長，需要使用者自己在對應裝置上操作，或考慮縮小任務批次、更早换手。
 
 ## 全局關鍵原則（寫手也要知道，已同步給他們）
 
@@ -48,7 +49,7 @@
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
 | 寫手1 | 古世雙界遠行（`OUTLINE_ANCIENT_WORLD_DUAL_REALMS.md`，雙線約50章，全新，`novel/volume06b/`） | 楔子+線A第一幕+線B第一幕（ch001~010）已複核commit（caaeb37、9857719），累計約20%進度。戀愛線風險已在線B第一幕明確排除過關。continuity提醒線B主觀時間已用掉8~9天/十餘日上限，後段15個較重段落要注意壓縮節奏。下一批：線A第二幕或線B第二幕（交替節奏） |
-| 寫手2 | 禁都與萬禁會 ch005～020（16章全新寫作，`novel/volume03a/`） | ch005~018（第二～四幕，含律無咎正式對局、文奕奪魁）已全部複核commit（6ab2ac2、13073ac）；正推進第五幕（ch019～020，收束） |
+| 寫手2 | 帝關界路擴寫（`OUTLINE_BORDER_ROAD_EXPANSION.md`，16→31章，`novel/volume07/`） | 禁都與萬禁會全16章（ch005~020）已100%完成並複核commit（6ab2ac2、13073ac、0812290）。**寫手2為Remote Control連線，clear_session對其無效，不用再嘗試**，已通知直接繼續下個任務。剛派發此新任務，尚未回報進度 |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
 
