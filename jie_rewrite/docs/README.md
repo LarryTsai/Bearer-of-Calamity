@@ -32,7 +32,7 @@
 - `outlines/OUTLINE_FAKE_COMMISSION_ARC.md`：第六篇〈真假委託〉幕次拆分（依已完成正文ch029～031逆向整理），含天罰一脈線索埋設位置對照表。
 - `outlines/OUTLINE_WEN_FAMILY_CRISIS.md`：插段〈文家遭難〉幕次拆分提案（4章），含新增勢力與待覆核事項，尚未經canon/continuity/character/power-system覆核。
 - `outlines/OUTLINE_THREE_THOUSAND_STATES_BREATHER.md`：第十三篇三千州爭鋒篇末呼吸段插入點（ch050/051間，2～3章），尚未經覆核。
-- `outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`：天神書院「書院寶庫」自省考驗（淵劫）插入點（ch030/031間，2章），含監察令規避邏輯提案，尚未經覆核。
+- `outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`：天神書院「書院寶庫」自省考驗（淵劫）插入點（ch030/031間，2章），三痕古域／雷霆痕／天煞痕設定與封寒護短起源已完成四方覆核（見 `CHECKLIST_PENDING_DECISIONS.md` 第180題），逐章大綱由 `jie-chapter-editor` 產出，插入編號待裁示。
 - `outlines/OUTLINE_BORDER_ROAD_EXPANSION.md`：Volume07界路篇擴寫（178題#2，原16章擴增至31章）＋主線甲文奕帝關插入點，含三具雷身熄滅/燼長明化灰記憶代價等核心場景設計，尚未經覆核。
 - `outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`：Volume08整卷重建結構規劃（178題#3，原40章擴增至約92章），含插入點結構性發現（ch016/017間，不動既有38章）、8→0→8核心場景、封寒拆王支線與文奕託付插入點；Act III約50章細節尚未展開，需分批交jie-creative後再排逐章大綱，尚未經覆核。
 - `outlines/OUTLINE_VOID_SPIRIT_REALM.md`：第三篇〈虛神界〉七節章綱，文奕、魔女兩線同場開場，尚未經覆核。
