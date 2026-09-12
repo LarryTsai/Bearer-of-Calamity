@@ -1,6 +1,8 @@
 # 三份作者裁示：十二卷重新整合架構
 
-> 狀態：P0 回填藍圖。本文只負責把三份最高優先作者裁示放回現行十二卷架構；細節仍以 `author_directives/` 三份原始裁示為準。
+> **狀態更新（2026-09-12）**：本檔與 `FIVE_MAJOR_ARCS_INTEGRATION_MASTERPLAN.md`、`THREE_DIRECTIVES_STORY_INTEGRATION_REVIEW.md`、`THREE_SUPPLEMENTAL_DIRECTIVES_STORY_STRENGTH_REVIEW.md` 內容高度重疊，經全庫稽核判定過時、未同步，使用者裁定先標記過時，稍後擇機整併。現行追蹤以 `CHECKLIST_PENDING_DECISIONS.md` 第178題為準。
+>
+> 狀態：P0 回填藍圖（2026-08-26，已過時，見上）。本文只負責把三份最高優先作者裁示放回現行十二卷架構；細節仍以 `author_directives/` 三份原始裁示為準。
 
 ## 一、人物身份鎖定
 

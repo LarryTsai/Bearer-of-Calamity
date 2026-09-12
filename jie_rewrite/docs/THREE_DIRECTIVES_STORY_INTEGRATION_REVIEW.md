@@ -1,6 +1,8 @@
 # 三份作者裁示：故事整合評估
 
-> 結論：三條核心故事均必須整合，而且能夠整合；但不能用補句、換地名或附加支線處理。禁道線要改寫前期因果並新增篇章，界路線要重建 Volume07 後半，異域線要重建 Volume08 中後段。現有十二卷中的角色成果應保留，舊事件骨架則按新裁示替換。
+> **狀態更新（2026-09-12）**：本檔與 `FIVE_MAJOR_ARCS_INTEGRATION_MASTERPLAN.md`、`THREE_DIRECTIVES_REINTEGRATION_ARCHITECTURE.md`、`THREE_SUPPLEMENTAL_DIRECTIVES_STORY_STRENGTH_REVIEW.md` 內容高度重疊，經全庫稽核判定過時、未同步，使用者裁定先標記過時，稍後擇機整併。現行追蹤以 `CHECKLIST_PENDING_DECISIONS.md` 第178題為準。
+>
+> 結論（2026-08-26，已過時，見上）：三條核心故事均必須整合，而且能夠整合；但不能用補句、換地名或附加支線處理。禁道線要改寫前期因果並新增篇章，界路線要重建 Volume07 後半，異域線要重建 Volume08 中後段。現有十二卷中的角色成果應保留，舊事件骨架則按新裁示替換。
 
 ## 一、整體故事判斷
 

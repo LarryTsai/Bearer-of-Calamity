@@ -40,6 +40,7 @@
 
 - `characters/`：人物設定集。
   - `characters/CHARACTER_WEN_YI.md`：新長線核心角色文奕；共同禁典、禁都／萬禁會、文家與帝關雙軍師的唯一人物來源。
+  - `characters/CHARACTER_YUN_XING.md`：新長線核心角色雲行（法號「行」）；禪修遊方修士，劫在宗門固定小隊與四伴星之外所結識的重要戰友，多項細節暫不硬定。
   - `characters/CHARACTER_LU_CHEN.md`：主角陸沉（稱號「劫」）的人物設定集。
   - `characters/CHARACTER_WITCH.md`：魔女的原作身分安全閥、與陸沉的長期知己／試探／道路對手關係及跨卷回收規則。
 - `systems/`：力量系統唯一來源。
@@ -60,16 +61,28 @@
   - `systems/SYSTEM_THUNDER_COMMUNICATION_NETWORK.md`：雷訊令、雷訊臺／雷訊樁、鏈式中繼、安全限制與四階段發展。
   - `systems/SYSTEM_BATTLEFIELD_THUNDER_POOL_NETWORK.md`：戰雷母池、承雷樁、分雷臺、泄雷工事、能源守恆與五階段發展。
   - `systems/SYSTEM_MYRIAD_CALAMITY_SEALED_DOMAIN.md`：PW-26 終戰後固定公共災害封存域、三區四倉、共管制度與拆除方向。
+  - `systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`：封寒坍縮之道系統，吞噬能力上限、金鐧成形與拆王支線相關戰力邊界。
+  - `systems/SYSTEM_SHARED_CALAMITY_COVENANT.md`：終局共同承劫契約，承劫人物定義與代價公開、共同決定的機制。
 - `factions/`：團體設定唯一來源。
   - `factions/FACTION_FOUR_COMPANION_STARS.md`：四伴星共同規則、排行與歸位。
   - `factions/FACTION_TAIXUAN_SECT.md`：太玄宗七峰、洛生衣歸屬、太玄舊令與收徒規則。
   - `factions/FACTION_JIE_CLAN.md`：劫族種族定位、沉雷谷、「劫」稱號古史、老族長。
 - `AUTHOR_SECRETS.md`：作者層真相與揭露限制。
+- `MASTER_TABLE_OF_CONTENTS.md`：全書「篇→卷→章」三層目錄，直接抓取 `novel/` 實際章名，含retcon進度提醒；找任一章節在整體故事的位置時先看這份。
 - `MACRO_OUTLINE.md`：全書現行大篇章骨架。
+- `VOLUME04_RETCON_CHAPTER_PLAN.md`：玄衡／界潮與封寒retcon對Volume04（ch001～056）的逐章處置規劃，含四項待裁定TODO，實際改寫前必讀。
 - `STORY_CAUSALITY_NETWORK.md`：陸沉全部原創故事的因果與伏筆總網；規定事件來源、能力所得、代價、跨篇回收、高潮層級與待補橋樑。
 - `STORY_PACING_AND_WORLD_GUIDE.md`：陸沉線高潮波形、長程懸念、公平反轉、能力首秀、十雷標誌畫面與世界觀展示準則。
 - `outlines/OUTLINE_TIANSHEN_ACADEMY.md`：天神書院篇四十八章六幕目錄；正文控制跨度約八至九個月，含書院生活、周晏殘陣案、荒劫排位、外圍七站、雷訊試網與第七雷雙戰場。
 - `outlines/OUTLINE_THREE_THOUSAND_STATES.md`：三千州天才戰篇六幕目錄，Volume03正文對應。
+- `outlines/OUTLINE_ANCIENT_REALM_WAR.md`：界潮／古界多國戰爭史詩，Volume04取代死寂雷域／仙古遺跡後的生活弧線唯一來源，約18～20章。
+- `outlines/OUTLINE_VOLUME01_WEN_YI_SHARED_CANON_REBUILD.md`：Volume01文奕共同取得《古神禁典》段落的重建章綱。
+- `outlines/OUTLINE_BORDER_EMPEROR_PASS.md`：Volume07〈帝關初戰〉七幕章綱。
+- `outlines/OUTLINE_FOREIGN_DOMAIN_RETURN_ROUTE.md`：Volume08〈異域同行與帝關守路〉章綱，含封寒同行與拆王支線待插入規劃。
+- `outlines/OUTLINE_TEN_FIERCE_BLOOD_ROAD.md`：Volume09〈十凶血路〉七幕章綱。
+- `outlines/OUTLINE_LONG_BREATH.md`：Volume10〈長息〉四幕章綱，父母線、同代交棒與罪州事件。
+- `outlines/OUTLINE_GREAT_CALAMITY_RUPTURE.md`：Volume11〈大劫決裂〉七幕章綱，紀元大戰終局。
+- `outlines/OUTLINE_AFTER_CALAMITY_HOME.md`：Volume12〈劫後有家〉四幕章綱，全書正文主線收束。
 - `events/`：已定稿重大事件。
   - `events/EVENT_THREE_THOUSAND_STATES_ENTRY_REVIEW.md`：三千州入場驗名機制、假印線索與尊者硬錨。
   - `events/EVENT_THREE_THOUSAND_STATES_COMPETITION.md`：三千州天才戰賽制與階段結果。
@@ -77,9 +90,20 @@
   - `events/EVENT_TIANSHEN_ACADEMY_AMBUSH.md`：荒初入書院遭王家特定旁支／異域外接組設局；周晏為唯一現場執行者，洛生衣承釘救人，劫於持續滅證威脅中斬周晏，孟天正定調「下次留活口」。
   - `events/EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`：天神書院首席之爭，含院長（孟天正）認出劫之體修根基、排位前兩院首次招攬與排位後加碼重申、荒劫成長方式對照、司天鑑觀戰後的災源判定。
   - `events/EVENT_CHENLEI_VALLEY_NIGHT.md`：序篇沉雷谷血祭之夜，陸沉六歲時「劫」稱號成立事件，含族老會表決、母親三層後手、老族長結局與存活比例。
-  - `events/EVENT_XIANGU_RUINS_ZHEXIAN.md`：仙古遺跡反敗謫仙，鎮無央首次顯化外環；含與《完美世界》原作銜接安全閥。
+  - `events/EVENT_XIANGU_RUINS_ZHEXIAN.md`：**已整體推翻（2026-09-12）**，陸沉不再前往仙古遺跡；原內容（仙古遺跡反敗謫仙、鎮無央首次顯化外環）僅供回溯查考，現行設定見 `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`。
+  - `events/EVENT_HUNDRED_SECTS_ALLIANCE_TRIAL.md`：道天界百宗盟試，參賽隊伍、本源印制度、積分預選、五隊淘汰與百宗古戰域結果。
+  - `events/EVENT_WEN_YI_LOWER_REALM_AND_SHARED_FORBIDDEN_CANON.md`：文奕真身下界、與陸沉共同取得《古神禁典》、文家降階禁渡四重限制。
+  - `events/EVENT_PARTICIPATION_MATRIX.md`：跨角色、跨卷參與矩陣，用於交叉檢查誰在場、誰不在場的關鍵工具。
+  - `events/EVENT_FATE_MAP_INITIAL_FORM.md`：太玄命圖初成，六雷初始骨架，玄衡確認撤回權後正式進入外環。
+  - `events/EVENT_WUBING_THUNDER_DOMAIN.md`：無兵雷域，剝奪外物的客觀雷劫環境，陸沉以血肉承接白雷本源取得空手。
+  - `events/EVENT_SACRED_SACRIFICE_BREAKTHROUGH.md`：天神書院排位賽前，陸沉聖祭境突破的完整經過與代價。
+  - `events/EVENT_INSTANT_THUNDER_TWIN_FRONTS.md`：天神書院後期雙戰場，第七雷剎那取得與永久失去外圍據點的代價。
+  - `events/EVENT_BLOOD_FIELD_MEDIC_AMBUSH.md`：血原巡獵區醫療隊遇襲，洛生衣重傷經過。
+  - `events/EVENT_FOREIGN_BLACKWATER_WAR_GOD_ARENA.md`：異域黑水城、戰神書院與角鬥場的肉身揭底高潮。
+  - `events/EVENT_SIN_PROVINCE_XUANHENG_DEPARTURE.md`：罪州事件，玄衡永久解除命印、外環留下正式空痕的正文落點。
+  - `events/EVENT_PRIMORDIAL_THUNDER_FINALE.md`：無始終局，太古星天圖首次十雷全星位短暫展開。
   - `events/EVENT_SOUL_DOMAIN_ZHENWUYANG.md`：陸沉主動追入外部雷魂域取得鎮魄；守墓獅鎮無央不贈雷，取雷後自主歸位。
-  - `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`：死寂雷域只留線索；陸沉分別由外部無聲雷池、定疆雷界取得歸寂與鎮界，玄衡不養雷而自主同行。
+  - `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`（現行標題〈界潮、古界與定疆雷界：玄衡同行〉，2026-09-12取代死寂雷域版本）：陸沉、封寒強闖界潮被玄衡追殺、合作取得歸寂，其後進入千年古界取得鎮界，玄衡不養雷而自主同行。
   - `events/EVENT_SCORCHED_NEST_JINCHANGMING.md`：陸沉主動追入燃身雷界取得外部本源；玄燼凰守池讓路，燼長明不贈火而自主歸位。
   - `events/EVENT_SECOND_THUNDER_JIEMING.md`：陸沉初入上界負傷期間，斬斷祭子命線，第二雷劫命歸位。
   - `events/EVENT_TWO_FALLEN_SECTS_ECHO.md`：三千州重逢後，補天閣與太玄閣兩座倒下山門的鏡像回音。

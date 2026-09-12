@@ -1,6 +1,8 @@
 # 三份核心補強設定：故事強度與整合裁決
 
-> 日期：2026-08-26  
+> **狀態更新（2026-09-12）**：本檔與 `FIVE_MAJOR_ARCS_INTEGRATION_MASTERPLAN.md`、`THREE_DIRECTIVES_REINTEGRATION_ARCHITECTURE.md`、`THREE_DIRECTIVES_STORY_INTEGRATION_REVIEW.md` 內容高度重疊，經全庫稽核判定過時、未同步，使用者裁定先標記過時，稍後擇機整併。現行追蹤以 `CHECKLIST_PENDING_DECISIONS.md` 第178題為準。
+>
+> 日期：2026-08-26（已過時，見上）  
 > 範圍：八雷逆拆返本、書院至邊關古世界路、洛生衣與魔女雙界篇  
 > 裁決：三份全部納入。保留故事核心，修正存在論、時序、能力上限與人物代理權；不得以現行卷章沒有空位為由刪除。
 
