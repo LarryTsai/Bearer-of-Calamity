@@ -26,6 +26,9 @@
 ## 我的工作日誌（PM根據回報記錄，供我自己/clear後查閱）
 
 ### 已完成
+8. **`published/`乾淨版同步（PM派工，jie-regression第5項流程債）**——2026-09-13完成。①新建`novel/published/volume06b/`，補齊全新53章乾淨版。②`novel/published/volume07/`：發現實際落後範圍比PM原估的「只缺ch057~071」更大——逐一比對章名後確認ch043起（非ch057起）published內容就已是擴寫前的舊版16章結構，ch043~056這14章也需要覆蓋重寫，不只是新增ch057~071這15章，共29章需要處理。已寫`scripts/make_clean_copy.pl`（自動判斷標題行、跳過`> `metadata區塊、找出「---」+`## `標記的footer分界並裁切），用三組已知的dev/published配對（volume06 ch030、ch032、volume07 ch056）反覆校正到位元組級完全一致（含CRLF換行、去除開發稿的BOM）才批次套用，確保乾淨版格式與既有慣例一致。已回報PM說明範圍比原估計大的原因。
+
+### 已完成
 7. **書院寶庫插入（`docs/outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`，第180題已核准場景，2章全新+編號後移）**——2026-09-13完成。①編號後移：`novel/volume06/chapter031.md`〈界墳之外〉起所有章節（含`novel/published/volume06/`乾淨版）整體後移兩位（031→033……048→050），同步位移`docs/outlines/OUTLINE_TIANSHEN_ACADEMY.md`第31～48章的章次標號（含各章內文交叉引用、範圍標頭、正式事件插入表，逐一核對無遺漏）。②新章寫入空出的`chapter031.md`〈三品區裡沒人要的東西〉、`chapter032.md`〈裂縫無聲合上〉：陸沉排位第二取得寶庫參訪資格，封寒本卷首次正式登場並自行混入，兩人觸碰古老殘骸震開通往「三痕古域」滲漏碎片空間的裂縫；陸沉獨自直視六雷矛盾對撞、觸發短暫「驚鴻雷身」預覽後主動退開（未借用七至十雷任何功能效果），封寒同時棄劍、以憑空凝成的兵胚接下坍縮力道，首度觸及「引」的最外緣邊角，埋下日後護短陸沉的性格起源；裂縫事後無聲閉合，監察體系全程不知情。③四方複核全數過關：`jie-canon`（pass 0.9）、`jie-power-system`（pass，驚鴻雷身與封寒「引」分寸均未越級）、`jie-character`（無硬傷，已採納建議補強封寒本卷首次登場的「話多岔題」份量）、`jie-continuity`（一項明確衝突：ch031「代表隊」用詞與封寒既有Volume02代表隊成員身分字面衝突，已改為「沒有名次」；一項潛在衝突：封寒棄劍後下落未交代，已補一句收尾）。三處問題均已用`jie-writer`模式二修正並在檔尾附修訂記錄。④同步更新`novel/README.md`、`OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`、`SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md`插入座標註記、`CHECKLIST_PENDING_DECISIONS.md`第180題結案狀態。已回報PM。
 
 ### 進行中
