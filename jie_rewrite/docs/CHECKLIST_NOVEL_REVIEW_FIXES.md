@@ -92,6 +92,45 @@
 
 **執行建議**：RC-QL-01與RC-QL-02建議合併規劃（同屬Volume10、時序相近），且與「0. 封寒／瘋 retcon 總表」RC-FH-06（封寒終態全面推翻）同屬Volume10回溯範圍，建議一併交 `jie-chapter-editor` 做跨章節回溯規劃，不要分開零星處理。RC-QL-03規模最大（40餘章），建議排在RC-QL-01/02之後、確認整體retcon方向穩定後再執行，避免重複修改。
 
+## 0.2 三千州爭鋒整段重寫（RC-3K系列，2026-09-13，使用者裁定，正文尚未修訂，規模為全庫最大單項retcon）
+
+**背景**：使用者裁定將第十三篇〈三千州爭鋒〉**整段重寫**，舊版52章「假印網／萬禁碑林黑市陰謀」案件劇（`novel/volume03/chapter001~052.md`、`novel/published/volume03/`，已完稿發布並通過完整逐章複核）全部作廢，改採全新骨架：`docs/outlines/OUTLINE_THREE_THOUSAND_STATES.md` v2.0（起承轉合＋荒主動找劫→同行生活段→分歧雙線→匯合→審判兵陣→二次翻轉→分流告別）。**本節只記錄「正文需整段重寫」的事實，不代表已經重寫，尚未有任何一章新正文落筆。**
+
+- [ ] **RC-3K-01｜P0｜Volume03全卷52章（ch001~052）整段作廢重寫**
+  - 現況：已完稿發布正文完全依照舊版假印網/萬禁碑林大綱撰寫，與新版v2.0骨架（荒主動找劫、劫生荒三人同行、審判兵陣、二次翻轉）在核心事件層級完全不同，不是局部retcon可以處理，需視同全新寫作。
+  - 驗收：待 `docs/outlines/OUTLINE_THREE_THOUSAND_STATES.md` v2.0 完成四方覆核（jie-canon/continuity/character/power-system）並交 `jie-chapter-editor` 展開逐章大綱後，由寫手比照全新篇章的標準流程（Standard Flow A）重新撰寫，不是修改舊文字。
+  - **這是目前全庫規模最大的單項retcon**（52章已完稿正文整段作廢），大於封寒/瘋retcon（RC-FH系列，多章局部改寫）與青璃retcon（RC-QL系列，2~3章+人物檔），排期時需獨立立項評估寫手產能，不建議與其他retcon批次合併處理。
+
+- [ ] **RC-3K-02｜P0｜魔女線功能性承接（右腕截法傷／半頁殘冊／半個外線姓名）**
+  - 現況：`characters/CHARACTER_WITCH.md` L84 等多處已把此結果登記為既定人物弧線表格內容。
+  - 驗收：新版三千州正式落筆時，魔女在此戰的具體損失需要明確交代（可沿用舊版素材或設計等效新內容），`CHARACTER_WITCH.md` 對應欄位待新正文定稿後同步更新用詞。
+
+- [ ] **RC-3K-03｜P0｜T08活禁雛形＋鎮魄五日演算法技術錨點**
+  - 現況：`systems/SYSTEM_CULTIVATION_TIMELINE.md` T08列、`characters/CHARACTER_LU_CHEN.md`、`MACRO_OUTLINE.md` 均綁定「萬禁碑林形成三息活禁雛形、鎮魄五日限制、至古界內部第三日解除」這組具體演算法，直接支撐189題已確認的古界內外時間流速機制。
+  - 驗收：新版大綱已在「轉二」段落明文保留此技術錨點的功能（改包裝為審判兵陣段落取得，天數演算法不變），待正式落筆確認無誤後，`SYSTEM_CULTIVATION_TIMELINE.md` 等文件的具體事件描述用詞需同步更新（天數本身不變）。
+
+- [ ] **RC-3K-04｜P0｜荒劫上界首次重逢＋交換本名的全書時間基準**
+  - 現況：`docs/README.md` L5 等至少6份文件把「三千州＝荒劫上界重逢、首次交換本名」列為全書時間基準級別的既定事實。
+  - 驗收：新版大綱已把重逢提前到「起承之間」段落並保留交換本名的功能，落筆後需確認 `README.md`、`CHARACTER_SHI_HAO.md`、`CHARACTER_LU_CHEN.md`、`events/EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`、`events/EVENT_TWO_FALLEN_SECTS_ECHO.md` 等文件的具體描述是否需要因新版場景設計而微調用詞（事件功能本身不變）。
+
+- [ ] **RC-3K-05｜P1｜第90、91、93題（石毅／秦昊／十冠王）正式改列不採用**
+  - 現況：三題原設計錨定已推翻的仙古場景，長期處於「已定案但找不到家」的孤兒狀態。
+  - 驗收：已於新版大綱「人物位置與安全閥核對」明確標註不採用，待PM/總控正式將 `CHECKLIST_PENDING_DECISIONS.md` 第90、91、93題的狀態改為「不採用／擱置」，避免繼續以孤兒狀態懸空。
+
+- [ ] **RC-3K-06｜P1｜README／目錄／review檔用詞同步**
+  - 現況：`novel/README.md`、`MASTER_TABLE_OF_CONTENTS.md`、`CHECKLIST_NOVEL_REVIEW_FIXES.md` 舊有逐章複核記錄（本檔「BX. Volume03系統性逐章複核」等段落）均綁定舊版52章具體內容。
+  - 驗收：新版正文完成後，上述文件的Volume03相關描述需整批同步更新，舊逐章複核記錄可標記「對應舊版，已作廢」保留歷史查考，不需刪除。
+
+- [ ] **RC-3K-07｜P0｜`CHARACTER_LU_CHEN.md`「Volume03萬禁碑林第一次進階」正文里程碑需重新落點（PM回報）**
+  - 現況：陸沉禁制大道的正式正文里程碑——活禁雛形「三息、單一空白、單次使用、每人重畫、使用後自散」——明確錨定在`novel/volume03/chapter018~027.md`（舊版萬禁碑林段落）。
+  - 驗收：新骨架「轉二：荒破力劫破規則」段落雖已聲明保留此技術錨點功能，但需在逐章展開時明確標出新版正文的具體對應章節，`CHARACTER_LU_CHEN.md`的里程碑錨點描述需同步更新章節座標，不能讓這個里程碑無聲消失。
+
+- [ ] **RC-3K-08｜P1｜`novel/volume03a/chapter020.md`（已commit）閉環驗收銜接點需重新核對（PM回報）**
+  - 現況：寫手2剛完成並commit的禁都插篇終章，自檢明確寫著「原Volume03 ch001榜外名額線可直接承接，無第三場擂台疲勞」——這是特地為銜接**舊版**Volume03開場設計的收尾。
+  - 驗收：新版Volume03「起」段落雖然保留唐野開場的功能性接口，但具體銜接細節需在chapter-editor階段重新核對是否與ch020的閉環驗收要點七仍然吻合；若不吻合，需要局部調整ch020（**已commit內容，改動前務必先與PM確認影響範圍，不得逕自修改**）。
+
+**執行建議**：RC-3K-01是本表核心，其餘各項均是圍繞它的功能性承接與清理工作，建議待 `docs/outlines/OUTLINE_THREE_THOUSAND_STATES.md` v2.0四方覆核與逐章大綱完成後，一次性排入production計畫，不要在骨架尚未覆核前提前動筆。RC-3K-07、08是進入chapter-editor階段時必查項目。**本項變更規模巨大，正式啟動前務必與PM/寫手團隊充分溝通排期，不得倉促動筆已發布內容。**
+
 ## 1. 玄衡／界潮 retcon 總表（2026-09-12，使用者裁定，正文尚未修訂）
 
 **背景**：使用者裁定推翻「死寂雷域」與「仙古遺跡：劫反敗謫仙」兩個整合事件，改採「界潮＋古界」窄範圍置換版本——保留玄衡登場時間點不變（仍在Volume04、三千州天才戰後、禁都之前），但整段場景、判定邏輯與觸發事件全部改版；陸沉不再前往仙古遺跡，原本掛靠該地的謫仙調查、反殺、鎮無央首次顯化整體移除。唯一來源已回填：`characters/CHARACTER_XUAN_HENG.md` v1.2、`events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md` v2.0、`events/EVENT_XIANGU_RUINS_ZHEXIAN.md` v2.0（已推翻）、`systems/SYSTEM_TEN_CALAMITY_THUNDERS.md` 七、`factions/FACTION_FOUR_COMPANION_STARS.md`、`characters/CHARACTER_RIVAL_TIANFA.md`、`characters/CHARACTER_ZHEN_WUYANG.md`、`characters/CHARACTER_LU_CHEN.md`、`events/EVENT_MOTHER_FRACTURED_DOMAIN.md`、`MACRO_OUTLINE.md` 第十四篇，以及 `STORY_CAUSALITY_NETWORK.md`、`WORLD_GEOGRAPHY_AND_ROUTES.md`、`SYSTEM_THUNDER_POOLS.md`、`SYSTEM_CULTIVATION_TIMELINE.md`、`canon/PERFECT_WORLD_CANON_TIMELINE.md`、`README.md`、`REVEAL_TIMELINE.md`、`events/EVENT_PARTICIPATION_MATRIX.md` 等低風險交叉引用。**本節只記錄「正文與新設定已知牴觸之處」，不代表正文已修改**。
