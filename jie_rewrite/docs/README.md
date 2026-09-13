@@ -44,6 +44,7 @@
 - `CHECKLIST_PENDING_DECISIONS.md`：Codex／Claude 共同維護的待確認問題清單；核取前不視為正式設定。第 1～36 題已全數回填；第二輪第 37 題起持續擴充中，已回填項目見文中 ✅ 標記與 `CHECKLIST_RESOLVED_HISTORY.md`。
 - `CHECKLIST_RESOLVED_HISTORY.md`：已回填項目的討論過程存檔（Codex 提案／Claude 意見／最終決定），僅供追溯，不作為設定依據。
 - `WRITING_GUIDELINES.md`：正文視角、稱呼、戰鬥、揭密、原作邊界與提交前檢查規格。
+- `FINAL_REVIEW_PIPELINE_MANUAL.md`：全書／大篇章完成後的最終回顧審查 Agent 群使用手冊（2026-09-13 建置，尚未執行），不用於日常寫作流程。
 - `REVEAL_TIMELINE.md`：作者真相、讀者線索、角色知情與公開揭露的分級控制表。
 - `canon/PERFECT_WORLD_CANON_TIMELINE.md`：《完美世界》純原作主要事件鐵軌、境界硬錨與不可改寫功業；不混入陸沉原創事件。
 - `canon/PERFECT_WORLD_LU_CHEN_MOUNTAIN_MATRIX.md`：把原作節點對到陸沉的大小山峰、不可逆變化、缺少故事功能與借鑑安全閥；擴章與加角色前先查此表。

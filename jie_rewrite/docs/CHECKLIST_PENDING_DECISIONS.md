@@ -1367,11 +1367,14 @@
 
 **狀態**：✅ 使用者裁定（2026-09-12）：**仍要寫，正式排入未來計畫**，不放棄這三件裁示。本題正式將此事從「被遺忘的規劃底稿」升級為「已登記追蹤的待辦」，避免再次遺失。
 
-**下一步（尚未執行，待後續另案啟動）**：
-1. 由總控重新讀過 `author_directives/` 相關原始裁示全文（`FIVE_MAJOR_ARCS_INTEGRATION_MASTERPLAN.md`、`AUTHOR_REQUIREMENTS_AUDIT_MATRIX.md` 兩份2026-08-26文件所依據的原始author_directives），確認裁示內容在今天多輪retcon（封寒／瘋、玄衡／界潮、雲行新增等）之後是否仍完全適用，或需要局部調整以與最新設定相容。
-2. 三件事規模橫跨數卷（估計新增／重建約90章以上），建議分別交 `jie-chapter-editor` 或 `jie-creative` 先各自出一份現況對照與插入規劃提案，不建議一次性攤開處理。
-3. 正式動筆前，`novel/README.md` 應先加註「Volume07、Volume08（及新增古世雙界卷插入點）已知有大型回溯規劃在排隊中」的警示，避免其他協作者誤判這幾卷已經穩定完稿。
-4. 完整回溯規模與封寒／瘋、玄衡／界潮retcon（`CHECKLIST_NOVEL_REVIEW_FIXES.md`「0.」「1.」節）有直接重疊（皆涉及Volume08全卷），建議三者合併排一輪跨卷規劃，不要分開處理。
+**2026-09-13進度更新（PM回報，總控已核對確認）**：①、②兩項已於今日實質完成，只是用不同名稱/規模執行，**正式結案**：
+- **①「新增古世雙界卷」（原估54～66章）＝ `novel/volume06b/`〈古世雙界遠行〉插卷，實際53章**——位置吻合（Volume06書院寶庫之後、Volume07帝關初戰之前）；核對ch051、ch053確認「眾人分批回歸、帶記憶創傷代價抵達帝關」的必達出口狀態已兌現。✅ 已完成。
+- **②「Volume07界路篇重建」（原估14～18章）＝ 今日完成的帝關界路擴寫，`novel/volume07/`ch041～071，實際規模31章**（比原估大，因採用另一團隊16→31的擴寫案，概念上是同一件事：界路篇重建）——核對ch050、ch057、ch059～062確認「燼長明重生付價、自主入隊、先修界再取第八雷、五人回帝關」的必達出口狀態已兌現。✅ 已完成。
+- **③「Volume08整卷重建」（異域潛伏、帝族反解析、完整大道8→0→8返本）仍待排**——與`CHECKLIST_NOVEL_REVIEW_FIXES.md`「0.」節封寒/瘋retcon（RC-FH-05）、以及今日新增的第183～186題（異域悟道茶會、封寒立足三部曲、追殺鏈設計）追蹤的「異域V08整卷重建」是同一件事，backlog裡已有記錄，不重複排。
+
+**下一步（③尚未執行，待後續另案啟動）**：
+1. ③規模最大（8→0→8完整大道返本、帝族反解析、封寒拆王等，見183～186題與`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`），建議與既有RC-FH-05、183～186題合併規劃，不要另開新案重複盤點。
+2. 正式動筆前，`novel/README.md` 應加註「Volume08已知有大型回溯規劃在排隊中」的警示（Volume07、古世雙界卷部分已完稿，警示範圍縮小為僅Volume08）。
 
 ---
 
@@ -1381,7 +1384,7 @@
 
 ### [x] 180. 「書院寶庫」具體場景設計提案：三痕古域、驚鴻雷身與棄劍轉折的共同一幕（使用者與總控口語腦力激盪收斂，已完成四方覆核並回填）
 
-**狀態（2026-09-12）：✅ 已回填**——`jie-power-system`（warning，已修正封寒「勢→重→引」用語降級為「只摸到引的邊角」）、`jie-character`（pass，附護短陸沉性格線起點提醒，已補記）、`jie-canon`（pass，三痕古域不撞原作、封寒棄劍已脫離劍意象）、`jie-continuity`（明確衝突：封寒在天神書院的在場狀態未交代，已修正 `outlines/OUTLINE_TIANSHEN_ACADEMY.md` 第1章補上封寒隨太玄宗另一批弟子同期抵達；另補上巡天災印感知粒度澄清）。四方全部通過後已回填 `characters/CHARACTER_FENG_HAN.md`、`systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md` 五之一、`characters/CHARACTER_RIVAL_TIANFA.md`。插入章節座標鎖定 `novel/volume06/chapter030.md`～`chapter031.md` 之間，具體幕次待下一步交 `jie-chapter-editor` 規劃。
+**狀態（2026-09-13）：✅ 設定與正文均已完成**——設定層級已於2026-09-12回填 `characters/CHARACTER_FENG_HAN.md`、`systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md` 五之一、`characters/CHARACTER_RIVAL_TIANFA.md`。正文已於2026-09-13正式寫出：`novel/volume06/chapter031.md`〈三品區裡沒人要的東西〉、`chapter032.md`〈裂縫無聲合上〉（原ch031起所有章節已整體後移兩位至ch033起，`OUTLINE_TIANSHEN_ACADEMY.md`章次標號同步位移），經`jie-continuity`／`jie-canon`／`jie-character`／`jie-power-system`四方複核全數過關（continuity一項明確衝突「代表隊」用詞、一項潛在衝突封寒佩劍下落未交代，均已修正）。本題正式結案。
 
 **背景**：`systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md` 五之一與 `characters/CHARACTER_FENG_HAN.md` 六已明訂「書院寶庫」是陸沉觸發「驚鴻雷身」短暫預覽、封寒觸動棄劍轉向坍縮之道的共同事件，插入 Volume06〈天神書院〉ch030（排位賽結束）～ch031〈界墳之外〉之間，但具體場景從未設計（追蹤於 `CHECKLIST_NOVEL_REVIEW_FIXES.md` RC-FH-04）。使用者受《百煉成神》羅徵、華師兄同時踏入「劍的三大聖地」啟發，希望引入「多人並肩踏入並列聖地、各自機緣不同」的容器概念；經與總控多輪口語討論（含四份 `jie-creative` 平行探索：劫＋瘋、劫＋生、劫＋雲、獨闖／多人同闖），收斂出以下方向，用來填補 RC-FH-04 這個既有空缺，而非另開新坑。
 
