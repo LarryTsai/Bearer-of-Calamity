@@ -141,6 +141,30 @@
 
 **執行建議**：RC-3K-01是本表核心，其餘各項均是圍繞它的功能性承接與清理工作，`docs/outlines/OUTLINE_THREE_THOUSAND_STATES.md` v2.0已完成兩輪四方覆核，可排入`jie-chapter-editor`展開逐章大綱。RC-3K-07、08、09是進入chapter-editor階段時必查項目。**本項變更規模巨大，正式啟動前務必與PM/寫手團隊充分溝通排期，不得倉促動筆已發布內容。**
 
+## 0.3 天神書院排位大會整段retcon（RC-V06系列，2026-09-16，使用者裁定，正文尚未修訂，規模比照RC-3K三千州等級）
+
+**背景**：`CHECKLIST_PENDING_DECISIONS.md` 202~206整節（陸沉強化方向/規則戰演出法、封寒坍縮大道、境界時間軸、天神書院排位大會16席賽制、參賽者Canon Audit）已完成完整structural design並經純讀者盲審通過。寫手1準備跑`jie-chapter-editor`前，查`OUTLINE_TIANSHEN_ACADEMY.md`銜接位置時發現**排位賽段落（第四幕〈戰臺見根〉ch23~30，8章）不是待寫空白大綱，而是`novel/volume06/`已完稿發布的正文**（全48章大綱幾乎已全部成文，ch001~050），202~206整輪重新設計的實際性質因此是**retcon一段已發布正文，不是新寫**，規模量級比照三千州爭鋒（全庫最大單項retcon等級）。**本節只記錄「正文需整段retcon」的事實，不代表已經重寫，尚未有任何一章新正文落筆。**
+
+**使用者裁定的執行方式**：
+1. **開發目錄**：新建`novel/volume06_v2/`，**現行`novel/volume06/`完全不動、禁止直接修改**——理由不只是備份安全，是16人賽制可能讓8章膨脹到15~25章，後續所有章號/節奏/伏筆位置都會位移，原地改稿會演變成「改ch23~30→ch31引用舊結果→順手改ch31→ch34又依賴ch29→再改ch34」的失控局面，最後無法追蹤這次retcon到底動過哪裡。`volume06_v2`讓新版可以當完整作品獨立審查，等站穩後再做old→v2差異審查與swap。**不只重寫ch23~30**：`volume06_v2`需物理組成一份可從頭讀到尾的完整卷（ch01~22視dependency audit結果沿用或最小銜接retcon、新寫排位篇、ch31~48/50視情況最小銜接retcon）。
+2. **取消「一批寫完」預期，升格為獨立retcon project**：不預設新賽制多少章（不是章數KPI），由`jie-chapter-editor`依205已定的節奏自然算出需要幾章，**不得以舊版8章框架為容器**——205已經把「為設定服務的賽程」拆掉重建成篇章，若又要求盡量塞回8章，會把剛救回來的節奏重新壓壞。
+3. **執行順序：Migration Map優先於chapter-editor**——在跑`jie-chapter-editor`之前，先完成①舊ch23~30 Migration Map（列出每一個不可丟的功能，例如孟天正認出岳沉淵一脈、第六雷「空手接寶術」首次公開、原荒vs劫值得保留的關係/觀察，逐項標記KEEP/MOVE/TRANSFORM/DROP）；②ch31~50 dependency audit（**已完成初輪**，見下方RC-V06-02，風險比預期低）。要先知道「舊版已經答應讀者什麼」，才能讓`jie-chapter-editor`知道「新版要寫什麼」。
+4. **鎖作用，不鎖分鏡（與203「收腳」同一原則）**：硬錨點只需保留**功能**（例如「這個階段，第六雷第一次在公開場合被眾人看到，產生原本應有的角色/世界反應」），不代表新版必須在同樣的場景/分鏡演一次——新版可能自然落在劫vs王曦、劫vs謫仙或其他場合，由`jie-chapter-editor`重新判斷落點，不是舊場景原封不動搬家。
+
+- [ ] **RC-V06-01｜P0｜Volume06第四幕（ch23~30，8章）排位賽段落整段retcon為16人賽制**
+  - 現況：已發布正文，`OUTLINE_TIANSHEN_ACADEMY.md`第四幕〈戰臺見根〉的雙人對決版本，與202~206新設計的16席混戰→四組→8強→4強→決賽賽制在核心事件層級完全不同。
+  - 驗收：待Migration Map完成（KEEP/MOVE/TRANSFORM/DROP逐項標記）並交`jie-chapter-editor`展開後，由寫手比照全新篇章標準流程重新撰寫，新章數由`jie-chapter-editor`依205節奏自然決定，不受舊8章限制。
+
+- [x] **RC-V06-02｜P0｜ch031~050下游依賴初輪調查已完成，風險低於預期**
+  - 現況：寫手1用多組關鍵字掃過`novel/volume06/`ch031~050（純調查未動筆）。只有ch031、ch033兩章明確引用排位結果，且引用的都是「陸沉排位第二」這個**最終名次**（換寶庫三品令牌／排位第二只給外務資格），205新賽制的最終結果本身沒變（維持第一荒第二劫，只改變過程），這兩處引用大機率不用動；16人名單目前完全沒在volume06任何一章被提及，無命名衝突。
+  - 驗收：正式落筆時仍需逐字確認這兩處引用維持相容，其餘章節暫無發現需要retcon的下游依賴。
+
+- [ ] **RC-V06-03｜P0｜ch23~30 Migration Map（KEEP/MOVE/TRANSFORM/DROP逐項標記）**
+  - 現況：已知至少兩個硬錨點需要處理——ch027孟天正認出岳沉淵一脈（身體道路戲，可能與新賽制無關，初步判斷可保留原樣）；ch029第六雷「空手接寶術」首次公開（硬設定錨點，需保留「首次公開＋產生應有反應」這個功能，落點待新版排位賽自然決定）。
+  - 驗收：寫手1完整列出ch23~30每一個不可丟的功能並逐項標記，完成後才進入`jie-chapter-editor`階段，這一步比chapter-editor更優先。
+
+**執行建議**：本項變更規模比照RC-3K三千州等級，**正式啟動前已與使用者充分溝通排期，使用者本人主動要求先做Migration Map、後跑chapter-editor**，不得倒過來。RC-V06-01是本表核心，RC-V06-02、RC-V06-03是進入chapter-editor階段前必查項目。
+
 ## 1. 玄衡／界潮 retcon 總表（2026-09-12，使用者裁定，正文尚未修訂）
 
 **背景**：使用者裁定推翻「死寂雷域」與「仙古遺跡：劫反敗謫仙」兩個整合事件，改採「界潮＋古界」窄範圍置換版本——保留玄衡登場時間點不變（仍在Volume04、三千州天才戰後、禁都之前），但整段場景、判定邏輯與觸發事件全部改版；陸沉不再前往仙古遺跡，原本掛靠該地的謫仙調查、反殺、鎮無央首次顯化整體移除。唯一來源已回填：`characters/CHARACTER_XUAN_HENG.md` v1.2、`events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md` v2.0、`events/EVENT_XIANGU_RUINS_ZHEXIAN.md` v2.0（已推翻）、`systems/SYSTEM_TEN_CALAMITY_THUNDERS.md` 七、`factions/FACTION_FOUR_COMPANION_STARS.md`、`characters/CHARACTER_RIVAL_TIANFA.md`、`characters/CHARACTER_ZHEN_WUYANG.md`、`characters/CHARACTER_LU_CHEN.md`、`events/EVENT_MOTHER_FRACTURED_DOMAIN.md`、`MACRO_OUTLINE.md` 第十四篇，以及 `STORY_CAUSALITY_NETWORK.md`、`WORLD_GEOGRAPHY_AND_ROUTES.md`、`SYSTEM_THUNDER_POOLS.md`、`SYSTEM_CULTIVATION_TIMELINE.md`、`canon/PERFECT_WORLD_CANON_TIMELINE.md`、`README.md`、`REVEAL_TIMELINE.md`、`events/EVENT_PARTICIPATION_MATRIX.md` 等低風險交叉引用。**本節只記錄「正文與新設定已知牴觸之處」，不代表正文已修改**。
