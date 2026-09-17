@@ -42,7 +42,7 @@
 | 裁示來源 | 主掌內容 | 現行主要衝突 | 必須回填的位置 | 正文／發布版狀態 |
 |---|---|---|---|---|
 | `author_directives/AUTHOR_DIRECTIVE_FORBIDDEN_PATH_MAINLINE.md` | 文奕、完整《古神禁典》共同取得、禁都、萬禁會、奪禁、三次禁道盛世、帝關雙軍師、最終活禁合流 | 現行主庫缺少文奕主線與禁都／萬禁會完整篇章；既有古神禁典主要由陸沉單線承接 | `characters/` 新增文奕唯一來源；`systems/` 禁道演化；`events/` 虛神界／禁都／萬禁會；`MACRO_OUTLINE.md`、`STORY_CAUSALITY_NETWORK.md` | **Active：未完成正文回填** |
-| `author_directives/AUTHOR_DIRECTIVE_BOUNDARY_ROAD_EIGHTH_THUNDER.md` | 古界路、鳳族守界、燼長明燃盡救劫後自主加入、餘命燼雷兩次承受 | 現行為帝關焚羽古巢／守池讓路，燼長明在取雷後加入。人物身份須正確映射：陸沉＝劫、玄衡＝麟／鎮界麒麟、燼長明＝人物名、玄燼凰＝種族；新裁示未明確要求改變燼長明既定女性設定 | `characters/CHARACTER_JIN_CHANGMING.md`、`characters/CHARACTER_XUAN_HENG.md`、`events/EVENT_SCORCHED_NEST_JINCHANGMING.md`、`events/EVENT_BORDER_RIFT_FRONT_CAMPAIGN.md`、`factions/FACTION_FOUR_COMPANION_STARS.md`、十雷／雷池系統、宏綱與對應卷章 | **Active P0：新篇章尚未取代舊正文** |
+| `author_directives/AUTHOR_DIRECTIVE_BOUNDARY_ROAD_EIGHTH_THUNDER.md` | 界路（與第十四篇「古界」不同事件）、鳳族守界、燼長明燃盡救劫後自主加入、餘命燼雷兩次承受 | 現行為帝關焚羽古巢／守池讓路，燼長明在取雷後加入。人物身份須正確映射：陸沉＝劫、玄衡＝麟／鎮界麒麟、燼長明＝人物名、玄燼凰＝種族；新裁示未明確要求改變燼長明既定女性設定 | `characters/CHARACTER_JIN_CHANGMING.md`、`characters/CHARACTER_XUAN_HENG.md`、`events/EVENT_SCORCHED_NEST_JINCHANGMING.md`、`events/EVENT_BORDER_RIFT_FRONT_CAMPAIGN.md`、`factions/FACTION_FOUR_COMPANION_STARS.md`、十雷／雷池系統、宏綱與對應卷章 | **Active P0：新篇章尚未取代舊正文** |
 | `author_directives/AUTHOR_DIRECTIVE_FOREIGN_DOMAIN_TRANSFORMATION.md` | 為荒主動潛伏、王族偽裝、五人輪流受創、完整大道大劫、五星循環、重傷休養後再尋荒 | 現行異域線是主動陪荒入域後分線與返程，尚無完整王族潛伏及五人大劫重塑主幹 | `events/EVENT_FOREIGN_DOMAIN_COMPANION_RETURN_ROUTE.md`、`outlines/OUTLINE_FOREIGN_DOMAIN_RETURN_ROUTE.md`、四伴星角色／團體、禁道與十雷系統、宏綱、異域對應 development／published | **Active P0：需重建異域篇並同步雙版本** |
 
 在上述三列全部完成唯一來源回填、正文重建、published parity 與跨卷回歸前，不得再宣稱三份設定已「完整融入」。
