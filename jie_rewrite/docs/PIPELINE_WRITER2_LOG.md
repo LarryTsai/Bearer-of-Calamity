@@ -149,3 +149,10 @@
     - ②T08活禁雛形+鎮魄五日技術錨點——ch048觸發活禁雛形+代價即時兌現，ch049第二次兌現同一代價，天數演算法不變；查`SYSTEM_CULTIVATION_TIMELINE.md`T08、`CHARACTER_LU_CHEN.md`十之一，**已在RC-3K-07先前處理時同步訂正過**，本次覆核確認無殘留舊版章節座標，未再改動。
     - ③荒劫首次重逢+交換本名——ch008重逢交鋒，ch009正式交換本名，依PW-08B順序鎖執行；逐一查`docs/README.md`、`CHARACTER_SHI_HAO.md`、`CHARACTER_LU_CHEN.md`、`EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`均為概念性描述不綁定舊章號不需修改；`EVENT_TWO_FALLEN_SECTS_ECHO.md`已有2026-09-13既有訂正說明，確認仍正確。
     - 三項全過後，依PM指示把RC-3K-01（總項）也一併標記完成。已在checklist標記四項完成並附驗收細節，只動了`CHARACTER_WITCH.md`一處文件（因為只有這處真的有舊章號需要訂正），完全沒碰任何已commit正文。
+
+### 目前狀態（2026-09-17）
+
+RC-3K系列告一段落，PM表示暫無立刻可派的小任務、要花時間盤點現況，我先待命。
+
+**覆核過程中順手看到、不在當次任務範圍內、留給PM之後判斷的小發現**：
+- `docs/README.md`第34行`OUTLINE_THREE_THOUSAND_STATES_BREATHER.md`條目仍引用舊版章號「ch050/051間」插入呼吸段——這份是另一團隊產出的舊版outline，PIPELINE_STATUS.md本來就記載其「狀態未核對」。現在v2.0已經在「合三之一」內建了3章硬性下限的純生活沉澱段落（ch063~065），這份舊outline的呼吸段構想有沒有必要感大幅降低，是否該正式標記為「已被合三之一取代」或整份archive，留給PM判斷，不影響現在任何進度。
