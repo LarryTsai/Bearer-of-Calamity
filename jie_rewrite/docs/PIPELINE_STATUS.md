@@ -53,7 +53,7 @@
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
 | 寫手1 | **RC-V06 jie-writer動筆中**——`novel/volume06_v2/`12章排位大會（ch022a~ch033），第一批：ch022a天神境突破戲+ch023混戰16席+ch024荒A組+ch025BCD組蒙太奇 | **✅ RC-V06完全解除阻塞**：移除王曦場孟天正beat後重跑canon覆核，status pass confidence 0.9。比照三千州節奏分批寫、每批跑四方審查後交下一批，不逐批等PM確認（除非碰到結構性問題）。`novel/volume06/`舊版完全不動，old→v2 swap時機另行決定。 |
-| 寫手2 | **RC-FH-02 chapter-editor回溯規劃**（Volume02 ch039~085封寒性格連續性補完，先規劃不動筆，見`CHECKLIST_NOVEL_REVIEW_FIXES.md`四項必查事項） | RC-FH-08、Combat Staging Skeleton均已完成結案。**寫手2為Remote Control連線，clear_session對其無效**。**✅ 2026-09-17派新任務**：RC-FH-02原驗收條件「使用坍縮兵胚作戰」是retcon前舊陳述已訂正為劍修持劍不變；使用者定調這是封寒人物連續性補完非單純性格小修，要求先產出chapter-editor retrospective map（seam check/共同瘋事插槽/話多愛鬧適用範圍/生劫瘋關係continuity）再決定動哪些章，驗收標準是「遮名讀者能否認出RC-FH-01後的同一個人」。 |
+| 寫手2 | **RC-FH-02 jie-writer動筆中**（Volume02封寒性格連續性補完，`docs/PLAN_RC_FH_02_RETROSPECTIVE_MAP.md`已核准，優先順序ch044→ch057→ch054/052→其餘） | RC-FH-08、Combat Staging Skeleton均已完成結案。**寫手2為Remote Control連線，clear_session對其無效**。**✅ 回溯規劃已交案並經PM核准**：斷層風險集中ch044/052/054三個定調章，ch057需局部重寫（避開與ch050青璃線撞模板），實際工作量ch044/052/054~060共9章+4~5章低強度呼吸感補筆，其餘32~34章KEEP/NO-TOUCH，百宗盟試段規模比預期小，武器持劍全程不變。額外發現ch044問題句是RC-FH-01自己補寫的新縫，已記錄為流程教訓。 |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
 
