@@ -190,6 +190,8 @@
 
 **執行建議**：本項變更規模比照RC-3K三千州等級，**正式啟動前已與使用者充分溝通排期，使用者本人主動要求先做Migration Map、後跑chapter-editor**，不得倒過來。RC-V06-01是本表核心，RC-V06-02、RC-V06-03是進入chapter-editor階段前必查項目。
 
+**✅ 2026-09-17 RC-V06正式UNBLOCK**：四強戰替代人選（206謫仙/十冠王資料污染發現後暫停）正式定案——謫仙REMOVE→玄昆CONFIRMED，經完整replacement audit（11人candidate pool→canon逐一核對→jie-creative四方案→莫道/獨孤雲淘汰）與新增的「Combat Staging Skeleton」流程層級（四格人物骨架與chapter-editor之間新增的可視化場面骨架層，已寫入`CLAUDE.md`標準流程C）兩輪盲審驗證通過，完整討論過程見`CHECKLIST_PENDING_DECISIONS.md`第206題。**已正式交寫手1把「劫四強戰」TRANSFORM進RC-V06最終12章大綱**，附三條execution notes（陸沉備戰姿態可視性、MUST FIX第六雷後玄昆須有一次人物性選擇、收尾句改為動作/留白），完成後跑canon/power-system審查即可進入`jie-writer`階段。設計階段正式關閉，不再開第三輪審查。
+
 ## 0.4 古界篇長篇化擴建（新提案層，疊加在下方「1. 玄衡／界潮retcon總表」RC-XH系列既有基礎之上，2026-09-17，使用者裁定正式立項但不開寫）
 
 **背景**：使用者提供`古界篇長篇化規劃.md`（已archive，`docs/archive/root_drafts_20260917/`），提議把古界弧線從既有已定案的18～20章版本（見下方「1. 玄衡／界潮retcon總表」RC-XH-01～05，`docs/VOLUME04_RETCON_CHAPTER_PLAN.md`，`docs/outlines/OUTLINE_ANCIENT_REALM_WAR.md`，皆2026-09-12定案）擴張為50～70章大型篇章，規模比照三千州爭鋒/天神書院。**本節不是全新的retcon項目，是既有RC-XH系列之上疊加的一層新規模提案**——RC-XH-01~05本身仍是本項目的地基（Volume04整卷56章的25刪／31重寫規劃、四項TODO裁定、界潮/古界戰爭史詩定案），本節只追蹤「50～70章擴建」這個新增規模層的進度。
