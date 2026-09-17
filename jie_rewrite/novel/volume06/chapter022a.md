@@ -1,7 +1,7 @@
 # 第二十二章之一 〈第四個字他不說〉
 
 > 定位：陸沉獨自完成聖祭初期→天神境的境界跨越；本批次唯一涉及新設定取得的 worldbuilding 提案章節
-> 時間：緊接 `novel/volume06_v2/chapter022.md`（RC-V06組裝後與舊版`novel/volume06/chapter022.md`內容相同）「當夜，他沒有回住處」一句，早於洛生衣在書院外緣舊練習牆尋得他之前
+> 時間：緊接 `novel/volume06/chapter022.md`（2026-09-18 swap後正式路徑，內容與舊版`volume06_superseded/chapter022.md`相同）「當夜，他沒有回住處」一句，早於洛生衣在書院外緣舊練習牆尋得他之前
 > 唯一來源依據：`docs/CHECKLIST_PENDING_DECISIONS.md`（202~206、212題）；`docs/archive/root_drafts_20260915/天神書院排位大會_16席至冠軍_完整整合版_v2_2026-09-15.md`
 
 執事的門在身後合上時，陸沉沒有回宿舍。
