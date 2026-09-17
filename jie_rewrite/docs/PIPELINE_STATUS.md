@@ -54,8 +54,8 @@
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
 | 寫手1 | **待命**（`volume06_v2`完整卷冊組裝、Whole Volume Acceptance全卷驗收、正式swap全部完成，等PM下一個任務） | **✅ 2026-09-18全流程完成**：assemble（舊版ch001~022、ch034~050 carry-over進`volume06_v2/`，不重審205戰鬥設計）→全卷驗收PASS（六項重點全數檢查，發現並修正陶九缺介紹、ch034封寒「首次登場」誤標兩項真問題）→使用者授權正式swap（`git mv`：舊版`volume06/`→`volume06_superseded/`保留查考不刪除；`volume06_v2/`→`volume06/`扶正；`published/volume06/`已用`make_clean_copy.pl`重新生成；全庫`volume06_v2`路徑殘留已清查修正）。RC-V06天神書院排位大會16人賽制retcon全案正式收工。 |
-| 寫手2 | **待派工**（RC-AR-02古界structural design Round 2尚未進入可派工階段，人物設計由使用者/PM主導） | **✅ volume02雙空行排查全數確認乾淨（8處皆為既定敘事結構，非bug），排查任務正式結束，不再擴大排查其他卷冊**。RC-3K全系列（01~09）與RC-XH-04皆已結案。目前待命。 |
-| 清道夫 | **進行batch6（ch026~030）** | **✅ batch5已核准commit（`f634c8a`）**：ch021~025無重複草稿問題。ch022一處被移除的安全閥說理句，PM複核後裁定維持現狀（正文本身無任何暗示陸沉抄禁圖的場景，風險低）。**撞車提醒已解除**：`volume06_v2/`完整卷冊組裝與swap已於2026-09-18完成，`volume06/`現為RC-V06 16人賽制新版54章、`volume06_superseded/`保留舊版供查考——清道夫推進到volume06時，請確認是要處理新版（`volume06/`）還是舊版存檔（`volume06_superseded/`，通常不需要再動），避免對錯目錄。 |
+| 寫手2 | **待派工**（古界Structural Design Round 3尚未進入可派工階段，仍由使用者/PM主導腦力激盪） | **✅ 玄衡既有正文材料全書查證完成（9卷+設定檔，逐條附file:line）**：查證結果直接促成使用者推翻自己最初的「承諾型玄衡」草案，改採「邊界型」（見`CHECKLIST_NOVEL_REVIEW_FIXES.md` RC-AR-02 Round 2）。目前待命。 |
+| 清道夫 | **進行volume02 batch1** | **🎉 volume01全卷44章文字優化正式完工（commit `704de93`）**：全程發現並修正兩處真正的草稿疊加重複（ch016/017、ch030），其餘為六之二/六之三規範下的句式密度優化，每批均有published鏡像同步與continuity複核，無遺留未解衝突。已指示繼續推進volume02，一樣一次3~5章節奏。 |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
 
