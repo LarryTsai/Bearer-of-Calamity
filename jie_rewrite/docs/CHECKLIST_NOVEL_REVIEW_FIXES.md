@@ -185,6 +185,26 @@
 
 **執行建議**：本項變更規模比照RC-3K三千州等級，**正式啟動前已與使用者充分溝通排期，使用者本人主動要求先做Migration Map、後跑chapter-editor**，不得倒過來。RC-V06-01是本表核心，RC-V06-02、RC-V06-03是進入chapter-editor階段前必查項目。
 
+## 0.4 古界篇長篇化擴建（新提案層，疊加在下方「1. 玄衡／界潮retcon總表」RC-XH系列既有基礎之上，2026-09-17，使用者裁定正式立項但不開寫）
+
+**背景**：使用者提供`古界篇長篇化規劃.md`（已archive，`docs/archive/root_drafts_20260917/`），提議把古界弧線從既有已定案的18～20章版本（見下方「1. 玄衡／界潮retcon總表」RC-XH-01～05，`docs/VOLUME04_RETCON_CHAPTER_PLAN.md`，`docs/outlines/OUTLINE_ANCIENT_REALM_WAR.md`，皆2026-09-12定案）擴張為50～70章大型篇章，規模比照三千州爭鋒/天神書院。**本節不是全新的retcon項目，是既有RC-XH系列之上疊加的一層新規模提案**——RC-XH-01~05本身仍是本項目的地基（Volume04整卷56章的25刪／31重寫規劃、四項TODO裁定、界潮/古界戰爭史詩定案），本節只追蹤「50～70章擴建」這個新增規模層的進度。
+
+**使用者裁定的執行順序**：正式排進時程 → 先做「Canon Recovery／Constraint Map」（只回收既有設定不創作新內容）→ **等RC-V06收尾後才進structural design／chapter-editor**，不與RC-V06同時大規模施工（避免重演206謫仙案那種「每條線自己合理，但跨篇人物史漏掉」的問題）。
+
+- [x] **RC-AR-01｜P1｜Canon Recovery／Constraint Map已完成**
+  - 現況：`general-purpose`agent已產出`docs/outlines/ANCIENT_REALM_CONSTRAINT_MAP.md`（約41,700字元），完整回收RC-XH-01~05＋`VOLUME04_RETCON_CHAPTER_PLAN.md`＋`OUTLINE_ANCIENT_REALM_WAR.md`既有設定，逐項回答使用者提出的10項問題（劫/瘋/玄衡為何進去、生/文奕為何不在、巨人國壓迫感、內外時間差、陸沉線扭曲、封寒補空間、當地戰爭生活、殘鐧、五島終局、銜接書院），並產出新版(50~70章)與舊版(18~20章)的逐幕落差比對表，另列13項仍空白/未定案項目。
+  - **回收過程新發現的兩處既有設定內部落差（非新提案造成，PM需在此誠實登記）**：
+    1. **殘鐧安置位置**：PM先前在`CHECKLIST_PENDING_DECISIONS.md`第211題誤判新提案「第四幕：三條路」與既有`CHARACTER_FENG_HAN.md`六之一「完全吻合」——**已更正**：既有推薦候選其實是「第五幕：五島終局」，且現行18～20章版根本沒有「三條路」這一幕（新版才有），兩個落點從未正式比對過，PM的錯誤已在211題原處註記更正，不重複於此。
+    2. **洛生衣在古界後段的在場狀態內部矛盾**：`VOLUME04_RETCON_CHAPTER_PLAN.md`ch001明文「陸沉、封寒兩人（僅二人），洛生衣仙古經歷各自獨立，不寫入陸沉視角」，但同一份文件TODO-4又裁定「ch037～044可保留洛生衣在場」（在古界戰爭史詩本體之後的「後續修行」段落）；`OUTLINE_ANCIENT_REALM_WAR.md`全文完全未提及洛生衣。她如何、以何身分在Volume04後段重新出現在陸沉身邊，**現有資料無明文交代，是既有設定之間尚未化解的銜接缺口，不是本次新提案造成的問題**，留待未來structural design或`jie-continuity`正式覆核處理。
+  - **另一項待裁定**：三方勢力（定樁皇朝／游島十二部／界屍盜，`OUTLINE_ANCIENT_REALM_WAR.md`既定）在新版50～70章提案中完全未被提及是否沿用，標記為高風險待裁定項。
+  - 驗收：Map本身已標明「回收既有設定，非新設計，未經structural design審查前不可視為正式唯一來源大綱」，正式進入structural design前，上述殘鐧落點、洛生衣在場缺口、三方勢力沿用與否三項建議優先釐清。
+
+- [ ] **RC-AR-02｜P2｜正式structural design（尚未開始，待RC-V06收尾）**
+  - 現況：依使用者裁定順序，需等RC-V06完整收尾（替代人選定案→chapter-editor→review→正文完成）後才啟動，屆時以`ANCIENT_REALM_CONSTRAINT_MAP.md`為基礎進行，不從零開始。
+  - 驗收：無，尚未開始。
+
+**執行建議**：本節與「1. 玄衡／界潮retcon總表」共用同一段Volume04正文，未來正式規劃時應合併處理，不要分開審查；RC-AR-01的Constraint Map已可供未來任何相關討論查閱引用。
+
 ## 1. 玄衡／界潮 retcon 總表（2026-09-12，使用者裁定，正文尚未修訂）
 
 **背景**：使用者裁定推翻「死寂雷域」與「仙古遺跡：劫反敗謫仙」兩個整合事件，改採「界潮＋古界」窄範圍置換版本——保留玄衡登場時間點不變（仍在Volume04、三千州天才戰後、禁都之前），但整段場景、判定邏輯與觸發事件全部改版；陸沉不再前往仙古遺跡，原本掛靠該地的謫仙調查、反殺、鎮無央首次顯化整體移除。唯一來源已回填：`characters/CHARACTER_XUAN_HENG.md` v1.2、`events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md` v2.0、`events/EVENT_XIANGU_RUINS_ZHEXIAN.md` v2.0（已推翻）、`systems/SYSTEM_TEN_CALAMITY_THUNDERS.md` 七、`factions/FACTION_FOUR_COMPANION_STARS.md`、`characters/CHARACTER_RIVAL_TIANFA.md`、`characters/CHARACTER_ZHEN_WUYANG.md`、`characters/CHARACTER_LU_CHEN.md`、`events/EVENT_MOTHER_FRACTURED_DOMAIN.md`、`MACRO_OUTLINE.md` 第十四篇，以及 `STORY_CAUSALITY_NETWORK.md`、`WORLD_GEOGRAPHY_AND_ROUTES.md`、`SYSTEM_THUNDER_POOLS.md`、`SYSTEM_CULTIVATION_TIMELINE.md`、`canon/PERFECT_WORLD_CANON_TIMELINE.md`、`README.md`、`REVEAL_TIMELINE.md`、`events/EVENT_PARTICIPATION_MATRIX.md` 等低風險交叉引用。**本節只記錄「正文與新設定已知牴觸之處」，不代表正文已修改**。
