@@ -52,7 +52,7 @@
 
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
-| 寫手1 | **⚠️ RC-V06 TRANSFORM暫停，等使用者裁定canon reject** | TRANSFORM本體已完成（劫四強戰謫仙REMOVE→玄昆CONFIRMED），power-system pass（僅craft提醒）。**canon回報reject**：`EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`（正式狀態）明文孟天正認出岳沉淵一脈鎖定在決賽，與TRANSFORM把此beat移到王曦場衝突，PM已核對原文確認為真；第六雷首次公開的衝突證據強度較弱（該檔無相關陳述，出處是舊Migration Map「也可能拆開」的既有考慮項）。**寫手1依規則未自行拍板，已停手**，見`CHECKLIST_PENDING_DECISIONS.md`第212題三方向待裁定。 |
+| 寫手1 | **RC-V06 TRANSFORM恢復執行中**——唯一需要修改：從ch027（劫vs王曦）拿掉孟天正beat，其餘不動 | **✅ 2026-09-17第212題已裁定**：孟天正保留決賽首次確認（不搬去王曦場，`EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`本來就是身體道路寫法不用改）；第六雷維持寫手1原TRANSFORM做法，玄昆場首次公開不變（這部分寫手1做對了）。舊版`OUTLINE_TIANSHEN_ACADEMY.md`ch24/ch29已標記retcon，205決賽四格骨架旁已補孟天正身體線索的執行提醒（留給未來chapter-editor挑選，不阻塞現在）。已通知寫手1恢復TRANSFORM，只需拿掉王曦場的孟天正beat即可繼續跑canon覆核。 |
 | 寫手2 | **RC-FH-02 chapter-editor回溯規劃**（Volume02 ch039~085封寒性格連續性補完，先規劃不動筆，見`CHECKLIST_NOVEL_REVIEW_FIXES.md`四項必查事項） | RC-FH-08、Combat Staging Skeleton均已完成結案。**寫手2為Remote Control連線，clear_session對其無效**。**✅ 2026-09-17派新任務**：RC-FH-02原驗收條件「使用坍縮兵胚作戰」是retcon前舊陳述已訂正為劍修持劍不變；使用者定調這是封寒人物連續性補完非單純性格小修，要求先產出chapter-editor retrospective map（seam check/共同瘋事插槽/話多愛鬧適用範圍/生劫瘋關係continuity）再決定動哪些章，驗收標準是「遮名讀者能否認出RC-FH-01後的同一個人」。 |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
