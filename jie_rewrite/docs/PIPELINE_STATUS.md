@@ -53,7 +53,7 @@
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
 | 寫手1 | **RC-V06 TRANSFORM執行中**——把劫四強戰（謫仙REMOVE→玄昆CONFIRMED）正式TRANSFORM進RC-V06最終12章大綱，附三條execution notes（含一條MUST FIX） | RC-FH-01全部完稿結案（`e230918`）。玄昆人物質地設計已交案並經第二輪盲審驗證成功，reviewer明確指認踩草看草那個動作「就是玄昆本人」。**✅ 2026-09-17使用者正式裁定RC-V06 UNBLOCK**，已派新任務，完成後跑canon/power-system審查即進`jie-writer`。 |
-| 寫手2 | **✅ Combat Staging Skeleton已交案，目前空手待命** | RC-FH-08已完成結案（`8e42ac3`），順帶協助抓到並由PM修正`novel/published/`鏡像同步缺口（`e40a331`）。**寫手2為Remote Control連線，clear_session對其無效**。Combat Staging Skeleton三次節奏骨架已交案，成功整合寫手1人物質地、拆掉因果太工整問題，第二輪盲審PASS，RC-V06已正式UNBLOCK交寫手1執行。**目前空手待命，可派新任務**。 |
+| 寫手2 | **RC-FH-02 chapter-editor回溯規劃**（Volume02 ch039~085封寒性格連續性補完，先規劃不動筆，見`CHECKLIST_NOVEL_REVIEW_FIXES.md`四項必查事項） | RC-FH-08、Combat Staging Skeleton均已完成結案。**寫手2為Remote Control連線，clear_session對其無效**。**✅ 2026-09-17派新任務**：RC-FH-02原驗收條件「使用坍縮兵胚作戰」是retcon前舊陳述已訂正為劍修持劍不變；使用者定調這是封寒人物連續性補完非單純性格小修，要求先產出chapter-editor retrospective map（seam check/共同瘋事插槽/話多愛鬧適用範圍/生劫瘋關係continuity）再決定動哪些章，驗收標準是「遮名讀者能否認出RC-FH-01後的同一個人」。 |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
 
