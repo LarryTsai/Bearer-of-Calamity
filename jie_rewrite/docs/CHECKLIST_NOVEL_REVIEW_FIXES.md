@@ -141,9 +141,9 @@
   - 現況：`docs/README.md` L5 等至少6份文件把「三千州＝荒劫上界重逢、首次交換本名」列為全書時間基準級別的既定事實。
   - 驗收：新版大綱已把重逢提前到「起承之間」段落並保留交換本名的功能，落筆後需確認 `README.md`、`CHARACTER_SHI_HAO.md`、`CHARACTER_LU_CHEN.md`、`events/EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`、`events/EVENT_TWO_FALLEN_SECTS_ECHO.md` 等文件的具體描述是否需要因新版場景設計而微調用詞（事件功能本身不變）。
 
-- [ ] **RC-3K-05｜P1｜第90、91、93題（石毅／秦昊／十冠王）正式改列不採用**
+- [x] **RC-3K-05｜P1｜第90、91、93題（石毅／秦昊／十冠王）正式改列不採用——✅ 2026-09-17 PM核對確認已完成，checkbox過時未同步**
   - 現況：三題原設計錨定已推翻的仙古場景，長期處於「已定案但找不到家」的孤兒狀態。
-  - 驗收：已於新版大綱「人物位置與安全閥核對」明確標註不採用，待PM/總控正式將 `CHECKLIST_PENDING_DECISIONS.md` 第90、91、93題的狀態改為「不採用／擱置」，避免繼續以孤兒狀態懸空。
+  - 驗收：三題已於`docs/CHECKLIST_RESOLVED_HISTORY.md`（隨本次66項migration一併搬移）各自帶有明確的「⚠️ 2026-09-13後續：正式改列不採用」註記，理由與本題描述一致（原錨定PW-13A-1/PW-12A等仙古節點已隨172題「陸沉不再前往仙古遺跡」整體推翻，三千州爭鋒v2.0重寫後接不上新骨架）。狀態已達成，本次僅訂正checkbox未同步的問題，不需額外動作。
 
 - [x] **RC-3K-06｜P1｜README／目錄／review檔用詞同步（2026-09-17寫手2完成）**
   - 現況：`novel/README.md`、`MASTER_TABLE_OF_CONTENTS.md`、`CHECKLIST_NOVEL_REVIEW_FIXES.md` 舊有逐章複核記錄均綁定舊版52章具體內容。
