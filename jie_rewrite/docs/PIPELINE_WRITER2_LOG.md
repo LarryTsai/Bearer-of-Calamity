@@ -124,3 +124,12 @@
     - 跑了一輪四方最終複核（同時扮演jie-canon/jie-continuity/jie-character/jie-power-system），全數pass，僅continuity抓到一處真問題：`chapter021.md`提前具名「烏迭」（此時陸沉還不知道這個名字，直到ch022對方才自報姓名），違反限知視角也削弱ch022的揭曉懸念，已自己動手改成「他尚未見過的統一紋樣」。
     - 已更新`CHECKLIST_NOVEL_REVIEW_FIXES.md`RC-FH-05為完成狀態。**至此RC-FH-05正式結案**。
     - **遺留提醒（非阻塞，留給PM/使用者判斷）**：本批次新增四項世界觀細節（黑水城地底偏殿、先王遺蛺外觀與拆解機制、黑水城巡查與戰神書院守禁人紋樣同源、坍縮突破具體代價形態）建議正式登記進`CHECKLIST_PENDING_DECISIONS.md`並回填對應唯一來源檔，目前僅存在正文本身；「奇點」階段字面定義是「吞吐力場」（吞+吐雙向），ch021實際描寫偏向單向收束歸零，建議之後有機會請`jie-power-system`再確認一次用詞是否需要微調，不影響本次結案；`novel/README.md`volume08段落與`novel/published/volume08/`鏡像都還沒同步，需要PM安排（比照RC-FH-08先例，PM之前是用`scripts/make_clean_copy.pl`處理published鏡像）。
+
+13. **RC-XH-04（玄衡／界潮retcon總表：萬雷禁／鎖魂禁掛靠場景措辭同步）**——**查證後發現範圍衝突，未動筆，已回報PM並由PM訂正checklist結案**。
+    - PM指派時描述為「P1小規模純措辭同步」，但查證後：Volume10 ch009~016逐章grep「死寂雷域/仙古/界潮/界樁」全數無結果，正文本來就沒有具名指涉場景來源，這半部分無字可換。Volume04部分查`MACRO_OUTLINE.md`確認Volume04＝第十四篇〈界潮與古界〉（原第八篇〈仙古埋雷〉），整卷56章建立在已推翻的仙古遺跡框架上，屬於`RC-XH-01`（25章刪除/31章重寫/0章保留，卡在TODO-1~4未裁定）的範圍，且`VOLUME04_RETCON_CHAPTER_PLAN.md`全文未提及「萬雷禁」「鎖魂禁」，對應章節根本沒有被點名過。
+    - 回報PM後，PM確認是指派時沒查到RC-XH-01規模衝突，已訂正checklist（commit `059bb62`）：Volume10半標記完成，Volume04半正式併入RC-XH-01，等RC-V06收尾、古界進structural design、TODO裁定後才一併處理。RC-XH-04本身結案，不用再回頭看。
+    - **這次的價值**：跟RC-FH-03（查證目標已作廢）同類型，先查證避免了一次可能白做工、甚至改壞未來RC-XH-01整卷重寫的動筆。
+
+14. **RC-3K-08（`novel/volume03a/chapter020.md`閉環驗收銜接點覆核，三千州爭鋒v2.0開篇是否仍與ch020吻合）**——**已完成，覆核通過，未修改ch020**。
+    - 查`novel/volume03_v2/chapter001.md`自檢區塊，確認新版開篇不僅保留唐野名額線功能性接口，還**明確主動回想並引用**ch020章末「可重算的紀錄」與「用程序排除人的紀錄」疑問，銜接比舊版更緊密（舊版銜接點不在陸沉行動路徑上，新版正好接在陸沉抵達三千州的動作上）。地點雖從舊版太玄宗十二峰改為三千州境外赤衢驛驗印廳，但`EVENT_THREE_THOUSAND_STATES_ENTRY_REVIEW.md`已正式標註新版為準、非同一事件。另逐查ch001~003確認未插入任何擂台/比試場景，「無第三場擂台疲勞」設計目的維持成立。
+    - 已在`CHECKLIST_NOVEL_REVIEW_FIXES.md`直接標記RC-3K-08完成並附核對細節，未觸碰ch020本身（PM要求若吻合可直接標記完成，不吻合才需回報確認影響範圍——本次結果是吻合）。
