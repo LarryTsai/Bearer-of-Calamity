@@ -282,9 +282,11 @@
 
 **背景**：使用者裁定推翻「死寂雷域」與「仙古遺跡：劫反敗謫仙」兩個整合事件，改採「界潮＋古界」窄範圍置換版本——保留玄衡登場時間點不變（仍在Volume04、三千州天才戰後、禁都之前），但整段場景、判定邏輯與觸發事件全部改版；陸沉不再前往仙古遺跡，原本掛靠該地的謫仙調查、反殺、鎮無央首次顯化整體移除。唯一來源已回填：`characters/CHARACTER_XUAN_HENG.md` v1.2、`events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md` v2.0、`events/EVENT_XIANGU_RUINS_ZHEXIAN.md` v2.0（已推翻）、`systems/SYSTEM_TEN_CALAMITY_THUNDERS.md` 七、`factions/FACTION_FOUR_COMPANION_STARS.md`、`characters/CHARACTER_RIVAL_TIANFA.md`、`characters/CHARACTER_ZHEN_WUYANG.md`、`characters/CHARACTER_LU_CHEN.md`、`events/EVENT_MOTHER_FRACTURED_DOMAIN.md`、`MACRO_OUTLINE.md` 第十四篇，以及 `STORY_CAUSALITY_NETWORK.md`、`WORLD_GEOGRAPHY_AND_ROUTES.md`、`SYSTEM_THUNDER_POOLS.md`、`SYSTEM_CULTIVATION_TIMELINE.md`、`canon/PERFECT_WORLD_CANON_TIMELINE.md`、`README.md`、`REVEAL_TIMELINE.md`、`events/EVENT_PARTICIPATION_MATRIX.md` 等低風險交叉引用。**本節只記錄「正文與新設定已知牴觸之處」，不代表正文已修改**。
 
-- [x] **RC-XH-01｜P0｜Volume04 全卷（ch001～ch056）逐章規劃已完成，實際改寫尚待四項TODO裁定**
-  - 現況：`jie-chapter-editor` 已完整盤點 `novel/volume04/chapter001.md`～`chapter056.md`（實際規模比原估計的ch001～035更大，全卷56章從頭到尾都是同一個仙古遺跡敘事框架），產出逐章處置表：25章刪除、31章整段重寫、0章保留不動。完整規劃見新建文件 `docs/VOLUME04_RETCON_CHAPTER_PLAN.md`。
-  - 驗收（尚待裁定，才能進入實際改寫）：TODO-1（ch018鎮界戰鬥插入點：古界初期或需先補生活鋪墊）、TODO-2（ch018玄衡魂印告白是否降級移至終章附近）、TODO-3（古界生活弧線完全空白，需`jie-creative`另案設計具體方案）、TODO-4（洛生衣在ch037～056大量在場戲份與新安全閥衝突，退出程度待定）。四項確認後才交 `jie-writer` 模式二依規劃逐段改寫。
+- [x] **RC-XH-01｜P0｜Volume04 全卷（ch001～ch056）逐章規劃已完成，⚠️2026-09-18發現：四項TODO其實2026-09-12當天就已全數裁定，本條目標題與驗收敘述長期未同步更新，導致「下一步：跑一輪審查後交jie-writer模式二逐段改寫」這個已就緒的執行步驟從2026-09-12起被閒置至今未派工**
+  - 現況：`jie-chapter-editor` 已完整盤點 `novel/volume04/chapter001.md`～`chapter056.md`（全卷56章從頭到尾都是同一個已被推翻的「仙古遺跡」敘事框架，含ch018/019——但ch018/019已另外由後續OUTLINE_ANCIENT_REALM_WAR.md工作沿用改寫完稿，不在此25刪/31重寫範圍內重複處理），產出逐章處置表：25章刪除、31章整段重寫、0章保留不動。完整規劃見 `docs/VOLUME04_RETCON_CHAPTER_PLAN.md`。
+  - **TODO-1~4裁定結果（見該文件「四項TODO裁定結果（2026-09-12）」節，全部已✅）**：TODO-1先補古界生活弧線再接鎮界戰鬥；TODO-2 ch018玄衡魂印告白降級移至終章附近；TODO-3古界生活弧線定案為多國戰爭史詩規模（定樁皇朝/游島十二部/界屍盜三方爭五島），已產出`outlines/OUTLINE_ANCIENT_REALM_WAR.md`（約18~20章，僅最後2章即現行ch018/019已完稿，前15~17章從未寫出一行——2026-09-18寫手2古界篇反向audit已從另一角度確認此落差）；TODO-4 ch045為洛生衣自然退場點，ch037~044可保留她在場。
+  - 2026-09-18發現時該文件自己記載的「執行順序」第3步：`OUTLINE_ANCIENT_REALM_WAR.md`八節四項待覆核事項需先跑`jie-power-system`/`jie-continuity`/`jie-character`/`jie-canon`一輪審查，確認無新衝突後才交`jie-writer`模式二逐段改寫——**這一步從未被執行**，55章（56章扣ch018/019已完稿部分）仍是舊版仙古遺跡正文原封不動掛在`novel/volume04/`。
+  - **這項發現與目前進行中的「殘鐧死者Phase 1」直接相關**：Phase 1正在設計的死者X故事發生在同一個古界/界潮舞台，但承載這個舞台的15~17章古界生活弧線正文本身還完全不存在，只有規劃文件與最後2章成稿——是否要在X設計定案前後啟動這56章retcon的實際執行，是一個會牽動排程的規模性決策，PM不自行拍板，已回報使用者判斷。
 
 - [x] **RC-XH-02｜P0｜「血祭殘煞」機制起源已定案（原缺口已解決，設定層級完成，正文待落筆）**
   - 現況：已由 `jie-creative` 提出五個方案，使用者裁定採用「長生勢力帝關分支」方向（方案一），並指定起源伏筆改放天神書院（Volume06）而非另開新大篇。已回填 `characters/CHARACTER_RIVAL_TIANFA.md` 四、`REVEAL_TIMELINE.md`「洛氏師門滅門」、`outlines/OUTLINE_TIANSHEN_ACADEMY.md` 二（青崖藥站伏筆）、`MACRO_OUTLINE.md` 十八篇卡點。三階段線索鏈：書院期青崖藥站埋疑點→第85題洛生衣七日獨立調查→十八篇死戰引爆。
