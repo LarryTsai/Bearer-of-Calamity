@@ -1,10 +1,12 @@
 # 古界篇 Constraint Map（既有設定回收整理）
 
+> **⚠️ 本文件大部分內容已過時（2026-09-19標記）**：本文件是Structural Design Round 1~4與Scene Architecture階段**之前**（2026-09-17）的Canon Recovery快照，文中列出的多數「未定案／空白項目」（洛生衣在場狀態、柁婆阿磯落點、陸沉線扭曲效果覆核、三方勢力是否沿用、殘鐧幕次等）**已在後續Round1~4與Scene Architecture階段正式定案或解決**。查現況請優先參考`docs/CHECKLIST_NOVEL_REVIEW_FIXES.md` 0.4節（完整Round 1~5決策記錄）與`docs/outlines/OUTLINE_ANCIENT_REALM_EXPANDED.md`（Act1~4章節大綱，含已定案事項）。本文件保留供歷史查考，不逐項回填更新。
+>
 > **本文件為回收既有設定的整理文件，非新設計提案，未經 structural design 審查與使用者裁定前，不可視為正式唯一來源大綱；正式立項但尚未開寫，待 RC-V06（天神書院）收尾後才進 structural design 階段。**
 >
 > 產出依據：`docs/CHECKLIST_PENDING_DECISIONS.md` 第211題「A節（古界）裁定」（2026-09-17）——「正式立項，但不現在開寫……現在唯一要做的事是『古界Canon Recovery／Constraint Map』——只回收既有已談過的設定，不創作新50章內容」。
 >
-> 狀態：v1.0（2026-09-17，回應第211題A節裁定產出）
+> 狀態：v1.0（2026-09-17，回應第211題A節裁定產出，**已於2026-09-19標記大部分過時**）
 
 ---
 
