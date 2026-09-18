@@ -3,6 +3,8 @@
 狀態：規劃文件 v1.0（2026-09-12，`jie-chapter-editor` 產出，尚未動筆）
 
 > 本文件是「玄衡／界潮 retcon」與「封寒／瘋 retcon」對 `novel/volume04/`（chapter001.md～chapter056.md，共56章）的逐章處置規劃，回應 `CHECKLIST_NOVEL_REVIEW_FIXES.md` RC-XH-01。**本文件只規劃，不動筆**——實際改寫需待下方四項 TODO 由使用者裁定後才能開始。
+>
+> **⚠️ 2026-09-18使用者裁定語意重要澄清（勿誤讀為「已排隊待執行」）**：下方四項TODO確實已於2026-09-12全數裁定，但那只是對**舊版**volume04內容的處置決定（哪些刪、哪些重寫），**不等於新版volume04已經設計完成、具備開工條件**。新版volume04（承載死者X、三方勢力、古界五幕職責的版本）目前完全沒有Scene/Arc Architecture，前15~17章從未寫出一行。正確狀態描述是：**「舊版處置決策完成，新版正文尚未具備開工條件」**。使用者已明確裁定：**Volume04 56章retcon現在禁止開寫**，任何session看到本文件都不應視為「可以開工」的信號，需等使用者後續確認新版Scene/Arc Architecture成形後才會重新啟動。
 
 ## 前置說明
 
@@ -106,7 +108,7 @@ ch022〈證詞交易〉、ch023〈五星救主〉、ch024〈自劃榜名〉、ch
 
 1. ~~使用者裁定 TODO-1、TODO-2、TODO-4~~ ✅ 已完成（2026-09-12）。
 2. ~~交 `jie-creative` 針對 TODO-3（古界生活弧線）提出具體方案~~ ✅ 已完成（2026-09-12，多國戰爭史詩規模定案，見 `outlines/OUTLINE_ANCIENT_REALM_WAR.md`）。
-3. **四項TODO全部確認完畢**。下一步：`outlines/OUTLINE_ANCIENT_REALM_WAR.md` 八節列出的四項待覆核事項（jie-power-system／jie-continuity／jie-character／jie-canon）需先跑一輪審查，確認無新衝突後，才交 `jie-writer` 模式二依本規劃逐段改寫。
+3. ~~四項TODO全部確認完畢~~ ⚠️ **2026-09-18訂正：以上僅為對舊版內容的處置裁定，不等於下一步已可執行**。`outlines/OUTLINE_ANCIENT_REALM_WAR.md` 八節列出的四項待覆核事項＋新版Scene/Arc Architecture目前均未成形（僅完稿最後2章ch018/019，前15~17章從未寫出）。**使用者已裁定現在禁止開寫這56章retcon**，待「殘鐧死者Phase 1」X候選定案、`古界篇長篇化規劃.md`重新形成新版Scene/Arc Architecture、新章數重新推導出來後，才會回頭確認是否啟動四方審查與`jie-writer`模式二逐段改寫。本文件的25刪/31重寫處置表本身仍是有效的舊版清理依據，但**不是可以直接動筆的施工清單**。
 
 ## 相關檔案
 
