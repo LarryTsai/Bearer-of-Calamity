@@ -1,6 +1,6 @@
 ﻿# 第十三章 負石
 
-> 定位：第六篇「太玄宗・鎮岳入門」第二章，陸沉正式安頓入鎮岳峰，初次見到六位師兄姊，確立往後修行方向——先補齊《萬體鑄身經》公開前四篇根基，才有資格接觸鎮岳真傳後四篇。承接 `chapter012.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」第二章，陸沉正式安頓入鎮岳峰，初次見到六位師兄姊，確立往後修行方向——先補齊《萬體鑄身經》公開前四篇根基，才有資格接觸鎮岳真傳後四篇。承接 `chapter012.md`。
 > 時間：入峰翌日起，數日之內。
 > 唯一來源依據：`docs/characters/CHARACTER_YUE_CHENYUAN.md`（教導方式、與六弟子關係）、`docs/characters/CHARACTER_SHEN_SHANHE.md`（大師兄性格、與劫的啟發關係「你可以慢，但不能倒」）、`docs/characters/CHARACTER_QIN_ZHAOXUE.md`、`docs/characters/CHARACTER_LIU_QINGTENG.md`、`docs/characters/CHARACTER_LU_XINGLIE.md`、`docs/characters/CHARACTER_HAN_TIEYI.md`、`docs/characters/CHARACTER_GU_XIAOMAN.md`（六位師兄姊性格與六極體背景）、`docs/systems/SYSTEM_MYRIAD_BODY_FORGING_SCRIPTURE.md`（公開前四篇／鎮岳真傳後四篇邊界）。
 

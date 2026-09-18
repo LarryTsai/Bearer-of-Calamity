@@ -1,6 +1,6 @@
 ﻿# 第三十八章 太玄閣劫
 
-> 定位：第四篇「下界風暴」第四章，太玄閣滅閣雷劫第一輪禦劫「護人」，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五（第一輪：護人）。承接 `chapter037.md`。
+> 定位：第七篇（原第四篇）「下界風暴」第四章，太玄閣滅閣雷劫第一輪禦劫「護人」，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五（第一輪：護人）。承接 `chapter037.md`。
 > 時間：雷劫降臨當夜，第一波雷落下起。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md`（三輪禦劫既定佈局，劫此時僅有雷道雛形無正式雷種）、`docs/characters/CHARACTER_LU_CHEN.md`（洞天境體修狀態、致命缺點）、`docs/characters/CHARACTER_TAIXUAN_ELDER.md`（留守協助但不禦劫）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第134題（寫作邊界：本能反應層級、宋知微阿硯全程無重傷）。
 

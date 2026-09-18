@@ -1,6 +1,6 @@
 ﻿# 第三十章 續脈之約
 
-> 定位：第六篇「太玄宗・鎮岳入門」Segment B 收束章，陸沉與洛生衣共同為一名雷脈盡斷的鎮岳峰同門煉製續脈丹，洛生衣主動接入丹陣、與陸沉首次共同承受丹劫，確立兩人「不剝奪彼此自願承擔」的規則；陸沉的求助學習弧線再度推進，卻仍留下未坦白的秘密。改編自 `docs/systems/SYSTEM_THUNDER_ALCHEMY.md` 十二（續雷脈丹事故）；`docs/characters/CHARACTER_LUO_SHENGYI.md`（正式煉丹相遇）。承接 `chapter029.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」Segment B 收束章，陸沉與洛生衣共同為一名雷脈盡斷的鎮岳峰同門煉製續脈丹，洛生衣主動接入丹陣、與陸沉首次共同承受丹劫，確立兩人「不剝奪彼此自願承擔」的規則；陸沉的求助學習弧線再度推進，卻仍留下未坦白的秘密。改編自 `docs/systems/SYSTEM_THUNDER_ALCHEMY.md` 十二（續雷脈丹事故）；`docs/characters/CHARACTER_LUO_SHENGYI.md`（正式煉丹相遇）。承接 `chapter029.md`。
 > 時間：ch029後約十餘日。命圖尚未開。
 > 唯一來源依據：`docs/systems/SYSTEM_THUNDER_ALCHEMY.md`（十二：續雷脈丹事故，事前告知、拒絕解除陣路、確立兩條規則）；`docs/characters/CHARACTER_LUO_SHENGYI.md`（六：續雷脈丹事故，正式煉丹相遇）；`docs/characters/CHARACTER_LU_CHEN.md`（六：致命缺點、情感盲點）；`docs/CHECKLIST_NOVEL_REVIEW_FIXES.md` B節 V1-14（求助學習弧線需延續、非一次性徹底解決）。
 

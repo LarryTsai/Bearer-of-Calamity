@@ -1,6 +1,6 @@
 ﻿# 第四十一章 最後一雷
 
-> 定位：第四篇「下界風暴」第七章，太玄閣滅閣雷劫「最後一雷」，照命隔著兩界投來一次微弱照見，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五（最後一雷）、六（只有劫看見那道雷沒散）。刻意放慢節奏，獨立收束。承接 `chapter040.md`。
+> 定位：第七篇（原第四篇）「下界風暴」第七章，太玄閣滅閣雷劫「最後一雷」，照命隔著兩界投來一次微弱照見，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五（最後一雷）、六（只有劫看見那道雷沒散）。刻意放慢節奏，獨立收束。承接 `chapter040.md`。
 > 時間：緊接第三輪禦劫結束、雷聲全部停止後，最後一道雷落下起。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md`（照命雷「照見」而非「消耗」的核心定義，此刻陸沉不得理解其意義）、`docs/characters/CHARACTER_LU_CHEN.md`（致命缺點：習慣把自己列入可犧牲代價，不願及時求援）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第134題（完整界淵銀雷取得延後至 `雷淵` 章，本章不涉及能力取得，僅為遠端照見）。
 

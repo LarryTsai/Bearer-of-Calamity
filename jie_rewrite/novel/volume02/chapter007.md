@@ -1,6 +1,6 @@
 ﻿# 第七章 真假奇石
 
-> 定位：第五篇「界隙照命」第七章，兩人赴邊境小鎮賭石籌措盤纏。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之3（賭石：初入上界的第一筆盤纏）。承接 `chapter006.md`。
+> 定位：第八篇（原第五篇）「界隙照命」第七章，兩人赴邊境小鎮賭石籌措盤纏。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之3（賭石：初入上界的第一筆盤纏）。承接 `chapter006.md`。
 > 時間：緊接 ch006 末尾，離小鎮還有一日路程後的翌日傍晚。
 > 唯一來源依據：`docs/characters/CHARACTER_LUO_SHENGYI.md`（六之3：賭石經過、藏拙限度、聽雨渡地名首次出現）、`docs/systems/SYSTEM_TEN_CALAMITY_THUNDERS.md`（照命「照見命光、災點、虛妄與生機」既定能力延伸至照物）。
 

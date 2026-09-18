@@ -1,6 +1,6 @@
 ﻿# 第三十六章 古碑示警
 
-> 定位：第四篇「下界風暴」第二章，將「世道崩壞」收窄到「這座閣本身有問題」，側寫荒（石昊）遠方消息，太玄閣內部去留分歧開始浮現，並為下一章「阿硯被賦予責任」鋪墊先例。承接 `chapter035.md`。
+> 定位：第七篇（原第四篇）「下界風暴」第二章，將「世道崩壞」收窄到「這座閣本身有問題」，側寫荒（石昊）遠方消息，太玄閣內部去留分歧開始浮現，並為下一章「阿硯被賦予責任」鋪墊先例。承接 `chapter035.md`。
 > 時間：緊接ch016深夜提水異狀翌日起，數日之內。
 > 唯一來源依據：`docs/characters/CHARACTER_TAIXUAN_ELDER.md`（一貫惜言、界雷重創舊傷、無法遠行）、`docs/characters/CHARACTER_LU_CHEN.md`、`docs/factions/FACTION_TAIXUAN_SECT.md`（藏書室既定場景）、`docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md`（古碑、地脈節點等既定場景的最早伏筆呈現）、`docs/AUTHOR_SECRETS.md`（閣老秘密不可提前完整揭露）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第132題（阿硯人設、值守簿）、`docs/characters/CHARACTER_SHI_HAO.md`。
 

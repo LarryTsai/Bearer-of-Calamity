@@ -1,6 +1,6 @@
 ﻿# 第四十章 守閣
 
-> 定位：第四篇「下界風暴」第六章，太玄閣滅閣雷劫第三輪禦劫「走遍全閣」，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五（第三輪：走遍全閣），為太玄命圖最早伏筆，全程須以無意識求生本能呈現。承接 `chapter039.md`。
+> 定位：第七篇（原第四篇）「下界風暴」第六章，太玄閣滅閣雷劫第三輪禦劫「走遍全閣」，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五（第三輪：走遍全閣），為太玄命圖最早伏筆，全程須以無意識求生本能呈現。承接 `chapter039.md`。
 > 時間：緊接閣老負傷昏迷、被拖回石室後，第三波雷勢擴散全閣起。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md`（走遍全閣不涉及命圖術語，僅為本能連成之活命之圖）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第132、134題（宋知微延續「值守簿」記錄習慣）、`docs/factions/FACTION_TAIXUAN_SECT.md`（宋知微記錄習慣既定登記）、`novel/volume01/chapter015.md`（宋知微「不是這裡，是更早、更遠的地方」既定心事）（不可出現命圖、星位等術語，不可有圖騰浮現視覺化）。
 

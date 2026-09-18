@@ -1,6 +1,6 @@
 ﻿# 第四十三章 跨入雷淵
 
-> 定位：第四篇「下界風暴」第九章，陸沉追殘雷入兩界夾層虛空，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 七（追雷入虛空）。承接 `chapter042.md`。
+> 定位：第七篇（原第四篇）「下界風暴」第九章，陸沉追殘雷入兩界夾層虛空，改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 七（追雷入虛空）。承接 `chapter042.md`。
 > 時間：離閣當夜起，虛空中時間感失效，以下依主觀感受分段呈現。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md`（七：肉身崩裂而神魂不滅、雷光為唯一依靠）、`docs/characters/CHARACTER_LU_CHEN.md`（先天感劫體質對災劫異常敏感、致命缺點）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第134題（此時尚未取得界淵銀雷，不可有任何自主方向感應或能力輔助）。
 

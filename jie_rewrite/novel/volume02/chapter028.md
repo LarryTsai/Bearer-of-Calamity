@@ -1,6 +1,6 @@
 ﻿# 第二十八章 三身初立
 
-> 定位：第六篇「太玄宗・鎮岳入門」Segment B 第六階段，陸沉搭起連通萬年雷池與鎮岳峰小閣的子母挪移陣，並因本尊與煌命身的雷核共鳴日漸卡滯，分化出第二具雷身「承身」常駐鎮岳峰鍛體。改編自 `docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md` 二（子母挪移陣設陣）；`docs/systems/SYSTEM_THUNDER_BODY_DIVISION.md` 一、二、五（分工總覽、雷核共鳴機制、承身命名）。承接 `chapter027.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」Segment B 第六階段，陸沉搭起連通萬年雷池與鎮岳峰小閣的子母挪移陣，並因本尊與煌命身的雷核共鳴日漸卡滯，分化出第二具雷身「承身」常駐鎮岳峰鍛體。改編自 `docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md` 二（子母挪移陣設陣）；`docs/systems/SYSTEM_THUNDER_BODY_DIVISION.md` 一、二、五（分工總覽、雷核共鳴機制、承身命名）。承接 `chapter027.md`。
 > 時間：ch027後約半月，陸續進行。命圖尚未開。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md`（二：兩陣須陸沉雷息校驗、靈石供能，只能在近域空間穩定時定點往返）；`docs/systems/SYSTEM_THUNDER_BODY_DIVISION.md`（一：分工總覽；二：雷核共鳴機制；五：承身命名）；`docs/systems/SYSTEM_FORMLESS_SEPARATION_SCROLL.md` 六（雷身三層特徵表）。
 

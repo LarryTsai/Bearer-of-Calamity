@@ -1,6 +1,6 @@
 ﻿# 第一章 落入道天界
 
-> 定位：第五篇「界隙照命」開篇，陸沉墜落上界道天界邊緣，完整界淵銀雷穿越界壓後在第一雷位「照命」中穩定運轉。改編自 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 十一（道天界）與 `docs/MACRO_OUTLINE.md` 第五篇必要卡點。承接 `novel/volume01/chapter044.md`。
+> 定位：第八篇（原第五篇）「界隙照命」開篇，陸沉墜落上界道天界邊緣，完整界淵銀雷穿越界壓後在第一雷位「照命」中穩定運轉。改編自 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 十一（道天界）與 `docs/MACRO_OUTLINE.md` 第五篇必要卡點。承接 `novel/volume01/chapter044.md`。
 > 時間：緊接 Volume01 chapter044 結尾，虛空鬆動起。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md`（十一：道天界，抵達時修為幾乎盡失、肉身重傷，唯第一雷保住命火，劫厄仍為不穩定魂影）、`docs/systems/SYSTEM_TEN_CALAMITY_THUNDERS.md`（四：照命取得節奏；五：共通限制，雷種取得不等於完整掌握）、`docs/characters/CHARACTER_JIE_E.md`（劫厄僅魂影，不能長時間物理作戰）。
 

@@ -1,6 +1,6 @@
 ﻿# 第八章 生之名
 
-> 定位：第五篇「界隙照命」第八章，陸沉與生（洛生衣化名）同行至聽雨渡，生主動選擇停止隱瞞，以本名「洛」相見並贈笛。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之4（聽雨渡：以「洛」相認，贈笛）。承接 `chapter007.md`。
+> 定位：第八篇（原第五篇）「界隙照命」第八章，陸沉與生（洛生衣化名）同行至聽雨渡，生主動選擇停止隱瞞，以本名「洛」相見並贈笛。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之4（聽雨渡：以「洛」相認，贈笛）。承接 `chapter007.md`。
 > 時間：離開邊境小鎮後數日，抵達聽雨渡當晚。
 > 唯一來源依據：`docs/characters/CHARACTER_LUO_SHENGYI.md`（六之4：聽雨渡經過、核心對話原文、無聲渡笛之贈）、`docs/AUTHOR_SECRETS.md`（三：生洛揭曉方式，陸沉不得靠推理拆穿）、`docs/events/EVENT_SECOND_THUNDER_JIEMING.md`（二之4：贈笛須發生在劫命歸位之前）。
 

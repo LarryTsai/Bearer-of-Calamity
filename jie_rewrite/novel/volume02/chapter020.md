@@ -1,6 +1,6 @@
 ﻿# 第二十章 三息雷影
 
-> 定位：第六篇「太玄宗・鎮岳入門」Segment B「日常修行與煉丹相遇」首章。陸沉初嘗《無相離身卷》的分化一途，撐出第一縷極不穩定的雷身雛形。承接 `chapter019.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」Segment B「日常修行與煉丹相遇」首章。陸沉初嘗《無相離身卷》的分化一途，撐出第一縷極不穩定的雷身雛形。承接 `chapter019.md`。
 > 時間：取得《無相離身卷》後約半月。命圖尚未開，鎮魄、命藏、七峰大比皆未發生。
 > 唯一來源依據：`docs/systems/SYSTEM_FORMLESS_SEPARATION_SCROLL.md`（二：核心方向，分化；五：雷核共鳴，分身初成並不穩固）、`docs/systems/SYSTEM_THUNDER_ALCHEMY.md`（一：體修燒資源背景、劫不願長期欠峰中師兄姊人情）、`docs/characters/CHARACTER_LU_CHEN.md`（致命缺點：習慣把自己列入可犧牲代價）、`novel/volume02/chapter019.md`（承接離身根基與岳沉淵「雷身、分身，都是這卷經後面的事」伏筆）。
 

@@ -1,6 +1,6 @@
 ﻿# 第三十七章 大劫將至
 
-> 定位：第四篇「下界風暴」第三章，從「異狀」正式過渡到「迫在眉睫」，完成雷劫降臨前最後的分工，銜接後續禦劫章節（見 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五）。承接 `chapter036.md`。
+> 定位：第七篇（原第四篇）「下界風暴」第三章，從「異狀」正式過渡到「迫在眉睫」，完成雷劫降臨前最後的分工，銜接後續禦劫章節（見 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 五）。承接 `chapter036.md`。
 > 時間：古碑嗡鳴之後數日。
 > 唯一來源依據：`docs/characters/CHARACTER_TAIXUAN_ELDER.md`（舊傷、無法正面禦劫）、`docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md`（地下石室、接引古印、三輪禦劫既定佈局）、`docs/characters/CHARACTER_LU_CHEN.md`（致命缺點、以行動代替語言）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第132題（阿硯人設承接ch017先例）。
 

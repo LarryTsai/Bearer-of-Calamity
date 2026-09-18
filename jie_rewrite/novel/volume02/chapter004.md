@@ -1,6 +1,6 @@
 ﻿# 第四章 無名令
 
-> 定位：第五篇「界隙照命」第四章，陸沉與生並肩伏殺尾隨而至的高階修士。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之2（同行：一場並肩的伏殺）。承接 `chapter003.md`。
+> 定位：第八篇（原第五篇）「界隙照命」第四章，陸沉與生並肩伏殺尾隨而至的高階修士。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之2（同行：一場並肩的伏殺）。承接 `chapter003.md`。
 > 時間：同日入夜後。
 > 唯一來源依據：`docs/characters/CHARACTER_LUO_SHENGYI.md`（六之2：核心對話原文、伏殺分工）、`docs/characters/CHARACTER_JIE_E.md`（僅能陪伴示警，不參與物理戰鬥）、`docs/WRITING_GUIDELINES.md` 第五節（戰鬥描寫六要素）。
 

@@ -1,6 +1,6 @@
 ﻿# 第九章 笛聲續命
 
-> 定位：第五篇「界隙照命」第九章，劫族守舊者以血脈祭術遠端鎖定陸沉，企圖以血脈共鳴將他拖回沉雷谷祭命因果。改編自 `docs/events/EVENT_SECOND_THUNDER_JIEMING.md` 二之3、4、5。承接 `chapter008.md`。
+> 定位：第八篇（原第五篇）「界隙照命」第九章，劫族守舊者以血脈祭術遠端鎖定陸沉，企圖以血脈共鳴將他拖回沉雷谷祭命因果。改編自 `docs/events/EVENT_SECOND_THUNDER_JIEMING.md` 二之3、4、5。承接 `chapter008.md`。
 > 時間：離開聽雨渡後第二日夜晚。
 > 唯一來源依據：`docs/events/EVENT_SECOND_THUNDER_JIEMING.md`（二：事件順序，血祭遠端共鳴、無聲渡笛穩神魂不代斬命）、`docs/factions/FACTION_JIE_CLAN.md`（一：血脈反噬既有種族設定）、`novel/volume01/chapter001.md`（老族長沉默打開出口的既定畫面）、`docs/characters/CHARACTER_JIE_E.md`（顯形時間略增長邊界）。
 

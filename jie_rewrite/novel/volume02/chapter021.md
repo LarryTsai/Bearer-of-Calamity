@@ -1,6 +1,6 @@
 ﻿# 第二十一章 丹房
 
-> 定位：第六篇「太玄宗・鎮岳入門」Segment B 第二章。陸沉反覆試煉分化雷身，確立短時獨立支撐能力，決定讓第一縷雷身前往主峰通用閣煉丹閣打工賺取資源。承接 `chapter020.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」Segment B 第二章。陸沉反覆試煉分化雷身，確立短時獨立支撐能力，決定讓第一縷雷身前往主峰通用閣煉丹閣打工賺取資源。承接 `chapter020.md`。
 > 時間：初成雷影後約十餘日。命圖尚未開。
 > 唯一來源依據：`docs/systems/SYSTEM_FORMLESS_SEPARATION_SCROLL.md`（五：雷核共鳴）、`docs/systems/SYSTEM_THUNDER_BODY_DIVISION.md`（一：分工總覽，煌命身駐主峰通用閣煉丹閣，承財；二：雷核共鳴機制）、`docs/systems/SYSTEM_THUNDER_ALCHEMY.md`（一：進入煉丹閣最初階段，分揀藥材、清理丹爐等雜務）、`docs/factions/FACTION_TAIXUAN_SECT.md`（一之一：主峰與通用閣，雷身打工設定）。
 

@@ -1,6 +1,6 @@
 ﻿# 第二十一章 泥沼救人
 
-> 定位：第三篇「太玄閣鑄身」第四章，銜接大綱卡點「劫接受完整的煉體訓練」「站穩、承痛、不崩成為其行事與戰鬥根基」，並引入雜役少年阿硯。承接 `chapter020.md`。
+> 定位：第四篇（原第三篇）「太玄閣鑄身」第四章，銜接大綱卡點「劫接受完整的煉體訓練」「站穩、承痛、不崩成為其行事與戰鬥根基」，並引入雜役少年阿硯。承接 `chapter020.md`。
 > 時間：出發後第五日，抵達百斷山外圍礦脈裂口周邊沼澤。
 > 唯一來源依據：`docs/characters/CHARACTER_LU_CHEN.md`（右手虎口舊傷後遺症、殘留雷紋被動觸發機制、情感盲點）、`docs/systems/SYSTEM_MYRIAD_BODY_FORGING_SCRIPTURE.md`（下界殘篇邊界）、`docs/world/WORLD_GEOGRAPHY_AND_ROUTES.md`（沼澤地形、藤蔓風險）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第132題（阿硯人設定案）。
 

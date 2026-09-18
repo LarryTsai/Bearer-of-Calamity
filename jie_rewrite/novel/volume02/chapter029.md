@@ -1,6 +1,6 @@
 # 第二十九章 洗塵
 
-> 定位：第六篇「太玄宗・鎮岳入門」Segment B 第七階段，本尊、煌命身、承身首次三身共赴雷池，建立起夜間共修「洗澡」的固定日常，雷訊令的最初念頭於此夜誕生。改編自 `docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md` 三、四（三身夜修、雷池裡的日常）。承接 `chapter028.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」Segment B 第七階段，本尊、煌命身、承身首次三身共赴雷池，建立起夜間共修「洗澡」的固定日常，雷訊令的最初念頭於此夜誕生。改編自 `docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md` 三、四（三身夜修、雷池裡的日常）。承接 `chapter028.md`。
 > 時間：ch028當夜起，此後成為固定日常。命圖尚未開。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md`（三：三身夜修；四：雷池裡的日常，「打壞陣法，你們自己走回去」原句出處）；`docs/systems/SYSTEM_THUNDER_BODY_DIVISION.md`（本尊承險、煌命身承財、承身承根）。
 

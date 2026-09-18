@@ -1,6 +1,6 @@
 ﻿# 第二十章 百斷山路
 
-> 定位：第三篇「太玄閣鑄身」第三章，銜接大綱卡點「太玄閣定期外購藥引，鍛骨篇所需藥引僅在百斷山開啟期間外圍礦脈裂口可得」，由閣老送陸沉、宋知微二人至西側石階，兩人結伴前往；阿硯尚未出場。承接 `chapter019.md`。
+> 定位：第四篇（原第三篇）「太玄閣鑄身」第三章，銜接大綱卡點「太玄閣定期外購藥引，鍛骨篇所需藥引僅在百斷山開啟期間外圍礦脈裂口可得」，由閣老送陸沉、宋知微二人至西側石階，兩人結伴前往；阿硯尚未出場。承接 `chapter019.md`。
 > 時間：擺飯距離縮短數日之後，百斷山開啟期即將到來。
 > 唯一來源依據：`docs/characters/CHARACTER_TAIXUAN_ELDER.md`（無法離開太玄閣太遠）、`docs/characters/CHARACTER_LU_CHEN.md`、`docs/world/WORLD_GEOGRAPHY_AND_ROUTES.md`（太玄閣↔百斷山外圍礦脈裂口路線）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第132題。
 

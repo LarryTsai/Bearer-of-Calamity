@@ -1,6 +1,6 @@
 ﻿# 第二十二章 萬靈峰
 
-> 定位：第六篇「太玄宗・鎮岳入門」Segment B 第三章。煌命身在煉丹閣站穩腳跟後，與山門分道後久未謀面的洛生衣重逢；她發現他控火手法不對勁，兩人約定隔日試爐。承接 `chapter021.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」Segment B 第三章。煌命身在煉丹閣站穩腳跟後，與山門分道後久未謀面的洛生衣重逢；她發現他控火手法不對勁，兩人約定隔日試爐。承接 `chapter021.md`。
 > 時間：煌命身入閣約一月後。命圖尚未開。
 > 唯一來源依據：`docs/systems/SYSTEM_THUNDER_ALCHEMY.md`（一：洛生衣起初只把他當成不怕累、又極安靜的鎮岳峰弟子，直到發現他不需要地火）、`docs/events/EVENT_LUO_SHENGYI_THUNDER_MESSAGE_DAILY_LIFE.md`（二：兩峰總是錯開的背景）、`docs/characters/CHARACTER_LUO_SHENGYI.md`（六之5：太玄宗山門分道後，陸沉的第一縷雷身也曾在煉丹閣打工歷練，兩人因此本就熟識）。
 

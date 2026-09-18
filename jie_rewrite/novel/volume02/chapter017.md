@@ -1,6 +1,6 @@
 ﻿# 第十七章 山中求救
 
-> 定位：第六篇「太玄宗・鎮岳入門」第六章，改脈行至舊路已拆、新路未成的危險空懸期，陸沉第一次主動開口向同門求助，而非獨自硬撐。承接 `chapter016.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」第六章，改脈行至舊路已拆、新路未成的危險空懸期，陸沉第一次主動開口向同門求助，而非獨自硬撐。承接 `chapter016.md`。
 > 時間：改脈訓練約半月後。
 > 唯一來源依據：`docs/characters/CHARACTER_LU_CHEN.md`（致命缺點：習慣把自己列入可犧牲代價；情感盲點：隱瞞傷勢即剝奪同伴選擇）、`docs/characters/CHARACTER_SHEN_SHANHE.md`（「你可以慢，但不能倒」）、`docs/characters/CHARACTER_LIU_QINGTENG.md`（周天分傷之法）、`docs/systems/SYSTEM_MYRIAD_BODY_FORGING_SCRIPTURE.md`（改脈邊界：依缺陷與道路重整經脈，過程不得無限制堆疊或跳步）。
 

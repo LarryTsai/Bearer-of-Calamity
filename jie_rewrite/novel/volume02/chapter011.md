@@ -1,6 +1,6 @@
 ﻿# 第十一章 古令開門
 
-> 定位：第五篇「界隙照命」終章，陸沉與洛同抵太玄宗山門，通過入宗測試後正式分道。全篇第五篇離場結果收束章，同時銜接第六篇「太玄宗・鎮岳入門」。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之5（太玄宗山門：正式分道）、`docs/factions/FACTION_TAIXUAN_SECT.md` 四（太玄舊令的能與不能）。承接 `chapter010.md`。
+> 定位：第八篇（原第五篇）「界隙照命」終章，陸沉與洛同抵太玄宗山門，通過入宗測試後正式分道。全篇第五篇離場結果收束章，同時銜接第九篇（原第六篇）「太玄宗・鎮岳入門」。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之5（太玄宗山門：正式分道）、`docs/factions/FACTION_TAIXUAN_SECT.md` 四（太玄舊令的能與不能）。承接 `chapter010.md`。
 > 時間：離開矮林後數日，抵達太玄宗山門當日。
 > 唯一來源依據：`docs/factions/FACTION_TAIXUAN_SECT.md`（四：太玄舊令邊界；五：岳沉淵收徒不因舊令徇私，本章不展開）、`docs/characters/CHARACTER_LUO_SHENGYI.md`（六之5：分道經過）、`docs/MACRO_OUTLINE.md` 第五篇離場結果、第六篇卡點1（舊令邊界）。
 

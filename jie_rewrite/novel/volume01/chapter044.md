@@ -1,6 +1,6 @@
 ﻿# 第四十四章 界淵銀雷
 
-> 定位：第四篇「下界風暴」末章、全篇收束章。陸沉抵達界海雷淵，取得完整界淵銀雷、將命圖第一雷位命名為照命，劫厄於界隙首次顯形，完成本篇離場結果，通向第五篇「界隙照命」。改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 八～十。承接 `chapter043.md`。
+> 定位：第七篇（原第四篇）「下界風暴」末章、全篇收束章。陸沉抵達界海雷淵，取得完整界淵銀雷、將命圖第一雷位命名為照命，劫厄於界隙首次顯形，完成本篇離場結果，通向第八篇（原第五篇）「界隙照命」。改編自已定稿的 `docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md` 八～十。承接 `chapter043.md`。
 > 時間：緊接虛空盡頭抵達雷淵起。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_PAVILION_SIEGE.md`（八：界海雷淵；九：劫不是打敗第一雷而是被判定還能活、命光異象；十：劫厄界隙首次顯形）、`docs/systems/SYSTEM_TEN_CALAMITY_THUNDERS.md`（四：照命取得節奏，取得處即為界路中央；五：共通限制，雷種取得不等於完整掌握）、`docs/characters/CHARACTER_JIE_E.md`（劫厄自幼相伴、此刻界隙首次顯形，非初遇）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第134題（照命初期能力邊界逐字遵守；命光異象不可判讀；劫厄僅魂影不可戰鬥；收在墜落前一刻）。
 

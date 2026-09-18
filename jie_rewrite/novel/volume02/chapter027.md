@@ -1,6 +1,6 @@
 ﻿# 第二十七章 圖外雷聲
 
-> 定位：第六篇「太玄宗・鎮岳入門」Segment B 第五階段（本尊視角），陸沉於一次宗門外務中意外發現太玄宗近域的萬年不滅雷池，未上報，暗自以基礎子母挪移陣連接鎮岳峰小閣。改編自 `docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md` 二（發現與設陣）。承接 `chapter026.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」Segment B 第五階段（本尊視角），陸沉於一次宗門外務中意外發現太玄宗近域的萬年不滅雷池，未上報，暗自以基礎子母挪移陣連接鎮岳峰小閣。改編自 `docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md` 二（發現與設陣）。承接 `chapter026.md`。
 > 時間：ch026後數日，本尊獨自受峰中委派外務。命圖尚未開。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md`（一：定位；二：發現與設陣，未上報、基礎子母挪移陣、雷息校驗、靈石供能）；`docs/characters/CHARACTER_LU_CHEN.md`（強災附近眩暈、耳鳴、視覺發白、失溫的既定體質反應）；`docs/systems/SYSTEM_TAIXUAN_FATE_MAP_AND_JIE_REALM.md` 四之三（命圖未開，純被動感知）。
 

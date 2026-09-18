@@ -1,6 +1,6 @@
 ﻿# 第三章 洛生衣
 
-> 定位：第五篇「界隙照命」第三章，陸沉甦醒後與生（洛生衣化名）初次交鋒式的相遇。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之1（乾涸河谷：以「生」相救）。承接 `chapter002.md`。
+> 定位：第八篇（原第五篇）「界隙照命」第三章，陸沉甦醒後與生（洛生衣化名）初次交鋒式的相遇。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 六之1（乾涸河谷：以「生」相救）。承接 `chapter002.md`。
 > 時間：昏迷後數個時辰，天色將明。
 > 唯一來源依據：`docs/characters/CHARACTER_LUO_SHENGYI.md`（六之1：生的判斷與行動、關鍵對話；三：化名「生」；五：觀生、續脈能力邊界）、`docs/AUTHOR_SECRETS.md`（三：生洛揭曉方式，聽雨渡才以本名相認，此處仍化名「生」）。
 

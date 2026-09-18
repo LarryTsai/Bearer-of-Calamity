@@ -1,6 +1,6 @@
 ﻿# 第三十一章 地底異響
 
-> 定位：第六篇「太玄宗・鎮岳入門」Segment C 第一章。延續ch030日常修行節奏，雷池、小閣與七峰各處零散異兆逐一顯現；陸沉未迴避洛生衣的追問，給出過渡承諾。承接 `chapter030.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」Segment C 第一章。延續ch030日常修行節奏，雷池、小閣與七峰各處零散異兆逐一顯現；陸沉未迴避洛生衣的追問，給出過渡承諾。承接 `chapter030.md`。
 > 時間：ch030後約半月，雷汛將至。命圖尚未開。
 > 唯一來源依據：`docs/events/EVENT_TAIXUAN_ANCIENT_THUNDER_VEIN_RECONNECTION.md` 一（五項異兆全用）；承接 `chapter030.md` 末尾洛生衣追問；`docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md` 三、四（子母挪移陣機制、洗澡日常，作為異兆合理落地的背景）。
 

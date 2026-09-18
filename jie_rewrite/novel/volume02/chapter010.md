@@ -1,6 +1,6 @@
 ﻿# 第十章 斬命
 
-> 定位：第五篇「界隙照命」第十章，陸沉主動斬斷「生來即為祭子」的既定命線，劫命正式歸位，照命同時進階為煌命。改編自 `docs/events/EVENT_SECOND_THUNDER_JIEMING.md` 二之5、6，標誌畫面依 `docs/STORY_PACING_AND_WORLD_GUIDE.md` 四〈劫命〉呈現。承接 `chapter009.md`。
+> 定位：第八篇（原第五篇）「界隙照命」第十章，陸沉主動斬斷「生來即為祭子」的既定命線，劫命正式歸位，照命同時進階為煌命。改編自 `docs/events/EVENT_SECOND_THUNDER_JIEMING.md` 二之5、6，標誌畫面依 `docs/STORY_PACING_AND_WORLD_GUIDE.md` 四〈劫命〉呈現。承接 `chapter009.md`。
 > 時間：緊接上一章，同夜。
 > 唯一來源依據：`docs/events/EVENT_SECOND_THUNDER_JIEMING.md`（三：劫命核心精神；四：與既有設定銜接）、`docs/systems/SYSTEM_TEN_CALAMITY_THUNDERS.md`（二之1：劫命雷色與標誌視覺；三：名稱規則，「截命」只作能力顯化非本名）、`docs/STORY_PACING_AND_WORLD_GUIDE.md`（四：劫命標誌畫面，禁止簡化為「隨意斬斷所有生命線」）。
 

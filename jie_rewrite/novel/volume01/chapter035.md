@@ -1,6 +1,6 @@
 ﻿# 第三十五章 地底回聲
 
-> 定位：第四篇「下界風暴」開篇，銜接大綱卡點「下界秩序開始崩動，宗門與個人都必須選擇立場」。本章核心是「知道要出事卻看不清」的無力感，非戰鬥章節。承接 `chapter034.md`。
+> 定位：第七篇（原第四篇）「下界風暴」開篇，銜接大綱卡點「下界秩序開始崩動，宗門與個人都必須選擇立場」。本章核心是「知道要出事卻看不清」的無力感，非戰鬥章節。承接 `chapter034.md`。
 > 時間：返閣約半年後，雙石之戰後、下界大劫爆發前（對應 `SYSTEM_CULTIVATION_TIMELINE.md` T04A）。
 > 唯一來源依據：`docs/characters/CHARACTER_LU_CHEN.md`（缺陷造成的日常影響：雷雨失眠、頭痛、強災附近眩暈）、`docs/characters/CHARACTER_TAIXUAN_ELDER.md`（一貫惜言、對天賦反應冷淡）、`docs/factions/FACTION_TAIXUAN_SECT.md`（太玄閣定期外購藥引之既定事務性慣例、四人同門現狀）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第132題（宋知微記錄習慣）、`docs/MACRO_OUTLINE.md` 第四篇卡點、`docs/characters/CHARACTER_SHI_HAO.md`（石昊背景遙遠帶過）。
 

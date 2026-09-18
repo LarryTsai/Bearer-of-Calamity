@@ -1,6 +1,6 @@
 ﻿# 第二十五章 昨日之人
 
-> 定位：第六篇「太玄宗・鎮岳入門」Segment B 第三階段，洛生衣憑藥氣與傷勢修復狀態，識破陸沉不只一具身體；同一場戲裡，煉丹閣常客封寒安靜旁聽全程，成為他與陸沉相識的起點，並在識破當日入夜主動找上煌命身坦白、道出核心對話。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 九之1「起疑」與 `docs/characters/CHARACTER_FENG_HAN.md` 四之4.1「相識起點：藥閣・識破雷身的旁聽者」。承接 `chapter024.md`。
+> 定位：第九篇（原第六篇）「太玄宗・鎮岳入門」Segment B 第三階段，洛生衣憑藥氣與傷勢修復狀態，識破陸沉不只一具身體；同一場戲裡，煉丹閣常客封寒安靜旁聽全程，成為他與陸沉相識的起點，並在識破當日入夜主動找上煌命身坦白、道出核心對話。改編自 `docs/characters/CHARACTER_LUO_SHENGYI.md` 九之1「起疑」與 `docs/characters/CHARACTER_FENG_HAN.md` 四之4.1「相識起點：藥閣・識破雷身的旁聽者」。承接 `chapter024.md`。
 > 時間：丹劫事件後半月餘，數日間反覆發生，識破當日入夜緊接封寒主動相認一幕。命圖尚未開。
 > 唯一來源依據：`docs/characters/CHARACTER_LUO_SHENGYI.md`（九之1：起疑，藥氣辨識、傷勢修復節奏不對、「你不是昨天那個人」「同一個人，卻不是同一具身體」邏輯與封寒旁聽者段落）；`docs/characters/CHARACTER_FENG_HAN.md`（四之4.1：封寒作為煉丹閣常客的背景成因、「我聽到了」三句坦白、「比較快／我試過撐得住」「不一樣，怎麼合／可以試」核心對話，皆為canon台詞）；`docs/systems/SYSTEM_THUNDER_BODY_DIVISION.md`（此時僅本尊、煌命身兩具個體，承身尚未分化）；`docs/WRITING_GUIDELINES.md` 九（祕密揭露節奏：異常→錯誤解釋→新證據→真相）。
 

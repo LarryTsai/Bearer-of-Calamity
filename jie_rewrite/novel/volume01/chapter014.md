@@ -1,6 +1,6 @@
 ﻿# 第十四章 木中雷痕
 
-> 定位：第三篇「太玄閣鑄身」開篇；鍛體與封典後低階禁制試錯並行。承接 `chapter013.md`。
+> 定位：第四篇（原第三篇）「太玄閣鑄身」開篇；鍛體與封典後低階禁制試錯並行。承接 `chapter013.md`。
 > 時間：接下鍛骨殘篇後，濃縮呈現約三年半至四年。
 > 唯一來源依據：`docs/AUTHOR_CORE_REQUIREMENTS.md`、`docs/characters/CHARACTER_TAIXUAN_ELDER.md`、`docs/characters/CHARACTER_LU_CHEN.md`、`docs/systems/SYSTEM_MYRIAD_BODY_FORGING_SCRIPTURE.md`。
 

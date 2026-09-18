@@ -1,6 +1,6 @@
 ﻿# 第十九章 灶邊新客
 
-> 定位：第三篇「太玄閣鑄身」第二章，鋪墊大綱卡點「同門關係成形，至少經歷一次守人與一次被人守住」——本章先呈現太玄閣自「閣老與陸沉二人並行」擴充為「三人並行」的作息重整。承接 `chapter018.md`。
+> 定位：第四篇（原第三篇）「太玄閣鑄身」第二章，鋪墊大綱卡點「同門關係成形，至少經歷一次守人與一次被人守住」——本章先呈現太玄閣自「閣老與陸沉二人並行」擴充為「三人並行」的作息重整。承接 `chapter018.md`。
 > 時間：閣老一次例行下山購置藥引後，陸沉發現灶上多出一隻碗的當日起，數日之內。
 > 唯一來源依據：`docs/characters/CHARACTER_TAIXUAN_ELDER.md`、`docs/characters/CHARACTER_LU_CHEN.md`、`docs/factions/FACTION_TAIXUAN_SECT.md`（同門現狀更新）、`docs/CHECKLIST_PENDING_DECISIONS.md` 第132題（宋知微人設定案，已授權定案）。
 
