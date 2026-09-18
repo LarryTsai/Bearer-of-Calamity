@@ -53,7 +53,7 @@
 
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
-| 寫手1 | **README/checklist全面同步掃描**：比對`novel/README.md`每個volume描述跟`CHECKLIST_NOVEL_REVIEW_FIXES.md`對應RC項目狀態是否一致，找出更多「已完成但記錄未同步」的落差（呼應RC-XH-01/RC-FH-05同型問題），只回報清單不自行動筆修改 | **✅ volume08 README同步完成（commit `3decfc1`）**：確認RC-FH-05正文真的完整落實（非部分完成），重寫README反映章數40→42、內容摘要；PM已補regenerate published/volume08鏡像40→42章。 |
+| 寫手1 | **修正`novel/README.md`第37/48行**：RC-FH-08（Volume11封寒石片證物邏輯）已完成但README兩處仍寫成待辦/舊版定義，需改寫反映現行定義（黑洞成道意外崩落碎片，非死亡遺物） | **✅ README/checklist全面同步掃描完成（純查證，一次核對30個RC項目未拆批）**：只找到RC-FH-08一組真落差，其餘全部同步正常。PM已補regenerate published/volume10 ch017~021、volume11 ch034/039鏡像（確認ch021/034是真實內容落後，非編碼差異，例如ch034 published版原本完全缺「封寒石片」字樣），commit `843efba`。 |
 | 寫手2 | **暫停於C′步驟1後，等使用者/顧問裁定兩處canon衝突如何調整設計**，才能繼續步驟2（Phase 1 LOCK）跟步驟3（Arc Architecture） | **⚠️ C′「鬆錨者」步驟1（`jie-canon`複核）完成，發現1項真衝突+1項結構性張力，未往下跳步**：真衝突——`CHARACTER_FENG_HAN.md`六之一明定殘鐧打法來源是「已死強者」，但C′把施展者標成「普通士兵」，身分錯位；結構張力——五島核心「數百年無法進入」與觀測點「歷次爭奪戰必爭之地」隱含的常態可達性矛盾。已轉發顧問session與使用者裁定。 |
 | 清道夫 | **進行volume02 batch（ch046~050）** | **✅ ch036~040（commit `cecd5ce`）、ch041~045（commit `ecebfbc`+`105a61d`）完工**：ch036~039四章文字修剪；ch041~045批次ch043/044五處修剪，ch045第41行評審總結性台詞由PM裁定刪除（避免替讀者說破成長主題，保留四行具體記錄本身收尾）。全程continuity複核零衝突，無資料污染，已自行接續下一批。 |
 
