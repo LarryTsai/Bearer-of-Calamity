@@ -55,7 +55,7 @@
 |---|---|---|
 | 寫手1 | **待命**——兩輪README/checklist掃描（volume08單點查證+全庫30項RC通盤掃描）已做完，目前沒有新的同型任務可派 | **✅ README第37/48行RC-FH-08/RC-QL-03修正完成（commit `1ca2e1f`）**：volume10段落「尚未處理」清單改為「跨卷關聯項目均已完成」；volume11 ch041~048段落補上封寒石片retcon後定義。主動更正自己上一輪掃描報告漏看同句裡的RC-QL-03半句。 |
 | 寫手2 | **待命，等使用者/顧問授權下一階段**（三方勢力橫向展開／五幕重排／Scene Architecture三項均尚未授權，不得自行往下做） | **✅ C′「鬆錨者」Phase 1正式LOCK完成（commit `73d0af1`）**：修正版重跑canon複核clean（confidence 0.82），身分錯位與觀測點可達性兩項問題完全解除。步驟2寫入checklist含不可退讓條款，步驟3在`古界篇長篇化規劃.md`新增World/Arc Architecture第十一節（因果鏈完整、只到Arc層級未寫Scene）。已轉發顧問session。 |
-| 清道夫 | **進行volume02 batch（ch061~065）** | **✅ ch056~060完工（commit `310d31c`）**：canon鎖定台詞（ch058「退」字協議整段、ch060「斷雲隘/青芷谷」）逐字核對保留僅動旁白。ch056刪2句台詞後旁白總結；ch058刪2段旁白解釋，對話序列本身已足夠。continuity複核零衝突，已自行接續下一批。 |
+| 清道夫 | **進行volume02 batch（ch066~070）** | **✅ ch061~065完工（commit `cbae8b7`）**：盟試開篇批次，原創情節無canon鎖定台詞。8處修正含1處揭露節奏審慎刪節（ch063「旗後特定人」暗示句，continuity核對正文/AUTHOR_SECRETS/REVEAL_TIMELINE均無依據，刪除更安全）。已自行接續下一批。 |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
 
