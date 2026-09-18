@@ -63,9 +63,9 @@
 
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
-| 寫手1 | **整體結構設計＋Act1~4 Scene Architecture**（Act5交給寫手2深化，不重複做）；另附帶小任務：訂正`OUTLINE_ANCIENT_REALM_WAR.md`/`EVENT_DEADSTILL_DOMAIN_XUANHENG.md`已被推翻的「兵胚金鐧成形在Volume06」舊文字（只訂正明確錯誤，殘鐧確切幕次仍刻意不裁） | **✅ 五幕重排完成（commit `1a1dcc0`）**：採用新版50~70章五幕骨架，鎮無央首次顯化錯置、歸寂因果矛盾已修正。**⚠️ 與寫手2「古界路之後」範圍重疊，PM已裁定分工修正**（見下方角色分工說明），已轉發。 |
+| 寫手1 | **補跑jie-power-system覆核陸沉判讀能力被古界扭曲效果＋jie-creative一次性處理多處待具名配角**，兩項可自行動手不用等PM；之後自行評估是否開始Scene細節/跟寫手2的Act5對接 | **✅ Act1~4 Scene Architecture完成（commit `ce58f60`）**：46章章節大綱，四個jie-chapter-editor平行產出+跨幕一致性複查通過。Act4封寒吞噬能力衝突已攔下未擅斷，PM裁定維持`CHARACTER_FENG_HAN.md`既有限制（選項a），不鬆動。`OUTLINE_ANCIENT_REALM_WAR.md`/`EVENT_DEADSTILL_DOMAIN_XUANHENG.md`舊文字訂正已commit（`bf9649a`）。 |
 | 寫手2 | **正式改寫`novel/volume04/chapter019.md`（使用者已授權，採方案①最小插入）**：P0修正「封殺令」安全閥違規；P1三方勢力最小插入（外域界師陣營不變，前補柁婆/游島因果、後補皇朝見證+阿磯負傷生還，中段決鬥照跑）；**Guardrail：不得順手寫方案A玄衡弧線**。完成跑continuity+character/canon輕量複核 | **✅ ch018/019缺口查證+改寫設計方案完成**：發現柁婆/阿磯/三方競速完全空白、「封殺令」安全閥違規殘留。3個織入方案（傾向方案①）+術語清單已交使用者裁定。使用者已授權方案①，正式進入動筆階段。 |
-| 清道夫 | **volume03_v2線性密度優化**（新版v2.0全69章，唯一來源；舊版v1.0已作廢不處理） | **🎉 volume02全卷85章第一輪line-editing完整跑過一輪，正式收工（commit `5c58c75`）**：ch011~015補齊，PM順帶訂正一處柳青藤canon引文過度聲稱。volume02無缺口。 |
+| 清道夫 | **進行volume03_v2 batch（ch011~015）** | **✅ ch006~010完工（commit `6190ccc`）**：荒登場批次，2處canon鎖定台詞一字未動，9處密度修剪。continuity確認ch009/ch010印牌紋路呼應是刻意死線意象延續非重複，未動。已自行接續下一批。 |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
 
