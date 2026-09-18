@@ -63,9 +63,9 @@
 
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
-| 寫手1 | **補跑jie-power-system覆核陸沉判讀能力被古界扭曲效果＋jie-creative一次性處理多處待具名配角**，兩項可自行動手不用等PM；之後自行評估是否開始Scene細節/跟寫手2的Act5對接 | **✅ Act1~4 Scene Architecture完成（commit `ce58f60`）**：46章章節大綱，四個jie-chapter-editor平行產出+跨幕一致性複查通過。Act4封寒吞噬能力衝突已攔下未擅斷，PM裁定維持`CHARACTER_FENG_HAN.md`既有限制（選項a），不鬆動。`OUTLINE_ANCIENT_REALM_WAR.md`/`EVENT_DEADSTILL_DOMAIN_XUANHENG.md`舊文字訂正已commit（`bf9649a`）。 |
+| 寫手1 | **待命／自行評估下一步**（Scene細節、跟寫手2的Act5對接，或先補汐禾/延礁最小人物卡），Act1~4大綱已告一段落 | **✅ Act1~4收尾補完（commit `4bd85b0`）**：jie-power-system覆核陸沉判讀扭曲效果「有條件通過」+三項落筆條件已回填；配角具名定案（汐禾/延礁），jie-continuity窄查無衝突。Act1~4 Scene Architecture全部完成。 |
 | 寫手2 | **正式改寫`novel/volume04/chapter019.md`（使用者已授權，採方案①最小插入）**：P0修正「封殺令」安全閥違規；P1三方勢力最小插入（外域界師陣營不變，前補柁婆/游島因果、後補皇朝見證+阿磯負傷生還，中段決鬥照跑）；**Guardrail：不得順手寫方案A玄衡弧線**。完成跑continuity+character/canon輕量複核 | **✅ ch018/019缺口查證+改寫設計方案完成**：發現柁婆/阿磯/三方競速完全空白、「封殺令」安全閥違規殘留。3個織入方案（傾向方案①）+術語清單已交使用者裁定。使用者已授權方案①，正式進入動筆階段。 |
-| 清道夫 | **進行volume03_v2 batch（ch011~015）** | **✅ ch006~010完工（commit `6190ccc`）**：荒登場批次，2處canon鎖定台詞一字未動，9處密度修剪。continuity確認ch009/ch010印牌紋路呼應是刻意死線意象延續非重複，未動。已自行接續下一批。 |
+| 清道夫 | **進行volume03_v2 batch（ch016~020）** | **✅ ch011~015完工（commit `87b4f57`）**：ch013唯一canon鎖定台詞一字未動。8處密度修剪，順帶修正ch014定位欄提前使用尚未定名的「假印網」簡稱。已自行接續下一批。 |
 
 **更新守則**：這張表跟兩份`PIPELINE_WRITERn_LOG.md`的「工作日誌」必須保持一致——寫手每完成一段就自己補log，PM每次收到回報／commit後就更新這張表，兩邊都要當下更新，不要等到整批任務結束才補記，否則/clear後查到的會是舊資訊。
 
