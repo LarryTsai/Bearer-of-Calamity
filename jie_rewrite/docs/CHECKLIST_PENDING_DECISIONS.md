@@ -1082,7 +1082,7 @@
 
 **下一步**：PM已確認`EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`不需修改；即將回填`OUTLINE_TIANSHEN_ACADEMY.md`retcon標記，並在205決賽四格骨架旁補一句孟天正身體線索的執行提醒；完成後通知寫手1恢復TRANSFORM——王曦場移除孟天正beat（不特別點破），玄昆場第六雷首次公開維持原TRANSFORM不變（這部分寫手1原本就做對了），決賽的孟天正細節留給未來chapter-editor階段處理，不阻塞現在的TRANSFORM恢復。
 
-### [ ] 213. 古界篇「完全隔絕異世界只用『陸沉』本名，不出現『劫』」——是否正式登記為`WRITING_GUIDELINES.md`第三節附加條款
+### [x] 213. 古界篇「完全隔絕異世界只用『陸沉』本名，不出現『劫』」——✅ 2026-09-18使用者核可，已回填`WRITING_GUIDELINES.md`第三節
 
 **背景**：寫手1在古界篇（Volume04第十四篇）Scene Architecture階段設計配角汐禾、延礁的最小人物卡時，`jie-creative`指出`docs/WRITING_GUIDELINES.md`第三節「敵人／陌生修士優先用『劫』，親近者用『陸沉』」的規則前提是外部世界已經知道「劫」這個下界榜單稱號與天下傳聞，但古界依`docs/MACRO_OUTLINE.md`第十四篇必要卡點是「千年一遇開啟、對下界完全隔絕」的異世界，古界居民沒有任何管道聽過「劫」這個稱號，第三節現有四條規則字面上沒有預留這種情境。
 
