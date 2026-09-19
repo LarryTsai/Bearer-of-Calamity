@@ -1,10 +1,10 @@
 # 下界篇新版施工區
 
-**狀態：逐篇施工中。** 本目錄承接 `docs/CHECKLIST_PENDING_DECISIONS.md` 第218題，供下界「序篇＋第一至第七篇」重規劃後逐批放入新章。序篇及第一、二、五、六篇已有審查完成的新版開發稿；現行可連續閱讀版本仍在 `../published/volume01/`，舊開發稿在 `../volume01/`。兩者不因本目錄建立而自動作廢。
+**狀態：九個單元開發稿均已完成篇級審查，正作出版包裝與全段連讀。** 本目錄承接 `docs/CHECKLIST_PENDING_DECISIONS.md` 第218題，放置下界「序篇＋第一至第七篇」與北海橋段，共 65 章。現行可連續閱讀版本仍在 `../published/volume01/`，舊開發稿在 `../volume01/`。兩者不因本目錄建立而自動作廢。
 
 ## 七篇施工單位
 
-序篇放在 `prologue/`；七篇依宏綱固定順序放在 `arc01_body_foundation/` 至 `arc07_lower_realm_storm/`。北海ch032～034目前在第六篇後、第七篇前，暫放 `bridge_north_sea/` 作橋段，不私自升格為第八篇。已審的篇章依各子目錄章號閱讀，未完成篇章仍在施工；跨篇設定以 `CONTINUITY_PLAN.md` 為準。
+序篇放在 `prologue/`；七篇依宏綱固定順序放在 `arc01_body_foundation/` 至 `arc07_lower_realm_storm/`。北海舊 ch032～034 在第六篇後、第七篇前，放在 `bridge_north_sea/` 作四章橋段。各單元依篇內章號閱讀，順序見 `VOLUME_PACKAGING_DRAFT.md`；跨篇設定以 `CONTINUITY_PLAN.md` 為準。
 
 **篇是創作單位，卷是後續出版包裝。** 可以逐篇增加、審查及穩定章節，待故事容量自然成形後再裁定三卷、五卷或其他卷界；不要求一篇等於一卷。
 
