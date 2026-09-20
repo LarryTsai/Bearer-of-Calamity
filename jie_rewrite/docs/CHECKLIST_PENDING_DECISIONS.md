@@ -1240,3 +1240,5 @@
 **發現**：`novel/volume02_v2/` 已完稿至 ch089，鑑月以女性白澤身分自主結印，初得鎮魄七日限制於得雷日第零日起算；禁都第五日仍受限。現有舊 `novel/volume03a/chapter001.md` 及 published 版明寫舊 `Volume02 ch085`／鎮無央，不能直接當作新版的下一章。
 
 **執行**：禁都開工時依卷二相同模式另建新版施工線，先把第一章入口改為承 ch089／鑑月／第五日、核三雷三角與舊傷，再依 `outlines/OUTLINE_FORBIDDEN_CAPITAL_MYRIAD_CONVENTION.md` 和 `outlines/OUTLINE_CROSS_ARC_CHARACTER_DRIVERS.md` 寫岑婆、文奕與公共禁制的因果；舊 `volume03a/` 保留素材。新版每章雙版同步，正文改動即回填綱。
+
+**施工進度**：新版28章綱已建於 `outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md`；ch001～010 已接上鑑月與卷二第89章並寫出公共路權、錯材召回、岑婆否決及七巷管線損失，雙版同步。ch011～028 與下游 `volume03_v2/chapter001.md` 仍需逐章施工及接縫回填，本題尚未結案。

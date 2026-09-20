@@ -31,6 +31,8 @@
 
 **2026-09-20 新工作線**：下界 v2 已完成 65 章，暫停修改、留待冷卻後回讀。`volume02_v2` 上界篇依 `outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md` 完成**全 89 章**：第八篇 ch001～011、第九篇 ch012～038、第十篇 ch039～060、命藏 ch061～064、百宗盟試 ch065～082、雷魂域與鑑月 ch083～089；清道夫已連讀修復接縫，開發版／published 89 對全文一致。出宗門後的人物驅動見 `outlines/OUTLINE_CROSS_ARC_CHARACTER_DRIVERS.md`。下一卷禁都舊 `volume03a/chapter001.md` 仍引用舊 ch085／鎮無央，須在新 v2 接續施工時改為 ch089／鑑月，不能把舊正文直接接到新版後。古界 Act5 交接工作線仍按下表記錄。
 
+**2026-09-20 禁都 v2 接續**：已另建 `novel/volume03a_v2/` 與 `novel/published/volume03a_v2/`，以 `outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md` 暫排28章（含舊版未列入禁都綱的文家遭難四章）。ch001～010 初稿已對新綱，雙版故事正文逐章一致；卷二 ch089 的鑑月／初得七日冷卻與舊傷已在新 ch001 接上。ch011 起仍在寫作、審查中；舊 `volume03a/` 24章與只刊3章的舊 published 不作新版閱讀線。
+
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
 | 寫手1 | 古界Act1～4交稿；Act5不屬此分工 | ✅ `novel/volume04_v2/chapter001~046.md` 共46章（9／11／15／11）已完成四方審查；Act4末在望汐崖三人重會，轉入五島終局。詳見`PIPELINE_WRITER1_LOG.md`第44～49筆。 |
