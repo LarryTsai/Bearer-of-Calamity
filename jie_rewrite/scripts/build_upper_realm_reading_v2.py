@@ -77,6 +77,8 @@ def build_plan() -> tuple[dict[Path, bytes], list[str]]:
             if not match:
                 raise ValueError(f"Unexpected chapter heading: {source}: {heading}")
             title = match.group(1)
+            if title.startswith("〈") or title.endswith("〉"):
+                raise ValueError(f"Unnormalized title brackets: {source}: {title}")
             published_source = ROOT / f"novel/published/{source_dir}/chapter{original_number:03}.md"
             if published_source.exists():
                 published_lines = published_source.read_text(encoding="utf-8-sig").splitlines()

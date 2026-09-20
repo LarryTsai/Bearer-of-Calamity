@@ -75,7 +75,8 @@ $manifest.Add('| --- | --- | --- |')
 foreach ($entry in $plan) {
     $sourceRelative = 'novel/lower_realm_v2/' + $entry.Group + '/' + (Split-Path -Leaf $entry.Source)
     $publishedRelative = $entry.Volume + '/' + (Split-Path -Leaf $entry.Destination)
-    $manifest.Add('| [' + $entry.Volume + ' 第' + $entry.Number + '章](' + $publishedRelative + ') | ' + $entry.Title + ' | `' + $sourceRelative + '` |')
+    $volumeNumber = [int]$entry.Volume.Substring(6)
+    $manifest.Add('| [卷' + $volumeNumber + ' 第' + $entry.Number + '章](' + $publishedRelative + ') | ' + $entry.Title + ' | `' + $sourceRelative + '` |')
 }
 [System.IO.Directory]::CreateDirectory($outputRoot) | Out-Null
 [System.IO.File]::WriteAllText((Join-Path $outputRoot 'SOURCE_MANIFEST.md'), ($manifest -join "`n") + "`n", $utf8)
