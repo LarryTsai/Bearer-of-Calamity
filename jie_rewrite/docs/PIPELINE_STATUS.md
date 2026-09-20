@@ -37,11 +37,11 @@
 
 **2026-09-20 v2 卷冊對照與閱讀版**：`docs/V2_VOLUME_READING_MAP.md` 將下界三卷後的上界89章分為閱讀卷四～六，禁都28章為卷七，三千州69章於 ch039／040 分為卷八、九；`novel/published/upper_realm_v2/` 已生成卷四～九共186章與逐章來源表，合下界共九卷251章。施工資料夾不搬移，正式讀版由 `scripts/build_upper_realm_reading_v2.py` 重建與核對。宏綱第十二篇與文家插段正文座標已更新至禁都 v2 28 章；第十三篇仍是三千州全69章，不因分卷改篇序。
 
-**2026-09-20 古界 Act5 開工**：v2 九卷逐章入口見 `novel/published/README.md`；古界仍是施工線，不先編閱讀卷十。`outlines/OUTLINE_ANCIENT_REALM_ACT5.md` 已建立 A～N 可拆併場景骨架，PM 核 A／B 為 `novel/volume04_v2/chapter047.md`〈崖下兩條路〉、`chapter048.md`〈繩結不認那條路〉，均經清道夫審查修訂；聽島令仍由陸沉持有，阿磯帶來的是另一段舊標繩與潮訊。ch048 陸沉公開承認古界線判讀失準，讓族人實踩、封寒判偏移與零星聽島交叉驗證，耗去退潮先手；五島窗口尚未確認開啟。H～N 的洛生衣重會、窗口與出界時鐘、封寒放劍後共鍛另見 `CHECKLIST_PENDING_DECISIONS.md` 227，未核前不落正文。
+**2026-09-20 古界 Act5 開工**：v2 九卷逐章入口見 `novel/published/README.md`；古界仍是施工線，不先編閱讀卷十。`outlines/OUTLINE_ANCIENT_REALM_ACT5.md` 已建立 A～N 可拆併場景骨架，PM 核 A～C 為 `novel/volume04_v2/chapter047.md`〈崖下兩條路〉、`chapter048.md`〈繩結不認那條路〉、`chapter049.md`〈三張圖，少一條路〉，均經清道夫審查修訂。聽島令仍由陸沉持有，阿磯帶來另一段舊標繩與潮訊；ch048 陸沉公開承認古界線判讀失準並交叉校驗，耗去退潮先手；ch049 界屍盜割橋護抽源管，傷者腿傷復裂，汐禾改道，阿磯等撤人後才拖船。五島窗口尚未確認開啟。H～N 的洛生衣重會、窗口與出界時鐘、封寒放劍後共鍛另見 `CHECKLIST_PENDING_DECISIONS.md` 227，未核前不落正文。
 
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
-| 寫手1 | Act5 首批正文 ch047 起 | ch047～048 已交並審修；Act1～4 的46章已完成四方審查，見`PIPELINE_WRITER1_LOG.md`第44～49筆。 |
+| 寫手1 | Act5 首批正文 ch047 起 | ch047～049 已交並審修；Act1～4 的46章已完成四方審查，見`PIPELINE_WRITER1_LOG.md`第44～49筆。 |
 | 寫手2 | Act5〈五島終局〉全幕場景架構 | `outlines/OUTLINE_ANCIENT_REALM_ACT5.md` A～N 已交，首章 A 經 PM 核准；後段需解第227題再分章。 |
 | 清道夫 | Act5 章綱及 ch047 首輪審查 | 已抓聽島令持有者、洛生衣入界、返程時鐘及 ch047 三處物件／訊號問題；前者已修綱，ch047 已修正文。 |
 
