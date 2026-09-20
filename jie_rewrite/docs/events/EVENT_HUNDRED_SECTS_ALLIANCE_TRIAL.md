@@ -1,8 +1,8 @@
 # 道天界百宗盟試
 
-> 狀態：Volume02 正文已完成
-> 正文章節：`novel/volume02/chapter061.md`～`chapter078.md`
-> 功能：第六篇 Segment D 第四階段唯一事件摘要
+> 狀態：事件結果已定；下列舊章號指 `novel/volume02/` 參考稿，`volume02_v2` 依 `docs/outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md` 重排。
+> 舊版正文章節：`novel/volume02/chapter061.md`～`chapter078.md`
+> 功能：第十一篇百宗盟試的事件結果與賽制邊界
 
 ## 一、參賽隊伍與人物
 
@@ -40,5 +40,5 @@
 
 ## 六、後續銜接
 
-- 盟試結束後休養十五日，陸沉依七峰個人大比取得的資格進入太玄命藏。
-- 命藏、命圖與雷魂秘地後續分別以 `EVENT_MINGZANG_FATE_MAP_ORIGIN.md`、`EVENT_SOUL_DOMAIN_ZHENWUYANG.md` 為唯一來源；盟試本身不授予命藏資格。
+- 七峰大比後，陸沉已依個人賽取得的資格進入太玄命藏，命圖雙星初開；盟試入場時厄已有穩定實體，但陸沉尚未取得第三雷鎮魄或鎮無央命印。盟試本身不授予命藏資格，也不使命圖免費增加雷種。
+- 盟試結束後先休養十五日，再依七峰大比所得線索與命圖初開後的條件申請雷魂秘地。命藏、命圖與雷魂秘地的細節分別以 `EVENT_MINGZANG_FATE_MAP_ORIGIN.md`、`EVENT_SOUL_DOMAIN_ZHENWUYANG.md` 為唯一來源。
