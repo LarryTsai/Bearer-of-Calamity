@@ -21,16 +21,18 @@ VOLUME_TITLES = {
     3: "守住眼前",
     4: "上界入門",
     5: "七峰成軍",
-    6: "百宗與雷魂",
-    7: "禁都與文家",
-    8: "三千州前段",
-    9: "三千州後段",
+    6: "百宗盟試・古戰域初探",
+    7: "古戰域深層・雷魂",
+    8: "禁都與文家",
+    9: "三千州前段",
+    10: "三千州後段",
 }
 SECTION_HEADINGS = {
     1: "下界（序篇～第七篇）",
     4: "上界宗門（第八～十一篇）",
-    7: "禁都與文家（第十二篇及插段）",
-    8: "三千州爭鋒（第十三篇）",
+    7: "古戰域深層與雷魂域（第十一篇後）",
+    8: "禁都與文家（第十二篇及插段）",
+    9: "三千州爭鋒（第十三篇）",
 }
 ARC_ENTRIES = (
     ("序篇〈命落大荒〉", 1, 1),
@@ -47,11 +49,13 @@ ARC_ENTRIES = (
     ("第十篇〈七峰大比〉", 5, 1),
     ("命藏過渡", 5, 23),
     ("第十一篇〈百宗盟試〉", 6, 1),
-    ("雷魂域過渡", 6, 19),
-    ("第十二篇〈禁都與萬禁會〉", 7, 1),
-    ("文家遭難（第十二、十三篇間）", 7, 25),
-    ("第十三篇〈三千州爭鋒〉", 8, 1),
-    ("第十三篇後段", 9, 1),
+    ("第十一篇後插段〈古戰域深層〉", 6, 19),
+    ("古戰域深層後段", 7, 1),
+    ("雷魂域過渡", 7, 22),
+    ("第十二篇〈禁都與萬禁會〉", 8, 1),
+    ("文家遭難（第十二、十三篇間）", 8, 25),
+    ("第十三篇〈三千州爭鋒〉", 9, 1),
+    ("第十三篇後段", 10, 1),
 )
 
 
@@ -59,7 +63,7 @@ def build() -> str:
     lines = [
         "# 《劫》v2 正文閱讀總目錄",
         "",
-        "從卷一第一章開始，依序讀至卷九。每卷章號重新從第一章起算；以下連結是閱讀版正文。開發稿及舊版卷冊不屬於這條閱讀順序。",
+        "從卷一第一章開始，依序讀至卷十。每卷章號重新從第一章起算；以下連結是閱讀版正文。開發稿及舊版卷冊不屬於這條閱讀順序。",
         "",
         "本目錄由 `scripts/build_v2_reading_index.py` 依兩份 `SOURCE_MANIFEST.md` 生成；正文修訂後請先重建各卷，再重建本目錄。",
         "",
@@ -84,12 +88,13 @@ def build() -> str:
         "| 故事段落 | 閱讀版 | 從這裡開始 | 對應開發稿與大綱 |",
         "| --- | --- | --- | --- |",
         "| 下界 | 卷1～3 | [卷1 第一章](lower_realm_v2/volume01/chapter001.md) | [卷冊對照](../../docs/V2_VOLUME_READING_MAP.md) |",
-        "| 上界宗門 | 卷4～6 | [卷4 第一章](upper_realm_v2/volume04/chapter001.md) | `novel/volume02_v2/` · [上界大綱](../../docs/outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md) |",
-        "| **禁都、萬禁會、文家遭難** | **卷7** | **[禁都第一章](upper_realm_v2/volume07/chapter001.md)** | `novel/volume03a_v2/` · [禁都大綱](../../docs/outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md) |",
-        "| 三千州 | 卷8～9 | [卷8 第一章](upper_realm_v2/volume08/chapter001.md) | `novel/volume03_v2/` · [三千州大綱](../../docs/outlines/OUTLINE_THREE_THOUSAND_STATES.md) |",
+        "| 上界宗門、百宗盟試 | 卷4～6 | [卷4 第一章](upper_realm_v2/volume04/chapter001.md) | `novel/volume02_v2/` · [上界大綱](../../docs/outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md) |",
+        "| **古戰域深層、雷魂域** | **卷6～7** | **[古戰域深層第一章](upper_realm_v2/volume06/chapter019.md)** | `novel/ancient_battlefield_deep_v2/` · [深層大綱](../../docs/outlines/OUTLINE_ANCIENT_BATTLEFIELD_DEEP_V2.md) |",
+        "| **禁都、萬禁會、文家遭難** | **卷8** | **[禁都第一章](upper_realm_v2/volume08/chapter001.md)** | `novel/volume03a_v2/` · [禁都大綱](../../docs/outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md) |",
+        "| 三千州 | 卷9～10 | [卷9 第一章](upper_realm_v2/volume09/chapter001.md) | `novel/volume03_v2/` · [三千州大綱](../../docs/outlines/OUTLINE_THREE_THOUSAND_STATES.md) |",
         "| 古界（開發中） | 閱讀卷號未定 | [古界第一章](../volume04_v2/chapter001.md) | `novel/volume04_v2/` · [古界全篇大綱](../../docs/outlines/OUTLINE_ANCIENT_REALM_EXPANDED.md) |",
         "",
-        "**卷9 之後接古界開發稿。** 古界完稿並審定卷界後，才會編入閱讀版；目前不要按舊版 `volume04` 的卷號接讀。",
+        "**卷10 之後接古界開發稿。** 古界完稿並審定卷界後，才會編入閱讀版；目前不要按舊版 `volume04` 的卷號接讀。",
         "",
     ]
     expected_volume = 1
@@ -130,7 +135,7 @@ def build() -> str:
         if current_volume is None:
             raise ValueError(f"來源表沒有章節：{manifest}")
         lines.append("")
-    if expected_volume != 10 or total != 251:
+    if expected_volume != 11 or total != 291:
         raise ValueError(f"卷章總數異常：{expected_volume - 1} 卷、{total} 章")
     lines += [
         "## 下一段：古界（第十四篇，開發中）",
@@ -149,10 +154,10 @@ def main() -> None:
     if args.check:
         if not OUTPUT.exists() or OUTPUT.read_text(encoding="utf-8") != generated:
             raise SystemExit("v2 閱讀總目錄需要重新生成")
-        print("v2 reading index verified: 9 volumes, 251 chapters")
+        print("v2 reading index verified: 10 volumes, 291 chapters")
     else:
         OUTPUT.write_text(generated, encoding="utf-8")
-        print("v2 reading index built: 9 volumes, 251 chapters")
+        print("v2 reading index built: 10 volumes, 291 chapters")
 
 
 if __name__ == "__main__":

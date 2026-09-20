@@ -1,6 +1,8 @@
-# 古戰域深層篇｜開發稿
+# 古戰域深層篇｜開發稿與閱讀入口
 
 本篇接在新版卷二百宗盟試[第八十二章](../volume02_v2/chapter082.md)之後。表層賽事的天衡八分、太玄七分、青靈四分與四人傷勢均照舊；古戰域回訪是賽後另一項任務，不再計賽分。
+
+正式閱讀版從[卷六第十九章〈橋底還有人〉](../published/upper_realm_v2/volume06/chapter019.md)開始，跨至卷七第二十一章完結，再接[雷魂域](../published/upper_realm_v2/volume07/chapter022.md)。以下為保留原章號的開發稿目錄。
 
 ## 第一關：橋與井（第一至十二章）
 
@@ -18,4 +20,8 @@
 
 [27 一戶先喝水](chapter027.md) · [28 舊路不在圖上](chapter028.md) · [29 朝內的盾](chapter029.md) · [30 四個人沒有同一張圖](chapter030.md) · [31 先移的人](chapter031.md) · [32 風把哨聲吞了](chapter032.md) · [33 少了半息](chapter033.md) · [34 誰留下的退路](chapter034.md)
 
-後續章節與原卷二雷魂域的正式章號尚待整篇接縫審定。施工綱見[古戰域深層長篇施工綱](../../docs/outlines/OUTLINE_ANCIENT_BATTLEFIELD_DEEP_V2.md)；此處是正文開發稿，尚未收入 published 閱讀版。
+## 第五關：潮口與離港（第三十五至四十章）
+
+[35 第二個潮口](chapter035.md) · [36 借來的一潮](chapter036.md) · [37 船不能再退](chapter037.md) · [38 不帶走的東西](chapter038.md) · [39 修到能走](chapter039.md) · [40 離港的人](chapter040.md)
+
+全四十章已編入 [published 閱讀版](../published/README.md)；[古戰域深層長篇施工綱](../../docs/outlines/OUTLINE_ANCIENT_BATTLEFIELD_DEEP_V2.md)仍供開發追溯。

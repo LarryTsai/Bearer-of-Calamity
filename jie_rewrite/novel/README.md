@@ -2,13 +2,13 @@
 
 ## 新版故事目錄
 
-先看[《劫》v2 依大綱篇章排列的閱讀總目錄](published/README.md)：序篇至第十三篇各有篇名、閱讀卷號與第一章入口。**禁都**從[第十二篇／閱讀卷七第一章](published/upper_realm_v2/volume07/chapter001.md)開始；卷九之後接[第十四篇古界開發稿第一章](volume04_v2/chapter001.md)，古界閱讀卷號待完篇審定。
+先看[《劫》v2 依大綱篇章排列的閱讀總目錄](published/README.md)：序篇至第十三篇各有篇名、閱讀卷號與第一章入口。**古戰域深層**從[閱讀卷六第十九章](published/upper_realm_v2/volume06/chapter019.md)開始；**禁都**從[第十二篇／閱讀卷八第一章](published/upper_realm_v2/volume08/chapter001.md)開始；卷十之後接[第十四篇古界開發稿第一章](volume04_v2/chapter001.md)，古界閱讀卷號待完篇審定。
 
-百宗盟試表層篇在已發布閱讀卷六；其後新增的[〈古戰域深層篇〉開發稿](ancient_battlefield_deep_v2/README.md)從原卷二第八十二章後接續，尚未插入 published 讀序或改動原雷魂域章號。
+百宗盟試表層篇接續[〈古戰域深層篇〉](published/upper_realm_v2/volume06/chapter019.md)，深層跨卷六、七；[開發稿](ancient_battlefield_deep_v2/README.md)仍保留原章號，雷魂域位於[卷七第二十二章](published/upper_realm_v2/volume07/chapter022.md)。
 
 [全書大篇章骨架](../docs/MACRO_OUTLINE.md)定重大故事單位，[v2 閱讀卷冊對照](../docs/V2_VOLUME_READING_MAP.md)定篇與卷的映射；下方是施工目錄與舊版材料說明。
 
-舊版正文已開發至 Volume12，共十二卷、583章；下列舊版卷號**不能直接當作 v2 閱讀卷號**。v2 已完成範圍的閱讀卷冊對照見 [`docs/V2_VOLUME_READING_MAP.md`](../docs/V2_VOLUME_READING_MAP.md)：下界[卷一至三](published/lower_realm_v2/README.md)，上界與三千州[卷四至九](published/upper_realm_v2/README.md)，共九卷251章。現有 `volume02_v2`、`volume03a_v2`、`volume03_v2` 仍是開發稿目錄名；閱讀版卷四至九另存於 `published/upper_realm_v2/`。
+舊版正文已開發至 Volume12，共十二卷、583章；下列舊版卷號**不能直接當作 v2 閱讀卷號**。v2 已完成範圍的閱讀卷冊對照見 [`docs/V2_VOLUME_READING_MAP.md`](../docs/V2_VOLUME_READING_MAP.md)：下界[卷一至三](published/lower_realm_v2/README.md)，上界至三千州[卷四至十](published/upper_realm_v2/README.md)，共十卷291章。`volume02_v2`、`ancient_battlefield_deep_v2`、`volume03a_v2`、`volume03_v2` 仍是開發稿目錄名；閱讀版卷四至十另存於 `published/upper_realm_v2/`。
 
 ## 目錄結構
 
