@@ -10,4 +10,8 @@
 
 [13 誰補過那枚釘](chapter013.md) · [14 風從腳下來](chapter014.md) · [15 有人等那袋藥](chapter015.md) · [16 三隊搶一段風](chapter016.md) · [17 差一息的贏法](chapter017.md) · [18 只借一個聲音](chapter018.md) · [19 路名由誰留下](chapter019.md)
 
+## 第三關：沉水碑港與青靈植洲（第二十至二十六章）
+
+[20 碑浮起的港](chapter020.md) · [21 潮下有人認路](chapter021.md) · [22 火與水不能同價](chapter022.md) · [23 背面的日期](chapter023.md) · [24 青璃擦掉一條水線](chapter024.md) · [25 有病的人不等水退](chapter025.md) · [26 錯的答案先救人](chapter026.md)
+
 後續章節與原卷二雷魂域的正式章號尚待整篇接縫審定。施工綱見[古戰域深層長篇施工綱](../../docs/outlines/OUTLINE_ANCIENT_BATTLEFIELD_DEEP_V2.md)；此處是正文開發稿，尚未收入 published 閱讀版。
