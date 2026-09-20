@@ -15,6 +15,8 @@
 >
 > 本目錄主要標示大篇章；已完成的上界 v2 閱讀順序另見 `novel/published/upper_realm_v2/README.md`。第十一篇〈百宗盟試〉含表層比賽與賽後〈古戰域深層〉，跨閱讀卷六、七；卷七深層篇完結、返宗覆診後才進雷魂域，再接卷八第十二篇〈禁都與萬禁會〉。舊版 `novel/volumeXX/` 章號不代替新版讀序。
 
+> **全書戰鬥寫作規則**：尺度、複雜度、規則層級與角色辨識度須隨境界上升，見 [`AUTHOR_DIRECTIVE_BATTLE_SPECTACLE_GROWTH.md`](author_directives/AUTHOR_DIRECTIVE_BATTLE_SPECTACLE_GROWTH.md)。各能力取得時點仍依十雷、雷身及角色系統檔，不能為奇觀提前解鎖。
+
 ---
 
 ## 全書目錄一覽（正式順序，供快速核對；各章詳細內容見下方對應段落）
