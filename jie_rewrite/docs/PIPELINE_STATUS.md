@@ -31,7 +31,7 @@
 
 **2026-09-20 新工作線**：下界 v2 已完成 65 章，暫停修改、留待冷卻後回讀。`volume02_v2` 上界篇依 `outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md` 完成**全 89 章**：第八篇 ch001～011、第九篇 ch012～038、第十篇 ch039～060、命藏 ch061～064、百宗盟試 ch065～082、雷魂域與鑑月 ch083～089；清道夫已連讀修復接縫，開發版／published 89 對全文一致。出宗門後的人物驅動見 `outlines/OUTLINE_CROSS_ARC_CHARACTER_DRIVERS.md`。下一卷禁都舊 `volume03a/chapter001.md` 仍引用舊 ch085／鎮無央，須在新 v2 接續施工時改為 ch089／鑑月，不能把舊正文直接接到新版後。古界 Act5 交接工作線仍按下表記錄。
 
-**2026-09-20 禁都 v2 接續**：已另建 `novel/volume03a_v2/` 與 `novel/published/volume03a_v2/`，以 `outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md` 暫排28章（含舊版未列入禁都綱的文家遭難四章）。ch001～010 初稿已對新綱，雙版故事正文逐章一致；卷二 ch089 的鑑月／初得七日冷卻與舊傷已在新 ch001 接上。ch011 起仍在寫作、審查中；舊 `volume03a/` 24章與只刊3章的舊 published 不作新版閱讀線。
+**2026-09-20 禁都 v2 完卷**：獨立 `novel/volume03a_v2/` 與 `novel/published/volume03a_v2/` 全28章已對 `outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md` 成文，含文家遭難四章；清道夫核正文雙版一致及逐章綱對位，ch018 同擊雙寫已修。卷二 ch089 的鑑月／初得七日冷卻與舊傷接新 ch001；ch028 經文家事件北行多日抵赤衢驛，`volume03_v2/chapter001.md` 已改承新版並修正唐野名次。舊 `volume03a/` 24章與只刊3章的舊 published 僅作素材。
 
 | 寫手 | 目前任務 | 狀態 |
 |---|---|---|
