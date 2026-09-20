@@ -12,7 +12,7 @@
 
 新版北海保留石昊與魔女於鯤鵬巢原作初遇；陸沉錯過核心事件，只在其後與二人短聚。月嬋不提前在北海同場；舊閱讀版的四人場及月嬋對禁道的質疑記在 [遷移說明](MIGRATION_MAP.md)，若以後保留須另核帝都後時間線。
 
-卷三末章緊接新版上界 `novel/volume02_v2/chapter001.md` 開場的下一瞬：陸沉尚未落地，照命僅保命火，劫厄仍是不穩魂影。新版編輯卷號已按 [`docs/V2_VOLUME_READING_MAP.md`](../../../docs/V2_VOLUME_READING_MAP.md) 對齊；上界 `volume02_v2` ch001～038 將屬閱讀卷四。舊 `novel/published/volume02/` 保留上一版，不能當新版下一卷。
+卷三末章緊接[上界 v2 卷四第一章](../upper_realm_v2/volume04/chapter001.md)的下一瞬：陸沉尚未落地，照命僅保命火，劫厄仍是不穩魂影。新版閱讀卷號已按 [`docs/V2_VOLUME_READING_MAP.md`](../../../docs/V2_VOLUME_READING_MAP.md) 對齊；舊 `novel/published/volume02/` 保留上一版，不能當新版下一卷。
 
 舊上界版尚未同步新版下界的太玄舊令外緣崩角。遷移新上界閱讀版時，須核舊 `novel/published/volume02/chapter011.md` 山門驗令：鏡面仍能憑完整傳承印與合令斷面識別，人物也須看見或觸及外緣缺角。詳見 [遷移說明](MIGRATION_MAP.md)。
 

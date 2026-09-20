@@ -1,6 +1,6 @@
 # 正文工作區
 
-舊版正文已開發至 Volume12，共十二卷、583章；下列舊版卷號**不能直接當作 v2 閱讀卷號**。v2 已完成範圍的編輯卷冊對照見 [`docs/V2_VOLUME_READING_MAP.md`](../docs/V2_VOLUME_READING_MAP.md)：下界閱讀卷一至三，上界入門至雷魂域編卷四至六，禁都與文家編卷七，三千州前後段編卷八、九。現有 `volume02_v2`、`volume03a_v2`、`volume03_v2` 仍是開發稿目錄名；卷四至九的獨立閱讀資料夾尚未生成。
+舊版正文已開發至 Volume12，共十二卷、583章；下列舊版卷號**不能直接當作 v2 閱讀卷號**。v2 已完成範圍的閱讀卷冊對照見 [`docs/V2_VOLUME_READING_MAP.md`](../docs/V2_VOLUME_READING_MAP.md)：下界[卷一至三](published/lower_realm_v2/README.md)，上界與三千州[卷四至九](published/upper_realm_v2/README.md)，共九卷251章。現有 `volume02_v2`、`volume03a_v2`、`volume03_v2` 仍是開發稿目錄名；閱讀版卷四至九另存於 `published/upper_realm_v2/`。
 
 ## 目錄結構
 
