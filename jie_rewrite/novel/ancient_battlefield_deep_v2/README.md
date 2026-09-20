@@ -14,4 +14,8 @@
 
 [20 碑浮起的港](chapter020.md) · [21 潮下有人認路](chapter021.md) · [22 火與水不能同價](chapter022.md) · [23 背面的日期](chapter023.md) · [24 青璃擦掉一條水線](chapter024.md) · [25 有病的人不等水退](chapter025.md) · [26 錯的答案先救人](chapter026.md)
 
+## 第四關：港洲四條退路（第二十七至三十四章）
+
+[27 一戶先喝水](chapter027.md) · [28 舊路不在圖上](chapter028.md) · [29 朝內的盾](chapter029.md) · [30 四個人沒有同一張圖](chapter030.md) · [31 先移的人](chapter031.md) · [32 風把哨聲吞了](chapter032.md) · [33 少了半息](chapter033.md) · [34 誰留下的退路](chapter034.md)
+
 後續章節與原卷二雷魂域的正式章號尚待整篇接縫審定。施工綱見[古戰域深層長篇施工綱](../../docs/outlines/OUTLINE_ANCIENT_BATTLEFIELD_DEEP_V2.md)；此處是正文開發稿，尚未收入 published 閱讀版。
