@@ -1,5 +1,7 @@
 # 《劫》上界 v2 閱讀版
 
+**依大篇章找故事**：[第八篇〈界隙照命〉](volume04/chapter001.md) → [第九篇〈太玄宗・鎮岳入門〉](volume04/chapter012.md) → [第十篇〈七峰大比〉](volume05/chapter001.md) → [第十一篇〈百宗盟試〉](volume06/chapter001.md) → **[第十二篇〈禁都與萬禁會〉](volume07/chapter001.md)** → [文家遭難](volume07/chapter025.md) → [第十三篇〈三千州爭鋒〉](volume08/chapter001.md)。完整篇章入口見[閱讀總目錄](../README.md)。
+
 本目錄接續[下界 v2 卷三末章](../lower_realm_v2/volume03/chapter021.md)，依[全書 v2 閱讀卷冊對照](../../../docs/V2_VOLUME_READING_MAP.md)編為卷四至九，共 186 章。每卷章號重新從第一章起算，章名及故事正文取自已審開發稿；[逐章來源表](SOURCE_MANIFEST.md)可對回施工目錄原章號。卷四至七並以既有 published 鏡像核對正文；卷八、九由三千州 v2 開發稿清除 metadata 與自檢註記生成。
 
 | 閱讀卷 | 內容 | 章數 | 開始閱讀 |
