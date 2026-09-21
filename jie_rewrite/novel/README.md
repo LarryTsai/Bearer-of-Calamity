@@ -8,12 +8,12 @@
 
 [全書大篇章骨架](../docs/MACRO_OUTLINE.md)定重大故事單位，[v2 閱讀卷冊對照](../docs/V2_VOLUME_READING_MAP.md)定篇與卷的映射；下方是施工目錄與舊版材料說明。
 
-舊版正文已開發至 Volume12，共十二卷、583章；下列舊版卷號**不能直接當作 v2 閱讀卷號**。v2 已完成範圍的閱讀卷冊對照見 [`docs/V2_VOLUME_READING_MAP.md`](../docs/V2_VOLUME_READING_MAP.md)：下界[卷一至三](published/lower_realm_v2/README.md)，上界至三千州[卷四至十](published/upper_realm_v2/README.md)，共十卷291章。`volume02_v2`、`ancient_battlefield_deep_v2`、`volume03a_v2`、`volume03_v2` 仍是開發稿目錄名；閱讀版卷四至十另存於 `published/upper_realm_v2/`。
+舊版正文已開發至 Volume12，共十二卷、583章；下列舊版卷號**不能直接當作 v2 閱讀卷號**。v2 已完成範圍的閱讀卷冊對照見 [`docs/V2_VOLUME_READING_MAP.md`](../docs/V2_VOLUME_READING_MAP.md)：下界[卷一至三](published/lower_realm_v2/README.md)，上界至三千州[卷四至十](published/upper_realm_v2/README.md)，共十卷295章。`volume02_v2`、`ancient_battlefield_deep_v2`、`volume03a_v2`、`volume03_v2` 仍是開發稿目錄名；閱讀版卷四至十另存於 `published/upper_realm_v2/`。
 
 ## 目錄結構
 
-- `volume02_v2/`：接在 `published/lower_realm_v2/volume03/chapter021.md` 後的新版上界正文，全 89 章已審並與 `published/volume02_v2/` 同步。涵蓋界隙 ch001～011、鎮岳峰 ch012～038、七峰大比與三隊成軍 ch039～060、命藏 ch061～064、百宗盟試 ch065～082、雷魂域與鑑月 ch083～089；逐章對照 `docs/outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md`。舊 `volume02/` 及 `published/volume02/` 保留為素材。禁都舊 `volume03a/` 開篇仍有 ch085／鎮無央舊引用，尚不能直接接在本新版後。
-- `volume03a_v2/`：承 `volume02_v2/chapter089.md` 的獨立禁都新版線，全 28 章（含文家遭難）已按 `docs/outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md` 成文並同步 `published/volume03a_v2/`；ch028 接 `volume03_v2/chapter001.md` 的赤衢驛入口。舊 `volume03a/` 只作場景素材，不作新版前後文。
+- `volume02_v2/`：接在 `published/lower_realm_v2/volume03/chapter021.md` 後的新版上界正文，全 93 章已審並與 `published/volume02_v2/` 同步。涵蓋界隙 ch001～011、鎮岳峰 ch012～038、七峰大比與三隊成軍 ch039～064、命藏 ch065～068、百宗盟試 ch069～086、雷魂域與鑑月 ch087～093；逐章對照 `docs/outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md`。舊 `volume02/` 及 `published/volume02/` 保留為素材。禁都舊 `volume03a/` 開篇仍有 ch085／鎮無央舊引用，尚不能直接接在本新版後。
+- `volume03a_v2/`：承 `volume02_v2/chapter093.md` 的獨立禁都新版線，全 28 章（含文家遭難）已按 `docs/outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md` 成文並同步 `published/volume03a_v2/`；ch028 接 `volume03_v2/chapter001.md` 的赤衢驛入口。舊 `volume03a/` 只作場景素材，不作新版前後文。
 - `volume01/chapter001.md` ～ `chapter044.md`：第一卷，收在第 44 章。涵蓋第一篇「凡軀立命」至第四篇「下界風暴」；虛神界中陸沉先與魔女共同逃出殘殿，再與由解構側路進場的文奕共同解開仙王禁門，兩人各自取得內容完全相同、同樣完整的《古神禁典》，其後陸沉自主放下雷法、接下體修殘冊。百斷山保留石昊初見、天地雷火淬體與魔女互救，並已回填文奕由交換石與禁制習慣辨認陸沉、獨立救出三名受困者，篇末在唯一返航天窗內焚毀下界古錨返回上界；因此古錨因果對位永久失效，文奕缺席後續下界大劫已有正文因果。卷末由太玄閣滅閣雷劫接至追雷入虛空、正式取得照命。
 - `volume02/chapter001.md` ～ `chapter011.md`：第五篇「界隙照命」，從第 1 章〈重量回來了，腳步也追了上來〉開始，涵蓋墜落道天界、與洛生衣（化名「生」）相識同行、劫命歸位、進太玄宗山門分道為止（含〈回不去的商隊〉等同行章節）。
 - `volume03a/chapter001.md` ～ `chapter024.md`：禁都／萬禁會插篇（第十二篇）施工目錄，完成後將整體併入正式Volume03並令現行章號後移。**2026-09-13更新**：全20章（ch001～020）已完成——第一幕入城判錯路權、第二幕住區維修與文奕重逢，第三幕萬禁會五項考核（識禁/布禁/守禁/攻禁/取物，律無咎首次登場），第四幕規則敗局與第一次可驗證奪禁（陸沉犯禁敗退、文奕正統奪魁，三典天碑老人明確拒絕自封「第三盛世」），第五幕收束（陸沉啟程赴三千州，與文奕交換維護圖與崩角白石信物，非交換新秘法）。ch021～024為緊接其後的〈文家遭難〉插段（第十二、十三篇間，全新4章），陸沉主動折返助文奕暗中破解運節閣圍城。**已知時間線落差待處理**：本插篇+文家遭難逐章天數累加約47～48日，與舊版`volume03/chapter001.md`〈榜外之人〉標註「約一月後」不一致，待正式併入Volume03編號時一併校正。對應乾淨版位於 `published/volume03a/`。

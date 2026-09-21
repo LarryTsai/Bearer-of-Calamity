@@ -22,7 +22,7 @@
 | 第八篇〈界隙照命〉 | 卷4 | [第1章](upper_realm_v2/volume04/chapter001.md) |
 | 第九篇〈太玄宗・鎮岳入門〉 | 卷4 | [第12章](upper_realm_v2/volume04/chapter012.md) |
 | 第十篇〈七峰大比〉 | 卷5 | [第1章](upper_realm_v2/volume05/chapter001.md) |
-| 命藏過渡 | 卷5 | [第23章](upper_realm_v2/volume05/chapter023.md) |
+| 命藏過渡 | 卷5 | [第27章](upper_realm_v2/volume05/chapter027.md) |
 | 第十一篇〈百宗盟試〉 | 卷6 | [第1章](upper_realm_v2/volume06/chapter001.md) |
 | 第十一篇後插段〈古戰域深層〉 | 卷6 | [第19章](upper_realm_v2/volume06/chapter019.md) |
 | 古戰域深層後段 | 卷7 | [第1章](upper_realm_v2/volume07/chapter001.md) |
@@ -209,29 +209,33 @@
 - [第4章　擂線](upper_realm_v2/volume05/chapter004.md)
 - [第5章　摸得到的影](upper_realm_v2/volume05/chapter005.md)
 - [第6章　無虛之劍](upper_realm_v2/volume05/chapter006.md)
-- [第7章　兩人的決賽](upper_realm_v2/volume05/chapter007.md)
-- [第8章　榜後還有路](upper_realm_v2/volume05/chapter008.md)
-- [第9章　榜外的人](upper_realm_v2/volume05/chapter009.md)
-- [第10章　說出那一步](upper_realm_v2/volume05/chapter010.md)
-- [第11章　把人送到](upper_realm_v2/volume05/chapter011.md)
-- [第12章　淡色反噬](upper_realm_v2/volume05/chapter012.md)
-- [第13章　救出之後](upper_realm_v2/volume05/chapter013.md)
-- [第14章　六項成績](upper_realm_v2/volume05/chapter014.md)
-- [第15章　十二個位置](upper_realm_v2/volume05/chapter015.md)
-- [第16章　空著的隊長欄](upper_realm_v2/volume05/chapter016.md)
-- [第17章　誰接這一步](upper_realm_v2/volume05/chapter017.md)
-- [第18章　傷簿上的上限](upper_realm_v2/volume05/chapter018.md)
-- [第19章　低處一劍](upper_realm_v2/volume05/chapter019.md)
-- [第20章　先退的權](upper_realm_v2/volume05/chapter020.md)
-- [第21章　四個人的線](upper_realm_v2/volume05/chapter021.md)
-- [第22章　把權交到桌上](upper_realm_v2/volume05/chapter022.md)
+- [第7章　劍短，人更近](upper_realm_v2/volume05/chapter007.md)
+- [第8章　角外有路](upper_realm_v2/volume05/chapter008.md)
+- [第9章　少算一寸](upper_realm_v2/volume05/chapter009.md)
+- [第10章　留給停手的](upper_realm_v2/volume05/chapter010.md)
+- [第11章　兩人的決賽](upper_realm_v2/volume05/chapter011.md)
+- [第12章　榜後還有路](upper_realm_v2/volume05/chapter012.md)
+- [第13章　榜外的人](upper_realm_v2/volume05/chapter013.md)
+- [第14章　說出那一步](upper_realm_v2/volume05/chapter014.md)
+- [第15章　把人送到](upper_realm_v2/volume05/chapter015.md)
+- [第16章　淡色反噬](upper_realm_v2/volume05/chapter016.md)
+- [第17章　救出之後](upper_realm_v2/volume05/chapter017.md)
+- [第18章　六項成績](upper_realm_v2/volume05/chapter018.md)
+- [第19章　十二個位置](upper_realm_v2/volume05/chapter019.md)
+- [第20章　空著的隊長欄](upper_realm_v2/volume05/chapter020.md)
+- [第21章　誰接這一步](upper_realm_v2/volume05/chapter021.md)
+- [第22章　傷簿上的上限](upper_realm_v2/volume05/chapter022.md)
+- [第23章　低處一劍](upper_realm_v2/volume05/chapter023.md)
+- [第24章　先退的權](upper_realm_v2/volume05/chapter024.md)
+- [第25章　四個人的線](upper_realm_v2/volume05/chapter025.md)
+- [第26章　把權交到桌上](upper_realm_v2/volume05/chapter026.md)
 
 #### 命藏過渡
 
-- [第23章　三道門](upper_realm_v2/volume05/chapter023.md)
-- [第24章　無人合身的路](upper_realm_v2/volume05/chapter024.md)
-- [第25章　兩星同起](upper_realm_v2/volume05/chapter025.md)
-- [第26章　圖只記來路](upper_realm_v2/volume05/chapter026.md)
+- [第27章　三道門](upper_realm_v2/volume05/chapter027.md)
+- [第28章　無人合身的路](upper_realm_v2/volume05/chapter028.md)
+- [第29章　兩星同起](upper_realm_v2/volume05/chapter029.md)
+- [第30章　圖只記來路](upper_realm_v2/volume05/chapter030.md)
 
 ### 卷6〈百宗盟試・古戰域初探〉
 

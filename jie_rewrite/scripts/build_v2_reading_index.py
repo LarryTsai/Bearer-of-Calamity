@@ -47,7 +47,7 @@ ARC_ENTRIES = (
     ("第八篇〈界隙照命〉", 4, 1),
     ("第九篇〈太玄宗・鎮岳入門〉", 4, 12),
     ("第十篇〈七峰大比〉", 5, 1),
-    ("命藏過渡", 5, 23),
+    ("命藏過渡", 5, 27),
     ("第十一篇〈百宗盟試〉", 6, 1),
     ("第十一篇後插段〈古戰域深層〉", 6, 19),
     ("古戰域深層後段", 7, 1),
@@ -135,7 +135,7 @@ def build() -> str:
         if current_volume is None:
             raise ValueError(f"來源表沒有章節：{manifest}")
         lines.append("")
-    if expected_volume != 11 or total != 291:
+    if expected_volume != 11 or total != 295:
         raise ValueError(f"卷章總數異常：{expected_volume - 1} 卷、{total} 章")
     lines += [
         "## 下一段：古界（第十四篇，開發中）",
@@ -154,10 +154,10 @@ def main() -> None:
     if args.check:
         if not OUTPUT.exists() or OUTPUT.read_text(encoding="utf-8") != generated:
             raise SystemExit("v2 閱讀總目錄需要重新生成")
-        print("v2 reading index verified: 10 volumes, 291 chapters")
+        print("v2 reading index verified: 10 volumes, 295 chapters")
     else:
         OUTPUT.write_text(generated, encoding="utf-8")
-        print("v2 reading index built: 10 volumes, 291 chapters")
+        print("v2 reading index built: 10 volumes, 295 chapters")
 
 
 if __name__ == "__main__":

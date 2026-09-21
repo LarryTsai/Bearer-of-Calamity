@@ -11,11 +11,11 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "novel/published/upper_realm_v2"
 VOLUMES = (
     (4, "volume02_v2", 1, 38),
-    (5, "volume02_v2", 39, 64),
-    (6, "volume02_v2", 65, 82),
+    (5, "volume02_v2", 39, 68),
+    (6, "volume02_v2", 69, 86),
     (6, "ancient_battlefield_deep_v2", 1, 19),
     (7, "ancient_battlefield_deep_v2", 20, 40),
-    (7, "volume02_v2", 83, 89),
+    (7, "volume02_v2", 87, 93),
     (8, "volume03a_v2", 1, 28),
     (9, "volume03_v2", 1, 39),
     (10, "volume03_v2", 40, 69),
@@ -97,8 +97,8 @@ def build_plan() -> tuple[dict[Path, bytes], list[str]]:
             manifest.append(
                 f"| [卷{volume} 第{new_number}章]({relative}) | {title.replace('|', '\\|')} | `{source_rel}` |"
             )
-    if len(expected) != 226:
-        raise ValueError(f"Expected 226 chapters, got {len(expected)}")
+    if len(expected) != 230:
+        raise ValueError(f"Expected 230 chapters, got {len(expected)}")
     expected[OUTPUT / "SOURCE_MANIFEST.md"] = ("\n".join(manifest) + "\n").encode("utf-8")
     return expected, manifest
 
@@ -115,14 +115,14 @@ def main() -> None:
         mismatches.extend(f"obsolete: {path.relative_to(ROOT)}" for path in obsolete)
         if mismatches:
             raise SystemExit("Missing or outdated reading files:\n" + "\n".join(mismatches))
-        print("Verified 226 chapters and source manifest across volumes 04–10.")
+        print("Verified 230 chapters and source manifest across volumes 04–10.")
         return
     for path in obsolete:
         path.unlink()
     for path, data in expected.items():
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(data)
-    print("Built 226 chapters and source manifest across volumes 04–10.")
+    print("Built 230 chapters and source manifest across volumes 04–10.")
 
 
 if __name__ == "__main__":
