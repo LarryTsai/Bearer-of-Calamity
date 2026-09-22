@@ -1102,7 +1102,7 @@
 
 ---
 
-### [ ] 212. RC-V06 TRANSFORM遇canon reject：孟天正認出岳沉淵一脈是否已被205新版取代（`EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`「正式」狀態衝突）
+### [x] 212. RC-V06 TRANSFORM遇canon reject：孟天正認出岳沉淵一脈是否已被205新版取代（`EVENT_TIANSHEN_ACADEMY_HUANG_VS_JIE.md`「正式」狀態衝突）——2026-09-22補勾：2026-09-17已使用者正式裁定並回填`OUTLINE_TIANSHEN_ACADEMY.md`retcon標記（第141、165行），checkbox先前未同步更新
 
 **背景**：寫手1完成劫四強戰（玄昆）TRANSFORM後跑canon/power-system覆核，power-system pass（僅一項craft提醒：ch027①肉身接觸試探要跟③第六雷「沿發力結構逆入」的破壞性機制文字區隔，避免模糊「首次公開」節奏），**但canon回報`status: reject`**，抓到一個結構性衝突，寫手1依規則未自行拍板，已停手等裁定。
 

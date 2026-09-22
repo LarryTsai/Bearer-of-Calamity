@@ -166,7 +166,7 @@
 
 ### 第十四篇〈界潮與古界〉（原第八篇，2026-09-12 全面改版，取代原「仙古埋雷」）
 
-> 陸沉**不再前往仙古遺跡**；荒、洛生衣、青璃、文奕等同代人仍可各自有仙古線，但不與陸沉的第四、五雷取得產生交集。完整唯一來源見 `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`、`outlines/OUTLINE_ANCIENT_REALM_WAR.md`。
+> 陸沉**不再前往仙古遺跡**；荒、洛生衣、青璃、文奕等同代人仍可各自有仙古線，但不與陸沉的第四、五雷取得產生交集。完整唯一來源見 `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`；`outlines/OUTLINE_ANCIENT_REALM_WAR.md`為18~20章舊版設計依據，**現行Act1~5逐章唯一來源已改為`outlines/OUTLINE_ANCIENT_REALM_EXPANDED.md`（Act1~4）與`outlines/OUTLINE_ANCIENT_REALM_ACT5.md`（Act5），2026-09-22補記**。
 
 - **強闖界潮**：陸沉、封寒依禁制推演與坍縮之道感知，鎖定千年一遇的界潮奇異點，硬解界問題強行闖入（遠低於正常進入門檻）。
 - **玄衡追殺與合作**：玄衡依巡查秩序邏輯判定二人為非法闖入者（執法邏輯，非災源誤判，天罰一脈「災源封殺令」載體於此）；界潮持續惡化迫使三方合作。
@@ -315,7 +315,7 @@
 ## 相關檔案
 
 - `MACRO_OUTLINE.md`：本文件所有「必要卡點」的原始唯一來源，逐篇更新時以該檔為準。
-- `outlines/`：各篇獨立詳細大綱（有幕次拆分者）：`OUTLINE_THREE_THOUSAND_STATES.md`、`OUTLINE_FORBIDDEN_CAPITAL_MYRIAD_CONVENTION.md`、`OUTLINE_ANCIENT_REALM_WAR.md`、`OUTLINE_TIANSHEN_ACADEMY.md`、`OUTLINE_FOREIGN_DOMAIN_RETURN_ROUTE.md`、`OUTLINE_AFTER_CALAMITY_HOME.md`。
+- `outlines/`：各篇獨立詳細大綱（有幕次拆分者）：`OUTLINE_THREE_THOUSAND_STATES.md`（第十三篇v2.0現行唯一來源，2026-09-13整段取代舊版）、`OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md`（禁都篇v2現行唯一來源，2026-09-20施工版，`OUTLINE_FORBIDDEN_CAPITAL_MYRIAD_CONVENTION.md`已降級為素材）、`OUTLINE_ANCIENT_REALM_EXPANDED.md`＋`OUTLINE_ANCIENT_REALM_ACT5.md`（古界篇Act1~5現行唯一來源，`OUTLINE_ANCIENT_REALM_WAR.md`為18~20章舊版已被取代）、`OUTLINE_TIANSHEN_ACADEMY.md`、`OUTLINE_FOREIGN_DOMAIN_RETURN_ROUTE.md`、`OUTLINE_AFTER_CALAMITY_HOME.md`。**2026-09-22更新**：本行原僅列出三份已被取代的舊版大綱檔，已補上現行版本。
 - `VOLUME04_RETCON_CHAPTER_PLAN.md`：〈界潮與古界〉篇對照舊版正文的逐章處置規劃（新舊對照用，非內容來源）。
 - `CHECKLIST_NOVEL_REVIEW_FIXES.md`、`CHECKLIST_PENDING_DECISIONS.md`：retcon回溯追蹤與待裁決提案。
 - 已產生但可能受retcon影響的舊版正文：`novel/volumeXX/chapterYYY.md`——內容一律以本文件與上述唯一來源檔為準，舊正文僅在明確標示「未受影響」的段落才可直接沿用。本次重新架構（虛神界／百斷山／真假委託／七峰大比／百宗盟試獨立成章、命圖改列主線丙、全書篇數重編號）尚未回填至舊版正文，兩者暫時對不上是預期中的正常狀態，待骨架穩定後再排程回填。

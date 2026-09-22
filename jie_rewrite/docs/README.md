@@ -30,10 +30,10 @@
 - `world/WORLD_FORBIDDEN_CAPITAL.md`：禁都文明、歷史分層、公共禁制、最小勢力人物與奪禁能力安全閥。
 - `outlines/OUTLINE_FORBIDDEN_CAPITAL_MYRIAD_CONVENTION.md`：禁都／萬禁會／第一次完整奪禁20章可開發章綱。
 - `outlines/OUTLINE_FAKE_COMMISSION_ARC.md`：第六篇〈真假委託〉幕次拆分（依已完成正文ch029～031逆向整理），含天罰一脈線索埋設位置對照表。
-- `outlines/OUTLINE_WEN_FAMILY_CRISIS.md`：插段〈文家遭難〉幕次拆分提案（4章），含新增勢力與待覆核事項，尚未經canon/continuity/character/power-system覆核。
+- `outlines/OUTLINE_WEN_FAMILY_CRISIS.md`：插段〈文家遭難〉幕次拆分提案（4章），含新增勢力，**2026-09-22補記**：本檔v1.1已於2026-09-12同日完成canon/continuity/character/power-system四方覆核並經使用者裁定採用，正式定案，可進入jie-chapter-editor/jie-writer流程。
 - `outlines/OUTLINE_THREE_THOUSAND_STATES_BREATHER.md`：第十三篇三千州爭鋒篇末呼吸段插入點（ch050/051間，2～3章），尚未經覆核。
-- `outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`：天神書院「書院寶庫」自省考驗（淵劫）插入點（ch030/031間，2章），三痕古域／雷霆痕／天煞痕設定與封寒護短起源已完成四方覆核（見 `CHECKLIST_PENDING_DECISIONS.md` 第180題），逐章大綱由 `jie-chapter-editor` 產出，插入編號待裁示。
-- `outlines/OUTLINE_BORDER_ROAD_EXPANSION.md`：Volume07界路篇擴寫（178題#2，原16章擴增至31章）＋主線甲文奕帝關插入點，含三具雷身熄滅/燼長明化灰記憶代價等核心場景設計，尚未經覆核。
+- `outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`：天神書院「書院寶庫」自省考驗（淵劫）插入點（ch030/031間，2章），三痕古域／雷霆痕／天煞痕設定與封寒護短起源已完成四方覆核（見 `CHECKLIST_PENDING_DECISIONS.md` 第180題），**2026-09-22補記**：插入編號已於2026-09-13裁定並執行完畢，新章一、新章二已正式寫入`chapter031.md`、`chapter032.md`並通過四方複核，`OUTLINE_TIANSHEN_ACADEMY.md`原ch031起章次已整體後移兩位（全篇現為五十章）。
+- `outlines/OUTLINE_BORDER_ROAD_EXPANSION.md`：Volume07界路篇擴寫（178題#2，原16章擴增至31章）＋主線甲文奕帝關插入點，含兩具分身雷身熄滅＋本尊瀕死/燼長明化灰記憶代價等核心場景設計。**2026-09-22補記**：已完稿，`novel/volume07/`ch041～071全31章，見`CHECKLIST_PENDING_DECISIONS.md`178題#2。
 - `outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`：Volume08整卷重建結構規劃（178題#3，原40章擴增至約92章），含插入點結構性發現（ch016/017間，不動既有38章）、8→0→8核心場景、封寒拆王支線與文奕託付插入點；Act III約50章細節尚未展開，需分批交jie-creative後再排逐章大綱，尚未經覆核。
 - `outlines/OUTLINE_VOID_SPIRIT_REALM.md`：第三篇〈虛神界〉七節章綱，文奕、魔女兩線同場開場，尚未經覆核。
 - `outlines/OUTLINE_HUNDRED_BROKEN_MOUNTAIN.md`：第五篇〈百斷山〉六章章綱，魔女互救為全篇核心，尚未經覆核。
@@ -85,7 +85,7 @@
 - `VOLUME04_RETCON_CHAPTER_PLAN.md`：玄衡／界潮與封寒retcon對Volume04（ch001～056）的逐章處置規劃，含四項待裁定TODO，實際改寫前必讀。
 - `STORY_CAUSALITY_NETWORK.md`：陸沉全部原創故事的因果與伏筆總網；規定事件來源、能力所得、代價、跨篇回收、高潮層級與待補橋樑。
 - `STORY_PACING_AND_WORLD_GUIDE.md`：陸沉線高潮波形、長程懸念、公平反轉、能力首秀、十雷標誌畫面與世界觀展示準則。
-- `outlines/OUTLINE_TIANSHEN_ACADEMY.md`：天神書院篇四十八章六幕目錄；正文控制跨度約八至九個月，含書院生活、周晏殘陣案、荒劫排位、外圍七站、雷訊試網與第七雷雙戰場。
+- `outlines/OUTLINE_TIANSHEN_ACADEMY.md`：天神書院篇五十章六幕目錄（原四十八章，因書院寶庫插入兩章整體位移，2026-09-13已裁定執行）；正文控制跨度約八至九個月，含書院生活、周晏殘陣案、荒劫排位、外圍七站、雷訊試網與第七雷雙戰場。
 - `outlines/OUTLINE_THREE_THOUSAND_STATES.md`：三千州天才戰篇六幕目錄，Volume03正文對應。
 - `outlines/OUTLINE_ANCIENT_REALM_WAR.md`：界潮／古界多國戰爭史詩，Volume04取代死寂雷域／仙古遺跡後的生活弧線唯一來源，約18～20章。
 - `outlines/OUTLINE_VOLUME01_WEN_YI_SHARED_CANON_REBUILD.md`：Volume01文奕共同取得《古神禁典》段落的重建章綱。
