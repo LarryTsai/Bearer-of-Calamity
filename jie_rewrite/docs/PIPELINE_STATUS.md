@@ -157,7 +157,9 @@
 ## 尚待排產的backlog（未開始，排期前先看這裡）
 
 - **古世雙界遠行**：`OUTLINE_ANCIENT_WORLD_DUAL_REALMS.md`，雙線約50章，已完稿於`novel/volume06b/`（清道夫已掃完）。
-- **帝關界路擴寫**：`OUTLINE_BORDER_ROAD_EXPANSION.md`，已完稿於`novel/volume07/`（清道夫已掃完，2026-09-22。全71章深度掃描結束，發現並記錄於`CHECKLIST_NOVEL_REVIEW_FIXES.md` CF節：CF-01顧小滿療養缺口待PM／使用者裁定，CF-02仙王殘篇用詞已修復並push；其餘全清）。
+- **帝關界路擴寫**：`OUTLINE_BORDER_ROAD_EXPANSION.md`，已完稿於`novel/volume07/`（清道夫已掃完，2026-09-22。全71章深度掃描結束，CF-01（顧小滿療養缺口）PM核准後清道夫已在ch022補一段最小幅度退場交代並push；CF-02（仙王殘篇用詞）已修復並push；`CHECKLIST_NOVEL_REVIEW_FIXES.md` CF節全數結案）。
+
+**2026-09-22 清道夫自選下一掃描目標：volume10**：帝關界路擴寫全卷掃完後，比照同一邏輯（已完稿但未做過line-editor級內容缺口檢查）自選`novel/volume10/`（40章，長息篇，此前只有2026-07-30一輪結構閉環）續作，PM已核准、不強制回報每段。ch001～016（十二年後果、父親線古雷道分離、母親線斷裂道域）已掃完，全數與對應事件設計文件（`EVENT_MOTHER_FRACTURED_DOMAIN.md`等）逐項核對相符，無P0/P1發現，詳見`CHECKLIST_NOVEL_REVIEW_FIXES.md` CG節。剩餘ch017～040待續。
 - **異域V08整卷重建**：`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`，40→92章，規模最大，Act III約50章細節未逐章拆解，設定層級183~192題均已完成四方覆核回填，未動筆。排期時注意第265行舊版章節引用需訂正為`chapter071.md`。
 - **187禁都大篇擴充**（方案5全量組合，5~6章新增）：會重新打開已commit的`novel/volume03a/chapter005~020.md`，牽動`novel/README.md`等下游文件，尚未進入執行階段，larry-ad團隊會在啟動前通知PM。
 - **189千年古界完整版**：內外時間流速差異解法已定案，理論上不牽動已發布內容，尚未進入章節設計階段。
