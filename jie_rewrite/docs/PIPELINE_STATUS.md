@@ -2,6 +2,12 @@
 
 狀態：PM維護的活文件，每次重大進度變化就更新。/clear後先讀這份，不用使用者重講。
 
+## 2026-09-23 重大規則變更：git commit/push一律由PM統一執行，寫手/清道夫不再自己commit
+
+**事故經過**：全庫改名任務中，多個session同時在同一個共用working tree上獨立執行`git commit`/`git push`，造成兩起併發事故——①寫手1改完`OUTLINE_BORDER_EMPEROR_PASS.md`後commit，意外把working tree裡其他session當下未commit的散落修改一起打包進commit（95個檔案）；②PM執行`novel/volume06_superseded`資料夾刪除時同樣意外夾帶95個其他檔案。兩次都導致本地與origin/main歷史分岔、push被拒。已用`git merge origin/main`處理，確認無內容遺失，重新push成功（`ea06415`）。
+
+**新規則（即刻生效，全員遵守）**：**寫手1、寫手2、清道夫不再自己執行`git commit`或`git push`**。檔案編輯完照常直接存檔，完成一批工作後回報PM「這批做完了」，**由PM統一執行`git status`確認暫存區內容、`git add`指定檔案、`git commit`、`git push`**。這是為了避免共用working tree下多人commit互相覆蓋/打包錯誤內容，不是不信任大家的判斷。
+
 ## 2026-09-23 新增標準政策：v2完全取代v1時，整個v1資料夾要刪除，不留歷史素材
 
 使用者明確指示：**v2版本如果該章／該卷已經完全寫完、不再需要v1，就把v1整個資料夾刪除，不要留下會造成混淆或誤用風險的東西**。「留著當歷史素材」不再是預設處理方式——先前對volume02 ch082~085、舊版volume04採用的「維持不動當素材保留」處理方式，只適用於**v2尚未完整覆蓋、還在施工中**的情況；一旦確認v2已完整覆蓋、不再需要回頭參照v1，就要刪除v1，不是留著。
