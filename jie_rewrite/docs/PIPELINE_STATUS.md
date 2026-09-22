@@ -37,7 +37,7 @@
 **派工（暫停手上其他任務優先執行）**：
 - 清道夫：`novel/volume05`、`volume06`、`volume06b`、`volume07`（含published鏡像）
 - 寫手2：`novel/volume08~11`（含published鏡像）＋`docs/characters`／`docs/systems`／`docs/factions`＋回改自己稍早3處「改回玄衡舊名」的修正（commit d597489作廢）
-- 寫手1：`novel/volume02~04`（含volume03_v2、published鏡像，volume04_v2已是新名不用動）＋`docs/MACRO_OUTLINE.md`／`MASTER_TABLE_OF_CONTENTS.md`／`CHECKLIST_NOVEL_REVIEW_FIXES.md`／`docs/outlines/`殘留檔案
+- 寫手1：`novel/volume02~04`（含published鏡像，volume04_v2已是新名不用動；volume03_v2已於2026-09-23 swap扶正為volume03，不再是獨立路徑）＋`docs/MACRO_OUTLINE.md`／`MASTER_TABLE_OF_CONTENTS.md`／`CHECKLIST_NOVEL_REVIEW_FIXES.md`／`docs/outlines/`殘留檔案
 
 **執行規則**：①正文新名徹底取代舊名，同步檢查物種/外觀/招式描述（鑑月=白澤/辨魂，原鎮無央獅形/視覺；蒼梧=無支祁猿形，原玄衡麒麟；赤翎物種不變）；②純改名直接做，牽涉描述改寫的先列出來問PM；③`docs/`裡明確講「改名這件事本身」的歷史記錄句保留舊名不刪；④一批做完就commit+push不用等全部完成。
 
@@ -81,7 +81,7 @@ Manifesto新增二十之一/二十之二節：修仙畫面驗收不是機械單�
 
 **192題（王族偽裝機制）舊方案正式廢棄，機制轉向**：寫手1跑power-system發現原「真改寫肉身元神血脈」方案撞`SYSTEM_LU_CHEN_FORMATION_SCOPE.md`安全閥且稀釋青璃相界獨特性，提出替代方案「駭進異域驗證判讀節點，血脈元神本質不動」，使用者核准並定調核心主題句：**「青璃改變自己是什麼；陸沉改變系統認為他是什麼」**，追加四條安全閥（不永久化/不泛用/不取得王族血脈權限/封寒不因此增益）。另有一條範圍超出192題本身的通用安全閥模式（煌命判讀機制+可被禁制干涉的驗證節點+足夠施工時間，三者缺一不成立），已請寫手1登記進`SYSTEM_LU_CHEN_FORMATION_SCOPE.md`防止陸沉能力日後失控泛化。寫手1正在跑canon/continuity確認新機制無衝突。
 
-**198題（假戰印印樣拓片）已完成回收**：寫手2在`novel/volume03_v2/chapter027.md`（非原先誤植的volume04_v2）補下落交代，continuity pass，已commit（afff12b）並同步published鏡像。CHECKLIST 196/198/199/200/208/209六題全數關閉。
+**198題（假戰印印樣拓片）已完成回收**：寫手2在`novel/volume03_v2/chapter027.md`（非原先誤植的volume04_v2）補下落交代，continuity pass，已commit（afff12b）並同步published鏡像。CHECKLIST 196/198/199/200/208/209六題全數關閉。**（2026-09-23路徑更新：該檔已隨volume03_v2 swap扶正，現位於`novel/volume03/chapter027.md`。）**
 
 ## 2026-09-22 N-1〈劍先放下〉已完稿並commit
 
@@ -154,7 +154,7 @@ Manifesto新增二十之一/二十之二節：修仙畫面驗收不是機械單�
 
 **2026-09-20 新工作線**：下界 v2 已完成 65 章，暫停修改、留待冷卻後回讀。`volume02_v2` 上界篇依 `outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md` 完成**全 89 章**：第八篇 ch001～011、第九篇 ch012～038、第十篇 ch039～060、命藏 ch061～064、百宗盟試 ch065～082、雷魂域與鑑月 ch083～089；清道夫已連讀修復接縫，開發版／published 89 對全文一致。出宗門後的人物驅動見 `outlines/OUTLINE_CROSS_ARC_CHARACTER_DRIVERS.md`。下一卷禁都舊 `volume03a/chapter001.md` 仍引用舊 ch085／鎮無央，須在新 v2 接續施工時改為 ch089／鑑月，不能把舊正文直接接到新版後。古界 Act5 交接工作線仍按下表記錄。
 
-**2026-09-20 禁都 v2 完卷**：獨立 `novel/volume03a_v2/` 與 `novel/published/volume03a_v2/` 全28章已對 `outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md` 成文，含文家遭難四章；清道夫核正文雙版一致及逐章綱對位，ch018 同擊雙寫已修。卷二 ch089 的鑑月／初得七日冷卻與舊傷接新 ch001；ch028 經文家事件北行多日抵赤衢驛，`volume03_v2/chapter001.md` 已改承新版並修正唐野名次。舊 `volume03a/` 24章與只刊3章的舊 published 僅作素材。
+**2026-09-20 禁都 v2 完卷**：獨立 `novel/volume03a_v2/` 與 `novel/published/volume03a_v2/` 全28章已對 `outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md` 成文，含文家遭難四章；清道夫核正文雙版一致及逐章綱對位，ch018 同擊雙寫已修。卷二 ch089 的鑑月／初得七日冷卻與舊傷接新 ch001；ch028 經文家事件北行多日抵赤衢驛，`volume03_v2/chapter001.md` 已改承新版並修正唐野名次（**2026-09-23路徑更新**：該檔現位於`volume03/chapter001.md`）。舊 `volume03a/` 24章與只刊3章的舊 published 僅作素材。
 
 **2026-09-20 禁都 v2 密度精修**：章數與章序維持28；ch005～010、020、022～023 將住戶用水用藥、商戶名譽、岑婆停令、維修交接、雙份紀錄簽認及夜路實測寫成現場選擇，已逐章回填同一份28章綱。清道夫核九章開發稿與 published 正文一致，章綱、時序、能力無 P1；ch010 扭傷者身分過度指定已修。
 
@@ -228,7 +228,7 @@ Manifesto新增二十之一/二十之二節：修仙畫面驗收不是機械單�
 ## 已結案事項（指標式紀錄，完整過程查git log/對應doc）
 
 - **書院寶庫插入**：`OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`，2章已正式寫入`chapter031~032.md`並通過四方複核，後續章節整體後移編號已執行完畢。backlog清單先前未同步更新，2026-09-22盤點時發現並移到此處。
-- **三千州爭鋒v2.0整段重寫**：`novel/volume03_v2/chapter001~069.md`全69章完稿，全庫規模最大單項retcon，PM逐批複核commit。舊版`novel/volume03/`保留供查考，swap時機未定。
+- **三千州爭鋒v2.0整段重寫**：`novel/volume03_v2/chapter001~069.md`全69章完稿，全庫規模最大單項retcon，PM逐批複核commit。**（2026-09-23 swap完成）**：已扶正為`novel/volume03/`，舊版v1.0（52章）已依當日政策直接刪除，不再保留供查考。
 - **天神書院排位大會retcon（RC-V06）**：202~206題設計階段已關閉，UNBLOCK，12章大綱TRANSFORM完成，後續追蹤在`CHECKLIST_NOVEL_REVIEW_FIXES.md` RC-V06系列。
 - **封寒與陸沉相識起點（第201題）**：`CHARACTER_FENG_HAN.md`四之4.1/4.2回填完成，`chapter040.md`/`chapter047.md`回溯修正完成。
 - **古界篇長篇化擴建**：Canon Recovery→structural design→五幕重排→Scene Architecture（46章大綱）全部完成，「禁止開寫」已於2026-09-19解除（僅限Act1~4新寫，Volume04舊版56章retcon本體與Act5範圍不受影響），現正分批動筆。完整過程見`CHECKLIST_NOVEL_REVIEW_FIXES.md` 0.4節。

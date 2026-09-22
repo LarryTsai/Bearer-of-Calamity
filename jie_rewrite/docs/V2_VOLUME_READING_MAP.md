@@ -12,12 +12,12 @@
 | 卷六〈百宗盟試・古戰域初探〉 | 第十一篇表層盟試＋古戰域深層前19章 | 37 | `novel/volume02_v2/chapter069.md`～`chapter086.md`、`novel/ancient_battlefield_deep_v2/chapter001.md`～`chapter019.md` | 賽制終止後深入古戰域，卷尾落在深層幕界 |
 | 卷七〈古戰域深層・雷魂〉 | 古戰域深層後21章＋雷魂域過渡 | 28 | `novel/ancient_battlefield_deep_v2/chapter020.md`～`chapter040.md`、`novel/volume02_v2/chapter087.md`～`chapter093.md` | 深層收束後返宗，第三雷與鑑月魂印到位，再往禁都 |
 | 卷八〈禁都與文家〉 | 第十二篇＋第十二、十三篇間插段 | 28 | `novel/volume03a_v2/chapter001.md`～`chapter028.md`；同範圍 published 鏡像 | 本階段勝負與代價落地；文家死傷、供貨與裁定仍待後續處理 |
-| 卷九〈三千州前段〉 | 第十三篇第1～39章 | 39 | `novel/volume03_v2/chapter001.md`～`chapter039.md` | 同行、分歧與雙線匯合完成，轉入審判兵陣 |
-| 卷十〈三千州後段〉 | 第十三篇第40～69章 | 30 | `novel/volume03_v2/chapter040.md`～`chapter069.md` | 審判兵陣、撤離及生活尾聲完成，轉向界潮 |
+| 卷九〈三千州前段〉 | 第十三篇第1～39章 | 39 | `novel/volume03/chapter001.md`～`chapter039.md`（2026-09-23已由`volume03_v2/`swap扶正） | 同行、分歧與雙線匯合完成，轉入審判兵陣 |
+| 卷十〈三千州後段〉 | 第十三篇第40～69章 | 30 | `novel/volume03/chapter040.md`～`chapter069.md`（2026-09-23已由`volume03_v2/`swap扶正） | 審判兵陣、撤離及生活尾聲完成，轉向界潮 |
 
 ## 執行規則
 
-1. 卷一至三位於 `novel/published/lower_realm_v2/`，卷四至十位於 `novel/published/upper_realm_v2/`，合計十卷、295章。`volume02_v2`、`ancient_battlefield_deep_v2`、`volume03a_v2`、`volume03_v2` 是施工目錄名，不等於讀者看見的卷號；卷四至十已重編卷內章號並有 `upper_realm_v2/SOURCE_MANIFEST.md` 逐章來源表。舊開發稿、舊版卷冊均保留。
+1. 卷一至三位於 `novel/published/lower_realm_v2/`，卷四至十位於 `novel/published/upper_realm_v2/`，合計十卷、295章。`volume02_v2`、`ancient_battlefield_deep_v2`、`volume03a_v2` 是施工目錄名，不等於讀者看見的卷號（`volume03_v2`已於2026-09-23 swap扶正為`volume03`，不再是獨立施工目錄名）；卷四至十已重編卷內章號並有 `upper_realm_v2/SOURCE_MANIFEST.md` 逐章來源表。舊開發稿、舊版卷冊均保留（**2026-09-23訂正**：此處「舊版卷冊均保留」為既有通則措辭，個別卷冊如舊volume02/volume03已依個案裁定刪除，非全數保留，實際保留狀態以各卷條目說明為準）。
 2. 宏綱「第八至十三篇」不隨卷號更改。古戰域深層是第十一篇後的故事段落，跨卷六、七；雷魂域接於卷七末。禁都 ch001～024 是第十二篇，ch025～028 是第十二、十三篇間插段；兩者同在閱讀卷八。三千州雖分卷九、十，仍是同一第十三篇。
 3. 開發稿與設定檔仍以施工路徑和原章號追溯；閱讀版章號只用於讀者目錄，不在正文或大綱盲目取代。之後修訂正文，先改開發稿與大綱，再重建閱讀版、核對來源表與跨卷接縫。
 4. 第十四篇古界 v2 及更後續卷界，等該篇完成章數和收束審查後接在卷十之後定案；不拿舊 `volume04`～`volume12` 目錄號硬接新版閱讀卷號。
