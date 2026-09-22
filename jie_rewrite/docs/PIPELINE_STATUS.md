@@ -2,6 +2,19 @@
 
 狀態：PM維護的活文件，每次重大進度變化就更新。/clear後先讀這份，不用使用者重講。
 
+## 2026-09-23 全庫緊急改名：四伴星舊名全面移除（最高優先度，凌駕其他任務）
+
+使用者推翻今日稍早「V08暫時維持舊名，等排到全庫retcon再改」的分批政策，直接裁示**全庫立即執行改名，不再分批**。對照表：劫厄（不變）／鎮無央→**鑑月**／玄衡→**蒼梧**／燼長明→**赤翎**。裁定全文見`CHECKLIST_PENDING_DECISIONS.md`215題（commit 104576b）。
+
+**派工（暫停手上其他任務優先執行）**：
+- 清道夫：`novel/volume05`、`volume06`、`volume06b`、`volume07`（含published鏡像）
+- 寫手2：`novel/volume08~11`（含published鏡像）＋`docs/characters`／`docs/systems`／`docs/factions`＋回改自己稍早3處「改回玄衡舊名」的修正（commit d597489作廢）
+- 寫手1：`novel/volume02~04`（含volume03_v2、published鏡像，volume04_v2已是新名不用動）＋`docs/MACRO_OUTLINE.md`／`MASTER_TABLE_OF_CONTENTS.md`／`CHECKLIST_NOVEL_REVIEW_FIXES.md`／`docs/outlines/`殘留檔案
+
+**執行規則**：①正文新名徹底取代舊名，同步檢查物種/外觀/招式描述（鑑月=白澤/辨魂，原鎮無央獅形/視覺；蒼梧=無支祁猿形，原玄衡麒麟；赤翎物種不變）；②純改名直接做，牽涉描述改寫的先列出來問PM；③`docs/`裡明確講「改名這件事本身」的歷史記錄句保留舊名不刪；④一批做完就commit+push不用等全部完成。
+
+V08 Act III-1第4~6章寫作、清道夫/寫手1原本的backlog與伏筆審查工作全部暫停，優先做完這件事再回頭繼續。
+
 ## 2026-09-22 V08 Act III 24章正式APPROVE，進入jie-writer落筆階段
 
 使用者以完整讀者視角（非逐條檢查）重讀24章總覽，正式核准進jie-writer，完整寫作要求（核心結構理解+六條硬要求）見`docs/V08_ACT_III_CREATIVE_CANDIDATES.md`開頭。這是全書第一個從骨架階段就原生套用manifesto新標準設計出來的篇章。分工：寫手1落筆Act III-1（8章，自己設計的部分），寫手2落筆第0幕+第III幕第7節（16章，自己設計的部分）。交付前各自照SOP跑四方審查，分幕回報。
