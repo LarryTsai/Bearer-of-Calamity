@@ -10,7 +10,13 @@
 
 **其餘自然回收池同步收尾**：236（文奕「還沒抄完的禁紋圖」，`volume07/chapter064.md`回收）、241（魔女下界任務失敗、教內地位受影響，`volume03/chapter005.md`回收）、246（荒×陸沉預定名戰，`STORY_CAUSALITY_NETWORK.md`九之一正式登記＋`volume12/chapter022.md`欠帳收口）均已確認完成，一併結案。
 
-**已closed待commit**：236、237、241、246、252、263（本次一併commit）。
+**已commit並push**：236、237、239（後續補細節）、240、241、246、250、252、263 全數結案（commit `97965ca`/`1911e7f`/`357211c`/`412a44c`）。236~254批次19題的自然回收池與立即處理項目已全數清空。
+
+**255題進度**：寫手1完成③（Act5 H~M `jie-pacing`診斷，跑完待回報）與②提案（`volume04_v2/chapter071.md`第33行插入蒼梧多停半息的外部觀察，不碰骨刺，PM已核准落筆）。
+
+**已知待清理、非緊急**：①`novel/volume07/chapter014.md`與`novel/volume12/chapter022.md`的dev稿與published鏡像各自多出對方沒有的句子（寫手3複核時發現，非本輪造成），需要找時間統一對齊；②`scripts/make_clean_copy.pl`處理CRLF原始檔時會產生`\r\r\n`雙重換行，寫手3產ch034a時已手動修正，之後用這支腳本要注意。
+
+**寫手3新派工**：`novel/lower_realm_v2/`（序篇+七篇，65章）尚未做過`jie-foreshadowing-payoff`，寫手3已開始執行。
 
 ## 2026-09-23 使用者授權：持續自主派工，不等待逐項回覆
 
