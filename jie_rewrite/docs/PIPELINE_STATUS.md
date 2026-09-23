@@ -34,12 +34,10 @@
 
 ### 仙化manifesto診斷（`CULTIVATION_ASPIRATION_REVIEW_LOG.md`）已覆蓋範圍
 
-- **volume01（開發稿，44章）已全卷覆蓋**：ch001~018由2026-09-22 `jie-writer`背景試寫比較（`novel/drafts/cultivation_aspiration_trial_v1/`，清道夫已核硬約束）覆蓋；ch019~044由寫手1今日（2026-09-23）純診斷pass覆蓋（0改稿，僅登記結論）。
+- **⚠️ 2026-09-23緊急更正（清道夫`jie-knowledge-state`第二輪試跑意外發現，方向與先前記載完全相反）**：`novel/volume01/`（44章）**不是**現行canon，是已被取代的舊版——`docs/CHECKLIST_RESOLVED_HISTORY.md`第218題（2026-09-19已結案）確認`novel/lower_realm_v2/`（序篇+七篇，65章，`published/lower_realm_v2/`為其乾淨閱讀版，三卷18/26/21章）才是現行正式下界開發稿，模式跟`volume02`→`volume02_v2`、`volume03`→`volume03_v2`相同，只是第220題（全書卷號重整/正式swap）尚未執行，`volume01/`資料夾還留著、容易被誤判成現行。下方原記載「volume01已全卷覆蓋」方向錯誤，**實際覆蓋的是已被取代的舊版**：ch001~018的2026-09-22 `jie-writer`背景試寫比較（`novel/drafts/cultivation_aspiration_trial_v1/`）、寫手1 2026-09-23的ch019~044純診斷pass，兩批manifesto仙化診斷**都是在volume01上做的，需要使用者確認是否要在`novel/lower_realm_v2/`重跑**。`novel/lower_realm_v2/`目前尚未做過manifesto診斷、也尚未做過`jie-foreshadowing-payoff`/`jie-world-state`審查，等同一塊全新未覆蓋範圍。
 - **古界Act5（`novel/volume04_v2/chapter047~078.md`，32章）僅抽樣**：J單元三次點火（ch059~062）+ ch071已讀，未逐章覆蓋；G~M整體因是刻意的人體尺度圍城生存調性，維持不列REWORK。
 - N單元（放劍／返程／告別）及之後古界內容**尚未落正文**，套用準則已寫入review log供動筆時參考。
-- **尚未做過manifesto診斷的範圍**：volume02_v2（93章）、ancient_battlefield_deep_v2（41章）、volume03/03a_v2、volume04_v2其餘未抽樣章節、volume05以後全部。
-
-**已知的資料落差（非本次任務範圍，提醒未來排工者）**：`published/lower_realm_v2/`（卷一~卷三，44章）的章節編號與標題跟`novel/volume01/`開發稿（44章）**完全對不上**（例如開發稿ch019〈灶邊新客〉≠ 卷二ch001〈殘殿七影〉），確認是兩份實質不同的文字、不是同一份內容換頁碼——`published/lower_realm_v2/`看起來是舊版retcon前的清版鏡像，尚未跟現行volume01開發稿重新同步。之後若排工到「审查published版本」還是「審查volume01開發稿」，兩者不能互相替代，需明確指定是哪一份。
+- **尚未做過manifesto診斷的範圍**：`novel/lower_realm_v2/`全65章（見上方更正）、volume02_v2（93章）、ancient_battlefield_deep_v2（41章）、volume03/03a_v2、volume04_v2其餘未抽樣章節、volume05以後全部。
 
 **運作原則**：每個人手上任務做完，自己判斷接下來要做①②③④裡哪一項最有價值（不用每次都等PM指定），完成後回報PM記錄進度；卡到需要使用者裁決的地方，記錄進CHECKLIST_PENDING_DECISIONS.md並列出替代方案（如果有），然後**轉去做其他不受影響的工作**，不要停下來等。
 
