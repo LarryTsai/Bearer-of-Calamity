@@ -2305,6 +2305,8 @@ Seed1/Seed3伴星bystander鋪墊種子依實際文本在場人物調整分佈於
 
 **PM核准執行（2026-09-24）**：評估通過，授權寫手2分階段執行——**階段A**：刪除`novel/volume08/chapter020~021.md`（含published鏡像），改ch017/018/022/023的4處日數標記，補4份文件的消歧義註記；**階段B**：階段A確認無誤後，才進行Act III全部56章的最終統一排號、搬入`novel/volume08/`正式目錄、published鏡像全面重生成、README／MACRO_OUTLINE／MASTER_TABLE_OF_CONTENTS／V2_VOLUME_READING_MAP同步更新。兩階段分開commit，方便追蹤與必要時回退。
 
+**階段A confirmed clean（2026-09-24）**：寫手2完成刪除+標記模糊化+消歧義註記後，jie-continuity複核追加發現ch018/019殘留RC-FH-05鋪陳段落（分別指名銜接進已刪除的ch020/021），PM裁定封寒依既定Act III退場時間軸此時已徹底退場，已一併移除；ch014~016核對乾淨無類似殘留。全ch017起「封寒」全文檢索零命中。**階段A正式confirmed clean，階段B已派工寫手2開始執行**。264/278待階段B完成、Act III全部搬入正式目錄後才一併勾選結案。
+
 ---
 
 ### [ ] 279. 古戰域深層篇尤稷港務承攬詐欺案，案件總清點終章漏列（`jie-foreshadowing-payoff`清道夫首次逐章審查ancient_battlefield_deep_v2全40章發現）
