@@ -84,6 +84,7 @@
 
 | Agent | 說明 |
 | --- | --- |
+| `jie-xianxia-texture`（2026-09-24新增，回應作者透過顧問提出的審查缺口） | 日常動作是否被修仙文明改寫（「把功法名稱刪掉，人物還像修仙者嗎」），**排在`jie-line-editor`之前**——先確保所有人真的是修士，再談句子漂不漂亮。唯一來源與正反例、三步驟方法論見`docs/XIANXIA_TEXTURE_GUIDE.md`。**此agent定義本身不在本repo內、無法直接建立成可獨立呼叫的agent名稱**（比照上方`jie-arc-structure`同樣的限制），呼叫方式是把`XIANXIA_TEXTURE_GUIDE.md`全文內容嵌入prompt，交給任一具讀取能力的agent（或寫手自己）執行審查，只讀不寫，輸出逐章「凡人化動作實例＋判斷理由＋該角色專屬建議改寫方向」，交`jie-writer`模式二實際改寫。 |
 | `jie-line-editor` | 文字級（重複句式/過度解說/旁白越界/形容詞堆疊），只在內容穩定後才跑 |
 | `jie-regression` | 修改完成後掃描「修 A 壞 B」 |
 | `jie-final-editorial-board` | 彙整所有審查報告，分 P0/P1/P2 |
@@ -149,8 +150,11 @@
   jie-regression
         │
         ▼
-（可選）內容穩定後才做文字定稿
-  jie-line-editor
+（可選）內容穩定後才做修仙質感／文字定稿——**順序固定：先質感，再文字**
+  jie-xianxia-texture（先確保所有人真的是修士）
+        │
+        ▼
+  jie-line-editor（再談句子漂不漂亮）
         │
         ▼
 第九階段｜最終裁決
