@@ -10,7 +10,7 @@
 
 ## ✅ 插入後的章節編號方案（2026-09-13已裁定並執行）
 
-使用者裁定採整體後移編號：原 `chapter031.md`〈界墳之外〉及其後所有章節（含 `novel/published/volume06/` 對應乾淨版）已整體後移兩位（031→033……048→050），`docs/outlines/OUTLINE_TIANSHEN_ACADEMY.md` 第31～48章的章次標號已同步位移（含各章內文中「第N章」交叉引用、範圍標頭、正式事件插入表）。新章一、新章二已正式寫入空出的 `chapter031.md`、`chapter032.md`，並已通過 `jie-continuity`／`jie-canon`／`jie-character`／`jie-power-system` 四方複核（詳見下方「執行結果」）。
+使用者裁定採整體後移編號：原 `chapter031.md`〈界墳之外〉及其後所有章節（含 `novel/published/volume06/` 對應乾淨版）已整體後移兩位（031→033……048→050），`docs/outlines/OUTLINE_TIANSHEN_ACADEMY.md` 第31～48章的章次標號已同步位移（含各章內文中「第N章」交叉引用、範圍標頭、正式事件插入表）。新章一、新章二已正式寫入空出的 `chapter031.md`、`chapter032.md`，並已通過 `jie-continuity`／`jie-canon`／`jie-character`／`jie-power-system` 四方複核（詳見下方「執行結果」）。（2026-09-24補註：2026-09-18 RC-V06 swap後再整體+3，寶庫兩章現行為`chapter034.md`、`chapter035.md`，〈界墳之外〉為`chapter036.md`）
 
 ---
 
