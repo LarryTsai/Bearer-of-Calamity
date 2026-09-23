@@ -18,7 +18,7 @@
 
 - `AUTHOR_CORE_REQUIREMENTS.md`：從 `new_story*.txt`、`basic_rule.txt` 與作者最新裁示提煉的硬需求及衝突解讀；所有開發與 closed-loop review 動筆前必讀。
 - `author_directives/AUTHOR_DIRECTIVE_FORBIDDEN_PATH_MAINLINE.md`：禁道、文奕、禁都、萬禁會、奪禁及最終活禁合流的最新必走主線。
-- `author_directives/AUTHOR_DIRECTIVE_BOUNDARY_ROAD_EIGHTH_THUNDER.md`：界路、燼長明加入與第八雷餘命燼雷／燃身的最新主設定。
+- `author_directives/AUTHOR_DIRECTIVE_BOUNDARY_ROAD_EIGHTH_THUNDER.md`：界路、赤翎加入與第八雷餘命燼雷／燃身的最新主設定。
 - `author_directives/AUTHOR_DIRECTIVE_FOREIGN_DOMAIN_TRANSFORMATION.md`：異域潛伏、五人大劫與完整大道蛻變的最新主設定。
 - `author_directives/AUTHOR_DIRECTIVE_FOREIGN_DOMAIN_EIGHT_THUNDERS_REFORGING.md`：異域返本時八雷 8→0→8 的逆拆、零雷與重新選擇補強設定。
 - `author_directives/AUTHOR_DIRECTIVE_ACADEMY_TO_BORDER_ANCIENT_WORLD_ROAD.md`：天神書院至帝關間，陸沉與三伴星親歷古世覆滅並認識界路工程的必評估大篇章。
@@ -33,7 +33,7 @@
 - `outlines/OUTLINE_WEN_FAMILY_CRISIS.md`：插段〈文家遭難〉幕次拆分提案（4章），含新增勢力，**2026-09-22補記**：本檔v1.1已於2026-09-12同日完成canon/continuity/character/power-system四方覆核並經使用者裁定採用，正式定案，可進入jie-chapter-editor/jie-writer流程。
 - `outlines/OUTLINE_THREE_THOUSAND_STATES_BREATHER.md`：第十三篇三千州爭鋒篇末呼吸段插入點（ch050/051間，2～3章），尚未經覆核。
 - `outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`：天神書院「書院寶庫」自省考驗（淵劫）插入點（ch030/031間，2章），三痕古域／雷霆痕／天煞痕設定與封寒護短起源已完成四方覆核（見 `CHECKLIST_PENDING_DECISIONS.md` 第180題），**2026-09-22補記**：插入編號已於2026-09-13裁定並執行完畢，新章一、新章二已正式寫入`chapter031.md`、`chapter032.md`並通過四方複核，`OUTLINE_TIANSHEN_ACADEMY.md`原ch031起章次已整體後移兩位（全篇現為五十章）。
-- `outlines/OUTLINE_BORDER_ROAD_EXPANSION.md`：Volume07界路篇擴寫（178題#2，原16章擴增至31章）＋主線甲文奕帝關插入點，含兩具分身雷身熄滅＋本尊瀕死/燼長明化灰記憶代價等核心場景設計。**2026-09-22補記**：已完稿，`novel/volume07/`ch041～071全31章，見`CHECKLIST_PENDING_DECISIONS.md`178題#2。
+- `outlines/OUTLINE_BORDER_ROAD_EXPANSION.md`：Volume07界路篇擴寫（178題#2，原16章擴增至31章）＋主線甲文奕帝關插入點，含兩具分身雷身熄滅＋本尊瀕死/赤翎化灰記憶代價等核心場景設計。**2026-09-22補記**：已完稿，`novel/volume07/`ch041～071全31章，見`CHECKLIST_PENDING_DECISIONS.md`178題#2。
 - `outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`：Volume08整卷重建結構規劃（178題#3，原40章擴增至約92章），含插入點結構性發現（ch016/017間，不動既有38章）、8→0→8核心場景、封寒拆王支線與文奕託付插入點；Act III約50章細節尚未展開，需分批交jie-creative後再排逐章大綱，尚未經覆核。
 - `outlines/OUTLINE_VOID_SPIRIT_REALM.md`：第三篇〈虛神界〉七節章綱，文奕、魔女兩線同場開場，尚未經覆核。
 - `outlines/OUTLINE_HUNDRED_BROKEN_MOUNTAIN.md`：第五篇〈百斷山〉六章章綱，魔女互救為全篇核心，尚未經覆核。
@@ -106,17 +106,17 @@
   - `events/EVENT_HUNDRED_SECTS_ALLIANCE_TRIAL.md`：道天界百宗盟試，參賽隊伍、本源印制度、積分預選、五隊淘汰與百宗古戰域結果。
   - `events/EVENT_WEN_YI_LOWER_REALM_AND_SHARED_FORBIDDEN_CANON.md`：文奕真身下界、與陸沉共同取得《古神禁典》、文家降階禁渡四重限制。
   - `events/EVENT_PARTICIPATION_MATRIX.md`：跨角色、跨卷參與矩陣，用於交叉檢查誰在場、誰不在場的關鍵工具。
-  - `events/EVENT_FATE_MAP_INITIAL_FORM.md`：太玄命圖初成，六雷初始骨架，玄衡確認撤回權後正式進入外環。
+  - `events/EVENT_FATE_MAP_INITIAL_FORM.md`：太玄命圖初成，六雷初始骨架，蒼梧確認撤回權後正式進入外環。
   - `events/EVENT_WUBING_THUNDER_DOMAIN.md`：無兵雷域，剝奪外物的客觀雷劫環境，陸沉以血肉承接白雷本源取得空手。
   - `events/EVENT_SACRED_SACRIFICE_BREAKTHROUGH.md`：天神書院排位賽前，陸沉聖祭境突破的完整經過與代價。
   - `events/EVENT_INSTANT_THUNDER_TWIN_FRONTS.md`：天神書院後期雙戰場，第七雷剎那取得與永久失去外圍據點的代價。
   - `events/EVENT_BLOOD_FIELD_MEDIC_AMBUSH.md`：血原巡獵區醫療隊遇襲，洛生衣重傷經過。
   - `events/EVENT_FOREIGN_BLACKWATER_WAR_GOD_ARENA.md`：異域黑水城、戰神書院與角鬥場的肉身揭底高潮。
-  - `events/EVENT_SIN_PROVINCE_XUANHENG_DEPARTURE.md`：罪州事件，玄衡永久解除命印、外環留下正式空痕的正文落點。
+  - `events/EVENT_SIN_PROVINCE_XUANHENG_DEPARTURE.md`：罪州事件，蒼梧永久解除命印、外環留下正式空痕的正文落點。
   - `events/EVENT_PRIMORDIAL_THUNDER_FINALE.md`：無始終局，太古星天圖首次十雷全星位短暫展開。
-  - `events/EVENT_SOUL_DOMAIN_ZHENWUYANG.md`：陸沉主動追入外部雷魂域取得鎮魄；守墓獅鎮無央不贈雷，取雷後自主歸位。
-  - `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`（現行標題〈界潮、古界與定疆雷界：玄衡同行〉，2026-09-12取代死寂雷域版本）：陸沉、封寒強闖界潮被玄衡追殺、合作取得歸寂，其後進入千年古界取得鎮界，玄衡不養雷而自主同行。
-  - `events/EVENT_SCORCHED_NEST_JINCHANGMING.md`：陸沉主動追入燃身雷界取得外部本源；玄燼凰守池讓路，燼長明不贈火而自主歸位。
+  - `events/EVENT_SOUL_DOMAIN_ZHENWUYANG.md`：陸沉主動追入外部雷魂域取得鎮魄；守墓獅鑑月不贈雷，取雷後自主歸位。
+  - `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`（現行標題〈界潮、古界與定疆雷界：玄衡同行〉，2026-09-12取代死寂雷域版本）：陸沉、封寒強闖界潮被蒼梧追殺、合作取得歸寂，其後進入千年古界取得鎮界，蒼梧不養雷而自主同行。
+  - `events/EVENT_SCORCHED_NEST_JINCHANGMING.md`：陸沉主動追入燃身雷界取得外部本源；玄燼凰守池讓路，赤翎不贈火而自主歸位。
   - `events/EVENT_SECOND_THUNDER_JIEMING.md`：陸沉初入上界負傷期間，斬斷祭子命線，第二雷劫命歸位。
   - `events/EVENT_TWO_FALLEN_SECTS_ECHO.md`：三千州重逢後，補天閣與太玄閣兩座倒下山門的鏡像回音。
   - `events/EVENT_BORDER_RIFT_FRONT_CAMPAIGN.md`：帝關邊荒主線，裂界防線、血原巡獵、王家逼令、荒劫分守、焚羽古巢與天譴截矛。
@@ -144,9 +144,9 @@
   - `characters/CHARACTER_GU_XIAOMAN.md`：六師姐顧小滿，剎那無痕體。
 - 其他核心人物與四伴星：
   - `characters/CHARACTER_JIE_E.md`：四伴星之首劫厄。
-  - `characters/CHARACTER_ZHEN_WUYANG.md`：鎮魄獅鎮無央。
-  - `characters/CHARACTER_XUAN_HENG.md`：鎮界麒麟玄衡。
-  - `characters/CHARACTER_JIN_CHANGMING.md`：玄燼凰燼長明。
+  - `characters/CHARACTER_ZHEN_WUYANG.md`：鎮魄獅鑑月。
+  - `characters/CHARACTER_XUAN_HENG.md`：鎮界麒麟蒼梧。
+  - `characters/CHARACTER_JIN_CHANGMING.md`：玄燼凰赤翎。
   - `characters/CHARACTER_LUO_SHENGYI.md`：女主洛生衣，初見化名「生」，信物無聲渡笛。
   - `characters/CHARACTER_LUO_QINGHE.md`：陸沉之母洛清禾。
   - `characters/CHARACTER_LU_CHEN_FATHER.md`：陸沉之父陸承遠，未死、部分肉身與古雷道同化。
