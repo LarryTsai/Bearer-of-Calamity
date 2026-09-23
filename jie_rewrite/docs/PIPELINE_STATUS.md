@@ -2,6 +2,16 @@
 
 狀態：PM維護的活文件，每次重大進度變化就更新。/clear後先讀這份，不用使用者重講。
 
+## 2026-09-24 自然回收池收尾＋263正式結案＋III-5完稿
+
+**自然回收池新結案**：237（洛生衣「正經飯」承諾）由寫手3落筆`novel/volume08/chapter034a.md`，正式結案；252（顧小滿失聯者／荒「下次路我來開」）兩則均確認回收——顧小滿一則其實**已在既有正文**（`volume06/chapter053.md`＋`volume07/chapter022.md`）完整給出結果，逾期依據當時漏查；荒一則由寫手3以行動回收`novel/volume08/chapter026.md`（刪互讓對白，改荒不問先破路）。詳細執行紀錄見`CHECKLIST_PENDING_DECISIONS.md`對應題號。
+
+**263（護道法身最小定義）正式結案**：寫手1完成III-5〈誘殺帝族傳人〉三章（`novel/drafts/v08_iii5_ch01~03.md`，候選B不具名外圍探子）並跑完四方獨立審查（canon/character/power-system/continuity全pass），草案在三章實戰驗證中零衝突，PM核可回填新建`docs/systems/SYSTEM_IMPERIAL_DAO_GUARDIAN_BODY.md`，`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`九之四已同步連結。**V08 Act III進度**：III-5（3章，寫手1）已完稿待併入；III-2（4章）、III-3（13章，2026-09-23/24四方複核完成並修正）已定案待併入；III-4(3章)/III-6(4章)仍在draft階段，尚未回報審查完成。全部子節排定後統一編號搬入`novel/volume08/`正式目錄，目前都在`novel/drafts/`（III-5三章已四方過審，暫不隨其他子節一起commit，等III-4/III-6一併確定後再整批處理，避免半套編號混亂）。
+
+**其餘自然回收池同步收尾**：236（文奕「還沒抄完的禁紋圖」，`volume07/chapter064.md`回收）、241（魔女下界任務失敗、教內地位受影響，`volume03/chapter005.md`回收）、246（荒×陸沉預定名戰，`STORY_CAUSALITY_NETWORK.md`九之一正式登記＋`volume12/chapter022.md`欠帳收口）均已確認完成，一併結案。
+
+**已closed待commit**：236、237、241、246、252、263（本次一併commit）。
+
 ## 2026-09-23 使用者授權：持續自主派工，不等待逐項回覆
 
 使用者明確指示：**不用每個決策都等使用者即時回覆**——需要使用者裁決的事項，記錄進`CHECKLIST_PENDING_DECISIONS.md`（唯一決策待辦清單），使用者會非同步批次回覆；PM跟寫手1/寫手2/清道夫在等待期間**不要idle**，繼續做不受該決策影響的其他工作。
