@@ -1,6 +1,6 @@
 # 第三十四章 三品區裡沒人要的東西
 
-> 定位：第四幕收束後、第五幕正式開場前的私密插曲；陸沉以排位資格正式踏入書院寶庫，封寒在此為本篇首次以非賽事、私下互動場景現身（此前已於8強/4強賽事中正式登場參賽）
+> 定位：第四幕收束後、第五幕正式開場前的私密插曲；陸沉以排位資格正式踏入書院寶庫，封寒在此為本篇首次以非賽事、私下互動場景現身（此前已於16人排位賽中正式登場參賽）
 > 時間：排位後第三日午後，書院寶庫三品區
 > 唯一來源依據：`docs/outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`新章一；`characters/CHARACTER_FENG_HAN.md` 二、六；`characters/CHARACTER_RIVAL_TIANFA.md` 第二階段；`systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md` 五之一；`outlines/OUTLINE_TIANSHEN_ACADEMY.md` 第1章；`novel/volume06/chapter030.md`（監察令範圍限定）
 
