@@ -4,6 +4,8 @@
 
 **本台帳目前只做診斷（read-only），不逕行修改正文**——下界 v2 依 `PIPELINE_STATUS.md` 現處於「已完成65章，暫停修改、留待冷卻後回讀」狀態，本輪review先標記，REWORK／ENRICH等建議一律先列於此，待使用者裁示是否解凍、或改列入下一輪冷卻回讀時的既定議程再動筆。
 
+**2026-09-23補充**：PM轉達使用者核准，在正確文本`novel/lower_realm_v2/`（非已確認舊版的`novel/volume01/`，見218題）上重跑序篇之外全部65章的manifesto診斷（含卷一18章trial-rewrite比較重跑＋第三篇起47章純診斷）。本次僅為**唯讀診斷**，未修改`novel/lower_realm_v2/`任何正文，不構成解凍冷卻狀態；診斷結果是否正式視為「下界manifesto台帳已解凍/併入」，仍待使用者本人明確確認（純轉述PM訊息不視為使用者親自核准這類台帳狀態變更，此提醒由本次執行診斷的jie-writer agent主動提出，寫手1認同並如實記錄，不代為裁定）。
+
 ## 序篇：命落大荒（卷一 第1～7章，對應 `novel/published/lower_realm_v2/volume01/chapter001~007.md`）
 
 **這一篇的前提**：`MACRO_OUTLINE.md` 明訂下界成根期「雷道此時只按既定節奏作異象、感應與隱患，不能倒寫成禁制的來源」——序篇陸沉尚是嬰兒到六歲孩童，全篇無修行、無術法，是有意的人體尺度／甚至「零力量」尺度。套用manifesto第二十節的驗收問題時，這一篇「換掉靈氣/境界名詞也能搬到現代」——但manifesto本身在同一節註明「不是刻意的人體尺度篇章」才算修仙感不足，序篇正是這個例外情形，不算缺陷。
@@ -50,12 +52,32 @@
 
 **附帶發現（與本次任務無關，順手記錄）**：`docs/characters/CHARACTER_LU_CHEN.md`引用本弧線事件時仍用v2改版前的舊章號（例如標「novel/volume01/chapter007.md」，該事件現為v2的ch016），是既有文件債務，留給下次碰這份角色檔的人一併修正。
 
+## lower_realm_v2 卷一18章試寫比較重跑結果（2026-09-23，正確文本，取代上方2026-09-22舊版volume01結論）
+
+寫手1派jie-writer背景subagent在`novel/lower_realm_v2/prologue/`+`arc01_body_foundation/`+`arc02_enter_mountain/`（共18章）重跑仙化試寫比較，輸出於`novel/drafts/cultivation_aspiration_trial_lower_realm_v2/COMPARISON_SUMMARY.md`。
+
+**結論：18章中0章需要REWORK**，逐章重新核對後與舊版volume01試寫方向一致，但非照搬——`lower_realm_v2`是volume01同批核心場景的擴寫/深化版，部分舊試寫建議的輕量潤色（矮牆好奇心反應、閣老憧憬台詞）在現有文本中已用不同方式自然達成，若直接沿用舊結論會誤判甚至畫蛇添足，證實「逐章重新核對、不假設兩版文本相同」的必要性。序篇維持既有零修行例外判定；第一篇「凡軀立命」全程刻意維持零功法安全閥；第二篇「入山問道」的manifesto第七節「師父教天地」條款，在`arc02_enter_mountain/chapter004.md`〈站著聽雷〉已自然達成。僅發現1處零風險、非必要的可選裝飾性潤色（`arc01_body_foundation/chapter001.md`石窟斷片段落，試寫稿見`ENRICH_DRAFT_arc01_ch001.md`），是否採用屬純文風選擇，不影響結論。
+
+**待辦**：是否採用該處可選潤色，待PM/使用者裁示；即使結論是「不建議改動任何一章」，仍建議之後跑一輪`jie-continuity`/`jie-canon`/`jie-character`正式複核（尤其若決定採用那處潤色），manifesto專項診斷不能取代這幾個agent的正式審查。
+
+## lower_realm_v2 第三篇～第七篇＋北海橋段純診斷結果（2026-09-23，47章，正確文本）
+
+寫手1派jie-writer背景subagent對`arc03_void_spirit_realm`（虛神界，8章）、`arc04_taixuan_forging`（太玄閣鑄身，10章）、`arc05_hundred_broken_mountain`（百斷山，8章）、`arc06_false_commission`（真假委託，7章）、`arc07_lower_realm_storm`（下界風暴，10章）、`bridge_north_sea`（北海橋段，4章）共47章執行純唯讀診斷（0改稿，未使用Write/Edit）。
+
+**結論：47章中0章需要REWORK。**
+
+- **最強執行、可作全書其他弧線參照範本**：第五篇百斷山（全8章KEEP，`arc05_hundred_broken_mountain/chapter006.md`〈雷火淬骨〉是本次診斷最強單章之一）、第七篇下界風暴（全10章KEEP，`arc07_lower_realm_storm/chapter007.md`〈最後一雷〉是本次診斷最強單章，`chapter010.md`〈界淵銀雷〉是首個雷位命名＋伴星「厄」正式相認的長線回收範本）。
+- **PASS不可替代性但修仙奇觀軸明顯偏弱、比照Act5 G～M「戰術冒險是刻意風格選擇」既有先例、不判REWORK**：第三篇虛神界前段（ch001~004九次試煉機關偏逃脫室邏輯解謎）、第六篇真假委託（整篇偏偵探/政治博弈調性）。兩篇均因篇幅各自僅7~8章、且核心衝突仍有神魂/神識/封陣/供能核心等真正修仙特有邏輯支撐，暫標ENRICH候選（低～中優先），不強行補大招。
+- **單章特別提醒**：`arc06_false_commission/chapter002.md`〈同一批粉〉是47章中「不可替代性」通過得最勉強的一章，核心的買家追蹤邏輯幾乎可直接置換到現代刑偵敘事，若未來要ENRICH，建議優先從這章下手，換成禁紋殘留/神識辨氣味等只有修仙世界才存在的具體追蹤手法，而非加大招。
+- **方法論呼應**：與序篇/卷一18章試寫結論一致——能否通過manifesto關鍵不在「屬於哪一篇」，而在於該章是否觸碰真正的世界超凡邏輯、是否安排「見證」時刻；虛神界/真假委託較弱是因場景設計（機關試煉、偵探查證）本質偏邏輯解謎與人際博弈，即使包裝修仙元素外殼，奇觀感仍難自然浮現。
+
+**待辦**：47章的ENRICH候選（虛神界前段、真假委託全篇、`arc06 ch002`優先）待PM/使用者裁示是否排入後續補強；比照Act5 J單元既有分寸「見證者反應句可加，事實/代價/數字不可加」。
+
 ## 待辦（尚未審查）
 
-- 第一篇「凡軀立命」（卷一 ch008～013）
-- 第二篇「入山問道」（卷一 ch014～018）
-- 第三篇「虛神界」（卷二 ch001～008）——manifesto核心條款（師父/悟/大招/境界）預期從這裡開始真正適用，是後續review的重點篇章
-- 卷二～卷十其餘篇章，及仍在施工中的古界Act5
+- `novel/volume02_v2/`（93章）
+- `novel/ancient_battlefield_deep_v2/`（40章）——已完成`jie-foreshadowing-payoff`伏筆審查（見`docs/CHECKLIST_PENDING_DECISIONS.md`第260、261題），尚未做manifesto仙化診斷
+- `novel/volume03/`、`novel/volume03a_v2/`及卷四起其餘篇章，及仍在施工中的古界Act5後續內容（N單元起）
 
 ## 與現行production狀態的衝突點（待使用者裁示，PM不逕行拍板）
 
