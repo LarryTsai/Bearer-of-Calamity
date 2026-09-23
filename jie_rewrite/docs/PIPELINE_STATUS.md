@@ -13,7 +13,7 @@
 **品質層（不擋完稿判定，並行處理）**：
 - **CHECKLIST待裁決backlog**（268~291＋更早176~235區間）：暫無人專責，待前述任務有人手空出後回頭處理。此backlog另累積兩個低成本ENRICH待排：①`volume06b`雙線「界路/境界越高越受限」與「被記得才存在」的深層主題呼應，建議卷尾（ch052~053）補一句極簡短內心閃念，不說破；②`volume05`尚未做過`jie-foreshadowing-payoff`/`jie-world-state`審查。
 - **manifesto仙化診斷**：清道夫負責，已覆蓋lower_realm_v2/volume02_v2/ancient_battlefield_deep_v2/volume03/volume03a_v2/volume05/volume06b全部0 REWORK；下一步volume06+volume07，清道夫進行中。
-- **`jie-xianxia-texture`新審查（2026-09-24新建，回應作者透過顧問提出的缺口）**：日常動作有沒有被修仙文明改寫，唯一來源`docs/XIANXIA_TEXTURE_GUIDE.md`，排在`jie-line-editor`之前。**已派寫手3**試導`volume06`（天神書院，54章，角色齊全適合驗證），先產出逐章清單再挑10~15個代表性實例交`jie-writer`模式二改寫，作者確認方向後才擴大全書。
+- **`jie-xianxia-texture`新審查（2026-09-24新建，回應作者透過顧問提出的缺口）**：日常動作有沒有被修仙文明改寫，唯一來源`docs/XIANXIA_TEXTURE_GUIDE.md`，排在`jie-line-editor`之前。試導`volume06`15例已通過作者確認，**方向正式核可、擴大到全書**。寫手3主責：①`EVENT_TIANSHEN_ACADEMY_AMBUSH.md`（或另立器物說明檔）補轉令臺活脈/指印分級規則；②`jie-power-system`確認陣磚細節與空手設定無衝突；③15例跑continuity/canon/character（+例13 power-system）後正式回寫`novel/volume06/`；④依卷冊分批擴大全書，每完成一卷回報改寫示範，PM核對後轉顧問。
 - **volume03三千州「舞台奇觀」落差**：清道夫發現多宗門匯聚舞台感被查案支線稀釋，PM已核准「路過式環境奇觀」低成本補強方向（不新增角色），待資源排入。
 
 **全書完成後才跑**：`docs/FINAL_REVIEW_PIPELINE_MANUAL.md`的完整25-agent最終審查pipeline，保留到缺口A/B解決、checklist清空、manifesto/xianxia-texture掃完後才啟動。
