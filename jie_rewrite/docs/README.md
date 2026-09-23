@@ -115,7 +115,7 @@
   - `events/EVENT_SIN_PROVINCE_XUANHENG_DEPARTURE.md`：罪州事件，蒼梧永久解除命印、外環留下正式空痕的正文落點。
   - `events/EVENT_PRIMORDIAL_THUNDER_FINALE.md`：無始終局，太古星天圖首次十雷全星位短暫展開。
   - `events/EVENT_SOUL_DOMAIN_ZHENWUYANG.md`：陸沉主動追入外部雷魂域取得鎮魄；守墓獅鑑月不贈雷，取雷後自主歸位。
-  - `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`（現行標題〈界潮、古界與定疆雷界：玄衡同行〉，2026-09-12取代死寂雷域版本）：陸沉、封寒強闖界潮被蒼梧追殺、合作取得歸寂，其後進入千年古界取得鎮界，蒼梧不養雷而自主同行。
+  - `events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`（現行標題〈界潮、古界與定疆雷界：蒼梧同行〉，2026-09-12取代死寂雷域版本，2026-09-23隨215題全庫改名同步更新標題用名）：陸沉、封寒強闖界潮被蒼梧追殺、合作取得歸寂，其後進入千年古界取得鎮界，蒼梧不養雷而自主同行。
   - `events/EVENT_SCORCHED_NEST_JINCHANGMING.md`：陸沉主動追入燃身雷界取得外部本源；玄燼凰守池讓路，赤翎不贈火而自主歸位。
   - `events/EVENT_SECOND_THUNDER_JIEMING.md`：陸沉初入上界負傷期間，斬斷祭子命線，第二雷劫命歸位。
   - `events/EVENT_TWO_FALLEN_SECTS_ECHO.md`：三千州重逢後，補天閣與太玄閣兩座倒下山門的鏡像回音。
