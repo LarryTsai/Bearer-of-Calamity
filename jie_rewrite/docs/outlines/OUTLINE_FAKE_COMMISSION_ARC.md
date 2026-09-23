@@ -1,6 +1,6 @@
 # 〈真假委託〉篇章綱
 
-> 狀態：依已完成正文（`novel/volume01/chapter029.md`～`chapter031.md`）逆向拆解之正式幕次大綱，非新寫方案。份量對應實際3章，不擴充幕數。
+> 狀態：依已完成正文（原`novel/volume01/chapter029.md`～`chapter031.md`）逆向拆解之正式幕次大綱，非新寫方案。份量對應實際3章，不擴充幕數。**2026-09-23補記**：`novel/volume01/`已確認為被取代的舊版下界正文，即將刪除；對應內容現由 `novel/lower_realm_v2/arc06_false_commission/chapter001.md`～`chapter007.md`（第六篇〈真假委託〉）承接，新版將原3章擴寫為7章，場景骨幹與收束等價，但本文件下方逐句引用的原文與行號（例如「`chapter029.md` 第15行」）是針對已刪除的舊版文本所作的逐字核對，**未逐一重新核對新版對應段落是否仍在相同行號或維持逐字相同措辭**，僅故事節拍（委託交付、兩組藏息粉、早兩日刀痕、入谷真局、谷外揭露、最後招攬）經確認在新版仍存在對應場景，見 `novel/lower_realm_v2/arc06_false_commission/README.md` 逐章對照表。
 >
 > 唯一來源：`docs/events/EVENT_WITCH_LU_CHEN_LOWER_REALM_ARC.md` 七；背景伏筆見 `docs/characters/CHARACTER_RIVAL_TIANFA.md` 四「背景伏筆」；必要卡點見 `docs/MACRO_OUTLINE.md`「第六篇：真假委託」。
 
@@ -8,7 +8,7 @@
 
 ### 入場
 
-- 時間位置：百斷山天地雷火淬體、返太玄閣休養（舊 `novel/volume01/chapter028.md`）之後；北海關係回收（舊 `chapter032.md`～`chapter034.md` 為四人場，新版 `novel/lower_realm_v2/bridge_north_sea/` 為三人短聚）之前。
+- 時間位置：百斷山天地雷火淬體、返太玄閣休養（新版 `novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter008.md`；原引用舊 `novel/volume01/chapter028.md`，場景與結局等價）之後；北海關係回收（舊 `chapter032.md`～`chapter034.md` 為四人場，新版 `novel/lower_realm_v2/bridge_north_sea/` 為三人短聚）之前。
 - 陸沉狀態：胸口承雷舊傷、右臂固定尚未完全康復（ch028收尾狀態延續）；已從百斷山經歷中理解禁制可隨觀察改路、肉身需承對應代價，尚未有可自行運轉的活禁。
 - 石昊狀態：補天閣覆滅消息剛傳開（ch029開篇），已因至尊骨遭多方覬覦而嶄露頭角，公開功業尚未轉移；對陸沉的印象仍停留在百斷山「交過一拳」的少年層級，不知情陸沉背後有魔女、截天教等更深脈絡。
 - 陸沉對魔女的認知：已知她「七分真話」、替截天教觀察天才，此次委託疑似又一次入教考驗——這是他接下委託時的判斷基礎，不是憑空起疑。
@@ -93,9 +93,7 @@
 ---
 
 **相關檔案路徑**：
-- `novel/volume01/chapter029.md`
-- `novel/volume01/chapter030.md`
-- `novel/volume01/chapter031.md`
+- `novel/lower_realm_v2/arc06_false_commission/chapter001.md`～`chapter007.md`（第六篇〈真假委託〉；原`novel/volume01/chapter029.md`～`chapter031.md`已擴寫重分為以上7章，見上方2026-09-23補記）
 - `docs/events/EVENT_WITCH_LU_CHEN_LOWER_REALM_ARC.md`
 - `docs/characters/CHARACTER_RIVAL_TIANFA.md`
 - `docs/MASTER_TABLE_OF_CONTENTS.md`

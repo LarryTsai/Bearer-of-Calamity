@@ -1,6 +1,6 @@
 # Volume01 ch011～013：文奕與共同禁典重構章綱
 
-> 狀態：第一版可審章綱。保留 ch010 魔女共同逃生及 ch014 百斷山外圍入口。**2026-09-12更新**：ch011、ch012 已改寫完成並通過 continuity／character 覆核（pass，無明確衝突），寫入 `novel/volume01/chapter011.md`、`chapter012.md`；**2026-09-22補記**：ch013〈放下雷法〉已完稿，寫入`novel/volume01/chapter013.md`，本題全部三章正式結案。
+> 狀態：第一版可審章綱。保留 ch010 魔女共同逃生及 ch014 百斷山外圍入口。**2026-09-12更新**：ch011、ch012 已改寫完成並通過 continuity／character 覆核（pass，無明確衝突），當時寫入 `novel/volume01/chapter011.md`、`chapter012.md`；**2026-09-22補記**：ch013〈放下雷法〉已完稿，當時寫入`novel/volume01/chapter013.md`，本題全部三章正式結案。**2026-09-23補記**：`novel/volume01/`已確認為被取代的舊版下界正文，即將刪除；本題三章內容已由第三篇〈虛神界〉承接並擴寫，現行對應路徑為 ch011→`novel/lower_realm_v2/arc03_void_spirit_realm/chapter003.md`～`chapter005.md`、ch012→`chapter006.md`～`chapter007.md`、ch013→`chapter008.md`，經核對本文件下方章綱描述之場景（九次試錯、同一扇門、仙王殘識、放下雷法）與新版正文一致，場景與結局等價但章節切分不同，完整逐章大綱另見 `novel/lower_realm_v2/arc03_void_spirit_realm/OUTLINE_DRAFT.md`。
 
 ## 一、入場與離場
 
