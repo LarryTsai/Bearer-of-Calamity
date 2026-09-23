@@ -1593,7 +1593,7 @@
 
 ---
 
-### [ ] 245. 封寒坍縮/黑洞雛形時序矛盾——SYSTEM_FENG_HAN_GRAVITY_PATH.md vs OUTLINE_FOREIGN_DOMAIN_REFORGING.md（2026-09-23，寫手1 continuity兩次獨立抓到）
+### [x] 245. 封寒坍縮/黑洞雛形時序矛盾——SYSTEM_FENG_HAN_GRAVITY_PATH.md vs OUTLINE_FOREIGN_DOMAIN_REFORGING.md（2026-09-23，寫手1 continuity兩次獨立抓到，PM同日已回填結案）
 
 **背景**：`docs/systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`五「黑洞階段三段式節奏」第2項寫封寒「中期首次坍縮/黑洞雛形」發生在「Volume08前段（帝關前段）」——即早於V08異域同行本卷。但`docs/outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`九之四明確說封寒在V08本卷（III-5誘殺帝族傳人之前）「尚未觸及坍縮→奇點門檻，那要到拆王/九之六才第一次觸及」。兩份唯一來源檔對「封寒此刻該處於哪個階段」給出矛盾時序。
 
@@ -1601,7 +1601,9 @@
 
 **下一步**：需使用者/PM確認兩份文件哪個時序才是正式定案，確認後回填不一致的那一份。不影響已完成的Act III-1 ch01~08（該批次已確認自洽），但會影響III-5的設計方向，寫手1會在III-5正式展開前需要這個結論，暫時擱置III-5、先做其他不受影響的工作。
 
-**使用者裁決（2026-09-23）**：立即優先裁決，歸入【立即處理】第一項——這題卡III-5、直接涉及封寒能力合法性，不能拖。**以已成文Volume06→V08既有能力進展為唯一基準，不為III-5反改能力史**：即以`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`（範圍更具體、更晚近的執行層指示，且Act III-1 ch01~08已依此自洽落筆）為準，回填修正`SYSTEM_FENG_HAN_GRAVITY_PATH.md`五「黑洞階段三段式節奏」第2項，使其與「封寒尚未觸及坍縮→奇點門檻，那要到拆王/九之六才第一次觸及」一致。PM待完成時間線核證後即刻回填該文件，不再等待。
+**使用者裁決（2026-09-23）**：立即優先裁決，歸入【立即處理】第一項——這題卡III-5、直接涉及封寒能力合法性，不能拖。**以已成文Volume06→V08既有能力進展為唯一基準，不為III-5反改能力史**：即以`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`（範圍更具體、更晚近的執行層指示，且Act III-1 ch01~08已依此自洽落筆）為準，回填修正`SYSTEM_FENG_HAN_GRAVITY_PATH.md`五「黑洞階段三段式節奏」第2項，使其與「封寒尚未觸及坍縮→奇點門檻，那要到拆王/九之六才第一次觸及」一致。
+
+**結案（2026-09-23，PM執行）**：已回填`docs/systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`第39行——「中期首次坍縮／黑洞雛形」的發生地點由「Volume08前段（帝關前段，候選場景封寒×雲行『未知古路』事件）」改為「V08〈異域同行〉Act III-3拆王支線末尾退場前」，並補上「Volume06～V08 Act III-1~III-4全程不得使用任何坍縮/黑洞相關描述、不得正面碾壓帝族嫡系級對手」的明確上限，與`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`九之四／拆王支線設計完全對齊。`characters/CHARACTER_YUN_XING.md`九之二「未知古路」場景本身未動——確認它從未宣稱承載此能力里程碑，只是舊版SYSTEM文件誤植的候選場景註記，現已移除該誤植連結，該場景保留為純角色成長戲。不影響已完成的Act III-1 ch01~08。寫手1可據此結論正式展開III-5設計。
 
 ---
 
