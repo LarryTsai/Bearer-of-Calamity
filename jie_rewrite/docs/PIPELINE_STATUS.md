@@ -8,6 +8,39 @@
 
 **全書四大目標（持續派工的方向依據）**：①**寫完書**（V08 Act III等已核准設計要落實成正文；其他尚未展開的篇章依序推進）②**校正完畢**（命名/設定/伏筆一致性稽核，含目前進行中的四伴星全庫改名、`jie-foreshadowing-payoff`伏筆回收審查）③**仙化**（套用manifesto新標準：修仙不可替代性/憧憬/反奇觀章例外，逐步擴大到下界第一篇起、Act5等既完稿內容之外的新寫作）④**review**（各類最終回顧審查agent，全書尺度找問題）。
 
+## 2026-09-23 review覆蓋現況彙整（清道夫整理，供之後排工避免重工/誤判placement）
+
+本節是一次性比對`CHECKLIST_PENDING_DECISIONS.md`全部題號＋`CULTIVATION_ASPIRATION_REVIEW_LOG.md`的結果，非自動維護；使用時仍建議抽查對應題號原文確認未過期。**已知教訓**：寫手1與清道夫的`jie-foreshadowing-payoff`輪次各自獨立編號，出現過兩次不同範圍都叫「第七輪」的情況，下方改用範圍本身索引、不依賴輪次編號對照。
+
+### `jie-foreshadowing-payoff`（伏筆回收）已覆蓋範圍
+
+| 範圍 | 執行者 | 對應題號 |
+| --- | --- | --- |
+| 三千州／volume03 | 寫手1（首次全卷審查） | 198、234、235 |
+| 古世雙界遠行／volume06b | 寫手1（第二輪） | 236、237 |
+| 帝關界路擴寫／volume07 | 寫手1（第三輪） | 238、239 |
+| 禁都v2／volume03a_v2 | 寫手1（第四輪） | 240 |
+| volume01 | 寫手1（第五輪） | 241、242 |
+| volume02_v2（93章，含延伸查證ancient_battlefield_deep_v2） | 寫手1 | 250 |
+| volume08＋volume09 | 清道夫 | （確認238延續未回收，無新題號） |
+| volume09~volume12全書終局（volume11+12為主） | 清道夫 | 246、249 |
+| volume05＋volume06＋volume10 | 清道夫 | 251、252 |
+
+**尚未做過`jie-foreshadowing-payoff`的範圍**：`novel/ancient_battlefield_deep_v2/`（40章，僅被寫手1的volume02_v2輪次「延伸查證」到終章有沒有回收特定線索，未做完整逐章伏筆審查）、`volume04_v2`（古界，仍在動筆中，暫不列入）、volume06（54章，天神書院篇——確認：**未被任何一輪查過**，跟volume06b是不同支線，不要混淆）。
+
+### `jie-world-state`（世界持續運作）已覆蓋範圍
+
+清道夫三輪已覆蓋`novel/volume07/`~`volume12/`全部六卷（371章）。對應題號：254（volume07+08+09三輪追加，太玄宗背景線）、256（volume09+10+11+12，長生勢力／司天鑑／守衡）。**volume01~volume06系列尚未做過`jie-world-state`審查**。
+
+### 仙化manifesto診斷（`CULTIVATION_ASPIRATION_REVIEW_LOG.md`）已覆蓋範圍
+
+- **volume01（開發稿，44章）已全卷覆蓋**：ch001~018由2026-09-22 `jie-writer`背景試寫比較（`novel/drafts/cultivation_aspiration_trial_v1/`，清道夫已核硬約束）覆蓋；ch019~044由寫手1今日（2026-09-23）純診斷pass覆蓋（0改稿，僅登記結論）。
+- **古界Act5（`novel/volume04_v2/chapter047~078.md`，32章）僅抽樣**：J單元三次點火（ch059~062）+ ch071已讀，未逐章覆蓋；G~M整體因是刻意的人體尺度圍城生存調性，維持不列REWORK。
+- N單元（放劍／返程／告別）及之後古界內容**尚未落正文**，套用準則已寫入review log供動筆時參考。
+- **尚未做過manifesto診斷的範圍**：volume02_v2（93章）、ancient_battlefield_deep_v2（41章）、volume03/03a_v2、volume04_v2其餘未抽樣章節、volume05以後全部。
+
+**已知的資料落差（非本次任務範圍，提醒未來排工者）**：`published/lower_realm_v2/`（卷一~卷三，44章）的章節編號與標題跟`novel/volume01/`開發稿（44章）**完全對不上**（例如開發稿ch019〈灶邊新客〉≠ 卷二ch001〈殘殿七影〉），確認是兩份實質不同的文字、不是同一份內容換頁碼——`published/lower_realm_v2/`看起來是舊版retcon前的清版鏡像，尚未跟現行volume01開發稿重新同步。之後若排工到「审查published版本」還是「審查volume01開發稿」，兩者不能互相替代，需明確指定是哪一份。
+
 **運作原則**：每個人手上任務做完，自己判斷接下來要做①②③④裡哪一項最有價值（不用每次都等PM指定），完成後回報PM記錄進度；卡到需要使用者裁決的地方，記錄進CHECKLIST_PENDING_DECISIONS.md並列出替代方案（如果有），然後**轉去做其他不受影響的工作**，不要停下來等。
 
 ## 2026-09-23 使用者完整裁決236~254（共19題），分三級執行，245已結案
