@@ -48,7 +48,9 @@
 | volume09~volume12全書終局（volume11+12為主） | 清道夫 | 246、249 |
 | volume05＋volume06＋volume10 | 清道夫 | 251、252 |
 
-**尚未做過`jie-foreshadowing-payoff`的範圍**：`novel/ancient_battlefield_deep_v2/`（40章，僅被寫手1的volume02_v2輪次「延伸查證」到終章有沒有回收特定線索，未做完整逐章伏筆審查）、`volume04_v2`（古界，仍在動筆中，暫不列入）、volume06（54章，天神書院篇——確認：**未被任何一輪查過**，跟volume06b是不同支線，不要混淆）。
+**尚未做過`jie-foreshadowing-payoff`的範圍**：`novel/ancient_battlefield_deep_v2/`（40章，僅被寫手1的volume02_v2輪次「延伸查證」到終章有沒有回收特定線索，未做完整逐章伏筆審查）、`volume04_v2`（古界，仍在動筆中，暫不列入）。volume06（54章，天神書院篇）**2026-09-24已派清道夫執行**；`novel/lower_realm_v2/`（65章）**2026-09-24已派寫手3執行**，兩者進行中。
+
+**`jie-knowledge-state`系列（2026-09-24結案）**：清道夫累計13輪，覆蓋`docs/AUTHOR_SECRETS.md`／`REVEAL_TIMELINE.md`所有目前已有正文語料的秘密（生＝洛生衣、洛清禾隱瞞、孟天正、審判兵陣、洛氏滅門、陸承遠生死、周晏醫訊、谷中刺客雇主、帝關劫族污名、蒼梧命印、陸守嶽最後選擇、沉雷谷血祭、蘇聽瀾生音），全部乾淨或已妥善處理，無新CHECKLIST項。剩餘候選（血祭殘煞、無始的誘惑、上一紀元大劫本質）語料不足（僅volume08 ch042零星提及），綁定終局/十凶血路後段尚未寫到，暫不強跑。
 
 ### `jie-world-state`（世界持續運作）已覆蓋範圍
 
