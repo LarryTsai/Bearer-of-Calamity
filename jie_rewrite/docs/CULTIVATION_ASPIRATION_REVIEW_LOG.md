@@ -34,6 +34,8 @@
 
 ## 仙化試寫比較結果（2026-09-22，jie-writer背景試寫，`novel/drafts/cultivation_aspiration_trial_v1/`）
 
+**⚠️ 2026-09-23事後確認**：本節試寫來源實際讀取的是`novel/volume01/`——已由`docs/CHECKLIST_RESOLVED_HISTORY.md`第218題確認是**已被取代的舊版文本**，現行正式下界開發稿是`novel/lower_realm_v2/`（`prologue/`+`arc01_body_foundation/`+`arc02_enter_mountain/`共18章對應本節範圍）。以下結論**僅供參考，不視為正式定案**，使用者已核准在`novel/lower_realm_v2/`正確文本上重跑本項試寫比較，正式結論見寫手1在`novel/drafts/cultivation_aspiration_trial_lower_realm_v2/`的重跑結果（待補）。
+
 實際試寫卷一18章（序篇+第一篇+第二篇）後，**0/18章需要REWORK或實質改寫**，強力驗證了序篇pilot的理論判斷，且延伸證實第一篇/第二篇也是同樣結論（第一篇6章中只有1章加了一句話；第二篇5章中4章只有極輕微潤飾、1章中幅）。
 
 **方法論發現（比章節分級本身更重要）**：能不能仙化，決定因素不是「屬於哪一篇」，而是這一章有沒有已經觸碰到修行世界的元素——第一篇名義上「離修行更近」，但內容仍是純人體荒野求生，幾乎沒有可補的地方，跟序篇一樣。只有ch017〈站著聽雷〉是manifesto七節「師父教天地」的自然落點。另外，ch006是「manifesto自己的長線設計（第四節仰望者/被仰望者回收）主動禁止套用manifesto字面補強指令」的案例，值得記錄為方法論：這是「原則彼此衝突」，不只是「單章例外」。
