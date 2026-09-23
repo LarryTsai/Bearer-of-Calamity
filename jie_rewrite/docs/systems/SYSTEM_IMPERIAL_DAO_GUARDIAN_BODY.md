@@ -32,7 +32,7 @@
 
 ## 六、實戰驗證
 
-`novel/drafts/v08_iii5_ch01~03.md`三章已依此定義落筆，四方獨立審查（canon/character/power-system/continuity）全數pass，寫法上確認為「缺口先出現，封寒被裂縫拽入」而非主動施展，與本文件第三節銜接設計一致。這批草稿仍待V08 Act III全段落編號排定後統一併入 `novel/volume08/` 正式目錄。
+`novel/drafts/v08_iii5_ch01~03.md`三章已依此定義落筆，四方獨立審查（canon/character/power-system/continuity）全數pass，寫法上確認為「缺口先出現，封寒被裂縫拽入」而非主動施展，與本文件第三節銜接設計一致。**2026-09-24更新**：V08 Act III全段落編號已於264/278題階段B排定完成，本段落正文現位於`novel/volume08/chapter047~049.md`。
 
 ## 七、定稿紀錄
 
