@@ -16,7 +16,7 @@
 
 C組完整核讀轉換章：02 ch026／044～048／060／061／082／085／086；深層005／007／017／032／037／038／040；古界001／003／037／041／045，加此前064～071／074／078。其他章由搜尋、相鄰段落與來源比對補證，不假稱所有出場完整連讀。七峰039～064另有B組全段清冊及本批独立正文覆核。
 
-正文顺序依 [閱讀對照](V2_VOLUME_READING_MAP.md)。表內`02`、`深層`、`03`、`04`分別是 `novel/volume02_v2/`、`novel/ancient_battlefield_deep_v2/`、`novel/volume03_v2/`、`novel/volume04_v2/`，chNNN均為chapterNNN.md。下界具名搜尋未命中封寒，不等於已讀其每章；本批無下界配置可登錄。
+正文顺序依 [閱讀對照](V2_VOLUME_READING_MAP.md)。表內`02`、`深層`、`03`、`04`分別是 `novel/volume02_v2/`、`novel/ancient_battlefield_deep_v2/`、`novel/volume03/`、`novel/volume04_v2/`，chNNN均為chapterNNN.md。下界具名搜尋未命中封寒，不等於已讀其每章；本批無下界配置可登錄。
 
 ## 歷代 Snapshot
 

@@ -14,7 +14,7 @@
 
 入口：[洛生衣人物檔](characters/CHARACTER_LUO_SHENGYI.md)五、七～十一；[雷煉丹](systems/SYSTEM_THUNDER_ALCHEMY.md)；[雷訊與兩峰日常](events/EVENT_LUO_SHENGYI_THUNDER_MESSAGE_DAILY_LIFE.md)。以上已全文讀取。生巫雙界作者指令僅核前部未來時序與門檻，未全文讀取，不據此授予當期能力。
 
-篇序依[來源表](../novel/published/upper_realm_v2/SOURCE_MANIFEST.md)與[閱讀對照](V2_VOLUME_READING_MAP.md)。本檔 `02`、`深層`、`03a`、`03`、`04` 分別指 `novel/volume02_v2/`、`novel/ancient_battlefield_deep_v2/`、`novel/volume03a_v2/`、`novel/volume03_v2/`、`novel/volume04_v2/`；章號均為 chapterNNN.md。
+篇序依[來源表](../novel/published/upper_realm_v2/SOURCE_MANIFEST.md)與[閱讀對照](V2_VOLUME_READING_MAP.md)。本檔 `02`、`深層`、`03a`、`03`、`04` 分別指 `novel/volume02_v2/`、`novel/ancient_battlefield_deep_v2/`、`novel/volume03a_v2/`、`novel/volume03/`、`novel/volume04_v2/`；章號均為 chapterNNN.md。
 
 | 開發座標 | 閱讀版座標 |
 | --- | --- |
