@@ -2,7 +2,7 @@
 
 > 定位：Act III-2第三章；九之二「王族祖地清蹤」正式落地（規模收窄版：僅清除追查隊臨時據點，不做整支清算、不栽贓第三方）；251題硬性需求安放章節（文奕三日一核背景旁線payoff）
 > 時間：〈因果羅盤最後一次轉動〉後數日
-> 唯一來源依據：`docs/outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md` 九之二；`docs/V08_ACT_III_2346_CREATIVE_CANDIDATES.md` 251題硬性需求；`novel/volume07/chapter064.md`「西三垛以後我每三日核一次」；`novel/drafts/v08_0幕_B.md`（斷路開關安全閥，本章需明確錯開）
+> 唯一來源依據：`docs/outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md` 九之二；`docs/V08_ACT_III_2346_CREATIVE_CANDIDATES.md` 251題硬性需求；`novel/volume07/chapter064.md`「西三垛以後我每三日核一次」；`novel/volume08/chapter010.md`（斷路開關安全閥，本章需明確錯開；264/278階段B排入後原`v08_0幕_B.md`現行編號為`chapter010.md`）
 
 追查隊比他預想的，來得更快。
 
