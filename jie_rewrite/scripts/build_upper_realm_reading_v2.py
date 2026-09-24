@@ -43,8 +43,9 @@ def clean_source(path: Path) -> tuple[str, list[str]]:
     while start < len(lines) and (not lines[start].strip() or lines[start].startswith(">")):
         start += 1
     end = len(lines)
+    footer_heading = re.compile(r"^##\s*(一致性自檢|本章自檢|修訂記錄|待確認提案)")
     for i, line in enumerate(lines):
-        if line.strip() == "## 一致性自檢":
+        if footer_heading.match(line.strip()):
             end = i
             before = i - 1
             while before >= start and not lines[before].strip():

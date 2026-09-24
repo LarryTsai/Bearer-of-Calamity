@@ -32,13 +32,15 @@ while ($i < @lines) {
 }
 my $prose_start = $i;
 
-# find footer separator: the "## 一致性自檢" heading itself (and, if present, the
-# blank-preceded '---' line right before it). Do not match on any other '## '
-# heading — chapters may legitimately use '## 一、...'-style subsection headings
-# in their prose, and those must not be mistaken for the footer.
+# find footer separator: the earliest known internal-note heading (self-check,
+# revision log, pending-proposal list, ...) and, if present, the blank-preceded
+# '---' line right before it. Match only this whitelist of known footer/note
+# headings, in whichever order they appear — do NOT match on any other '## '
+# heading, because chapters may legitimately use '## 一、...'-style subsection
+# headings in their prose, and those must not be mistaken for the footer.
 my $footer_idx = -1;
 for (my $j = 0; $j < @lines; $j++) {
-    if ($lines[$j] =~ /^##\s*一致性自檢\s*$/) {
+    if ($lines[$j] =~ /^##\s*(?:一致性自檢|本章自檢|修訂記錄|待確認提案)/) {
         my $k = $j - 1;
         $k-- while ($k >= 0 && $lines[$k] =~ /^\s*$/);
         $footer_idx = ($k >= 0 && $lines[$k] =~ /^---\s*$/) ? $k : $j;
