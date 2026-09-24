@@ -63,7 +63,9 @@ manifesto仙化診斷：volume02_v2全99章完成，0 REWORK，結果良好。25
 
 **255題進度**：寫手1完成③（Act5 H~M `jie-pacing`診斷，跑完待回報）與②提案（`volume04_v2/chapter071.md`第33行插入蒼梧多停半息的外部觀察，不碰骨刺，PM已核准落筆）。
 
-**已知待清理、非緊急**：①`novel/volume07/chapter014.md`與`novel/volume12/chapter022.md`的dev稿與published鏡像各自多出對方沒有的句子（寫手3複核時發現，非本輪造成），需要找時間統一對齊；②`scripts/make_clean_copy.pl`處理CRLF原始檔時會產生`\r\r\n`雙重換行，寫手3產ch034a時已手動修正，之後用這支腳本要注意；③**（2026-09-24新發現）`novel/published/upper_realm_v2/`的volume02_v2鏡像落後dev稿不只這一輪**——寫手3做制度骨架回寫時發現ch075/ch069等段落upper版缺了先前既有的連續性修正（例：沈山河隨身帶封樣、私換案未公開），範圍可能不只這幾章；寫手2另外13例的texture改動目前也還沒同步到upper。等volume02_v2這輪（寫手2主批+寫手3制度骨架）全部落地後，需要排一次專門的volume02_v2→upper_realm_v2全卷比對同步，不能只靠隨手帶過的替換。
+**已知待清理、非緊急**：①`scripts/make_clean_copy.pl`處理CRLF原始檔時會產生`\r\r\n`雙重換行，寫手3產ch034a時已手動修正，之後用這支腳本要注意。
+
+**（2026-09-24已診斷根因並大部分修復，見下方「重大基礎設施修復」）**：`novel/volume07/chapter014.md`等一批dev/published落差，經寫手2全書排查確認**不是footer bug**，是單純的「dev持續被編輯、published從未resync」staleness，範圍比原本記錄的更大（volume07至少30+章，另volume04/09/10零星幾章）；`novel/volume12/chapter022.md`已在215題審查時獨立resync完成，與此無關。volume02_v2→upper_realm_v2全卷同步已隨volume02_v2整輪落地一併完成（見上方texture進度）。volume07全面resync已核准派工中。
 
 **寫手3新派工**：`novel/lower_realm_v2/`（序篇+七篇，65章）尚未做過`jie-foreshadowing-payoff`，寫手3已開始執行。
 
