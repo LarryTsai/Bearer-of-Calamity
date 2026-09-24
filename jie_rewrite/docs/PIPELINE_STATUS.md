@@ -99,7 +99,7 @@ manifesto仙化診斷：volume02_v2全99章完成，0 REWORK，結果良好。25
 
 ### `jie-world-state`（世界持續運作）已覆蓋範圍
 
-清道夫三輪已覆蓋`novel/volume07/`~`volume12/`全部六卷（371章）。對應題號：254（volume07+08+09三輪追加，太玄宗背景線）、256（volume09+10+11+12，長生勢力／司天鑑／守衡）。**volume01~volume06系列尚未做過`jie-world-state`審查**。
+清道夫已覆蓋`volume07`~`volume12`全部六卷（371章，題號254/256）；**2026-09-24更正（此段原記載已過期，清道夫本輪session主動核對後發現實際已覆蓋更多，未同步更新）**：另已完成`lower_realm_v2`(65章)、`volume03`(69章)、`volume03a_v2`(28章)、`volume06`(54章，發現291題)、`volume06b`(53章)、`ancient_battlefield_deep_v2`(40章)，均乾淨或已處理。**實際尚未覆蓋：`volume02_v2`(99章)、`volume05`**；`volume04_v2`古界仍在動筆中不列入。
 
 ### 仙化manifesto診斷（`CULTIVATION_ASPIRATION_REVIEW_LOG.md`）已覆蓋範圍
 
