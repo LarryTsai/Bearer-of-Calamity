@@ -17,7 +17,7 @@
 - **manifesto仙化診斷**：清道夫負責，已覆蓋lower_realm_v2/volume02_v2/ancient_battlefield_deep_v2/volume03/volume03a_v2/volume05/volume06b/volume06/volume07/volume09/volume10全部0 REWORK；下一步volume11起，清道夫進行中。
 - **215題（鑑月改名改物種）代詞/稱呼落地審查——已全書結案（2026-09-24）**：全書已發布範圍（volume02_v2/volume03/volume03a_v2/ancient_battlefield_deep_v2/volume06b/volume07~volume12）全部核校完成，volume03與古戰域深層確認0處免查，其餘均已修正並verified。lower_realm_v2（凍結）與volume04_v2（施工中）不在範圍內。
 - **洛生衣「觀生」感官錨點跨卷缺失（2026-09-24新開，寫手2診斷，已派寫手1獨立處理）**：貫穿全書角色層級問題，非個別卷偶發——volume06建立弧密度最高最好，volume07起驟降，volume10~12連續三卷20餘候選場景實演次數趨近0，且規律清楚：錨點只在剛登場新鮮感最高時密集使用，之後隨戲份增加從「用特殊感官診斷的醫者」退化成單純醫療行政官，**最該用錨點的恰恰是情感份量最重的場景**（volume07 ch027她本人瀕死昏迷、volume12跟陸沉分別/收養抉擇）。已排5個優先高張力場景，寫手1處理中，完成後會產出她的「專屬起手式」最小化寫作提示供volume13+參照。
-- **`jie-xianxia-texture`全書擴大進度**：volume05/volume06/volume07已完成回寫（作者已確認方向）；volume06b（寫手3，正在做215題殘留清理後才開始質感改寫）、volume02_v2（**已派寫手2，第二批**）進行中；ancient_battlefield_deep_v2排在volume02_v2之後。
+- **`jie-xianxia-texture`全書擴大進度**：volume05/volume06/volume07/ancient_battlefield_deep_v2已完成回寫並commit（2026-09-24，ancient_battlefield_deep_v2 commit fa75c3d，含14例+~90處機械替換，另同批清出的14個bug已裁定、commit c135729）；volume06b（寫手3，正在做215題殘留清理後才開始質感改寫）、volume02_v2進行中——寫手2主責大宗12例，寫手3分工接「制度骨架」3例（ch064隊令、ch065命藏審核、ch075~076舞弊查證），新機制（隊令烙息/令背峰氣成印/封禁留觸痕/同手陣紋共滯）均標【待確認提案】附退回寫法，寫完併入寫手2那批一起四方審查、一起回寫、一起交顧問轉呈作者。
 - **`jie-xianxia-texture`新審查（2026-09-24新建，回應作者透過顧問提出的缺口）**：日常動作有沒有被修仙文明改寫，唯一來源`docs/XIANXIA_TEXTURE_GUIDE.md`，排在`jie-line-editor`之前。試導`volume06`15例已通過作者確認，**方向正式核可、擴大到全書**。寫手3主責：①`EVENT_TIANSHEN_ACADEMY_AMBUSH.md`（或另立器物說明檔）補轉令臺活脈/指印分級規則；②`jie-power-system`確認陣磚細節與空手設定無衝突；③15例跑continuity/canon/character（+例13 power-system）後正式回寫`novel/volume06/`；④依卷冊分批擴大全書，每完成一卷回報改寫示範，PM核對後轉顧問。
 - **volume03三千州「舞台奇觀」落差**：清道夫發現多宗門匯聚舞台感被查案支線稀釋，PM已核准「路過式環境奇觀」低成本補強方向（不新增角色），待資源排入。
 
