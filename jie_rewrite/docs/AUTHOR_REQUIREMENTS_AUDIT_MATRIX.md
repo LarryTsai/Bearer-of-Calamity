@@ -51,7 +51,7 @@
 
 | 裁示文件 | 故事核心裁決 | P0修正 | 必回填範圍 | 狀態 |
 |---|---|---|---|---|
-| `author_directives/AUTHOR_DIRECTIVE_ACADEMY_TO_BORDER_ANCIENT_WORLD_ROAD.md` | 必整合；用一次真實失敗的人生建立陸沉與三伴星主動走界路的根因 | 古世歲月結算、閉合歷史、能力不結算、條件式模型、三伴星獨立代理權 | 新增 V06/V07 間卷；`SYSTEM_CULTIVATION_TIMELINE.md`；現 V07 ch001、ch009～10、ch041後；宏綱、因果網、人物／事件檔 | **Active P0：已完成故事評估，未完成唯一來源與正文重建** |
+| `author_directives/AUTHOR_DIRECTIVE_ACADEMY_TO_BORDER_ANCIENT_WORLD_ROAD.md` | 必整合；用一次真實失敗的人生建立陸沉與三伴星主動走界路的根因 | 古世歲月結算、閉合歷史、能力不結算、條件式模型、三伴星獨立代理權 | 新增 V06/V07 間卷；`SYSTEM_CULTIVATION_TIMELINE.md`；現 V07 ch001、ch009～10、ch041後；宏綱、因果網、人物／事件檔 | **已完成（2026-09-24，CHECKLIST 318選B）**：volume07 古世回望已落 ch001（裴戎斬橋／動機承接）、ch009（條件式「若」＋蒼梧自己的判斷）、ch041 章末（界線平順的第一征兆）、ch044（「界路。」認出舊識、改掉「規矩我一條都不熟」）、ch046 知識狀態同步；四方審查已跑並修正，複核與 ch041 燃身取雷順序另案待核 |
 | `author_directives/AUTHOR_DIRECTIVE_LIFE_WITCH_DUAL_REALMS.md` | 必整合；建立洛生衣與魔女不以陸沉居中的共同人生 | 不重複洛幼年悟滅、僅輪印前兆、假生不成真生命、守界者／當地人有最終代理權、虛實道種嚴格限界 | 與古世界路平行的新卷；洛／魔女人物檔、能力唯一來源；現 V07 ch001及後續少量回收 | **Active P0：已完成故事評估，未完成唯一來源與正文重建** |
 | `author_directives/AUTHOR_DIRECTIVE_FOREIGN_DOMAIN_EIGHT_THUNDERS_REFORGING.md` | 必整合；保留8→0→8、零雷人格與第二次選擇 | 外雷不宇宙性消亡、命圖不抹伴星同意、五星循環不永久、清場與戰力上限 | `SYSTEM_TEN_CALAMITY_THUNDERS.md`、`SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md`、命圖／伴星檔；重建後的異域卷及 V09～11 回歸 | **Active P0：已完成故事評估，須待界路第二次取雷閉環後落正文** |
 
