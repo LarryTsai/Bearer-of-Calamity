@@ -13,9 +13,9 @@
 **缺口A現況**：寫手1已交回5個方案+根因分析（發現四次失敗可能是方法論本身錯誤——古界對外邊界可能是界潮本身而非地理座標），已於對話中呈交使用者，待使用者裁定方向。
 
 **品質層（不擋完稿判定，並行處理）**：
-- **CHECKLIST待裁決backlog**（176~235＋265~291）：**寫手1、寫手2分頭清理中**——寫手1已批次處理176~235（多數已直接結案或給出裁定傾向，PM已批次裁定回覆，排除231/232/223優先議題）；寫手2剛完成Stage B，開始清理265~291（排除264/268/278）。此backlog另累積兩個低成本ENRICH待排：①`volume06b`雙線「界路/境界越高越受限」與「被記得才存在」的深層主題呼應，建議卷尾（ch052~053）補一句極簡短內心閃念，不說破；②`volume05`尚未做過`jie-foreshadowing-payoff`/`jie-world-state`審查。
-- **manifesto仙化診斷**：清道夫負責，已覆蓋lower_realm_v2/volume02_v2/ancient_battlefield_deep_v2/volume03/volume03a_v2/volume05/volume06b全部0 REWORK；下一步volume06+volume07，清道夫進行中。
-- **215題（鑑月改名改物種）代詞/稱呼落地審查（2026-09-24新開，從jie-xianxia-texture工程拆出獨立追蹤）**：volume06b審查發現大面積未落地（約20處「他」+男性稱呼殘留），volume07發現66處「牠」需逐一核對指稱對象（劫厄/蒼梧維持「牠」不變，只改真正指鑑月處）。**v06b：寫手3修正中**；**v07：寫手1順手處理中**；**v08~v12：尚未排查**，待v06b/v07收尾、team有空手時排入，v08本身還在等xianxia-texture輪次到它才會一併處理。
+- **CHECKLIST待裁決backlog**：**176~235與265~291兩批均已結案**（2026-09-24，僅269留給268一起處理、274留給古界完篇，刻意不動）。剩餘未清的只有176/177/183/184（已定調送四方覆核，等V08/古界排期更急的事忙完再排）跟268本身（太玄閣存亡P0，尚未專門處理）。另累積兩個低成本ENRICH待排：①`volume06b`雙線深層主題呼應（卷尾ch052~053補一句內心閃念）；②`volume05`尚未做過`jie-foreshadowing-payoff`/`jie-world-state`審查。
+- **manifesto仙化診斷**：清道夫負責，已覆蓋lower_realm_v2/volume02_v2/ancient_battlefield_deep_v2/volume03/volume03a_v2/volume05/volume06b/volume06/volume07/volume09/volume10全部0 REWORK；下一步volume11起，清道夫進行中。
+- **215題（鑑月改名改物種）代詞/稱呼落地審查（2026-09-24新開，從jie-xianxia-texture工程拆出獨立追蹤）**：volume06b大面積未落地（約20處「他」+男性稱呼殘留），volume07發現66處「牠」需逐一核對指稱對象（劫厄/蒼梧維持「牠」不變，只改真正指鑑月處）。**v06b：寫手3修正中**；**v07：寫手1已處理**；**v08~v09：已派寫手2**；**v10~v12：尚未排查**，待team有空手時排入。
 - **`jie-xianxia-texture`新審查（2026-09-24新建，回應作者透過顧問提出的缺口）**：日常動作有沒有被修仙文明改寫，唯一來源`docs/XIANXIA_TEXTURE_GUIDE.md`，排在`jie-line-editor`之前。試導`volume06`15例已通過作者確認，**方向正式核可、擴大到全書**。寫手3主責：①`EVENT_TIANSHEN_ACADEMY_AMBUSH.md`（或另立器物說明檔）補轉令臺活脈/指印分級規則；②`jie-power-system`確認陣磚細節與空手設定無衝突；③15例跑continuity/canon/character（+例13 power-system）後正式回寫`novel/volume06/`；④依卷冊分批擴大全書，每完成一卷回報改寫示範，PM核對後轉顧問。
 - **volume03三千州「舞台奇觀」落差**：清道夫發現多宗門匯聚舞台感被查案支線稀釋，PM已核准「路過式環境奇觀」低成本補強方向（不新增角色），待資源排入。
 
