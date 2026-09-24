@@ -12,13 +12,13 @@ OUTPUT = ROOT / "novel/published/upper_realm_v2"
 VOLUMES = (
     (4, "volume02_v2", 1, 38),
     (5, "volume02_v2", 39, 68),
-    (6, "volume02_v2", 69, 86),
+    (6, "volume02_v2", 69, 92),
     (6, "ancient_battlefield_deep_v2", 1, 19),
     (7, "ancient_battlefield_deep_v2", 20, 40),
-    (7, "volume02_v2", 87, 93),
+    (7, "volume02_v2", 93, 99),
     (8, "volume03a_v2", 1, 28),
-    (9, "volume03_v2", 1, 39),
-    (10, "volume03_v2", 40, 69),
+    (9, "volume03", 1, 39),
+    (10, "volume03", 40, 69),
 )
 DIGITS = "零一二三四五六七八九"
 
@@ -45,14 +45,13 @@ def clean_source(path: Path) -> tuple[str, list[str]]:
     end = len(lines)
     for i, line in enumerate(lines):
         if line.strip() == "## 一致性自檢":
-            end = min(end, i)
+            end = i
+            before = i - 1
+            while before >= start and not lines[before].strip():
+                before -= 1
+            if before >= start and lines[before].strip() == "---":
+                end = before
             break
-        if line.strip() == "---":
-            after = i + 1
-            while after < len(lines) and not lines[after].strip():
-                after += 1
-            if after < len(lines) and lines[after].startswith("## "):
-                end = min(end, i)
     body = lines[start:end]
     while body and not body[-1].strip():
         body.pop()
@@ -97,8 +96,8 @@ def build_plan() -> tuple[dict[Path, bytes], list[str]]:
             manifest.append(
                 f"| [卷{volume} 第{new_number}章]({relative}) | {title.replace('|', '\\|')} | `{source_rel}` |"
             )
-    if len(expected) != 230:
-        raise ValueError(f"Expected 230 chapters, got {len(expected)}")
+    if len(expected) != 236:
+        raise ValueError(f"Expected 236 chapters, got {len(expected)}")
     expected[OUTPUT / "SOURCE_MANIFEST.md"] = ("\n".join(manifest) + "\n").encode("utf-8")
     return expected, manifest
 
@@ -115,14 +114,14 @@ def main() -> None:
         mismatches.extend(f"obsolete: {path.relative_to(ROOT)}" for path in obsolete)
         if mismatches:
             raise SystemExit("Missing or outdated reading files:\n" + "\n".join(mismatches))
-        print("Verified 230 chapters and source manifest across volumes 04–10.")
+        print("Verified 236 chapters and source manifest across volumes 04–10.")
         return
     for path in obsolete:
         path.unlink()
     for path, data in expected.items():
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(data)
-    print("Built 230 chapters and source manifest across volumes 04–10.")
+    print("Built 236 chapters and source manifest across volumes 04–10.")
 
 
 if __name__ == "__main__":

@@ -32,15 +32,17 @@ while ($i < @lines) {
 }
 my $prose_start = $i;
 
-# find footer separator: last line that is exactly '---' whose next non-blank line starts with '## '
+# find footer separator: the "## 一致性自檢" heading itself (and, if present, the
+# blank-preceded '---' line right before it). Do not match on any other '## '
+# heading — chapters may legitimately use '## 一、...'-style subsection headings
+# in their prose, and those must not be mistaken for the footer.
 my $footer_idx = -1;
 for (my $j = 0; $j < @lines; $j++) {
-    if ($lines[$j] =~ /^---\s*$/) {
-        my $k = $j + 1;
-        $k++ while ($k < @lines && $lines[$k] =~ /^\s*$/);
-        if ($k < @lines && $lines[$k] =~ /^##\s/) {
-            $footer_idx = $j;
-        }
+    if ($lines[$j] =~ /^##\s*一致性自檢\s*$/) {
+        my $k = $j - 1;
+        $k-- while ($k >= 0 && $lines[$k] =~ /^\s*$/);
+        $footer_idx = ($k >= 0 && $lines[$k] =~ /^---\s*$/) ? $k : $j;
+        last;
     }
 }
 
