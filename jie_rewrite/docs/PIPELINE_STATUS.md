@@ -17,7 +17,7 @@
 - **manifesto仙化診斷**：清道夫負責，已覆蓋lower_realm_v2/volume02_v2/ancient_battlefield_deep_v2/volume03/volume03a_v2/volume05/volume06b/volume06/volume07/volume09/volume10全部0 REWORK；下一步volume11起，清道夫進行中。
 - **215題（鑑月改名改物種）代詞/稱呼落地審查——已全書結案（2026-09-24）**：全書已發布範圍（volume02_v2/volume03/volume03a_v2/ancient_battlefield_deep_v2/volume06b/volume07~volume12）全部核校完成，volume03與古戰域深層確認0處免查，其餘均已修正並verified。lower_realm_v2（凍結）與volume04_v2（施工中）不在範圍內。
 - **洛生衣「觀生」感官錨點跨卷缺失（2026-09-24新開，寫手2診斷，已派寫手1獨立處理）**：貫穿全書角色層級問題，非個別卷偶發——volume06建立弧密度最高最好，volume07起驟降，volume10~12連續三卷20餘候選場景實演次數趨近0，且規律清楚：錨點只在剛登場新鮮感最高時密集使用，之後隨戲份增加從「用特殊感官診斷的醫者」退化成單純醫療行政官，**最該用錨點的恰恰是情感份量最重的場景**（volume07 ch027她本人瀕死昏迷、volume12跟陸沉分別/收養抉擇）。已排5個優先高張力場景，寫手1處理中，完成後會產出她的「專屬起手式」最小化寫作提示供volume13+參照。
-- **`jie-xianxia-texture`全書擴大進度**：volume05/volume06/volume07/ancient_battlefield_deep_v2已完成回寫並commit（2026-09-24，ancient_battlefield_deep_v2 commit fa75c3d，含14例+~90處機械替換，另同批清出的14個bug已裁定、commit c135729）；volume06b已全部完成並commit（8e0e631質感改寫主批+b697496制度骨架補掃/ch053 ENRICH，20檔10章；新機制提案未寫入，登記CHECKLIST 294留白待使用者裁定）、volume02_v2進行中——寫手2主批13章+寫手3制度骨架7章已全部回寫並commit（b8a50cf），四方審查通過；9條新機制正式登記CHECKLIST 295（已落筆待核可，非留白），ch069/077/081/061/089等連動措辭尚未跟著改，待核可後再派工同步。Phase 2（全99章機械性現代詞掃除，ROLLOUT_SPEC第五節）寫手2/寫手3依章號區段對分中。
+- **`jie-xianxia-texture`全書擴大進度**：volume05/volume06/volume07/ancient_battlefield_deep_v2已完成回寫並commit（2026-09-24，ancient_battlefield_deep_v2 commit fa75c3d，含14例+~90處機械替換，另同批清出的14個bug已裁定、commit c135729）；volume06b已全部完成並commit（8e0e631質感改寫主批+b697496制度骨架補掃/ch053 ENRICH，20檔10章；新機制提案未寫入，登記CHECKLIST 294留白待使用者裁定）、volume02_v2進行中——volume02_v2已全部結案：Phase 1主批13章+制度骨架7章（b8a50cf，9條新機制登記CHECKLIST 295待核可）+Phase 2全卷機械性現代詞掃除（1eabd66，寫手2/寫手3依章號區段分工），三份鏡像同步，寫手2交叉核對乾淨。至此`jie-xianxia-texture`已完成：volume05/06/06b/07/ancient_battlefield_deep_v2/volume02_v2共6卷；未開始：volume03/03a_v2、volume08~12。
 - **`jie-xianxia-texture`新審查（2026-09-24新建，回應作者透過顧問提出的缺口）**：日常動作有沒有被修仙文明改寫，唯一來源`docs/XIANXIA_TEXTURE_GUIDE.md`，排在`jie-line-editor`之前。試導`volume06`15例已通過作者確認，**方向正式核可、擴大到全書**。寫手3主責：①`EVENT_TIANSHEN_ACADEMY_AMBUSH.md`（或另立器物說明檔）補轉令臺活脈/指印分級規則；②`jie-power-system`確認陣磚細節與空手設定無衝突；③15例跑continuity/canon/character（+例13 power-system）後正式回寫`novel/volume06/`；④依卷冊分批擴大全書，每完成一卷回報改寫示範，PM核對後轉顧問。
 - **volume03三千州「舞台奇觀」落差**：清道夫發現多宗門匯聚舞台感被查案支線稀釋，PM已核准「路過式環境奇觀」低成本補強方向（不新增角色），待資源排入。
 
@@ -215,7 +215,7 @@ Manifesto新增二十之一/二十之二節：修仙畫面驗收不是機械單�
 
 ## 目前角色↔session名稱對照
 
-一律靠ListAgents查詢當下事實＋讀`docs/PIPELINE_WRITER1_LOG.md`／`docs/PIPELINE_WRITER2_LOG.md`自我識別，不記錄具體session名稱（每次重啟都會變，記錄了也是舊的）。角色只有四種：PM（本檔案維護者）、寫手1、寫手2、清道夫。
+一律靠ListAgents查詢當下事實＋讀`docs/PIPELINE_WRITER1_LOG.md`／`docs/PIPELINE_WRITER2_LOG.md`／`docs/PIPELINE_WRITER3_LOG.md`（2026-09-24新增，寫手3自建，含角色定義、各卷↔upper_realm_v2鏡像對照、已完成清單、294/295待裁定）自我識別，不記錄具體session名稱（每次重啟都會變，記錄了也是舊的）。角色只有五種：PM（本檔案維護者）、寫手1、寫手2、寫手3、清道夫。
 
 ## 我是誰、在做什麼
 
