@@ -6,7 +6,7 @@
 - 正文每次修改都要同步所有鏡像：`novel/published/<卷>/`，以及 **`novel/published/upper_realm_v2/`**（閱讀版，分卷編號不同，部分段落是舊版）。保留 BOM 與換行；不跑 make_clean_copy.pl（它會把 CRLF 疊成 \r\r\n），改用同段精確替換，最後檢查每檔增刪行數相等。
 
 ## 鏡像對照（已查證）
-- ancient_battlefield_deep_v2：ch001～018 → upper volume06/ch019～036；ch020～040 → upper volume07/ch001～021；ch019 無鏡像。
+- ancient_battlefield_deep_v2：ch001～019 → upper volume06/ch(N+24)（025～043）；ch020～040 → upper volume07/ch(N−19)。（舊記「+18、ch019無鏡像」是鏡像重建前的編號，已失效；**upper 會被重建而改號，動手前一律先查 SOURCE_MANIFEST.md**。）
 - volume03：published/volume03 同號；upper volume09/同號（ch001～039）、upper volume10/chapter(N−39)（ch040～069）。
 - volume02_v2：ch011～022 → upper volume04 同號；ch042～068 → upper volume05/ch(N−38)；ch069～081 → upper volume06/ch(N−68)；ch086/089 upper 為舊版（改句不存在）；ch094～099 upper 未收錄。
 
