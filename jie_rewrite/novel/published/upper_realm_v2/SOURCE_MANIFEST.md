@@ -67,7 +67,7 @@
 | [卷5 第23章](volume05/chapter023.md) | 低處一劍 | `novel/volume02_v2/chapter061.md` |
 | [卷5 第24章](volume05/chapter024.md) | 先退的權 | `novel/volume02_v2/chapter062.md` |
 | [卷5 第25章](volume05/chapter025.md) | 四個人的線 | `novel/volume02_v2/chapter063.md` |
-| [卷5 第26章](volume05/chapter026.md) | 把權交到桌上 | `novel/volume02_v2/chapter064.md` |
+| [卷5 第26章](volume05/chapter026.md) | 把權交到令上 | `novel/volume02_v2/chapter064.md` |
 | [卷5 第27章](volume05/chapter027.md) | 三道門 | `novel/volume02_v2/chapter065.md` |
 | [卷5 第28章](volume05/chapter028.md) | 無人合身的路 | `novel/volume02_v2/chapter066.md` |
 | [卷5 第29章](volume05/chapter029.md) | 兩星同起 | `novel/volume02_v2/chapter067.md` |
