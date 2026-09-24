@@ -7,6 +7,7 @@
 
 ## 鏡像對照（已查證）
 - ancient_battlefield_deep_v2：ch001～018 → upper volume06/ch019～036；ch020～040 → upper volume07/ch001～021；ch019 無鏡像。
+- volume03：published/volume03 同號；upper volume09/同號（ch001～039）、upper volume10/chapter(N−39)（ch040～069）。
 - volume02_v2：ch011～022 → upper volume04 同號；ch042～068 → upper volume05/ch(N−38)；ch069～081 → upper volume06/ch(N−68)；ch086/089 upper 為舊版（改句不存在）；ch094～099 upper 未收錄。
 
 ## 已完成（2026-09-24，皆已 commit）
