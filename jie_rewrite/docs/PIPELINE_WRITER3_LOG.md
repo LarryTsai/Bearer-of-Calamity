@@ -23,11 +23,11 @@
 - 2026-09-25 volume08（97章）質感全流程完成：G節→15代表例（四方）→PM裁決367/368/369(收窄:翼羽為物件)/371/372回寫→PASS2五段約570處→ENRICH ch004/007/023保守版（CHECKLIST 373～375建議不採，只落退回寫法）→ch039/040/042/043坦白濃縮（PM核可，提案V08_CH040_042_CONDENSE_PROPOSAL.md）→三方regression→17項修正→published/volume08全卷以rebuild_mirror.py整章重生。370（203題對話）留作者。交PM清單見FINAL_FIX末節「交PM」。
 - 工具新增：scratchpad/rebuild_mirror.py（dev整章重生鏡像，已與既有published做8章round-trip逐位元組一致）；upper_realm_v2 一律用 scripts/build_upper_realm_reading_v2.py（逐段替換套不上舊版段落）。
 - 鏡像稽核腳本 scratchpad/audit_mirrors.py：全庫 dev↔published（含 upper，upper 標題編號不同會誤報 2 行差，忽略）。
-- 進行中（2026-09-24 PM派工）：①volume03a_v2（28章）接手寫手2的審查（AUDIT_PART1~3已完成）→窄查→代表例→機械掃除→三份鏡像（volume03a_v2／published/volume03a_v2／upper_realm_v2/volume08，三者同號）。②volume08（97章）審查五段並行（AUDIT_PART1~5，洛生衣觀生候選列G節給寫手1）。③之後volume09→12。CHECKLIST號段360~379。published／upper鏡像重建只由我做，動手前先廣播。
+- 進行中（2026-09-25）：volume09（56章）——審查 PART1～3 已 commit；G節 docs/drafts/XIANXIA_TEXTURE_VOLUME09_AUDIT_G.md（G-0 已寫 PM 裁決 376B/377A/378A/379A）；power／character／canon 窄查進行中；寫手2 先落洛生衣觀生 5 句（ch019/025/031/038/051），我以其 dev 為準、不動觀生候選句；洛生衣誤判聞硯段待顧問。之後 volume10～12。CHECKLIST 號段 360～379 已用完，新號段 460～479。published／upper 鏡像重建只由我做，動手前先廣播；收尾一律 audit_mirrors.py 全庫比對。
 
 ## 做法心得
 - **agent 回報「三份都改好」不可信**，鏡像一律自己同步、自己驗證：以開發稿對 HEAD 的差異套到鏡像（整段比對、插入找錨點），再做雙向驗證（新增行都在、刪除行都不在）。腳本在 scratchpad 的 sync_v03b.py（每次開新 session 要重寫）。
-- 寫手2 的鏡像重建腳本讀開發稿；卷還沒 commit 前先通知她暫停該卷重建。
+- 鏡像重建目前只由寫手3做（PM規則）；他人改 dev 後通知我，我依批重建。
 
 ## 待辦／提醒
 - ROLLOUT_SPEC 教訓彙整：PM 指示等更多卷跑完再做。候選教訓：「X順着Y傳回手上」句型全卷限量；制度／程序骨架也要過核心測試；觀生只看生念、只限視線內與近處，不讀元素（那是青璃的領域）；封寒古界前是劍修「勢」，但 FH-03 已核准「敲地比較回震／辨重量影」，不可誤判為越界；不同卷有不同的時序錨點（292題只管古界後的 volume06）。
