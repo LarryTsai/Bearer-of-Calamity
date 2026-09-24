@@ -8,10 +8,12 @@
 
 **缺口A（唯一真正的創作卡點）**：`volume04_v2`（第十四篇〈界潮與古界〉）N-2/N未寫，卡在CHECKLIST 231/232題——古界出界路徑連續4個候選地點（白脈岩/望潮石脊/潮陰澳/南岸黑段）全部否決，2026-09-20卡到ch078。**已派寫手1**用`jie-creative`換角度重新腦力激盪（不再用「找地理配對點」這個已失敗4次的模式，改探討出口機制本身要不要換、驗證門檻要不要鬆動、能否跟蒼梧本人角色弧線掛鉤），3~5個方案不預選，做完先給PM看再排使用者確認。
 
-**缺口B（純執行，無創作卡點）**：`volume08` Act III Stage B（56章最終排號搬入正式目錄）。Stage A已confirmed clean（含ch018/019殘留封寒鋪陳清除）。**寫手2已正式開始Stage B**：精算排號公式（0幕+III-1~III-10共56章接在既有ch016後，舊ch017~019+ch022~042+ch034a位移接在後面，ch034a這次直接給正式整數章號）、全庫交叉引用檢查、README/MACRO_OUTLINE/MASTER_TABLE_OF_CONTENTS/V2_VOLUME_READING_MAP同步、published鏡像全面重生成，允許分子階段回報commit。
+**缺口B已正式結案（2026-09-24，commit `da8b634`/`371ec3d`）**：`volume08` Act III Stage B完成，56章全部搬入`novel/volume08/`正式目錄，現連續001~097共97章無缺號，published鏡像/README/OUTLINE系列文件全部同步；過程中寫手2逐條核對權威大綱自行糾正PM給錯的0幕插入點，最終全卷複核抓到並由寫手1修正兩處內容矛盾（0幕A開場提前引用未演出畫面、Act III-1 ch019封寒在場時間矛盾）。**全書現在只剩缺口A一個真正的完稿卡點**。
+
+**缺口A現況**：寫手1已交回5個方案+根因分析（發現四次失敗可能是方法論本身錯誤——古界對外邊界可能是界潮本身而非地理座標），已於對話中呈交使用者，待使用者裁定方向。
 
 **品質層（不擋完稿判定，並行處理）**：
-- **CHECKLIST待裁決backlog**（268~291＋更早176~235區間）：暫無人專責，待前述任務有人手空出後回頭處理。此backlog另累積兩個低成本ENRICH待排：①`volume06b`雙線「界路/境界越高越受限」與「被記得才存在」的深層主題呼應，建議卷尾（ch052~053）補一句極簡短內心閃念，不說破；②`volume05`尚未做過`jie-foreshadowing-payoff`/`jie-world-state`審查。
+- **CHECKLIST待裁決backlog**（176~235＋265~291）：**寫手1、寫手2分頭清理中**——寫手1已批次處理176~235（多數已直接結案或給出裁定傾向，PM已批次裁定回覆，排除231/232/223優先議題）；寫手2剛完成Stage B，開始清理265~291（排除264/268/278）。此backlog另累積兩個低成本ENRICH待排：①`volume06b`雙線「界路/境界越高越受限」與「被記得才存在」的深層主題呼應，建議卷尾（ch052~053）補一句極簡短內心閃念，不說破；②`volume05`尚未做過`jie-foreshadowing-payoff`/`jie-world-state`審查。
 - **manifesto仙化診斷**：清道夫負責，已覆蓋lower_realm_v2/volume02_v2/ancient_battlefield_deep_v2/volume03/volume03a_v2/volume05/volume06b全部0 REWORK；下一步volume06+volume07，清道夫進行中。
 - **`jie-xianxia-texture`新審查（2026-09-24新建，回應作者透過顧問提出的缺口）**：日常動作有沒有被修仙文明改寫，唯一來源`docs/XIANXIA_TEXTURE_GUIDE.md`，排在`jie-line-editor`之前。試導`volume06`15例已通過作者確認，**方向正式核可、擴大到全書**。寫手3主責：①`EVENT_TIANSHEN_ACADEMY_AMBUSH.md`（或另立器物說明檔）補轉令臺活脈/指印分級規則；②`jie-power-system`確認陣磚細節與空手設定無衝突；③15例跑continuity/canon/character（+例13 power-system）後正式回寫`novel/volume06/`；④依卷冊分批擴大全書，每完成一卷回報改寫示範，PM核對後轉顧問。
 - **volume03三千州「舞台奇觀」落差**：清道夫發現多宗門匯聚舞台感被查案支線稀釋，PM已核准「路過式環境奇觀」低成本補強方向（不新增角色），待資源排入。
