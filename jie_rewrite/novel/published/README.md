@@ -228,7 +228,7 @@
 - [第23章　低處一劍](upper_realm_v2/volume05/chapter023.md)
 - [第24章　先退的權](upper_realm_v2/volume05/chapter024.md)
 - [第25章　四個人的線](upper_realm_v2/volume05/chapter025.md)
-- [第26章　把權交到桌上](upper_realm_v2/volume05/chapter026.md)
+- [第26章　把權交到令上](upper_realm_v2/volume05/chapter026.md)
 
 #### 命藏過渡
 
