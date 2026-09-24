@@ -3056,7 +3056,10 @@ PM 已裁示採用／不採用項如下，本題為留痕與後續回填清單�
 
 ---
 
-### [ ] 318. volume06b古世教訓與兩處SEED在volume07起零回收，且volume07 ch044與之知識狀態衝突（`jie-causality`volume06b審查，P1；含AUTHOR_REQUIREMENTS_AUDIT_MATRIX L54 Active P0）
+### [x] 318. volume06b古世教訓與兩處SEED在volume07起零回收，且volume07 ch044與之知識狀態衝突（`jie-causality`volume06b審查，P1；含AUTHOR_REQUIREMENTS_AUDIT_MATRIX L54 Active P0）
+
+**【使用者裁決 2026-09-24：318 選 B】** 依`author_directives/AUTHOR_DIRECTIVE_ACADEMY_TO_BORDER_ANCIENT_WORLD_ROAD.md`指定落點，在`volume07`ch001、ch009~10、ch041後各補短回望（動機承接／條件式模型或三伴星各自代理權／界路驗證），ch044「規矩我一條都不熟」同步改掉；ch043、ch047兩處SEED挑一處給下游、另一處明文標古世內部收束（同步MACRO_OUTLINE L340措辭）。不新增章節。完成後AUDIT_MATRIX L54由Active P0改為已完成。施工：寫手1（N-2暫停期間先做）；鏡像寫手3。
+
 
 **背景**：ch051 L43~53陸沉動機「不是帝關先破，是路先被打通」「不想再遲到」；`volume07/chapter044.md`首入界路：「界路。」他低聲說出這兩個字，像替眼前土地找到名字，並說「這裡的規矩，我一條都不熟」；MACRO_OUTLINE L340寫「古世風險模型在現場得到驗證」，但volume07 ch044~062無一句回望；`AUTHOR_REQUIREMENTS_AUDIT_MATRIX.md` L54仍標「V07 ch001、ch009~10、ch041後」Active P0。ch043 SEED（L45~47完整道則殘影）僅ch044/046各一句「被注視」；ch047 SEED（L37~57時間迴圈）無下游使用。
 
