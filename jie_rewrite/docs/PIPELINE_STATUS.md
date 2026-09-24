@@ -65,7 +65,7 @@ manifesto仙化診斷：volume02_v2全99章完成，0 REWORK，結果良好。25
 
 **已知待清理、非緊急**：①`scripts/make_clean_copy.pl`處理CRLF原始檔時會產生`\r\r\n`雙重換行，寫手3產ch034a時已手動修正，之後用這支腳本要注意。
 
-**（2026-09-24已診斷根因並大部分修復，見下方「重大基礎設施修復」）**：`novel/volume07/chapter014.md`等一批dev/published落差，經寫手2全書排查確認**不是footer bug**，是單純的「dev持續被編輯、published從未resync」staleness，範圍比原本記錄的更大（volume07至少30+章，另volume04/09/10零星幾章）；`novel/volume12/chapter022.md`已在215題審查時獨立resync完成，與此無關。volume02_v2→upper_realm_v2全卷同步已隨volume02_v2整輪落地一併完成（見上方texture進度）。volume07全面resync已核准派工中。
+**staleness resync已完成（64fcf57）**：volume07全34章＋volume04 ch018/019＋volume09 ch007＋volume10 ch038/039，共39檔published鏡像已resync並commit（`chapter027.md`因與寫手1進行中的洛生衣觀生專案共用dev檔、內容未定案，特意排除，待該專案commit後另外處理）；`novel/volume12/chapter022.md`已在215題審查時獨立resync，與此無關。volume02_v2→upper_realm_v2全卷同步已隨volume02_v2整輪落地一併完成。順帶修掉volume07資料夾的CRLF雙重換行舊bug。volume03/upper_realm_v2那批因與寫手3進行中的代表例改寫共用dev檔，暫緩，待寫手3那批commit後重新regenerate。
 
 **寫手3新派工**：`novel/lower_realm_v2/`（序篇+七篇，65章）尚未做過`jie-foreshadowing-payoff`，寫手3已開始執行。
 
