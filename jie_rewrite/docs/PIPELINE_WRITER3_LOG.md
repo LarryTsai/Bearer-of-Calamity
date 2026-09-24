@@ -19,6 +19,10 @@
 - volume03a_v2（28章）完成（待PM commit）：G節窄查→15代表例→四方審查→FINAL_FIX回寫→PASS2三段機械掃除→輕量regression→劫厄落腳ENRICH方案3（CHECKLIST 360）→兩份鏡像全卷同步。EB-002撞區ch026未動、ch015/025只詞級。登記361（鑑月新月印負荷徵兆，留白）。
 - 鏡像工具：scratchpad 的 sync_mirror.py（base＝鏡像檔最後一次commit；只套正文差異、略過章首「>」行與章末自檢；雙向驗證不過就不寫）＋body_cmp.py（dev與鏡像整章正文逐行比對）。每次新session要重寫。
 - 已同步鏡像（他人dev改動）：v07 ch027、v10 ch003/022/037、v11 ch036、v12 ch021/025、v06b 24檔、v08 ch024/038/039/040/043/050/052/053。volume04_v2 無鏡像。
+- 2026-09-24晚／25凌晨：①身份→身分全庫統一（104處56檔，跳過lower_realm_v2／archive／author_directives／drafts）；②published全目錄 \r\r\n 雙重換行修正41檔；③CHECKLIST 360標核可、登記362～366（v03a_v2範圍外）；④volume08：G節完成（AUDIT_G.md）、15代表例示範稿 novel/drafts/xianxia_texture_v08/REWRITES_A/B/C.md、審查 canon＋power 完成、**character 因API用量上限中斷待重跑、continuity 待確認**，彙整在 docs/drafts/XIANXIA_TEXTURE_VOLUME08_FINAL_FIX.md（草稿，未回寫）。⑤與清道夫約定：他 volume08 因果補句等我全卷掃完再做。⑥寫手2蒼梧代詞全批完成，鏡像同步進行中（v05/06/06b/09/10/11/12 共25檔；v07/v08 經 \r\r 修正後已一致）。
+- 2026-09-25 volume08（97章）質感全流程完成：G節→15代表例（四方）→PM裁決367/368/369(收窄:翼羽為物件)/371/372回寫→PASS2五段約570處→ENRICH ch004/007/023保守版（CHECKLIST 373～375建議不採，只落退回寫法）→ch039/040/042/043坦白濃縮（PM核可，提案V08_CH040_042_CONDENSE_PROPOSAL.md）→三方regression→17項修正→published/volume08全卷以rebuild_mirror.py整章重生。370（203題對話）留作者。交PM清單見FINAL_FIX末節「交PM」。
+- 工具新增：scratchpad/rebuild_mirror.py（dev整章重生鏡像，已與既有published做8章round-trip逐位元組一致）；upper_realm_v2 一律用 scripts/build_upper_realm_reading_v2.py（逐段替換套不上舊版段落）。
+- 鏡像稽核腳本 scratchpad/audit_mirrors.py：全庫 dev↔published（含 upper，upper 標題編號不同會誤報 2 行差，忽略）。
 - 進行中（2026-09-24 PM派工）：①volume03a_v2（28章）接手寫手2的審查（AUDIT_PART1~3已完成）→窄查→代表例→機械掃除→三份鏡像（volume03a_v2／published/volume03a_v2／upper_realm_v2/volume08，三者同號）。②volume08（97章）審查五段並行（AUDIT_PART1~5，洛生衣觀生候選列G節給寫手1）。③之後volume09→12。CHECKLIST號段360~379。published／upper鏡像重建只由我做，動手前先廣播。
 
 ## 做法心得
