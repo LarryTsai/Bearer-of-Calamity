@@ -34,3 +34,43 @@
 - ROLLOUT_SPEC 教訓彙整：PM 指示等更多卷跑完再做。候選教訓：「X順着Y傳回手上」句型全卷限量；制度／程序骨架也要過核心測試；觀生只看生念、只限視線內與近處，不讀元素（那是青璃的領域）；封寒古界前是劍修「勢」，但 FH-03 已核准「敲地比較回震／辨重量影」，不可誤判為越界；不同卷有不同的時序錨點（292題只管古界後的 volume06）。
 - volume02_v2 → upper_realm_v2 全卷比對同步：PM 已排在這輪落地之後。
 - CHECKLIST 294、295 等使用者裁定。
+
+## 2026-09-25 交接（session 清空前，接手所需的一切）
+
+### ① 角色與流程要點
+- 寫手3：只存檔，**不自己 git add/commit/push**（一律由 PM 做）；完成一批就回報 PM「檔案清單＋一行摘要＋剩餘未做項」。
+- **published/ 與 upper_realm_v2 鏡像重建的唯一負責人**（PM 規則）：重建前先廣播 PM；他人改 dev 後通知我，我依批重建；收尾一律全庫稽核。
+- CHECKLIST 號段：360～379（已用完）、460～479（已用 460～468）。新機制／新設定一律登記、附 2～3 方向與建議、不預選、不直接落稿。
+- **仙人視角守則**（作者指示，`docs/XIANXIA_PERSPECTIVE_CHARTER.md`）：每場景問「如果他真是這境界的修士，為什麼這樣做？」「這世界已有修士幾萬年，為何還沒解決？」；「有禁制」單獨不算理由；不憑空發明；升級必附代價；陸沉不成唯一解。ROLLOUT_SPEC 已註明守則為共同前提、質感工程是其第一層。
+- 每卷質感流程（ROLLOUT_SPEC）：審查 PART（18～20 章一段並行，general-purpose 寫報告）→ G 節窄查（power／character／canon，必要時 cultivator-logic）→ 定選約 15 代表例＋路過奇觀（G-4）→ jie-writer 示範稿 REWRITES_A/B/C → 四方審查（continuity／character／power／canon）→ FINAL_FIX（跨審查衝突在「定稿彙整」裁定）→ jie-writer 回寫 dev → PASS2 全卷機械掃除（分段並行）→ 三方 regression → 修正 → 鏡像整章重生 → 全庫稽核 → 回報 PM 一次 commit。
+- 教訓：agent 回報不可盡信，鏡像一律自己同步自己驗證；各 PASS2 寫手不會彙總配額（例：v08「咬」超配額），需我在 FINAL_FIX 寫明全卷配額；API 用量上限會中斷 agent，重跑前先把已完成審查寫進 FINAL_FIX 草稿。
+
+### ② 本輪完成事項
+- **仙俠質感已完成卷冊**：volume02_v2、03、03a_v2、05、06、06b、07、08、09（皆已 commit）。v08／v09 產出：`docs/drafts/XIANXIA_TEXTURE_VOLUME0{8,9}_AUDIT_PART*.md`、`_AUDIT_G.md`、`_FINAL_FIX.md`；`novel/drafts/xianxia_texture_v0{8,9}/`（REWRITES、PASS2）；`docs/drafts/V08_CH040_042_CONDENSE_PROPOSAL.md`、`V03A_V2_JIE_E_LODGING_OPTIONS.md`。
+- **v09 關鍵裁決已落實**：376B／377A（監察使＝司天鑑，全卷統一）／378A（機構稱「天罰一脈」、首次出場「天律」）／379A（模型→推演、聲紋→音紋、生機指標只指儀器）／460A；洛生衣誤判聞硯採「第三種」（道沒說謊、錯在把看得見的範圍當全部；ch049 保持首次，ch005 依 (a) 退回推演與讀數）；蘇檀→邵檀（464）；劫厄 v09 ch043～046 原形；星位帳 A；照命進階後全卷稱煌命（依 SYSTEM_TEN_CALAMITY_THUNDERS L166）；461／462／463 唯一來源已改並標「暫定，待作者讀原作後核」。
+- **ROLLOUT_SPEC 第四節**新增錨點列：文奕、律無咎、岑婆、聞栩、赤翎、陸行烈、韓鐵衣、季垣、烏迭、監劫使、褚姊、莫渡、司天鑑、天罰一脈執行者、聞硯、v09 倖存者群、程岸、骨羅、秤書人；顧小滿補醫營期；蒼梧用「他」。
+- **全庫機械統一**：身份→身分（104 處 56 檔，跳過 lower_realm_v2／archive／author_directives／drafts）。
+- **\r\r bug**：published 下 41 檔 `\r\r\n` 雙重換行已修（make_clean_copy.pl 舊 bug，**不要再用那支腳本**）。
+- **鏡像現況**：2026-09-25 收尾時全庫稽核 912 對 dev↔published（含 upper）**0 差異、無 \r\r**；lower_realm_v2 四章（v01 ch014/015/018、v03 ch016）已同步。
+- **鏡像工具（在 session scratchpad，session 清空後需重寫）**：
+  - `rebuild_mirror.py DEV MIRROR`：以 dev 整章重生鏡像＝標題行＋空行＋正文（略過章首「>」行、章末 `## 一致性自檢／本章自檢／修訂記錄／待確認提案／自檢／章末自檢` 之後全部，並去掉緊鄰的 `---`），保留鏡像原有 BOM 與 CRLF。已與既有 published 做 8 章 round-trip 逐位元組一致。**published/<卷>/ 同號鏡像首選此法**。
+  - `sync_mirror.py BASE DEV MIRROR`：以 dev（BASE→現行）正文差異逐段套到鏡像，雙向驗證（新增行都在、刪除行都不在）不過就不寫；BASE＝鏡像檔最後一次 commit。用於標題編號不同的鏡像（lower_realm_v2）。
+  - `body_cmp.py DEV MIRROR`：整章正文逐行比對（略過「>」、標題、空行、`---`、footer），印 SAME／DIFF。
+  - `audit_mirrors.py [略過卷...]`：全庫配對（published/<卷>/ 同號＋依 upper_realm_v2/SOURCE_MANIFEST.md 解析 upper 對應），upper 比對忽略標題行，列出不一致清單。
+  - **upper_realm_v2 一律用官方 `scripts/build_upper_realm_reading_v2.py`（先 `--check`）整體重建**，逐段替換套不上舊版段落。volume04_v2 目前沒有鏡像。
+
+### ③ volume10～12
+- **volume10 審查**：已產出 `docs/drafts/XIANXIA_TEXTURE_VOLUME10_AUDIT_PART1.md`（ch001～020）、`PART2.md`（ch021～040）。PART1 重點：ch020 封寒「兵胚」化暗影（L7/L27/L47/L49/L77）與 2026-09-16 鐧外形不變 retcon 衝突、黑洞是否已掌握各文件矛盾（先交總控定準）；ch019 L7 顧小滿「慢了半拍」違反慢半拍規則；蒼梧舊麒麟殘留（ch009 雷羽、ch010 咬袖口、ch013 L19「它」）且度量之道缺席；17/20 章章末格言；ch017/018 制度戲缺修士身體（C-5～C-8）。PART2 重點：病灶在敘述層（大綱「不得／不是」條件寫成旁白、每章「沒有」5～13 次、格言收尾，最重 ch039 L27）；ch025 L25／ch027 L29 糧車墊階梯需過 power-system 並登記 CHECKLIST（仙人視角）；伴星寵物化（ch026 L39 劫厄叼人＝硬禁忌、ch026 L45 赤翎續命超出角色檔、ch034 L27／ch035 L35 鑑月犬化），劫厄三訊號／鑑月喚名定魄／蒼梧頸段全段缺席；F-2 物件 bug：ch024 已交出上界端正印，ch038 L27 又交一次。**依作者「階段完成就停手」，未接續**。
+- volume10 後續（未開始）：G 節窄查→代表例→四方→FINAL_FIX→回寫→PASS2→regression→鏡像→回報。volume11（56 章）、volume12（32 章）完全未開始。
+- **保護清單**（寫手2 觀生句，PM 核可已 commit；質感改寫／掃除／regression 一律不動）：volume10 ch007 L13、volume11 ch022 L17、ch030 L25、volume12 ch024 L9、ch032 L11。
+- **全卷規則沿用**：「慢半拍」只屬洛生衣；監察使＝司天鑑、機構＝天罰一脈；巡天令（司天鑑手上）≠巡天印（陸沉腕上，只追粗訊號）；模型→推演、聲紋→音紋；照命進階後稱煌命；蒼梧用「他」、鑑月／赤翎用「她」、劫厄用「牠」；劫厄三訊號（一暗一亮＝估量／整體轉暗＝耗損／胸口劫核＝失控）不可互換、不犬化；焦黑紋只在陸沉自己身上；不立「掌骨雷痕」專名；荒台詞不用「算」字（CHARACTER_LU_CHEN L220）。
+
+### ④ 待作者／PM 裁定
+- 465：天譴射程與同時目標數（基準表缺口；正文已做措辭消歧，射程留作者定）。
+- 467：v09 ch049 醫營黑旗來源（建議 A 補一句）。
+- 468：v09 ch033 周回女兒走位（建議 A 轉給無名孩子）。
+- 466：v09 ch034 神識／肉身同時行動缺口（交清道夫 causality）。
+- 370：v08 ch043 未落實 203 題黑洞誕生對話（留作者）。
+- 361：鑑月新月印負荷徵兆（留白）。
+- 伴星工具化（赤翎／劫厄／鑑月各補一筆）：PM 裁示併入「道的尺度」試點報告一起裁。
+- v08 交 PM 清單（FINAL_FIX 末節）與 v09 交 PM 清單（FINAL_FIX「交 PM」）中其餘小項。

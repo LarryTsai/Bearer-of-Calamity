@@ -408,3 +408,40 @@ PM確認根因：最初用「古界本體(在古界期間)vs古界路之後(離�
 
 53. **253題（七峰團隊信任危機新增章節）銜接查證，抓到結構性問題（2026-09-23）**：PM派我查證寫手1chapter-editor交回的253大綱（新增章節插在volume02_v2 ch064與原ch065之間）有沒有讀過原文就設計銜接。結果：**大綱確實沒讀原文，發現一個關鍵矛盾**——`chapter064.md`結尾明寫「明日要進命藏」，原ch065〈三道門〉就是隔天的命藏受審場景，是緊接的今天/明天關係；但新增的多天劇情（越界→傷未癒→第二次越界疊加→善後→驗證）不可能塞進「明日」這個窗口，插入點本身有結構性矛盾，不是改銜接句能解決的。另外抓到：①大綱聲稱「新增6章26→32」但列出7個章節標題（ch065~071），數字本身沒對上；②`V2_VOLUME_READING_MAP.md`卷五/卷六範圍、`MASTER_TABLE_OF_CONTENTS.md`133行都有硬編碼章節範圍會被+N位移影響，需要手動同步；③Seed1建議插入的ch052、ch054原文查證後洛生衣/封寒根本不在場（固定四人隊要到ch057/058才成軍），範例台詞跟實際人物在場狀況對不上，ch056/057/058三處相對合理。已完整回報PM，建議退回請寫手1重新核對後再定案，未自行修改任何檔案（純查證任務）。
     - **鎮無央／鑑月命名問題三次來回，最終確認`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`維持原樣不用改**：PM原本要我把outline全文（含坑位三）改鑑月/辨魂邏輯，我動手前先讀`CHARACTER_ZHEN_WUYANG.md`確認能力細節，發現該檔案異動紀錄明文「本次retcon僅涵蓋`volume04_v2`與本檔案，Volume05~11等已發布卷冊正文仍暫時保留鎮無央舊名」——V08屬於Volume05~11範圍，但V08是規劃中未落筆內容非「已發布正文」，適用範圍有灰色地帶，已回報PM未動手；PM問使用者後一度回覆「V08新內容用鑑月/辨魂，舊40章維持鎮無央」，我正要動手修正時PM又追加暫停（使用者說選錯了要重選）；最終使用者裁定「V08全卷統一維持鎮無央/舊視覺，等未來正式排到V08 retcon audit時才一併處理」，`OUTLINE_FOREIGN_DOMAIN_REFORGING.md`確認不用改，坑位三②③維持原設計不必翻譯感知通道。全程未對這份outline做任何實際編輯。
+
+---
+
+## 2026-09-25 接手交接（寫手2；作者要求清空session，本節為接手所需的一切）
+
+### 一、角色與流程要點
+- 我是寫手2。每次對話開始先 `ListAgents` 確認身分，再讀 `docs/PIPELINE_STATUS.md` 與本檔。
+- **不自己 git commit/push**，做完一批用 SendMessage 回報 PM「檔案清單＋一行摘要」，PM 批次 commit。
+- **CHECKLIST 號段**：我的預發號段 340~359（已用到 359），PM 後續給 **360 起**（PM 通知「號段354起」為當時說法，實際 354~359 已登記，下一個請向 PM 確認，預設 360）。
+- **仙人視角守則**：`docs/XIANXIA_PERSPECTIVE_CHARTER.md`（作者要求全書用「活了很多年的修士」視角：每場景問「他真是這境界的修士，為什麼這樣做」「世界已有修士幾萬年為何還沒解決」；「有禁制」不算理由；不憑空發明；升級必附代價；陸沉不成唯一解）；能力限制唯一基準 `docs/systems/CULTIVATOR_LOGIC_BASELINE.md`（v0.2，約100KB）；審查用 `jie-cultivator-logic`（定義在 `D:\Workspace\larry\.claude\agents\jie-cultivator-logic.md`，agent 只有 Read/Glob/Grep，**沒有Write權限，報告要由我存檔**；舊 session 需用 general-purpose agent＋定義全文當 prompt）。
+- **階段完成就停手**（作者2026-09-25指示）：做完一個工作包回報後停，不自行擴大範圍；沒待辦時向 PM 要工作並附可承接清單。已寫入記憶。
+- **落筆守則**：小改用「行內位元組安全替換」腳本（放 scratchpad、檔名獨一無二、禁用 /tmp 共用路徑）；volume07~12 等多為 CRLF+BOM，用 Python `open(f,'rb')` 讀寫、不整檔重寫；每章改動在章末自檢欄追加一行記錄（volume09 用 bullet 慣例）；改完用 jie-continuity／jie-character／jie-power-system／jie-author-intent-guard 自審；published 鏡像**只由寫手3重建**，改動後 SendMessage 通知他；新設定一律先登記 CHECKLIST 提案。
+- **蒼梧代詞**（CHECKLIST 343 作者裁決）：敘事與對白一律「他」，僅陌生人第一印象／獸群分類／物種描述視角可用「牠」，對蒼梧說話用「你」；鑑月用「她」；封寒對蒼梧暫稱「蒼梧」（345 未裁）。
+
+### 二、本輪（2026-09-24~25）完成事項與檔案位置
+1. **N-2 古界查證與審查**：`docs/outlines/ANCIENT_REALM_N2_CONTINUITY_VERIFICATION.md`（6項查證）；ch080~082 獨立審查 `docs/drafts/N2_CH080_082_REVIEW_WRITER2.md`、ch083 `docs/drafts/N2_CH083_REVIEW_WRITER2.md`（結果已寄寫手1；ch084起由寫手1自己五審，我當獨立第二意見）。
+2. **volume05 伏筆審查**：登記 CHECKLIST 340~342。**340 方案A已執行**（volume05 ch001/002/003/012/013/016/017 共18處「仙古」→「那處古地」，ch018荒線保留）；B（N-2完稿後重寫ch001前提）、C（橋接章）待作者。下游三處「仙古首名」判定為荒線，不需改。
+3. **蒼梧代詞工作包（343）**：全庫盤點 `docs/drafts/pronoun_xuanheng_audit/`（SUMMARY、G1~G6、C_DECISIONS）；已改 volume04_v2 ch001~079、volume05、06、07~12、docs 設定檔（約357行「牠→他」）；ch030 章名改「蒼梧不是怪陸沉救得太少」；published 鏡像由寫手3已重建。
+4. **268/269 落筆**：volume03a_v2 ch004、volume10 ch003/037、四份設定同步、REVEAL_TIMELINE:28。
+5. **轄域前因（344/346）**：volume04_v2 ch006 L91、ch018 L33後、ch027 L85（三處，無鏡像）。
+6. **因果債 T1**：volume09 ch051（382）、volume12 ch025（390）、ch030（393、392）、volume11 ch032（401/349）、ch038（403）、ch056；389 沿用清道夫 volume12 ch018 補句；391 volume12 ch024。
+7. **終局人物歸宿表**：`docs/outlines/OUTLINE_FINALE_CHARACTER_DESTINATIONS.md`＋研究檔 `docs/drafts/FINALE_DESTINATIONS_RESEARCH.md`；封寒方案 `docs/drafts/FENG_HAN_FINALE_SCENE_OPTIONS.md`。全落筆：封寒／青璃（volume12 ch024，350）、雲行（ch026）、顧小滿（ch011）、杜遙（ch005）、陶九（ch007）、文奕（改落事件點C volume12 ch013，A因九星戰域與母陣無鋪墊撤回）、魔女掛鉤（volume11 ch011、volume12 ch028，容器＝後續卷）；洛生衣第三形態不落正文（登記 NETWORK、CHARACTER_LUO_SHENGYI）。351 鐧殘留（volume04_v2 ch021:31已改「腰側」）；352 魔女／文奕。
+8. **洛生衣觀生錨點**：volume09 五處＋ch030 L65（353）；volume10~12 五處（354，volume10 ch007、volume11 ch022/030、volume12 ch024/032）；候選盤點 `docs/drafts/LUO_SHENGYI_GUANSHENG_CANDIDATES_V10_V12.md`；起手式 `LUO_SHENGYI_GUANSHENG_STARTER_PROMPT.md`。全在寫手3保護清單。
+9. **待裁決清單**：`docs/drafts/WRITER2_PENDING_DECISIONS_340_353.md`（PM已裁可勾選：343/344/346/348/349/350/352/353，351部分完成）。
+10. **LAYER3（第三層仙人文明）下界事實**：`docs/drafts/LAYER3_LOWER_REALM_FACTS.md`＋PART_A/PART_B/`LAYER3_CANON_BOUNDARY_NOTES.md`；世界層缺口 `CULTIVATION_WORLD_LAYER_GAPS_PROLOGUE/ARC01/ARC02.md`。答顧問：「下界承限」字面僅 arc03 ch003:7；仙古推翻出處 `EVENT_XIANGU_RUINS_ZHEXIAN.md` 頂部、MACRO_OUTLINE:266（僅陸沉不去，荒線仍在）。
+11. **下界修士邏輯審查（lower_realm_v2）**：`docs/drafts/CULTIVATOR_LOGIC_AUDIT_LOWER_REALM_PART1~4.md`（arc01 6章真問題0、arc02 5章4項、arc03 8章4項、arc04 10章6項含 P1 一項 ch009 小宗門同伴棄阿硯）；序篇受保護不審。CHECKLIST 355~359 已登記（355閣老界內、356典籍竹紙、357治傷藥不夠、358 arc07 ch005 L37/L45矛盾、359 E類缺口）。
+12. **下界有限解凍一句補丁（作者授權，僅限補一句專屬理由與機械修正）**：arc02 ch001（空罐被推歪）、ch002（閣老「胸口按了一下，像按著一處舊疼」）、ch005（典籍「缺頁斷章，連該按什麼次序放都沒人說得清」）、arc07 ch005 L45（「舊傷在這裡總是先疼，疼得他不必想就收了腳」，358採選項②）；不寫「被封」、不引用「錨地承限」。published/lower_realm_v2 四章已由寫手3同步。
+13. 其他：volume07 ch007/008「第一場硬撐的界壓」（348）；volume09 ch031 敲擊暗號改「掌心朝下按了一按」。
+
+### 三、未做項與下一步
+1. **下界修士邏輯審查續跑**：arc05（百斷山）、arc06（真假委託）、arc07、bridge_north_sea，輸出 PART5 起；有修士身分的角色（魔女、文奕、老者、小宗門）出場後預期真問題增加；需 PM 或作者指示才開（階段完成就停手）。
+2. **B/D 類補句待作者**：arc03 四項（ch001/002 陸沉不用神識、巫出手界線、ch007 L79/ch003 L7 古錨範圍主語歧義與報平安）、arc04 五項（ch009 P1 最優先、ch003 追兵手段、ch009 不用禁紋、ch008 閣老不求上界）；等作者對第三層「錨地承限」（先由顧問出條文，補句勿提前引用）與冷凍解凍決定。
+3. **待作者裁決的CHECKLIST**：340 B/C、341、342（P2批次）、345（封寒對蒼梧稱呼）、347（鑑月／分身「牠」殘留）、351餘項（N-3後核volume10 ch020「兵胚」與全庫「鐧／兵胚」）、350餘項（石片保管處回填 CHARACTER_FENG_HAN）、355~357、359。
+4. **設定回填待作者核可**：「閣老傷在胸口」目前只由 arc07 ch005 L49 立住，設定檔未載，建議回填 `CHARACTER_TAIXUAN_ELDER.md` 一行。
+5. **N-2 後續**：寫手1續寫 ch084 起；ch083 審查的九項（窗口凹合後封寒仍走出、蒼梧動用肩傷、折損三日缺項等）待寫手1修訂；我當獨立第二意見（continuity＋power-system，並套用仙人視角守則）。
+6. **volume10~12 質感**：寫手3 依序做，我的觀生句已在其保護清單。
+7. 基準表 E 類缺口（E1~E8等）待清道夫／基準表補；第三層下界世界層觀察待顧問。
