@@ -13,6 +13,8 @@ python scripts/build_story.py
 python scripts/build_story.py --check
 ```
 
+目前另有219份歷史材料等待作者批准移除；此期間生成與檢查暫加 `--allow-legacy`，只豁免清單已盤點的舊檔。新版867章與大綱已驗證，舊材料清理狀態見[遷移紀錄](docs/STORY_STRUCTURE_MIGRATION.md)。
+
 `docs/STORY_STRUCTURE.json` 管理時期、篇名、順序與章目錄；`docs/MACRO_OUTLINE.md` 管理故事內容與篇界，兩者須一起更新。新章先登記manifest，再生成目錄和閱讀版。舊施工章號對照保留在manifest與逐章表，不再用舊volume編號判斷閱讀順序。
 
 開發共同前提：[作者硬需求](docs/AUTHOR_CORE_REQUIREMENTS.md)、[仙人視角與境界差異](docs/XIANXIA_PERSPECTIVE_CHARTER.md)。每階段完成、驗證後由PM commit並push。產線進度見[狀態板](docs/PIPELINE_STATUS.md)。

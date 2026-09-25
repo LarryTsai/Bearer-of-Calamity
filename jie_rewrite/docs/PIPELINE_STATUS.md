@@ -1,11 +1,11 @@
 # 《劫》正文改寫產線狀態板（2026-09-25 重整）
 
-狀態：PM維護。舊版（369行歷史敘事）已歸檔於 `docs/archive/PIPELINE_STATUS_until_20260925.md`。**2026-09-25 已恢復運作；寫手1／2／3均完成本輪階段，PM正做目錄與工具最終檢查。目錄改版尚未commit。原 Claude sessions 未連接，不代表那些 sessions 已被喚醒。**
+狀態：PM維護。舊版（369行歷史敘事）已歸檔於 `docs/archive/PIPELINE_STATUS_until_20260925.md`。**2026-09-25 已恢復運作；寫手1／2／3均完成本輪階段。目錄改版已commit `abdfe94`，現行新版驗證通過；219份舊材料清理仍待作者回覆。原 Claude sessions 未連接，不代表那些 sessions 已被喚醒。**
 
 ### 現行目錄與本輪提交
 - 正文入口以 `docs/STORY_STRUCTURE.json` 為準：28個篇章群、867章，各層三位數排序；可讀對照見 `docs/STORY_STRUCTURE.md`。本板以下保留的 volume／arc 編號是歷史定位，派工須先用 manifest 的 `legacy_source` 對到現行 `source`／`published`，不能直接沿舊路徑施工。
-- PM已推送：`25cd0cb`共同規則、`f6dda22`鏡像10檔修復、`bbe2e28`百斷山8章審查、`9d6dcfc`古界083／085／086局部修訂。目錄重整與工具變更另批，尚未提交。
-- 現行驗證命令為 `python scripts/build_story.py --check`，核對正文、閱讀版、索引與大綱；目錄工具仍在最終檢查，未據此宣稱全部通過。
+- PM已推送：`25cd0cb`共同規則、`f6dda22`鏡像10檔修復、`bbe2e28`百斷山8章審查、`9d6dcfc`古界083／085／086局部修訂。目錄重整與工具變更已提交 `abdfe94`；遠端同步狀態以Git收尾查核為準。
+- 現行驗證命令為 `python scripts/build_story.py --check`，核對正文、閱讀版、索引與大綱。舊材料尚未獲准移除，暫用 `--check --allow-legacy`：934生成檔及28篇大綱核對通過、867章正文雜湊全數保留；負向測試能攔錯章數／漏章／重號／排序錯。此例外不代表舊材料清理已完成。
 - 清理只刪已驗證有完整新版副本的舊章。自動審批拒絕整批刪除35個舊目錄；尚餘219個舊稿／材料，位於 `volume03a`／`volume04`及對應published、`novel/drafts`、`work_in_progress`。PM已向作者詢問具體刪除批准，尚未收到答覆，不把待批准刪除列作完成。
 
 ### 本次恢復交接
