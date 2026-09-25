@@ -843,15 +843,53 @@
       "id": "lower_life_019",
       "title": "019_回閣的人",
       "path": "001_下界成根/019_回閣的人",
-      "status": "篇級規劃，待開發正文",
-      "chapters": []
+      "status": "現行正文；返閣生活與洞天突破已落文",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "把海帶回廊下",
+          "source": "novel/001_下界成根/019_回閣的人/001_把海帶回廊下.md",
+          "published": "novel/published/001_下界成根/019_回閣的人/001_把海帶回廊下.md"
+        },
+        {
+          "number": 2,
+          "title": "北間這一爐",
+          "source": "novel/001_下界成根/019_回閣的人/002_北間這一爐.md",
+          "published": "novel/published/001_下界成根/019_回閣的人/002_北間這一爐.md"
+        },
+        {
+          "number": 3,
+          "title": "最後一步也算數",
+          "source": "novel/001_下界成根/019_回閣的人/003_最後一步也算數.md",
+          "published": "novel/published/001_下界成根/019_回閣的人/003_最後一步也算數.md"
+        },
+        {
+          "number": 4,
+          "title": "收勢以後，光還在",
+          "source": "novel/001_下界成根/019_回閣的人/004_收勢以後，光還在.md",
+          "published": "novel/published/001_下界成根/019_回閣的人/004_收勢以後，光還在.md"
+        }
+      ]
     },
     {
       "id": "lower_life_020",
       "title": "020_一場不排名的會",
       "path": "001_下界成根/020_一場不排名的會",
-      "status": "篇級規劃，待開發正文",
-      "chapters": []
+      "status": "現行正文；散會與穿雨取燈兩章完成",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "雲底下的燈",
+          "source": "novel/001_下界成根/020_一場不排名的會/001_雲底下的燈.md",
+          "published": "novel/published/001_下界成根/020_一場不排名的會/001_雲底下的燈.md"
+        },
+        {
+          "number": 2,
+          "title": "第三盞先別走",
+          "source": "novel/001_下界成根/020_一場不排名的會/002_第三盞先別走.md",
+          "published": "novel/published/001_下界成根/020_一場不排名的會/002_第三盞先別走.md"
+        }
+      ]
     },
     {
       "id": "lower_life_021",
