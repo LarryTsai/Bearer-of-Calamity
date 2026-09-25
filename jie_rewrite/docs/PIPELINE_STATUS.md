@@ -7,12 +7,13 @@
 - PM已推送：`25cd0cb`共同規則、`f6dda22`鏡像10檔修復、`bbe2e28`百斷山8章審查、`9d6dcfc`古界083／085／086局部修訂。目錄重整與工具變更已提交 `abdfe94`；遠端同步狀態以Git收尾查核為準。
 - 現行驗證命令為 `python scripts/build_story.py --check`，核對867章正文、閱讀版、934個生成檔與28篇大綱；舊稿已清除，不使用舊檔例外。
 - 依作者最新裁示，248個殘留舊路徑已清除；235份淘汰，13份必要材料移至docs並標明用途。詳見 [清理紀錄](STORY_LEGACY_CLEANUP.md)。
+- 清理後續階段：百斷山002／004／006修訂已經顧問獨立覆核；寫手3重建後標準 `--check` 通過934個生成檔，867章來源與閱讀版無缺檔，閱讀內容變更僅對應三章。長息 G 報告已存檔，正文尚未施工。
 
 ### 本次恢復交接
 - PM：本次 Codex `/root`，統籌派工、範圍與交叉依賴；重大創作／設定決定仍交作者。
 - 寫手1 `/root/writer1`：古界083／085／086本輪局部修訂完成；顧問獨立驗收無新增P0／P1，尚非全段定稿，向 PM 回報。
-- 寫手2 `/root/writer2`：百斷山（舊下界arc05）ch001～008修士邏輯審查完成，未確認P0／P1，2項P2未修；與清道夫分區，向 PM 回報。
-- 寫手3 `/root/writer3`：鏡像10檔修復與本輪版本盤點完成；鏡像唯一重建者，向 PM 回報；volume10的G節窄查為後續階段。
+- 寫手2 `/root/writer2`：百斷山兩項P2已修，涉及002／004繩路與006雷火邊界；顧問獨立覆核通過，能力數值未變。詳見 PART5 審查報告。
+- 寫手3 `/root/writer3`：長息 G 節窄查已完成，來源／能力／人物界線見 `drafts/XIANXIA_TEXTURE_VOLUME10_AUDIT_G.md`；尚未改長息正文。仍為鏡像唯一重建者。
 - 清道夫 `/root/scavenger`：volume03a_v2 起修士邏輯審查、因果與基準缺口，向 PM 回報。
 - 顧問 `/root/advisor`：創作把關，與寫手討論並由 PM 彙整作者待裁問題；不直接改正文與唯一來源設定。
 - 接班核對完成後，作者已授權正式開工：寫手1修 ch085～086；寫手2審下界 arc05；寫手3修復鏡像並盤點版本。角色識別僅適用本次對話，不沿用為其他 session 的身分。
@@ -26,7 +27,7 @@
 - 主線大部已寫至第十九篇＋戰後沉封域；**古界N-2末段／N-3仍未完成**。古界入口 `novel/002_上界成道/009_界潮與古界/README.md`；ch080~086已寫，N2-7〈窗〉、N2-8未落筆，N-3亦未寫，不得標成全書完稿。
 - N-2依據：作者2026-09-24/25裁決方案6（出口早就存在、難處在誰願意用它）；章綱`docs/outlines/ANCIENT_REALM_N2_CHAPTER_OUTLINE_DRAFT.md`、骨架`ANCIENT_REALM_N2_PLAN6_SKELETON.md`、CHECKLIST 231/320。ch080~084已審修（083/084為標竿）；本輪依原五審彙整修訂083／085〈沒有門〉／086〈告別〉，顧問獨立驗收無新增P0／P1，已推送`9d6dcfc`。記錄見`docs/drafts/N2_CH085_086_REVISION_20260925.md`；原`N2_CH085_086_REVIEW_SUMMARY.md`為歷史審查依據。窗口選日、封寒對側獨處、修士送傷者替代手段等未決，不能標成全段定稿。
 - 已完成：volume02_v2/03/03a_v2/05/06/06b/07/08/09仙俠質感；causality全庫審查（`docs/drafts/CAUSALITY_DEBT_MASTER_TABLE.md`）與T0/T1補句；蒼梧代詞「牠→他」全書；終局人物歸宿表（`docs/outlines/OUTLINE_FINALE_CHARACTER_DESTINATIONS.md`）；洛生衣觀生錨點；舊published/upper_realm_v2曾通過鏡像稽核（歷史結果；現行目錄仍以本輪builder檢查為準）。
-- 修士邏輯審查已恢復並完成本輪階段：歷史已審下界arc01~04、volume02_v2、volume03；本輪新增百斷山8章（未確認P0／P1，2項P2未修）。基準表`docs/systems/CULTIVATOR_LOGIC_BASELINE.md` v0.2、agent `.claude/agents/jie-cultivator-logic.md`、共同守則`docs/XIANXIA_PERSPECTIVE_CHARTER.md`仍有效。volume10~12質感改寫未開始（volume10審查報告已產出）。
+- 修士邏輯審查已恢復並完成本輪階段：歷史已審下界arc01~04、volume02_v2、volume03；百斷山8章未確認P0／P1，兩項P2已修並經獨立覆核。基準表`docs/systems/CULTIVATOR_LOGIC_BASELINE.md` v0.2、agent `.claude/agents/jie-cultivator-logic.md`、共同守則`docs/XIANXIA_PERSPECTIVE_CHARTER.md`仍有效。volume10~12质感改寫未開始；長息 G 窄查已完成，不能視為全卷修訂完成。
 
 ## 二、待作者裁定（依重要度）
 1. 空中救殿/救宗大型場面六題：`docs/drafts/BIG_SCENE_AIR_RESCUE_FLOWC_ROUND1.md`（位置已定後續卷/番外）。
@@ -37,10 +38,10 @@
 6. 單卷承諾確認清單：`docs/drafts/SINGLE_VOLUME_PROMISES_CONFIRMATION_LIST.md`；原作待核項（御空/儲物/傳訊、461/462暫定口徑）等作者讀原作。
 
 ## 三、下一階段順序（由PM另派，以下舊編號先查manifest）
-1. PM完成本輪必要性清理、標準驗證及commit／push；下一階段依未決事項與現行manifest派工。
+1. 必要性清理已推送 `ba979ab1`；本輪完成百斷山局部修訂及長息 G 窄查，由PM檢查、提交並推送。
 2. 寫手1：本批修訂已完成；N2-7動筆前處理窗口與對側獨處等未決，再接〈窗〉（蒼梧自己決定不把窗口做更穩更久）、N2-8與N-3。不得把未裁新設定自行補成定案。
-3. 寫手3：目錄重整後依現行builder核對閱讀版，再接volume10的G節窄查及後續質感工程。
-4. 寫手2／清道夫：百斷山本批2項P2仍待處置；後續審查按manifest重新界定分區，既有候選範圍為03a_v2、04_v2至ch079、05起及已核可補句。
+3. 寫手3：長息 G 窄查已完成；下一階段先按報告已裁範圍修外形、物件及能力邊界，020黑洞成道另作局部場景方案。系統與主綱已定可重現及永久手部精細感知代價，不再將是否成道列為待作者選邊。
+4. 寫手2／清道夫：百斷山本批兩項P2已結案；後續審查按manifest重新界定分區，既有候選範圍為03a_v2、04_v2至ch079、05起及已核可補句。
 5. 全書完成後：`docs/FINAL_REVIEW_PIPELINE_MANUAL.md` 的最終審查pipeline。
 
 ## 四、協作規則（持續有效）
