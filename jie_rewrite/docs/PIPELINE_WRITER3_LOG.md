@@ -1,5 +1,15 @@
 # 寫手3 工作日誌
 
+## 2026-09-25 恢復首批：鏡像修復完成
+
+- 已讀 commit-and-push-story 技能及最新共同守則；仙人／修士視角涵蓋人物思維、因果與文明制度，境界差異不限於戰力。此批僅同步已定 dev，未新增情節或設定。
+- 實查發現舊「912 對零差異」已過時：volume02_v2 ch001／013／053／075／093 的同號 published 及 upper 共 10 檔落後，各 1 處正文。以現行 dev 同步，同號鏡像保留既有 BOM／換行；upper 由官方腳本整體重建。
+- 持久化工具 `scripts/audit_story_mirrors.py`：預設唯讀，檢查現有同號鏡像及兩份 SOURCE_MANIFEST 的映射；`--sync` 僅從 dev 更新同號／lower 鏡像，upper 仍交官方 builder。讀取時移除開發註記、自檢段，不忽略正文差字。
+- 驗證：`python scripts/build_upper_realm_reading_v2.py --check` 通過 236 章及來源表；`python scripts/audit_story_mirrors.py` 檢查 1036 對，0 差異。此數包含目前仍存在的舊稿及其鏡像，不表示新版有 1036 章；未檢驗索引完整性或缺少整個映射的章節。
+- 交 PM：10 個鏡像章檔＋上述腳本＋本日誌。未改 dev、未搬移／刪除／改名、未操作 Git；volume10 G 節尚未開工。
+- 新舊替代附註：`novel/volume03a/` 與 `published/volume03a/` 是已由 `volume03a_v2/`（28 章，閱讀卷八）取代的舊禁都稿；`novel/volume04/` 與 `published/volume04/` 是失效舊仙古稿，新古界在 `volume04_v2/`，仍須完成 N-2 並定閱讀卷界。這兩組是日後清理候選，非本批刪除指令。引用依賴包含 novel/README、CHECKLIST、角色／世界／事件／大綱中的舊章號，不能直接全域替換章號。
+- 現行閱讀鏡像須與舊稿區別：`published/lower_realm_v2/`、`published/upper_realm_v2/` 是重編卷章的閱讀版；`published/volume02_v2/`、`volume03/`、`volume03a_v2/`、`volume05`～`volume12`（含06b）是現行同號鏡像。volume05～12 沒有 _v2 名稱不代表過期，volume03 已完成新版扶正。古戰域 deep 源稿也被 upper builder 使用。官方 upper builder 另核對同號 published，不能單以「重複」刪除。drafts／work_in_progress 為工程材料，本批不判為可刪舊正文。
+
 ## 角色
 - 從 PM 接工作，手上沒事就主動找 PM 要。也支援寫手1、寫手2，分工先協調好，不碰對方的檔案。
 - 只存檔，不 git add/commit/push（一律由 PM 做）。新設定走 `docs/CHECKLIST_PENDING_DECISIONS.md` 提案；範圍外的 bug 另報 PM，不混進當下的工程。
