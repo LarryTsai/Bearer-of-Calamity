@@ -6,7 +6,7 @@
       "id": "prologue",
       "title": "000_命落大荒",
       "path": "001_下界成根/000_命落大荒",
-      "status": "現行正文",
+      "status": "現行正文；依人生總綱續補",
       "chapters": [
         {
           "number": 1,
@@ -78,7 +78,7 @@
       "id": "arc01_body_foundation",
       "title": "001_凡軀立命",
       "path": "001_下界成根/001_凡軀立命",
-      "status": "現行正文",
+      "status": "現行正文；依人生總綱續補",
       "chapters": [
         {
           "number": 1,
@@ -141,7 +141,7 @@
       "id": "arc02_enter_mountain",
       "title": "002_入山問道",
       "path": "001_下界成根/002_入山問道",
-      "status": "現行正文",
+      "status": "現行正文；依人生總綱續補",
       "chapters": [
         {
           "number": 1,
@@ -195,7 +195,7 @@
       "id": "arc03_void_spirit_realm",
       "title": "003_虛神界",
       "path": "001_下界成根/003_虛神界",
-      "status": "現行正文",
+      "status": "現行正文；依人生總綱續補",
       "chapters": [
         {
           "number": 1,
@@ -273,196 +273,323 @@
       "historical_outline_title": "第三篇：虛神界"
     },
     {
-      "id": "arc04_taixuan_forging",
-      "title": "004_太玄閣鑄身",
-      "path": "001_下界成根/004_太玄閣鑄身",
-      "status": "現行正文",
+      "id": "lower_life_004",
+      "title": "004_太玄鑄身",
+      "path": "001_下界成根/004_太玄鑄身",
+      "status": "現行正文；依人生總綱續補",
       "chapters": [
         {
           "number": 1,
           "title": "腳下的路",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/001_腳下的路.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/001_腳下的路.md",
+          "source": "novel/001_下界成根/004_太玄鑄身/001_腳下的路.md",
+          "published": "novel/published/001_下界成根/004_太玄鑄身/001_腳下的路.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter001.md",
           "source_sha256": "4a70fc3995a97c04c6df9666a6544fff99f5d0a412490ebe73709128a67505f6",
           "body_sha256": "98e5ab3b496b202a3b53f815aa6889a89c2fbd08322330ce9dc79a086f6fe458"
         },
         {
           "number": 2,
-          "title": "木中雷痕",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/002_木中雷痕.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/002_木中雷痕.md",
+          "title": "第一個冬天",
+          "source": "novel/001_下界成根/004_太玄鑄身/002_第一個冬天.md",
+          "published": "novel/published/001_下界成根/004_太玄鑄身/002_第一個冬天.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter002.md",
           "source_sha256": "2b2a827a5e0022a6a516ff8cb27331fd6463540dbb2eb75f050fe8d5ea9739b2",
           "body_sha256": "9a9f3d4ce1f61c189f29f03a64bb5380c05a6d2d731da86161179c9cbb8911cc"
+        }
+      ]
+    },
+    {
+      "id": "lower_life_005",
+      "title": "005_山下有價",
+      "path": "001_下界成根/005_山下有價",
+      "status": "現行正文",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "雨落在木紋外",
+          "source": "novel/001_下界成根/005_山下有價/001_雨落在木紋外.md",
+          "published": "novel/published/001_下界成根/005_山下有價/001_雨落在木紋外.md"
+        },
+        {
+          "number": 2,
+          "title": "一塊石，兩種用處",
+          "source": "novel/001_下界成根/005_山下有價/002_一塊石，兩種用處.md",
+          "published": "novel/published/001_下界成根/005_山下有價/002_一塊石，兩種用處.md"
         },
         {
           "number": 3,
+          "title": "手裡多出幾枚錢",
+          "source": "novel/001_下界成根/005_山下有價/003_手裡多出幾枚錢.md",
+          "published": "novel/published/001_下界成根/005_山下有價/003_手裡多出幾枚錢.md"
+        },
+        {
+          "number": 4,
+          "title": "爐門外的位置",
+          "source": "novel/001_下界成根/005_山下有價/004_爐門外的位置.md",
+          "published": "novel/published/001_下界成根/005_山下有價/004_爐門外的位置.md"
+        }
+      ]
+    },
+    {
+      "id": "lower_life_006",
+      "title": "006_一爐兩主",
+      "path": "001_下界成根/006_一爐兩主",
+      "status": "現行正文",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "火在門裡",
+          "source": "novel/001_下界成根/006_一爐兩主/001_火在門裡.md",
+          "published": "novel/published/001_下界成根/006_一爐兩主/001_火在門裡.md"
+        },
+        {
+          "number": 2,
+          "title": "同一張藥方",
+          "source": "novel/001_下界成根/006_一爐兩主/002_同一張藥方.md",
+          "published": "novel/published/001_下界成根/006_一爐兩主/002_同一張藥方.md"
+        },
+        {
+          "number": 3,
+          "title": "空出來的半爐",
+          "source": "novel/001_下界成根/006_一爐兩主/003_空出來的半爐.md",
+          "published": "novel/published/001_下界成根/006_一爐兩主/003_空出來的半爐.md"
+        },
+        {
+          "number": 4,
+          "title": "香氣出了院子",
+          "source": "novel/001_下界成根/006_一爐兩主/004_香氣出了院子.md",
+          "published": "novel/published/001_下界成根/006_一爐兩主/004_香氣出了院子.md"
+        }
+      ]
+    },
+    {
+      "id": "lower_life_007",
+      "title": "007_雨谷不收藥",
+      "path": "001_下界成根/007_雨谷不收藥",
+      "status": "篇級規劃，待開發正文",
+      "chapters": []
+    },
+    {
+      "id": "lower_life_008",
+      "title": "008_水源下的舊禁",
+      "path": "001_下界成根/008_水源下的舊禁",
+      "status": "篇級規劃，待開發正文",
+      "chapters": []
+    },
+    {
+      "id": "lower_life_009",
+      "title": "009_山野與假路",
+      "path": "001_下界成根/009_山野與假路",
+      "status": "現行正文；依人生總綱續補",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "木中雷痕",
+          "source": "novel/001_下界成根/009_山野與假路/001_木中雷痕.md",
+          "published": "novel/published/001_下界成根/009_山野與假路/001_木中雷痕.md"
+        },
+        {
+          "number": 2,
           "title": "山野追殺",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/003_山野追殺.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/003_山野追殺.md",
+          "source": "novel/001_下界成根/009_山野與假路/002_山野追殺.md",
+          "published": "novel/published/001_下界成根/009_山野與假路/002_山野追殺.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter003.md",
           "source_sha256": "4560af573061de42d840b9df008d010ba5990c35eb15bc33e043de2abf6446ae",
           "body_sha256": "c7f799cc3ab263f4ddf8e64296d11fb894ad4c8b61ad87d85979c9f9bbf2a429"
         },
         {
-          "number": 4,
+          "number": 3,
           "title": "反獵",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/004_反獵.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/004_反獵.md",
+          "source": "novel/001_下界成根/009_山野與假路/003_反獵.md",
+          "published": "novel/published/001_下界成根/009_山野與假路/003_反獵.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter004.md",
           "source_sha256": "5ad97ac2c667f0aec29ecea7a093a1d9c94e2513c42822283e4838854e17f30c",
           "body_sha256": "41f6dbb447ae0190bbb75c35082936f2f377fa92ee685316a1564217bc02c44f"
-        },
+        }
+      ]
+    },
+    {
+      "id": "lower_life_010",
+      "title": "010_地下那條河",
+      "path": "001_下界成根/010_地下那條河",
+      "status": "現行正文；依人生總綱續補",
+      "chapters": [
         {
-          "number": 5,
+          "number": 1,
           "title": "真委託",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/005_真委託.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/005_真委託.md",
+          "source": "novel/001_下界成根/010_地下那條河/001_真委託.md",
+          "published": "novel/published/001_下界成根/010_地下那條河/001_真委託.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter005.md",
           "source_sha256": "bf3b0008519677f5e6a8816620fbfb9c2dc14058cb19c54621e53c1af6c7423f",
           "body_sha256": "af57a9aa3508653a6c6f1191a2006162af599ddc563c86fbb4a6cf59c1c97e9b"
         },
         {
-          "number": 6,
+          "number": 2,
           "title": "地下暗河",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/006_地下暗河.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/006_地下暗河.md",
+          "source": "novel/001_下界成根/010_地下那條河/002_地下暗河.md",
+          "published": "novel/published/001_下界成根/010_地下那條河/002_地下暗河.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter006.md",
           "source_sha256": "4dd0e667f4851557fd99bd82a519da6a32131a6c4928457034aebe5d1c6265fd",
           "body_sha256": "a7cc020c2be9fba4c9563602bd39c7ce7e146f2496171333e6066ec94f9645a0"
         },
         {
-          "number": 7,
+          "number": 3,
           "title": "灶邊新客",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/007_灶邊新客.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/007_灶邊新客.md",
+          "source": "novel/001_下界成根/010_地下那條河/003_灶邊新客.md",
+          "published": "novel/published/001_下界成根/010_地下那條河/003_灶邊新客.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter007.md",
           "source_sha256": "f5bac68315effb0a784595d1290bb4ae6fd3c7db4f79a87c2aa2d7a9acc491e3",
           "body_sha256": "9f317539c6485d0b4a11ed4614389eb2e5a93c32c9c8895c22eac6ab4f1db399"
-        },
+        }
+      ]
+    },
+    {
+      "id": "lower_life_011",
+      "title": "011_百斷山",
+      "path": "001_下界成根/011_百斷山",
+      "status": "現行正文；依人生總綱續補",
+      "chapters": [
         {
-          "number": 8,
+          "number": 1,
           "title": "百斷山路",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/008_百斷山路.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/008_百斷山路.md",
+          "source": "novel/001_下界成根/011_百斷山/001_百斷山路.md",
+          "published": "novel/published/001_下界成根/011_百斷山/001_百斷山路.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter008.md",
           "source_sha256": "03bf76b848c6638211e2625c2f010c1cb0b7df7acdf1a9fa68f8bfe2e2cbe2a7",
           "body_sha256": "b7d72c6b079baac1173bdb4364ff962bbf5ab411f990a00c260d05efcb11bcad"
         },
         {
-          "number": 9,
+          "number": 2,
           "title": "泥沼救人",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/009_泥沼救人.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/009_泥沼救人.md",
+          "source": "novel/001_下界成根/011_百斷山/002_泥沼救人.md",
+          "published": "novel/published/001_下界成根/011_百斷山/002_泥沼救人.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter009.md",
           "source_sha256": "fccc4a93d3596c588f0dddcc47359c41926c6b590599782cf10c77460d4cee8e",
           "body_sha256": "92a6b6dfbda9b9f6a71dfa9c3c30b3a796b37382ae762fbf2594af1e95660f15"
         },
         {
-          "number": 10,
+          "number": 3,
           "title": "截天之邀",
-          "source": "novel/001_下界成根/004_太玄閣鑄身/010_截天之邀.md",
-          "published": "novel/published/001_下界成根/004_太玄閣鑄身/010_截天之邀.md",
+          "source": "novel/001_下界成根/011_百斷山/003_截天之邀.md",
+          "published": "novel/published/001_下界成根/011_百斷山/003_截天之邀.md",
           "legacy_source": "novel/lower_realm_v2/arc04_taixuan_forging/chapter010.md",
           "source_sha256": "32a8779183c0f602d9529910e1865bd52d53738040296ecfa438ce51f29baa22",
           "body_sha256": "f43ba8a86a14237306ad91aada35aed5d5f70b8e579903cd3e469a3f076f204b"
-        }
-      ],
-      "historical_outline_title": "第四篇：太玄閣鑄身"
-    },
-    {
-      "id": "arc05_hundred_broken_mountain",
-      "title": "005_百斷山",
-      "path": "001_下界成根/005_百斷山",
-      "status": "現行正文",
-      "chapters": [
+        },
         {
-          "number": 1,
+          "number": 4,
           "title": "三聲雷以前",
-          "source": "novel/001_下界成根/005_百斷山/001_三聲雷以前.md",
-          "published": "novel/published/001_下界成根/005_百斷山/001_三聲雷以前.md",
+          "source": "novel/001_下界成根/011_百斷山/004_三聲雷以前.md",
+          "published": "novel/published/001_下界成根/011_百斷山/004_三聲雷以前.md",
           "legacy_source": "novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter001.md",
           "source_sha256": "a8afc33ac08727d3c176c55058a9bd0c5212eae76cd22c123064d9a9ec71c2ff",
           "body_sha256": "f4e654f760e221a01022e533584787074ab31eaf50be988efe0551b604a24587"
         },
         {
-          "number": 2,
+          "number": 5,
           "title": "兩條撤路",
-          "source": "novel/001_下界成根/005_百斷山/002_兩條撤路.md",
-          "published": "novel/published/001_下界成根/005_百斷山/002_兩條撤路.md",
+          "source": "novel/001_下界成根/011_百斷山/005_兩條撤路.md",
+          "published": "novel/published/001_下界成根/011_百斷山/005_兩條撤路.md",
           "legacy_source": "novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter002.md",
           "source_sha256": "209b046f1cfa09730633cec207044ff3a437b4bb488518a3261b0a2a25ed00d5",
           "body_sha256": "191cddd2f19a5db1899fb4c6d1f0a5960f26afa94688a8652434f71a48e1d1d3"
         },
         {
-          "number": 3,
+          "number": 6,
           "title": "東側死區",
-          "source": "novel/001_下界成根/005_百斷山/003_東側死區.md",
-          "published": "novel/published/001_下界成根/005_百斷山/003_東側死區.md",
+          "source": "novel/001_下界成根/011_百斷山/006_東側死區.md",
+          "published": "novel/published/001_下界成根/011_百斷山/006_東側死區.md",
           "legacy_source": "novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter003.md",
           "source_sha256": "764155e819d0ce6d0f3ae2d04ec7a1a4021c8c2b58530e55de07d389cc93e31f",
           "body_sha256": "d3cd75ddb40a0f8496380f9eca5769820da7670bf65d75c6d2636783a5a8fad7"
         },
         {
-          "number": 4,
+          "number": 7,
           "title": "繩在那頭",
-          "source": "novel/001_下界成根/005_百斷山/004_繩在那頭.md",
-          "published": "novel/published/001_下界成根/005_百斷山/004_繩在那頭.md",
+          "source": "novel/001_下界成根/011_百斷山/007_繩在那頭.md",
+          "published": "novel/published/001_下界成根/011_百斷山/007_繩在那頭.md",
           "legacy_source": "novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter004.md",
           "source_sha256": "30c8e763a1c7cd5c3826fc33aef61d5e6d1b4ab195c2f692da200369ce3e7e02",
           "body_sha256": "c9e33582508fc6c7a9a58883c1aee66583bb8e5a3121c7770a7a78faaa6842e6"
         },
         {
-          "number": 5,
+          "number": 8,
           "title": "火網裡",
-          "source": "novel/001_下界成根/005_百斷山/005_火網裡.md",
-          "published": "novel/published/001_下界成根/005_百斷山/005_火網裡.md",
+          "source": "novel/001_下界成根/011_百斷山/008_火網裡.md",
+          "published": "novel/published/001_下界成根/011_百斷山/008_火網裡.md",
           "legacy_source": "novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter005.md",
           "source_sha256": "5fc7e4a34263de23469ed06a2a7f378a81bbc7795c693c3096d5c3db7d00d6f4",
           "body_sha256": "54a321193340fa35ce7aba1404d32a3fbdcfc5d58eee4fae1a2e26b679f856dc"
         },
         {
-          "number": 6,
+          "number": 9,
           "title": "雷火淬骨",
-          "source": "novel/001_下界成根/005_百斷山/006_雷火淬骨.md",
-          "published": "novel/published/001_下界成根/005_百斷山/006_雷火淬骨.md",
+          "source": "novel/001_下界成根/011_百斷山/009_雷火淬骨.md",
+          "published": "novel/published/001_下界成根/011_百斷山/009_雷火淬骨.md",
           "legacy_source": "novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter006.md",
           "source_sha256": "8077569d45a64763b4bde41a00224a808111e25e0e1f8f75f794011aed84cb42",
           "body_sha256": "badd1e22f9f783244b70bac8596d16fe08b03dc761544e017ace4f52473c12e9"
         },
         {
-          "number": 7,
+          "number": 10,
           "title": "山門合攏",
-          "source": "novel/001_下界成根/005_百斷山/007_山門合攏.md",
-          "published": "novel/published/001_下界成根/005_百斷山/007_山門合攏.md",
+          "source": "novel/001_下界成根/011_百斷山/010_山門合攏.md",
+          "published": "novel/published/001_下界成根/011_百斷山/010_山門合攏.md",
           "legacy_source": "novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter007.md",
           "source_sha256": "181c471dce327d3ca69f70b4f1beaf7ffc204dd3ae8c5c3cfb2564c5a4cc8994",
           "body_sha256": "88b043c8af20e963403d62b477bea95e1b728ccc5e74fd5eb23b1c2e5bcf49b4"
-        },
+        }
+      ]
+    },
+    {
+      "id": "lower_life_012",
+      "title": "012_傷後未還的帳",
+      "path": "001_下界成根/012_傷後未還的帳",
+      "status": "現行正文；依人生總綱續補",
+      "chapters": [
         {
-          "number": 8,
+          "number": 1,
           "title": "雷火餘痕",
-          "source": "novel/001_下界成根/005_百斷山/008_雷火餘痕.md",
-          "published": "novel/published/001_下界成根/005_百斷山/008_雷火餘痕.md",
+          "source": "novel/001_下界成根/012_傷後未還的帳/001_雷火餘痕.md",
+          "published": "novel/published/001_下界成根/012_傷後未還的帳/001_雷火餘痕.md",
           "legacy_source": "novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter008.md",
           "source_sha256": "352a082ff1dc6088cb63a1647006d08bc8653ee5259741f8c7cdb5b859bd76b9",
           "body_sha256": "9a69f147499a5d23518c7a0abdda150b1d3c8c5158870548af54c1978bac31a2"
         }
-      ],
-      "historical_outline_title": "第五篇：百斷山"
+      ]
     },
     {
-      "id": "arc06_false_commission",
-      "title": "006_真假委託",
-      "path": "001_下界成根/006_真假委託",
-      "status": "現行正文",
+      "id": "lower_life_013",
+      "title": "013_三城不賣的東西",
+      "path": "001_下界成根/013_三城不賣的東西",
+      "status": "篇級規劃，待開發正文",
+      "chapters": []
+    },
+    {
+      "id": "lower_life_014",
+      "title": "014_偏城量地",
+      "path": "001_下界成根/014_偏城量地",
+      "status": "篇級規劃，待開發正文",
+      "chapters": []
+    },
+    {
+      "id": "lower_life_015",
+      "title": "015_欠爐的人",
+      "path": "001_下界成根/015_欠爐的人",
+      "status": "篇級規劃，待開發正文",
+      "chapters": []
+    },
+    {
+      "id": "lower_life_016",
+      "title": "016_真假委託",
+      "path": "001_下界成根/016_真假委託",
+      "status": "現行正文；依人生總綱續補",
       "chapters": [
         {
           "number": 1,
           "title": "委託紙背面",
-          "source": "novel/001_下界成根/006_真假委託/001_委託紙背面.md",
-          "published": "novel/published/001_下界成根/006_真假委託/001_委託紙背面.md",
+          "source": "novel/001_下界成根/016_真假委託/001_委託紙背面.md",
+          "published": "novel/published/001_下界成根/016_真假委託/001_委託紙背面.md",
           "legacy_source": "novel/lower_realm_v2/arc06_false_commission/chapter001.md",
           "source_sha256": "3a3c249f5f2425f681586c5937508c5fac86ecab26869a69df82a5ce8890196e",
           "body_sha256": "df3405c0378224db2666415551d9dc4a216a3f1b8b373a2b6373200d3ca4b025"
@@ -470,8 +597,8 @@
         {
           "number": 2,
           "title": "同一批粉",
-          "source": "novel/001_下界成根/006_真假委託/002_同一批粉.md",
-          "published": "novel/published/001_下界成根/006_真假委託/002_同一批粉.md",
+          "source": "novel/001_下界成根/016_真假委託/002_同一批粉.md",
+          "published": "novel/published/001_下界成根/016_真假委託/002_同一批粉.md",
           "legacy_source": "novel/lower_realm_v2/arc06_false_commission/chapter002.md",
           "source_sha256": "4af8093f7d69dd9602193e1dc88e1e758e03f2e6860bc6f6416dd8daac98f710",
           "body_sha256": "e3049123627b7789bbced86e7c762c62fc0f981620a92b637b7fa448f9f94256"
@@ -479,8 +606,8 @@
         {
           "number": 3,
           "title": "早兩日的刀痕",
-          "source": "novel/001_下界成根/006_真假委託/003_早兩日的刀痕.md",
-          "published": "novel/published/001_下界成根/006_真假委託/003_早兩日的刀痕.md",
+          "source": "novel/001_下界成根/016_真假委託/003_早兩日的刀痕.md",
+          "published": "novel/published/001_下界成根/016_真假委託/003_早兩日的刀痕.md",
           "legacy_source": "novel/lower_realm_v2/arc06_false_commission/chapter003.md",
           "source_sha256": "6bf78f0f240d2ec4023dba07c085489dd5563f5dcd41c2935db92471198176e3",
           "body_sha256": "48ecc944972ff435d34bd4a0a91612c121769b853ee6ab34ef1d6e3e72b867e1"
@@ -488,8 +615,8 @@
         {
           "number": 4,
           "title": "谷口的一拳",
-          "source": "novel/001_下界成根/006_真假委託/004_谷口的一拳.md",
-          "published": "novel/published/001_下界成根/006_真假委託/004_谷口的一拳.md",
+          "source": "novel/001_下界成根/016_真假委託/004_谷口的一拳.md",
+          "published": "novel/published/001_下界成根/016_真假委託/004_谷口的一拳.md",
           "legacy_source": "novel/lower_realm_v2/arc06_false_commission/chapter004.md",
           "source_sha256": "4d737cf169135e2979cf8248df43fe92bc22170554b529bb42cee8037735b1c1",
           "body_sha256": "c40335213ab789f24f86db05f459c31fe6e4330505f5527761de90c8d91bc4a4"
@@ -497,8 +624,8 @@
         {
           "number": 5,
           "title": "四壁回力",
-          "source": "novel/001_下界成根/006_真假委託/005_四壁回力.md",
-          "published": "novel/published/001_下界成根/006_真假委託/005_四壁回力.md",
+          "source": "novel/001_下界成根/016_真假委託/005_四壁回力.md",
+          "published": "novel/published/001_下界成根/016_真假委託/005_四壁回力.md",
           "legacy_source": "novel/lower_realm_v2/arc06_false_commission/chapter005.md",
           "source_sha256": "d91ba7b2ddbda4adf5134a91e9611d077d9a83e9dda80d46cd78b0fedd061158",
           "body_sha256": "0888cbc2045f774697c00715ee530f2d30c8d29b98540e731011f00b15e69898"
@@ -506,8 +633,8 @@
         {
           "number": 6,
           "title": "斷松外",
-          "source": "novel/001_下界成根/006_真假委託/006_斷松外.md",
-          "published": "novel/published/001_下界成根/006_真假委託/006_斷松外.md",
+          "source": "novel/001_下界成根/016_真假委託/006_斷松外.md",
+          "published": "novel/published/001_下界成根/016_真假委託/006_斷松外.md",
           "legacy_source": "novel/lower_realm_v2/arc06_false_commission/chapter006.md",
           "source_sha256": "b5514666bec97d05e734250e2a2f667f68eef7d732228ebcb62a9d41eca35c2e",
           "body_sha256": "ccbc0e41a11f96742924571e9faa3f3ef86c638b78301ad1f14d277ce421e1e0"
@@ -515,26 +642,32 @@
         {
           "number": 7,
           "title": "這次是真的",
-          "source": "novel/001_下界成根/006_真假委託/007_這次是真的.md",
-          "published": "novel/published/001_下界成根/006_真假委託/007_這次是真的.md",
+          "source": "novel/001_下界成根/016_真假委託/007_這次是真的.md",
+          "published": "novel/published/001_下界成根/016_真假委託/007_這次是真的.md",
           "legacy_source": "novel/lower_realm_v2/arc06_false_commission/chapter007.md",
           "source_sha256": "679ccb12e7476adb93a92ef2264c34dc8b3df060918882131b154623b6b24fdf",
           "body_sha256": "dbbd75d9580254963e2e2a4adf11faca3aa5f0f227521283688ba82be4a4ab70"
         }
-      ],
-      "historical_outline_title": "第六篇：真假委託"
+      ]
     },
     {
-      "id": "bridge_north_sea",
-      "title": "007_北海橋段",
-      "path": "001_下界成根/007_北海橋段",
-      "status": "現行正文",
+      "id": "lower_life_017",
+      "title": "017_潮汐不是時辰",
+      "path": "001_下界成根/017_潮汐不是時辰",
+      "status": "篇級規劃，待開發正文",
+      "chapters": []
+    },
+    {
+      "id": "lower_life_018",
+      "title": "018_北海潮外",
+      "path": "001_下界成根/018_北海潮外",
+      "status": "現行正文；依人生總綱續補",
       "chapters": [
         {
           "number": 1,
           "title": "錯過巢門",
-          "source": "novel/001_下界成根/007_北海橋段/001_錯過巢門.md",
-          "published": "novel/published/001_下界成根/007_北海橋段/001_錯過巢門.md",
+          "source": "novel/001_下界成根/018_北海潮外/001_錯過巢門.md",
+          "published": "novel/published/001_下界成根/018_北海潮外/001_錯過巢門.md",
           "legacy_source": "novel/lower_realm_v2/bridge_north_sea/chapter001.md",
           "source_sha256": "47713319baed81c8171fbe24fb2bc8096e186bd02e73995e8ab64653817ee8b5",
           "body_sha256": "fcbb00fdcfe9220858a9810b6f1afc79c4be33123c788a81c715c638ced40c51"
@@ -542,8 +675,8 @@
         {
           "number": 2,
           "title": "退潮的人",
-          "source": "novel/001_下界成根/007_北海橋段/002_退潮的人.md",
-          "published": "novel/published/001_下界成根/007_北海橋段/002_退潮的人.md",
+          "source": "novel/001_下界成根/018_北海潮外/002_退潮的人.md",
+          "published": "novel/published/001_下界成根/018_北海潮外/002_退潮的人.md",
           "legacy_source": "novel/lower_realm_v2/bridge_north_sea/chapter002.md",
           "source_sha256": "78d2490dced7ee954335d35baca1302d71ea8367d40dd04ffc4ba589ef8b7269",
           "body_sha256": "4cd50086ef4360bc49929a17cf64563d8505e66a5b26b9b94ffa1004f6ff3554"
@@ -551,8 +684,8 @@
         {
           "number": 3,
           "title": "潮線上的拳",
-          "source": "novel/001_下界成根/007_北海橋段/003_潮線上的拳.md",
-          "published": "novel/published/001_下界成根/007_北海橋段/003_潮線上的拳.md",
+          "source": "novel/001_下界成根/018_北海潮外/003_潮線上的拳.md",
+          "published": "novel/published/001_下界成根/018_北海潮外/003_潮線上的拳.md",
           "legacy_source": "novel/lower_realm_v2/bridge_north_sea/chapter003.md",
           "source_sha256": "457df1f65876709c50afbee94f85c4270bc8768b0a0d52bcbd07ae0860287d65",
           "body_sha256": "601e5b5a1b472beac0693b73e68913a0252620f7ce9637fe9aba18cbdefc6183"
@@ -560,26 +693,46 @@
         {
           "number": 4,
           "title": "十七人",
-          "source": "novel/001_下界成根/007_北海橋段/004_十七人.md",
-          "published": "novel/published/001_下界成根/007_北海橋段/004_十七人.md",
+          "source": "novel/001_下界成根/018_北海潮外/004_十七人.md",
+          "published": "novel/published/001_下界成根/018_北海潮外/004_十七人.md",
           "legacy_source": "novel/lower_realm_v2/bridge_north_sea/chapter004.md",
           "source_sha256": "d7d0c3dd7c222c8110abc1070eee6ba2849e8dd932ca592e90d3923d3e2ad299",
           "body_sha256": "d25fdd9528381d418e4e311379cd041b506df7b8f01faa6b1b5e91f0fd37d73e"
         }
-      ],
-      "historical_outline_title": "北海橋段"
+      ]
     },
     {
-      "id": "arc07_lower_realm_storm",
-      "title": "008_下界風暴",
-      "path": "001_下界成根/008_下界風暴",
-      "status": "現行正文",
+      "id": "lower_life_019",
+      "title": "019_回閣的人",
+      "path": "001_下界成根/019_回閣的人",
+      "status": "篇級規劃，待開發正文",
+      "chapters": []
+    },
+    {
+      "id": "lower_life_020",
+      "title": "020_一場不排名的會",
+      "path": "001_下界成根/020_一場不排名的會",
+      "status": "篇級規劃，待開發正文",
+      "chapters": []
+    },
+    {
+      "id": "lower_life_021",
+      "title": "021_昇龍台",
+      "path": "001_下界成根/021_昇龍台",
+      "status": "篇級規劃，待開發正文",
+      "chapters": []
+    },
+    {
+      "id": "lower_life_022",
+      "title": "022_城門還開著",
+      "path": "001_下界成根/022_城門還開著",
+      "status": "現行正文；依人生總綱續補",
       "chapters": [
         {
           "number": 1,
           "title": "地底回聲",
-          "source": "novel/001_下界成根/008_下界風暴/001_地底回聲.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/001_地底回聲.md",
+          "source": "novel/001_下界成根/022_城門還開著/001_地底回聲.md",
+          "published": "novel/published/001_下界成根/022_城門還開著/001_地底回聲.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter001.md",
           "source_sha256": "c5b472a93de25994f0face1fdc9eca2a3b139b507cc9ba1c08d9c1c1c01a9478",
           "body_sha256": "aabd86390b2cdef8d8831d500b3a28b9158deaa69c5188601bd7c6665a925369"
@@ -587,8 +740,8 @@
         {
           "number": 2,
           "title": "古碑示警",
-          "source": "novel/001_下界成根/008_下界風暴/002_古碑示警.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/002_古碑示警.md",
+          "source": "novel/001_下界成根/022_城門還開著/002_古碑示警.md",
+          "published": "novel/published/001_下界成根/022_城門還開著/002_古碑示警.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter002.md",
           "source_sha256": "f5916f2294f46309cb7e32319af7ed5618664889082df3842b77612d150b52dc",
           "body_sha256": "ecfec95f52de5f495e639c162d239505927f31afddba782b86e09f3311dad88b"
@@ -596,77 +749,84 @@
         {
           "number": 3,
           "title": "蟲聲停了",
-          "source": "novel/001_下界成根/008_下界風暴/003_蟲聲停了.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/003_蟲聲停了.md",
+          "source": "novel/001_下界成根/022_城門還開著/003_蟲聲停了.md",
+          "published": "novel/published/001_下界成根/022_城門還開著/003_蟲聲停了.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter003.md",
           "source_sha256": "84c08b4cf44c444895802f8e644fa7f2ba3c0f6eedcc1c7d139975fa7a1ffb6e",
           "body_sha256": "c93d51ec37bcb12dcda36ca29d8623f02e89c392d117ae88a012e21a93165065"
-        },
+        }
+      ]
+    },
+    {
+      "id": "lower_life_023",
+      "title": "023_下界風暴",
+      "path": "001_下界成根/023_下界風暴",
+      "status": "現行正文；依人生總綱續補",
+      "chapters": [
         {
-          "number": 4,
+          "number": 1,
           "title": "雷拐了彎",
-          "source": "novel/001_下界成根/008_下界風暴/004_雷拐了彎.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/004_雷拐了彎.md",
+          "source": "novel/001_下界成根/023_下界風暴/001_雷拐了彎.md",
+          "published": "novel/published/001_下界成根/023_下界風暴/001_雷拐了彎.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter004.md",
           "source_sha256": "f6b56517feccb05f7309086050e6682f1cc1b1defa794c5cf1978a7eed99d1f1",
           "body_sha256": "094afd2c9e6d1815685fac47fbb2b80070b10fd54c7cdf8f051e3c7bee3446b7"
         },
         {
-          "number": 5,
+          "number": 2,
           "title": "引雷",
-          "source": "novel/001_下界成根/008_下界風暴/005_引雷.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/005_引雷.md",
+          "source": "novel/001_下界成根/023_下界風暴/002_引雷.md",
+          "published": "novel/published/001_下界成根/023_下界風暴/002_引雷.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter005.md",
           "source_sha256": "948ed4ebcf8eddc92ffa6cbb5a488af93d39a82ccfc64f83075ec0e843c7ee51",
           "body_sha256": "f6a1d29701e9ab6e5ea22ef52aae6b5cc67eebb0da809ccf6108e03ce73e0ab3"
         },
         {
-          "number": 6,
+          "number": 3,
           "title": "守閣",
-          "source": "novel/001_下界成根/008_下界風暴/006_守閣.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/006_守閣.md",
+          "source": "novel/001_下界成根/023_下界風暴/003_守閣.md",
+          "published": "novel/published/001_下界成根/023_下界風暴/003_守閣.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter006.md",
           "source_sha256": "b93f1a4a0522dbb6f4d7404602038d766aec6815d6bed7a7cdbc19e16d878754",
           "body_sha256": "0735062c071d15ad3098dc315030ec29a78e7c444a466531057ed491030fd66a"
         },
         {
-          "number": 7,
+          "number": 4,
           "title": "最後一雷",
-          "source": "novel/001_下界成根/008_下界風暴/007_最後一雷.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/007_最後一雷.md",
+          "source": "novel/001_下界成根/023_下界風暴/004_最後一雷.md",
+          "published": "novel/published/001_下界成根/023_下界風暴/004_最後一雷.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter007.md",
           "source_sha256": "772fbb91ee8d0952b8c227a1b10fdd4592b016169cc21a0dd1b243e7896b17ee",
           "body_sha256": "e7f6141d6555c5ba216aa98095cce37185746064a1e58f79b0739742b72c098d"
         },
         {
-          "number": 8,
+          "number": 5,
           "title": "石縫還暖著",
-          "source": "novel/001_下界成根/008_下界風暴/008_石縫還暖著.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/008_石縫還暖著.md",
+          "source": "novel/001_下界成根/023_下界風暴/005_石縫還暖著.md",
+          "published": "novel/published/001_下界成根/023_下界風暴/005_石縫還暖著.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter008.md",
           "source_sha256": "5dd31fa08d737a4d4f9d54e141c3ee175f3b076377f6618d0a50f8fab8a65978",
           "body_sha256": "a84da72f09f6821853b13c06e431d67b2b6d4ad0da3aa28a1c7dc76f19b3eb16"
         },
         {
-          "number": 9,
+          "number": 6,
           "title": "跨入雷淵",
-          "source": "novel/001_下界成根/008_下界風暴/009_跨入雷淵.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/009_跨入雷淵.md",
+          "source": "novel/001_下界成根/023_下界風暴/006_跨入雷淵.md",
+          "published": "novel/published/001_下界成根/023_下界風暴/006_跨入雷淵.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter009.md",
           "source_sha256": "0f5353993ca2f10c9281103d4f32acc869210f0205d168d63f2aceef3b3c915c",
           "body_sha256": "4ecba32e280c409718cf70a2f7b39a29e0670fd9ea852df1f02673639916230a"
         },
         {
-          "number": 10,
+          "number": 7,
           "title": "界淵銀雷",
-          "source": "novel/001_下界成根/008_下界風暴/010_界淵銀雷.md",
-          "published": "novel/published/001_下界成根/008_下界風暴/010_界淵銀雷.md",
+          "source": "novel/001_下界成根/023_下界風暴/007_界淵銀雷.md",
+          "published": "novel/published/001_下界成根/023_下界風暴/007_界淵銀雷.md",
           "legacy_source": "novel/lower_realm_v2/arc07_lower_realm_storm/chapter010.md",
           "source_sha256": "2b4d346315a3b3c0986bda3e25c5b156823e3a38ff27517c83232ff289e29a39",
           "body_sha256": "70629b93db246abb72af35a66efac70a530b4de69346739aef47e2834e806561"
         }
-      ],
-      "historical_outline_title": "第七篇：下界風暴"
+      ]
     },
     {
       "id": "arc08",

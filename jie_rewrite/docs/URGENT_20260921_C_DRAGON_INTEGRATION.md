@@ -12,7 +12,7 @@
 | --- | --- |
 | `novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter008.md:49` | 體內沒有雷種；已有承雷骨血與禁紋成長 |
 | [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/lower_realm_v2/arc06_false_commission/README.md) | 天地雷火已离境／耗盡，無雷種或成熟活禁 |
-| `novel/001_下界成根/008_下界風暴/009_跨入雷淵.md` | 已入兩界夾層，仍用肉身、預刻束身禁與木片探路 |
+| `novel/001_下界成根/023_下界風暴/006_跨入雷淵.md` | 已入兩界夾層，仍用肉身、預刻束身禁與木片探路 |
 | 同篇 `chapter010.md:21` | 離開下界後於界淵取得完整銀雷，後命名照命 |
 | `docs/AUTHOR_CORE_REQUIREMENTS.md` 第四節 | 照命使雷體成立 |
 | `docs/systems/SYSTEM_FORMLESS_SEPARATION_SCROLL.md:7` | 無相離身卷在進鎮岳峰後取得 |
