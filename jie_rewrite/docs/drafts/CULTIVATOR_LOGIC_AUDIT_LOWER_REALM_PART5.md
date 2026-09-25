@@ -10,9 +10,9 @@
 
 ## 範圍、來源與方法
 
-- 開發稿：`novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter001.md`～`chapter008.md` 全文。下文 ch 均指此目錄。
+- 開發稿：`novel/001_下界成根/005_百斷山/001_三聲雷以前.md`～`chapter008.md` 全文。下文 ch 均指此目錄。
 - 邊界全文：`arc04_taixuan_forging/chapter010.md`、`arc06_false_commission/chapter001.md`。
-- 閱讀版：`novel/published/lower_realm_v2/volume02/chapter019.md`～`chapter026.md`。依 SOURCE_MANIFEST 核對，排除標題行後正文字串逐章一致；正文未帶開發註記，因此連讀開發稿等同本批乾淨正文。不擴稱全庫同步。
+- 閱讀版：`novel/published/001_下界成根/005_百斷山/001_三聲雷以前.md`～`chapter026.md`。依 SOURCE_MANIFEST 核對，排除標題行後正文字串逐章一致；正文未帶開發註記，因此連讀開發稿等同本批乾淨正文。不擴稱全庫同步。
 - 規則：更新後 `XIANXIA_PERSPECTIVE_CHARTER.md`、review-serialized-novel 技能與完整 review-matrix。獨立核對讀者、因果、連續性、人物、視角、場景、戰鬥、結構、設定、出版十面向。
 - 能力基準：`systems/CULTIVATOR_LOGIC_BASELINE.md` v0.2 的使用規則、能力表相關列、§2.10、境界階梯與審查守則；對照 `characters/CHARACTER_LU_CHEN.md` 下界境界與神識條目、`SYSTEM_CULTIVATION_TIMELINE.md` T03、`CHARACTER_COMBAT_WITCH.md` WT-03、`CHARACTER_COMBAT_WEN_YI.md` WY-03、文奕角色檔與 `EVENT_WEN_YI_LOWER_REALM_AND_SHARED_FORBIDDEN_CANON.md`、`WORLD_GEOGRAPHY_AND_ROUTES.md` 下界路線。
 - 舊 `OUTLINE_HUNDRED_BROKEN_MOUNTAIN.md` 六章方案仍標提案，與現行八章不同，不拿舊章綱推翻正文。原作通則本批未另核，不把未定境界、御空或神識半徑當成已知能力。

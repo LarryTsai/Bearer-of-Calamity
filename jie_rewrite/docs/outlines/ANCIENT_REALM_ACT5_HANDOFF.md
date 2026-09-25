@@ -1,6 +1,6 @@
 # 古界 Act4 → Act5 交接
 
-狀態：2026-09-20 PM 接手盤點時的交接快照，內容凍結於當時進度（A～G，ch047～053）；**2026-09-22進度更新**：正文已續寫至ch079（N-1封寒放劍），最新進度與逐章狀態一律以`OUTLINE_ANCIENT_REALM_ACT5.md`、`docs/PIPELINE_STATUS.md`為準，本檔下方內容除已標註訂正處外，其餘仍是2026-09-20當時的規劃性描述，非最新狀態。舊 `novel/volume04/` 與現行 published 版保留，`novel/volume04_v2/` 是新版施工線。
+狀態：2026-09-20 PM 接手盤點時的交接快照，內容凍結於當時進度（A～G，ch047～053）；**2026-09-22進度更新**：正文已續寫至ch079（N-1封寒放劍），最新進度與逐章狀態一律以`OUTLINE_ANCIENT_REALM_ACT5.md`、`docs/PIPELINE_STATUS.md`為準，本檔下方內容除已標註訂正處外，其餘仍是2026-09-20當時的規劃性描述，非最新狀態。舊 `novel/volume04/` 與現行 published 版保留，`novel/002_上界成道/009_界潮與古界/README.md` 是新版施工線。
 
 ## 已完成基線
 
@@ -31,4 +31,4 @@ T0 為 ch005 入界後原奇異點徹底消失；T1 為 ch046 五島窗口重開
 - `CHECKLIST_PENDING_DECISIONS.md` 第214、216題是古界已寫場景新增背景名詞的最小追認；先核現有用法，不能把待追認詞擴成新勢力或新機制。
 - `docs/PIPELINE_STATUS.md` 所列聽島與鎮界起源仍待裁；在不確定性內設計場景，不替作者提前決定。
 - `docs/systems/SYSTEM_CULTIVATION_TIMELINE.md` T09B 舊規劃備註過時，屬文件維護債；待 Act5 章綱把時序鎖定後再訂正。
-- `novel/README.md` 尚未登記 `volume04_v2`；依先前 PM 安排，待古界整篇穩定後再更新全書閱讀索引，現在以本交接文件與 `docs/PIPELINE_STATUS.md` 找新版施工線。
+- `novel/README.md` 尚未登記 `novel/002_上界成道/009_界潮與古界/README.md`；依先前 PM 安排，待古界整篇穩定後再更新全書閱讀索引，現在以本交接文件與 `docs/PIPELINE_STATUS.md` 找新版施工線。

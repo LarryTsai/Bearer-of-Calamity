@@ -1,4 +1,4 @@
-# 審查結果：`novel/volume02_v2/chapter041.md`～`chapter060.md`（七峰大比正式賽程）
+# 審查結果：`novel/002_上界成道/003_七峰大比/003_傷價.md`～`chapter060.md`（七峰大比正式賽程）
 
 狀態：2026-09-24審查完成，只讀不改。依據 `docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`。
 

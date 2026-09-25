@@ -1,8 +1,8 @@
 # 第三層（仙人文明）下界既有事實盤點 PART A：修士密度與「幾萬年」痕跡
 
 盤點日期：2026-09-25。純唯讀查證，只記錄既有事實與留白，不建議補寫、不定稿任何設定。
-範圍：`novel/lower_realm_v2/`（序篇、第一至第七篇、北海橋段全部章節與各篇 OUTLINE／README／CONTINUITY_PLAN／ARC02_04_GUARDRAILS）＋ `docs/` 下 characters、systems、factions、events、outlines、world、canon、MACRO_OUTLINE、SYSTEM_CULTIVATION_TIMELINE、CULTIVATOR_LOGIC_BASELINE、drafts 內既有世界層盤點。
-引用格式：`正文路徑:行號`（正文路徑省略 `novel/lower_realm_v2/`，縮寫 pro＝prologue、a01～a07＝arc01～arc07、br＝bridge_north_sea）；docs 一律 `docs/相對路徑:行號`。行號為原檔物理行號。
+範圍：`novel/001_下界成根/README.md`（序篇、第一至第七篇、北海橋段全部章節與各篇 OUTLINE／README／CONTINUITY_PLAN／ARC02_04_GUARDRAILS）＋ `docs/` 下 characters、systems、factions、events、outlines、world、canon、MACRO_OUTLINE、SYSTEM_CULTIVATION_TIMELINE、CULTIVATOR_LOGIC_BASELINE、drafts 內既有世界層盤點。
+引用格式：`正文路徑:行號`（正文路徑省略 `novel/001_下界成根/README.md`，縮寫 pro＝prologue、a01～a07＝arc01～arc07、br＝bridge_north_sea）；docs 一律 `docs/相對路徑:行號`。行號為原檔物理行號。
 判定用語：「已定」＝正文或唯一來源設定明寫；「留白」＝找不到證據；「推論」＝由旁證推出、非明寫，使用時須標註。
 
 ## 零、先決事實（影響所有表格的判讀）
@@ -11,7 +11,7 @@
 2. **docs 沒有下界一般修士的境界階、密度與人口／宗門格局**：`docs/drafts/LAYER3_CANON_BOUNDARY_NOTES.md:23-31` 已明記「docs 無記載，需作者或原作查核」；`docs/systems/CULTIVATOR_LOGIC_BASELINE.md:181` 寫「下界城鎮本次未查到護城陣專門描寫，留白」。
 3. **docs 沒有「幾萬年」年代錨點**：`docs/systems/CULTIVATOR_LOGIC_BASELINE.md:211`「設定檔沒有『幾萬年／仙古斷代』的年代錨點……審查者不得自行推論『修士已有幾萬年』」；同檔 `:240`（BL-20）列為待作者。唯一年份級數字是雷池「萬年」（`docs/events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md:1`，**屬上界太玄宗近域，不是下界**）與界路「數萬年沒有真正崩潰」（`docs/author_directives/AUTHOR_DIRECTIVE_BOUNDARY_ROAD_EIGHTH_THUNDER.md:443`，作者指令檔，位於界路而非下界地表）。
 4. **有一條可用的境界上限旁證**：「下界承限」。守錨人「把高於下界承限的修為與祖器權能留作質押」（`a03/chapter003.md:7`）；`docs/events/EVENT_WEN_YI_LOWER_REALM_AND_SHARED_FORBIDDEN_CANON.md:9-10`「高於下界上限的修為」「界壓同時封住文奕大部分上界修為」。即存在「下界修為上限（界壓）」，**但上限的具體境界未定**（留白）。
-5. **凍結狀態**：`novel/lower_realm_v2` 為冷卻凍結稿，改動需作者同意解凍（`docs/drafts/LAYER3_CANON_BOUNDARY_NOTES.md:14,34-36`）。第三層若要補痕跡，該檔建議優先放上界卷並登記 CHECKLIST（同檔 :36，為推論性建議）。
+5. **凍結狀態**：`novel/001_下界成根/README.md` 為冷卻凍結稿，改動需作者同意解凍（`docs/drafts/LAYER3_CANON_BOUNDARY_NOTES.md:14,34-36`）。第三層若要補痕跡，該檔建議優先放上界卷並登記 CHECKLIST（同檔 :36，為推論性建議）。
 6. **下界最高境界的唯一硬錨來自原作人物荒（石昊）**：百斷山約十一歲洞天境（`docs/canon/PERFECT_WORLD_CANON_TIMELINE.md:32`、`docs/systems/SYSTEM_CULTIVATION_TIMELINE.md:41`）；雙石戰後列陣王境（`docs/canon/PERFECT_WORLD_CANON_TIMELINE.md:35,105`；`SYSTEM_CULTIVATION_TIMELINE.md:42`）；七神危局前仍未成尊者（`PERFECT_WORLD_CANON_TIMELINE.md:36`；`SYSTEM_CULTIVATION_TIMELINE.md:43`）。荒是原作天驕，不能當「下界常見境界」。七神／上界教主下界屬大劫外力（`PERFECT_WORLD_CANON_TIMELINE.md:36,111`）。
 
 ---
@@ -239,6 +239,6 @@
 ### 3-4 使用提醒（給顧問擬答案時）
 
 - 「下界」的既有正文是**極端低密度＋高凡人尺度**設計：人體尺度、生活感、資源匱乏是作者刻意（設計保護，見 GAPS_PROLOGUE :3-5、GAPS_ARC01 :7、GAPS_ARC02 :5）。第三層擬答案若建議加密度或厚度，須先與這批設計保護對照。
-- 凍結稿：任何對 `novel/lower_realm_v2` 的補痕跡都須作者同意解凍；較低成本路徑為以設定層文件承載、或在上界卷以回憶／器物補述（`docs/drafts/LAYER3_CANON_BOUNDARY_NOTES.md:34-36`）。
+- 凍結稿：任何對 `novel/001_下界成根/README.md` 的補痕跡都須作者同意解凍；較低成本路徑為以設定層文件承載、或在上界卷以回憶／器物補述（`docs/drafts/LAYER3_CANON_BOUNDARY_NOTES.md:34-36`）。
 - 原作下界（石國、補天閣、荒古禁地、石村祖器）的查核未完，不可硬補；使用者仍在讀原作（memory 註記），後續原作查核結論視為暫定。
 - 標準流程 C（腦力激盪）才是第三層的正規流程，本檔僅作事實底稿，不含建議答案（`docs/XIANXIA_PERSPECTIVE_CHARTER.md:5`）。

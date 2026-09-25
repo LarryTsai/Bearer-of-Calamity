@@ -8,7 +8,7 @@
 
 ## 前置說明
 
-實讀 `novel/volume04/chapter001.md` 全文後確認，Volume04 全書 56 章從頭到尾都是同一個「陸沉經由七峰大比代表隊進入仙古遺跡」的敘事框架，**沒有任何一章與本次 retcon 無關**：ch001 入場、ch002～011 謫仙密盤調查與反殺、ch012～021 死寂雷域／玄衡誤判段、ch022～035 沉水古城倖存者證詞處理、ch036～056 仙古後續修行（五雷整合、神火、真一）。因此本表沒有「保留不動」分類，只有刪除／整段重寫。
+實讀 [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/volume04/chapter001.md) 全文後確認，Volume04 全書 56 章從頭到尾都是同一個「陸沉經由七峰大比代表隊進入仙古遺跡」的敘事框架，**沒有任何一章與本次 retcon 無關**：ch001 入場、ch002～011 謫仙密盤調查與反殺、ch012～021 死寂雷域／玄衡誤判段、ch022～035 沉水古城倖存者證詞處理、ch036～056 仙古後續修行（五雷整合、神火、真一）。因此本表沒有「保留不動」分類，只有刪除／整段重寫。
 
 ## 統計總表
 
@@ -114,6 +114,6 @@ ch022〈證詞交易〉、ch023〈五星救主〉、ch024〈自劃榜名〉、ch
 
 ## 相關檔案
 
-- `novel/volume04/chapter001.md`～`chapter056.md`（規劃對象，尚未修改）
+- [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/volume04/chapter001.md)～`chapter056.md`（規劃對象，尚未修改）
 - `MACRO_OUTLINE.md` 第十四篇、`events/EVENT_XIANGU_RUINS_ZHEXIAN.md`（v2.0已推翻）、`events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`（v2.0現行）、`characters/CHARACTER_FENG_HAN.md`、`characters/CHARACTER_ZHEN_WUYANG.md`、`characters/CHARACTER_RIVAL_TIANFA.md`
 - `CHECKLIST_NOVEL_REVIEW_FIXES.md` RC-XH-01

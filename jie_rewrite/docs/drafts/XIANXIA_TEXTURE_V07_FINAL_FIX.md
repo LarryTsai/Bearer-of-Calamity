@@ -1,6 +1,6 @@
 # volume07 仙俠質感14例：四方審查後定稿修正指示（2026-09-24，寫手1）
 
-輸入：`novel/drafts/xianxia_texture_v07/REWRITES.md`。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`。四方審查：`jie-continuity`／`jie-canon`（全數pass）／`jie-character`／`jie-power-system`。回寫規則同`docs/drafts/XIANXIA_TEXTURE_V05_FINAL_FIX.md`（同段替換、同步published、保留BOM換行、開發稿自檢補一行）。
+輸入：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/drafts/xianxia_texture_v07/REWRITES.md)。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`。四方審查：`jie-continuity`／`jie-canon`（全數pass）／`jie-character`／`jie-power-system`。回寫規則同`docs/drafts/XIANXIA_TEXTURE_V05_FINAL_FIX.md`（同段替換、同步published、保留BOM換行、開發稿自檢補一行）。
 
 ## 例7、例8後續裁定結果
 
@@ -13,7 +13,7 @@
 - **例2 ch004**：通過，照改寫回寫。
 - **例3 ch009**：維持不改，不動正文（僅示範稿留說明，不需回寫任何段落）。
 - **例4 ch022**：通過，照改寫回寫。
-- **例5 ch029**：**改寫方向（額心新月印開闔取代嗅聞）通過**，但REWRITES.md本身「原文」引用已過時——`novel/volume07/chapter029.md` L77現行正文代詞已是「她」（先前另一輪機械掃除已修正），不是REWRITES.md稿內寫的「牠」。回寫時只需把「低頭聞了一次」改成「額心那道新月印無聲睜開一線，那縷已經散得七零八落的魂息，她一眼便看得分明」這個感知動作本身，**不涉及任何代詞替換**（現行正文代詞已經是對的）。
+- **例5 ch029**：**改寫方向（額心新月印開闔取代嗅聞）通過**，但REWRITES.md本身「原文」引用已過時——`novel/003_邊荒承劫/001_帝關初戰/029_雷身熄了兩具.md` L77現行正文代詞已是「她」（先前另一輪機械掃除已修正），不是REWRITES.md稿內寫的「牠」。回寫時只需把「低頭聞了一次」改成「額心那道新月印無聲睜開一線，那縷已經散得七零八落的魂息，她一眼便看得分明」這個感知動作本身，**不涉及任何代詞替換**（現行正文代詞已經是對的）。
 - **例6 ch033**：**通過，但方向微調**——`jie-continuity`提醒照命式先兆若只寫「那個方向壓著一種不一樣的沉」容易讀成對行政表格產生政治判斷式直覺，偏離「照見命光/氣機/裂口」的既定用法。回寫時把來源明確扣回具體命光訊號，例如「陸沉的指尖尚未碰到裂界那三行字，那三個字底下壓著的命光，先他一步顫了一下——像是某個人的氣機正卡在一個不對的位置」，讓預感的來源是「某處具體的命光異狀」而非對表格本身的抽象直覺。
 - **例7 ch039**：**作廢，不回寫**。少耳老兵與彭岳是不同角色，原改寫依據不成立。
 - **例8 ch040**：**已依PM裁定改寫並回寫**——季垣維持純凡人手感判斷，不給操控外物能力。見上方。

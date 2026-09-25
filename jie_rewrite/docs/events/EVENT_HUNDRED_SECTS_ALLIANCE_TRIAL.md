@@ -1,6 +1,6 @@
 # 道天界百宗盟試
 
-> 狀態：表層賽事與賽後古戰域深層篇均已成稿。開發稿依序為 `novel/volume02_v2/chapter069.md`～`chapter086.md`、`novel/ancient_battlefield_deep_v2/chapter001.md`～`chapter040.md`；閱讀版分卷六（表層十八章＋深層前十九章）和卷七（深層後二十一章＋雷魂域七章）。下列舊章號只指 `novel/volume02/` 參考稿。
+> 狀態：表層賽事與賽後古戰域深層篇均已成稿。開發稿依序為 `novel/002_上界成道/004_百宗盟試/001_一枚本源印.md`～`chapter086.md`、`novel/002_上界成道/005_古戰域深層/001_橋底還有人.md`～`chapter040.md`；閱讀版分卷六（表層十八章＋深層前十九章）和卷七（深層後二十一章＋雷魂域七章）。下列舊章號只指 `novel/volume02/` 參考稿。
 > 舊版正文章節：`novel/volume02/chapter061.md`～`chapter078.md`
 > 功能：第十一篇百宗盟試的事件結果與賽制邊界
 

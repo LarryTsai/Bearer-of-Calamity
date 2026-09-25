@@ -11,12 +11,12 @@
 | 證據 | 所支持的界線 |
 | --- | --- |
 | `novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter008.md:49` | 體內沒有雷種；已有承雷骨血與禁紋成長 |
-| `novel/lower_realm_v2/arc06_false_commission/README.md` | 天地雷火已离境／耗盡，無雷種或成熟活禁 |
-| `novel/lower_realm_v2/arc07_lower_realm_storm/chapter009.md` | 已入兩界夾層，仍用肉身、預刻束身禁與木片探路 |
+| [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/lower_realm_v2/arc06_false_commission/README.md) | 天地雷火已离境／耗盡，無雷種或成熟活禁 |
+| `novel/001_下界成根/008_下界風暴/009_跨入雷淵.md` | 已入兩界夾層，仍用肉身、預刻束身禁與木片探路 |
 | 同篇 `chapter010.md:21` | 離開下界後於界淵取得完整銀雷，後命名照命 |
 | `docs/AUTHOR_CORE_REQUIREMENTS.md` 第四節 | 照命使雷體成立 |
 | `docs/systems/SYSTEM_FORMLESS_SEPARATION_SCROLL.md:7` | 無相離身卷在進鎮岳峰後取得 |
-| `novel/volume02_v2/chapter020.md`、ch021 | 上界才初寫分化，初期只站三息、不得離本尊一屋，後續有限值勤 |
+| `novel/002_上界成道/002_太玄宗・鎮岳入門/009_三息雷影.md`、ch021 | 上界才初寫分化，初期只站三息、不得離本尊一屋，後續有限值勤 |
 
 **最小差異提案：**保留下界獨自登台，以當期肉身、近戰、身法、神識、預布禁制與承雷適性完成；不用正式雷身與未得雷種。不能改叫「早期雷身」便掩蓋前借。若下界必須分身，需另案重排第一雷、無相卷及上界初修，屬重大設定變更。
 

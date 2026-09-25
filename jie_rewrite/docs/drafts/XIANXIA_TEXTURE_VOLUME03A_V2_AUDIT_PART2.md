@@ -188,7 +188,7 @@
 14. **ch011 L57**文奕「九座滿評，一座依銷冊判停」：第七座算不算滿評不清楚。
 15. **ch014因果**：L11是「抽到」律無咎，但律無咎賽前就依公開紀錄專門研究了陸沉。他怎麼事先知道對手是誰（交causality）。
 16. **ch013攻擊計數**：L37「再有兩次攻擊便到臨界」，L45「沒有等到第九次攻擊落下」，暗示第八次發生了但沒寫；L63「本可以再撐兩次」。
-17. **ch013 L39百斷山「鑽進斷裂的殿脊……把三個人先拖出來」**：全庫只見於舊`novel/volume03a/chapter011.md`和本章，下界百斷山篇沒有對應正文（交continuity）。
+17. **ch013 L39百斷山「鑽進斷裂的殿脊……把三個人先拖出來」**：全庫只見於舊[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/volume03a/chapter011.md)和本章，下界百斷山篇沒有對應正文（交continuity）。
 18. **稱謂不一**：ch012 L33維護吏、L45維護官、ch015維護官。
 19. **字形不一**：「身分」（ch016 L51）vs「身份」（ch017 L37、ch018 L17）；ch018 L51有簡體「着」兩處。
 20. **格式**：ch016～019缺章首的定位／時間／唯一來源區塊和章末一致性自檢，ch011～015都有。
@@ -197,7 +197,7 @@
 
 ## 相關檔案
 
-- 審查範圍：`novel/volume03a_v2/chapter011.md`～`chapter019.md`
+- 審查範圍：`novel/002_上界成道/006_禁都與萬禁會/011_識禁：答案之外還有人.md`～`chapter019.md`
 - 準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`
 - 硬接縫：`docs/outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md`
 - 人物與世界：`docs/characters/CHARACTER_WEN_YI.md`、`docs/world/WORLD_FORBIDDEN_CAPITAL.md`

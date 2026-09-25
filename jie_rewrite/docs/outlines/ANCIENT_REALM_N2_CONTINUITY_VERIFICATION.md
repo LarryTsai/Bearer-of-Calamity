@@ -49,7 +49,7 @@
 
 **出處**：`FACTION_FOUR_COMPANION_STARS.md`:37、`EVENT_DEADSTILL_DOMAIN_XUANHENG.md`:53、`SYSTEM_TEN_CALAMITY_THUNDERS.md`:232（「蒼梧在陸沉拒絕把牠留作永久界樁後結下伴星命印」）、另`CHARACTER_XUAN_HENG.md`:85、`MACRO_OUTLINE.md`:269。
 
-**未落點證據**：全庫grep「界樁」（排除published、drafts），v2僅ch071:19一處。舊版死寂雷域版有此戲：`novel/volume04/chapter017.md`:145（玄衡自願化身永久界樁）、ch018:287、:293（「你不是界樁」）、ch018:357自檢。v2 ch001～079無蒼梧提議當樁，也無交魂印場景（「魂印」在v2僅ch001:143、ch026:43，都是鑑月）。
+**未落點證據**：全庫grep「界樁」（排除published、drafts），v2僅ch071:19一處。舊版死寂雷域版有此戲：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/volume04/chapter017.md):145（玄衡自願化身永久界樁）、ch018:287、:293（「你不是界樁」）、ch018:357自檢。v2 ch001～079無蒼梧提議當樁，也無交魂印場景（「魂印」在v2僅ch001:143、ch026:43，都是鑑月）。
 
 **四個張力**
 1. **設定內時序與N-2落點不合。** EVENT:49～53順序：出界→尋轄域→回三千州生活→陸沉封寒協助尋轄域→蒼梧才主動選擇→「陸沉拒絕把牠留作永久界樁後」交魂印；`ACT5_HANDOFF`:23規定「不能把兩個選擇壓成同一場」。原稿說「N-2是最後的自然落點」與事件檔順序不一致，它更像出界後、三千州段的戲。另vol05 ch017:79「牠將仙古交出的魂印重新展開」暗示魂印早已交出——舊仙古殘留（見CHECKLIST 340），兩處打架，需作者裁定。
@@ -150,4 +150,4 @@
 
 ## 相關檔案
 
-`docs/outlines/ANCIENT_REALM_N2_EXIT_CANDIDATES.md`、`ANCIENT_REALM_N2_PLAN6_SKELETON.md`、`ANCIENT_REALM_EXIT_ROUTE_PROPOSAL.md`；`docs/events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`；`docs/characters/CHARACTER_XUAN_HENG.md`；`novel/volume04_v2/chapter001、005、036、039、044、071、072.md`；`novel/volume05/chapter014、017.md`；`novel/volume06b/chapter037.md`；`novel/volume10/chapter006.md`；`novel/volume12/chapter010.md`；`古界篇長篇化規劃.md`。
+`docs/outlines/ANCIENT_REALM_N2_EXIT_CANDIDATES.md`、`ANCIENT_REALM_N2_PLAN6_SKELETON.md`、`ANCIENT_REALM_EXIT_ROUTE_PROPOSAL.md`；`docs/events/EVENT_DEADSTILL_DOMAIN_XUANHENG.md`；`docs/characters/CHARACTER_XUAN_HENG.md`；`novel/volume04_v2/chapter001、005、036、039、044、071、072.md`；`novel/volume05/chapter014、017.md`；`novel/002_上界成道/012_古世雙界遠行/037_錨拔起的那夜，敵人第一次退.md`；`novel/003_邊荒承劫/004_長息/006_父親教他的第一件事.md`；`novel/003_邊荒承劫/005_大劫決裂/001_萬劫沉封域・劫後有家/010_蒼梧來看界牆.md`；`古界篇長篇化規劃.md`。

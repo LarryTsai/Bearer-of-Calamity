@@ -1,6 +1,6 @@
 # 第十一篇〈百宗盟試〉章節大綱
 
-狀態：舊九章拆解稿（2026-09-12）；新版 `volume02_v2` 以 `OUTLINE_VOLUME02_V2_UPPER_REALM.md` 的第十一篇章段為施工基準，本檔保留賽事場次材料。
+狀態：舊九章拆解稿（2026-09-12）；新版 `docs/STORY_STRUCTURE.md` 以 `OUTLINE_VOLUME02_V2_UPPER_REALM.md` 的第十一篇章段為施工基準，本檔保留賽事場次材料。
 
 ## ⚠️ 銜接落差提醒（待 jie-continuity 正式裁決）
 

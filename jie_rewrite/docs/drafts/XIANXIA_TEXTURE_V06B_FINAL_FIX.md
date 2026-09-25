@@ -1,6 +1,6 @@
 # volume06b 仙俠質感代表例：四方審查後定稿修正指示（2026-09-24，寫手3）
 
-輸入：`novel/drafts/xianxia_texture_v06b/REWRITES_part1.md`（例1～7）、`REWRITES_part2.md`（A～E組）。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點表已更新：蒼梧人形骨刺／頸段不外顯，以眉心或後頸淡疤一緊對應；鑑月銀斑屬原形，人形只用額心新月印；劫厄人形只有頸側、手背少量龍鱗）。回寫規則同 `XIANXIA_TEXTURE_V05_FINAL_FIX.md`（同段替換、同步 published、保留BOM換行、開發稿自檢補一行「2026-09-24仙俠質感改寫：…」）。以現行正文為準（剛完成第215題落地修正）。
+輸入：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/drafts/xianxia_texture_v06b/REWRITES_part1.md)（例1～7）、`REWRITES_part2.md`（A～E組）。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點表已更新：蒼梧人形骨刺／頸段不外顯，以眉心或後頸淡疤一緊對應；鑑月銀斑屬原形，人形只用額心新月印；劫厄人形只有頸側、手背少量龍鱗）。回寫規則同 `XIANXIA_TEXTURE_V05_FINAL_FIX.md`（同段替換、同步 published、保留BOM換行、開發稿自檢補一行「2026-09-24仙俠質感改寫：…」）。以現行正文為準（剛完成第215題落地修正）。
 **未核可、不得寫入正文**：古世禁繩的「一擰即斷」保證語氣、城守府「一城一塊」連城警石、蒼梧界痕辨敵我、人形骨刺／頸段／銀斑、判災透暗紅、假錨整夜遠距傳導。
 
 ## part1

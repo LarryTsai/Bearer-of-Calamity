@@ -1,6 +1,6 @@
 # 仙俠質感審查：novel/volume10 第一段（ch001～ch020）
 
-- **範圍**：`novel/volume10/chapter001.md`～`chapter020.md`（20章）。卷間篇〈長息〉第一幕〈留下的那一段身體，仍在替兩界承雷〉ch001～008、第二幕〈她不是被困住，只是還沒同意放手〉ch009～016、第三幕〈修士活得很久，也不是每一個人都等得到明天〉前半 ch017～020。章首「定位／時間／唯一來源依據」與章末「一致性自檢」不審。
+- **範圍**：`novel/003_邊荒承劫/004_長息/001_十二年先過去.md`～`chapter020.md`（20章）。卷間篇〈長息〉第一幕〈留下的那一段身體，仍在替兩界承雷〉ch001～008、第二幕〈她不是被困住，只是還沒同意放手〉ch009～016、第三幕〈修士活得很久，也不是每一個人都等得到明天〉前半 ch017～020。章首「定位／時間／唯一來源依據」與章末「一致性自檢」不審。
 - **狀態**：2026-09-24，只讀不改（替寫手3做逐章審查；未動 novel/ 與其他 docs，未做 git 操作）。
 - **依據文件**：`docs/XIANXIA_PERSPECTIVE_CHARTER.md`（最高前提）；`docs/XIANXIA_TEXTURE_GUIDE.md`；`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點、第五節現代詞、五之一十條教訓）；格式範本 `docs/drafts/XIANXIA_TEXTURE_VOLUME08_AUDIT_PART3.md`；參考 `docs/drafts/XIANXIA_TEXTURE_VOLUME09_AUDIT_G.md`（v09 窄查結論，機械掃除先例：公開板→公示木牌、試驗→試藥）；`docs/MACRO_OUTLINE.md`〈銜接段：長息〉；`docs/outlines/OUTLINE_LONG_BREATH.md`（ch001～020 各條、第一節控制原則、第七節離卷狀態）；`docs/characters/CHARACTER_LU_CHEN_FATHER.md`（五之二）、`CHARACTER_LUO_QINGHE.md`（三）、`CHARACTER_XUAN_HENG.md`（蒼梧 v2.0，三、外貌；代詞規則 343）、`CHARACTER_FENG_HAN.md`（六、六之一、六之二，2026-09-16 取消「形態不固定兵胚」）、`docs/systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`（黑洞三段式第4項）、`CHARACTER_QING_LI.md`（外貌、六之四代價）、`CHARACTER_GU_XIAOMAN.md`（九之一，慢半拍改寫裁決）、`CHARACTER_LIU_QINGTENG.md`、`CHARACTER_YUE_CHENYUAN.md`、`CHARACTER_SHEN_SHANHE.md`；`docs/drafts/LUO_SHENGYI_GUANSHENG_STARTER_PROMPT.md`、`docs/drafts/LUO_SHENGYI_GUANSHENG_CANDIDATES_V10_V12.md`。
 - **保護句**：ch007 L13（寫手2 已落洛生衣觀生句）——本報告任何一節都不列入改寫。

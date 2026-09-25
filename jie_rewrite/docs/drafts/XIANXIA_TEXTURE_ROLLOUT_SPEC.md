@@ -4,7 +4,7 @@
 
 ## 一、範圍與排除（PM 2026-09-24 裁定）
 
-- **只登記清單、不回寫**：`novel/lower_realm_v2/`（冷卻凍結）、`novel/volume04_v2/`（施工中；ch047～078 使用者裁定不動）。
+- **只登記清單、不回寫**：`novel/001_下界成根/README.md`（冷卻凍結）、`novel/002_上界成道/009_界潮與古界/README.md`（施工中；ch047～078 使用者裁定不動）。
 - **順序**：volume05 → volume06b → volume07 → volume02_v2＋ancient_battlefield_deep_v2 → volume03a_v2＋volume03 → volume09～12 → volume08（最後，待新版穩定）。volume06 已試導，補做機械掃除。
 
 ## 二、回寫深度：方案(c)

@@ -1,6 +1,6 @@
 # 仙俠質感審查：novel/volume03（第十三篇〈三千州爭鋒〉，69章）
 
-狀態：2026-09-24寫手3彙整（三段並行審查）。只讀不改。依據 `docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（方案c）、大綱 `docs/outlines/OUTLINE_THREE_THOUSAND_STATES.md`。時點 T08：陸沉尊者境、低荒一小階，三雷（煌命、劫命、鎮魄），命圖初開，活禁雛形只在ch048觸發一次（代價鎮魄五日）。封寒不同行（ch068雷訊令）。鏡像只有 `novel/published/volume03/`（upper_realm_v2未收錄）。
+狀態：2026-09-24寫手3彙整（三段並行審查）。只讀不改。依據 `docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（方案c）、大綱 `docs/outlines/OUTLINE_THREE_THOUSAND_STATES.md`。時點 T08：陸沉尊者境、低荒一小階，三雷（煌命、劫命、鎮魄），命圖初開，活禁雛形只在ch048觸發一次（代價鎮魄五日）。封寒不同行（ch068雷訊令）。鏡像只有 `novel/published/002_上界成道/008_三千州爭鋒/README.md`（upper_realm_v2未收錄）。
 **待窄查（進改寫前）**：荒此期原作錨點（jie-canon）、陸沉／洛生衣能力邊界與劫厄在場（jie-power-system）。
 
 ## 〇、總評

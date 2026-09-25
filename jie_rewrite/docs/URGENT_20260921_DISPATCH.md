@@ -8,7 +8,7 @@
 
 本輪已啟動三個 Codex 協作 agent；未取得既有 Claude Remote Control 寫手 session 的通訊能力，不能宣稱那些 session 已收到派工。既有寫手 1／2 的任務與 log 保留，本輪另列工作線避免混淆。
 
-閱讀基線：`V2_VOLUME_READING_MAP.md`、`novel/published/README.md` 與實際目錄已為十卷 291 章，含古戰域深層 40 章；舊 README／狀態板九卷 251 章摘要不可用來界定盤點範圍。古界 `volume04_v2` 為獨立施工線，仍未編入閱讀卷。
+閱讀基線：`V2_VOLUME_READING_MAP.md`、[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/published/README.md) 與實際目錄已為十卷 291 章，含古戰域深層 40 章；舊 README／狀態板九卷 251 章摘要不可用來界定盤點範圍。古界 `novel/002_上界成道/009_界潮與古界/README.md` 為獨立施工線，仍未編入閱讀卷。
 
 ## 五份來源及責任
 
@@ -39,7 +39,7 @@
 - [B：戰鬥清冊與故事初審](URGENT_20260921_B_BATTLE_STORY_REVIEW.md)：七峰 ch043～046 及古界 ch058～078 連讀完成；確立七峰名戰與古界 ch065～070 因果修訂優先。這不是全卷／全書驗收。
 - [C：三龍台長線整合](URGENT_20260921_C_DRAGON_INTEGRATION.md)：下界雷身不可前借，第226題古龍界不能自動等同新仙龍界；下界時間窗口與上界同行位置須再查。
 
-- U-A1 回報七峰劫瘋為 `volume02_v2/chapter044.md` 半決賽，`chapter045.md` 決賽對青璃，`chapter046.md` 仍承接此勝負；不能把劫瘋擴寫成決賽而抹掉青璃。
+- U-A1 回報七峰劫瘋為 `novel/002_上界成道/003_七峰大比/006_無虛之劍.md` 半決賽，`chapter045.md` 決賽對青璃，`chapter046.md` 仍承接此勝負；不能把劫瘋擴寫成決賽而抹掉青璃。
 - 現行單身登記與禁分限制須先核清；顧問的三身展開僅可作場面意圖，不能直接套入現行對戰。
 
 ## 第二批（使用者指示「繼續」後已派出）

@@ -1,6 +1,6 @@
 # volume06 仙俠質感15例：四方審查後定稿修正指示（2026-09-24，寫手3）
 
-輸入：`novel/drafts/xianxia_texture_trial_v06/REWRITES_part1.md`（例1～8）、`REWRITES_part2.md`（例9～15）。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`。已核可規則：`docs/events/EVENT_TIANSHEN_ACADEMY_AMBUSH.md` 八之一（轉令臺回執分級）、八之二（書院陣磚與空手邊界）。其餘改寫稿中的新器物／習慣提案（神識按入印、淺禁紋釘紙角等）**未核可，不得寫入正文**。
+輸入：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/drafts/xianxia_texture_trial_v06/REWRITES_part1.md)（例1～8）、`REWRITES_part2.md`（例9～15）。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`。已核可規則：`docs/events/EVENT_TIANSHEN_ACADEMY_AMBUSH.md` 八之一（轉令臺回執分級）、八之二（書院陣磚與空手邊界）。其餘改寫稿中的新器物／習慣提案（神識按入印、淺禁紋釘紙角等）**未核可，不得寫入正文**。
 
 ## 回寫規則
 

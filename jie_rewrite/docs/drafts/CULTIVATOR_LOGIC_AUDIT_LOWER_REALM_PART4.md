@@ -1,6 +1,6 @@
 # 修士邏輯審查：lower_realm_v2 第四篇〈太玄閣鍛身〉ch001~010
 
-> 2026-09-25，jie-cultivator-logic（agent無Write權限，報告由寫手2存檔）。範圍：`novel/lower_realm_v2/arc04_taixuan_forging/` ch001~010，對應MACRO_OUTLINE第四篇。基準表：CULTIVATOR_LOGIC_BASELINE v0.2。冷凍稿，只列建議；B類補句依PM 2026-09-25裁示，等作者對第三層與冷凍解凍決定後一併處理。
+> 2026-09-25，jie-cultivator-logic（agent無Write權限，報告由寫手2存檔）。範圍：`novel/001_下界成根/004_太玄閣鑄身/README.md` ch001~010，對應MACRO_OUTLINE第四篇。基準表：CULTIVATOR_LOGIC_BASELINE v0.2。冷凍稿，只列建議；B類補句依PM 2026-09-25裁示，等作者對第三層與冷凍解凍決定後一併處理。
 
 ## 前提與更正
 - **鍛身路線的理由正文已交代（A8）**：ch001:5「昨夜他說要以鍛身為根」＋禁典「看一眼就令識海發沉」；ch002:3「每有一道紋生效，相同的遲滯便先落回他的手腳」；ch002:15閣老「疼，不是站穩」；ch002:23禁典只讀最前一小段而身體能走完退步。挑水、木樁磕臂、麻繩負重是讀者看得出的刻意選擇；清道夫A8建議「補一句為何不走別路」，現稿已足夠。

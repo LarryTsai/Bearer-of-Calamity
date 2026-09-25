@@ -14,7 +14,7 @@
 
 能力及人物入口：[青璃人物檔](characters/CHARACTER_QING_LI.md)六、六之四、六之五；境界入口：[境界時間線](systems/SYSTEM_CULTIVATION_TIMELINE.md)；人物自主與跨篇接口：[跨篇人物驅動綱](outlines/OUTLINE_CROSS_ARC_CHARACTER_DRIVERS.md)。正式能力名為「相界」，「璃界」是外顯視覺稱呼，非第二套能力。
 
-篇序依[上界逐章來源表](../novel/published/upper_realm_v2/SOURCE_MANIFEST.md)及[閱讀對照](V2_VOLUME_READING_MAP.md)：02 ch001～086 → 深層001～040 → 02 ch087～093 → 03a → 03，再查施工中04至078。下表 `02`、`深層`、`03a`、`03`、`04` 分別指 `novel/volume02_v2/`、`novel/ancient_battlefield_deep_v2/`、`novel/volume03a_v2/`、`novel/volume03/`、`novel/volume04_v2/`，章號對應 chapterNNN.md。
+篇序依[上界逐章來源表](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/published/upper_realm_v2/SOURCE_MANIFEST.md)及[閱讀對照](V2_VOLUME_READING_MAP.md)：02 ch001～086 → 深層001～040 → 02 ch087～093 → 03a → 03，再查施工中04至078。下表 `02`、`深層`、`03a`、`03`、`04` 分別指 `docs/STORY_STRUCTURE.md`、`novel/002_上界成道/005_古戰域深層/README.md`、`docs/STORY_STRUCTURE.md`、`novel/002_上界成道/008_三千州爭鋒/README.md`、`novel/002_上界成道/009_界潮與古界/README.md`，章號對應 chapterNNN.md。
 
 本組全文覆讀：02 ch042、049～051、053～055、058～064、071、074～077、079、081～082、084～086；深層002～003、005、007、009、011、017、024、030、032、036～040。其中部分為本輪前已完成的正文複核，沿用讀取成果；其他相關章採搜尋及相鄰段落補證，不宣稱每次出場均全文連讀。人物檔已全文讀取。03a、03、04至078以「青璃／相界／璃界」搜尋無命中，這是本次搜尋結果，不能推定她離宗、返族或完成後期成長。
 

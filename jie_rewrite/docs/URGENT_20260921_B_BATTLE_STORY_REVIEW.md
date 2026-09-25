@@ -4,7 +4,7 @@
 
 ## 覆蓋範圍
 
-已讀三份相關顧問全文、作者核心需求、產線狀態、閱讀對照及審校 skill／review matrix。正文完整閱讀：七峰 `novel/published/volume02_v2/chapter043.md`～`chapter046.md`；古界 `novel/volume04_v2/chapter058.md`～`chapter078.md`。讀者判斷排除開發定位與自檢的預設。閱讀時 ch079 尚不存在，未找到古界 v2 published 目錄。
+已讀三份相關顧問全文、作者核心需求、產線狀態、閱讀對照及審校 skill／review matrix。正文完整閱讀：七峰 `novel/published/002_上界成道/003_七峰大比/005_摸得到的影.md`～`chapter046.md`；古界 `novel/002_上界成道/009_界潮與古界/058_欠帳要有名字.md`～`chapter078.md`。讀者判斷排除開發定位與自檢的預設。閱讀時 ch079 尚不存在，未找到古界 v2 published 目錄。
 
 未完成全書、全古界或全部戰鬥審查；未做全部正文版本一致性驗證，能力唯一來源核定另參 A 組。
 

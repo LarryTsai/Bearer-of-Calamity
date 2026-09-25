@@ -1,6 +1,6 @@
 # 仙俠質感審查：novel/volume08 ch081～097（原五幕後段：返關最後一息→戰報與封存→不朽者壓境側線→呼吸章→洛生衣七日滲透→七十四人名冊，17章）
 
-- 範圍：`novel/volume08/chapter081.md`～`chapter097.md`（章末「一致性自檢」不審正文，只在F記格式問題）
+- 範圍：`novel/003_邊荒承劫/002_異域同行與帝關守路/081_借來的一息.md`～`chapter097.md`（章末「一致性自檢」不審正文，只在F記格式問題）
 - 狀態：2026-09-24，只讀不改（jie-xianxia-texture，替寫手3做volume08第5段）
 - 依據：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（四、五、五之一）、格式範本`XIANXIA_TEXTURE_V07_AUDIT.md`／`XIANXIA_TEXTURE_VOLUME03A_V2_AUDIT_PART2.md`；大綱唯一來源`docs/outlines/OUTLINE_FOREIGN_DOMAIN_RETURN_ROUTE.md`第六、七幕（原始編號ch025～040＝現行ch081～097）與八「硬性安全閥」；封寒時點查`docs/characters/CHARACTER_FENG_HAN.md`七、`docs/outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`九之七。
 - 時點：ch081～084返關最後一息（同一場景連續四章）；ch085返關後第三日；ch086戰報定稿後；ch087異域全面壓境；ch088壓境後第三日；ch089返關後第十六日；ch090返關後第二十一日（失聯第一日）；ch091～095失聯第二～七日；ch096撤離後第三日；ch097七日滲透後。

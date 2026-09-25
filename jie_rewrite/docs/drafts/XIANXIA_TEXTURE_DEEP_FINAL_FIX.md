@@ -1,7 +1,7 @@
 # ancient_battlefield_deep_v2 仙俠質感代表例：四方審查後定稿修正指示（2026-09-24，寫手3）
 
-輸入：`novel/drafts/xianxia_texture_deep/REWRITES_A.md`（A1～A7）、`REWRITES_B.md`（B1～B7）。審查：canon pass（零侵入）；power-system、character、continuity 見下。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`。
-回寫規則同 `XIANXIA_TEXTURE_V05_FINAL_FIX.md`：同段替換、保留BOM與換行、開發稿自檢補一行「2026-09-24仙俠質感改寫：…」；同步 published 鏡像——deep ch001～019 → `novel/published/upper_realm_v2/volume06/chapter025～043.md`（編號+24）；deep ch020～040 → `novel/published/upper_realm_v2/volume07/chapter001～021.md`（編號−19）。published 無自檢段，只換正文。**2026-09-24清道夫回歸測試訂正**：原記載「deep ch001～018→volume06 ch019～036（+18）」與「ch019無鏡像」均為誤植，經核對`novel/published/upper_realm_v2/SOURCE_MANIFEST.md`第99～117行確認正確映射如上（ch019確有鏡像，即volume06 ch043）；本次質感改寫實際回寫操作已使用正確的+24映射，此訂正僅修正文件記錄本身，不影響已完成的回寫結果。
+輸入：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/drafts/xianxia_texture_deep/REWRITES_A.md)（A1～A7）、`REWRITES_B.md`（B1～B7）。審查：canon pass（零侵入）；power-system、character、continuity 見下。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`。
+回寫規則同 `XIANXIA_TEXTURE_V05_FINAL_FIX.md`：同段替換、保留BOM與換行、開發稿自檢補一行「2026-09-24仙俠質感改寫：…」；同步 published 鏡像——deep ch001～019 → `novel/published/upper_realm_v2/volume06/chapter025～043.md`（編號+24）；deep ch020～040 → `novel/published/upper_realm_v2/volume07/chapter001～021.md`（編號−19）。published 無自檢段，只換正文。**2026-09-24清道夫回歸測試訂正**：原記載「deep ch001～018→volume06 ch019～036（+18）」與「ch019無鏡像」均為誤植，經核對[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/published/upper_realm_v2/SOURCE_MANIFEST.md)第99～117行確認正確映射如上（ch019確有鏡像，即volume06 ch043）；本次質感改寫實際回寫操作已使用正確的+24映射，此訂正僅修正文件記錄本身，不影響已完成的回寫結果。
 
 **未核可、不得寫入正文**：天衡院「量尺貼前臂讀風」「吐納數息計時」作為宗門習慣；流石門「豎柄聽回震」作為宗門法；神識外探牽動外傷；雷痕刺點可比對／分辨來源；劫印定物。→ 只在 README 列待確認提案。
 REWRITES_B.md 檔頭「封寒此期是配重劍的劍修」為誤述（ch005起只帶空鞘，FH-04），不影響正文，FINAL 稿更正。

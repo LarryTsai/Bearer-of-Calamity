@@ -1,6 +1,6 @@
 # volume05 仙俠質感8例：審查後定稿修正指示（2026-09-24，寫手3）
 
-輸入：`novel/drafts/xianxia_texture_v05/REWRITES.md`。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`。回寫規則同 `docs/drafts/XIANXIA_TEXTURE_V06_FINAL_FIX.md`（同段替換、同步 published、保留BOM換行、開發稿自檢補一行）。以現行正文為準（ch006 L25已補觀生受壓句；ch007、009、010、012、014、016已修小bug）。
+輸入：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/drafts/xianxia_texture_v05/REWRITES.md)。準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`。回寫規則同 `docs/drafts/XIANXIA_TEXTURE_V06_FINAL_FIX.md`（同段替換、同步 published、保留BOM換行、開發稿自檢補一行）。以現行正文為準（ch006 L25已補觀生受壓句；ch007、009、010、012、014、016已修小bug）。
 
 ## 逐例
 

@@ -2,7 +2,7 @@
 
 狀態：規劃階段完成，等PM/使用者核可後才交`jie-writer`動筆。由`jie-chapter-editor`產出，寫手2覆核（含ch018原文核對）。
 
-範圍：`novel/volume08/chapter001.md`～`chapter040.md`（共40章，「異域同行與帝關守路」卷間篇，五幕結構）。唯一來源依據：`docs/events/EVENT_FOREIGN_DOMAIN_COMPANION_RETURN_ROUTE.md`八、`docs/characters/CHARACTER_FENG_HAN.md`七、`docs/systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`。
+範圍：`novel/003_邊荒承劫/002_異域同行與帝關守路/001_敵人送回四具屍體.md`～`chapter040.md`（共40章，「異域同行與帝關守路」卷間篇，五幕結構）。唯一來源依據：`docs/events/EVENT_FOREIGN_DOMAIN_COMPANION_RETURN_ROUTE.md`八、`docs/characters/CHARACTER_FENG_HAN.md`七、`docs/systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`。
 
 ---
 

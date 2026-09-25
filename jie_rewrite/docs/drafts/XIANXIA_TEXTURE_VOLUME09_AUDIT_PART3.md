@@ -1,6 +1,6 @@
 # 仙俠質感審查：novel/volume09 第三段（ch039～ch056）
 
-- **範圍**：`novel/volume09/chapter039.md`～`chapter056.md`（18章；第五幕末 ch039～040〈令牌放在地上／處決令撤回〉、第六幕〈逃出去的人，把那裡叫作劫禁區〉ch041～048、第七幕〈生道不是把每一個人都留下〉ch049～056）。章末「一致性自檢」不審。
+- **範圍**：`novel/003_邊荒承劫/003_十凶血路/039_令牌放在地上.md`～`chapter056.md`（18章；第五幕末 ch039～040〈令牌放在地上／處決令撤回〉、第六幕〈逃出去的人，把那裡叫作劫禁區〉ch041～048、第七幕〈生道不是把每一個人都留下〉ch049～056）。章末「一致性自檢」不審。
 - **狀態**：2026-09-24，只讀不改（替寫手3做逐章審查；未動 novel/ 與其他 docs，未做 git 操作）。
 - **依據文件**：`docs/XIANXIA_TEXTURE_GUIDE.md`；`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點表、第五節現代詞、五之一十條教訓）；格式範本 `docs/drafts/XIANXIA_TEXTURE_VOLUME08_AUDIT_PART3.md`；窄查慣例參考 `docs/drafts/XIANXIA_TEXTURE_VOLUME08_AUDIT_G.md`；`docs/MACRO_OUTLINE.md` 第十八篇〈十凶血路〉（原第十二篇）；`docs/outlines/OUTLINE_TEN_FIERCE_BLOOD_ROAD.md`（二入卷狀態、七～九幕 ch039～056、十安全閥、十一離卷）；`docs/events/EVENT_FIRST_CALAMITY_FORBIDDEN_BATTLEFIELD.md`（v1.2，含四安全閥）；`docs/characters/CHARACTER_LUO_SHENGYI.md`（十無聲渡、L217 第二形態正文落點）；`docs/characters/CHARACTER_XUAN_HENG.md`（蒼梧，三外貌 L41～48、五立界 L61）。
 - **行號**：以本報告寫成當下實檔為準（Read 逐章讀取）；精確替換前請再核一次。

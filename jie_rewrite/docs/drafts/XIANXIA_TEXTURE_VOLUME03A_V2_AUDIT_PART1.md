@@ -260,7 +260,7 @@
 ## F、範圍外正文bug（另報PM，不混入本工程）
 
 1. **ch001 L61「比水橋的禁力更明顯」**：ch001場景沒有水橋，水橋在ch003才出現，應改成青線或路禁。
-2. **ch001 L81「太玄宗給的入城押材」**：與`novel/volume02_v2/chapter099.md` L21「准的是個人身分、非宗門派遣，只交代他自備入城押材」矛盾。
+2. **ch001 L81「太玄宗給的入城押材」**：與`novel/002_上界成道/005_古戰域深層/047_可解的印.md` L21「准的是個人身分、非宗門派遣，只交代他自備入城押材」矛盾。
 3. **ch001 L17「煌命身與承身都能再次離體，陸沉今日卻只帶本尊進禁都」**：語意像兩具雷身在他體內、由他選擇不帶。大綱硬接縫是「煌命身在主峰煉丹、承身留鎮岳」。交power-system。
 4. **ch001 L33「甕身很燙」與「冷存藥液、低溫」並列**：讀者會混淆，原意可能是甕身已在回溫。
 5. **ch001 L13「走到第九人時」與L43「九段／九格」**：陸沉的誤讀在正文裡沒有明確收回，容易被讀成作者自相矛盾。
@@ -276,8 +276,8 @@
 
 ## 相關檔案
 
-- 審查範圍：`novel/volume03a_v2/chapter001.md` ～ `chapter010.md`
+- 審查範圍：`novel/002_上界成道/006_禁都與萬禁會/001_城外三百里，已在禁中.md` ～ `chapter010.md`
 - 準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`
 - 硬接縫：`docs/outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md`
 - 人物與世界：`docs/characters/CHARACTER_WEN_YI.md`、`docs/world/WORLD_FORBIDDEN_CAPITAL.md`
-- 交叉查證：`novel/volume02_v2/chapter099.md`（F2）、`novel/volume03a_v2/chapter014.md`（虎口舊疤錨點）、`novel/volume03a_v2/chapter020.md`（按印）
+- 交叉查證：`novel/002_上界成道/005_古戰域深層/047_可解的印.md`（F2）、`novel/002_上界成道/006_禁都與萬禁會/014_攻禁：律無咎只用寫在紙上的規則.md`（虎口舊疤錨點）、`novel/002_上界成道/006_禁都與萬禁會/020_兩份紀錄都要有人負責.md`（按印）

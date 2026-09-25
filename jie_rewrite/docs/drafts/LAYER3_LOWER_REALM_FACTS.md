@@ -50,7 +50,7 @@
 - 文件與正文差異：SIEGE寫閣內有「弟子、傷者」與接引古陣，正文只有四人與閣頂石臺古刻痕；「採買原由閣老」（a07 ch001:13）與閣老不能離閣區並讀有張力。
 
 **下界冷凍規則（PART_B第二節）**
-- 凍結定義：「下界v2已完成65章，暫停修改、留待冷卻後回讀」（`PIPELINE_STATUS.md:263`，另:206、:42）；範圍`novel/lower_realm_v2`共65章；published鏡像是否一併凍結docs無明文（隱含於`CULTIVATION_ASPIRATION_REVIEW_LOG.md:51`）。
+- 凍結定義：「下界v2已完成65章，暫停修改、留待冷卻後回讀」（`PIPELINE_STATUS.md:263`，另:206、:42）；範圍`novel/001_下界成根/README.md`共65章；published鏡像是否一併凍結docs無明文（隱含於`CULTIVATION_ASPIRATION_REVIEW_LOG.md:51`）。
 - **解凍條件**：需使用者明確同意「局部解凍」，PM不得自行決定，PM轉述不算數（`LAYER3_CANON_BOUNDARY_NOTES.md`；`CHECKLIST_PENDING_DECISIONS.md:2196、2279`；`CULTIVATION_ASPIRATION_REVIEW_LOG.md:7、51`）。
 - 冷卻期長度：docs無天數或期滿日定義，只有「等冷卻期滿再回頭」（`CULTIVATION_ASPIRATION_REVIEW_LOG.md:332`）。
 - 凍結下暫緩：269方向2、271方向2、272方向1、275 c/d/f/i。

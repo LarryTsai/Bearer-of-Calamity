@@ -2,7 +2,7 @@
 
 狀態：2026-09-24，只讀不改。準則依據：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（方案c、第四節錨點表、五之一十條教訓）、`docs/outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md`（跨卷硬接縫、戰鬥演出驗收）、`docs/outlines/OUTLINE_WEN_FAMILY_CRISIS.md`。人物對照：`docs/characters/CHARACTER_WEN_YI.md`、`docs/CHARACTER_COMBAT_WEN_YI.md`、`docs/world/WORLD_FORBIDDEN_CAPITAL.md` L37～41（律無咎、岑婆、聞栩；律無咎**沒有**獨立人物檔）、`docs/characters/CHARACTER_JIE_E.md`。
 
-**時點**：T07～T08。陸沉有三雷（煌命、劫命、鎮魄），命圖初開、三角穩定；厄已是實體；鑑月只留魂印、未外顯。煌命身與承身能離體，但本卷不隨行（ch001 L17「只帶本尊進禁都」）。舊傷在胸肋、右虎口、右腕，另有ch001 L17醫者的囑咐「遇禁先停、勿強催神識」。發布鏡像在`novel/published/volume03a_v2/`，已確認F列的bug同樣存在於鏡像。
+**時點**：T07～T08。陸沉有三雷（煌命、劫命、鎮魄），命圖初開、三角穩定；厄已是實體；鑑月只留魂印、未外顯。煌命身與承身能離體，但本卷不隨行（ch001 L17「只帶本尊進禁都」）。舊傷在胸肋、右虎口、右腕，另有ch001 L17醫者的囑咐「遇禁先停、勿強催神識」。發布鏡像在`docs/STORY_STRUCTURE.md`，已確認F列的bug同樣存在於鏡像。
 
 **改寫前要先窄查**：①jie-power-system：煌命當導能載體（ch020 L25「牽住一瞬」、ch026 L43「送入短紋引流」）；醫囑之下神識單點使用的上限；ch025折返用什麼方式移動。②jie-character：文奕、律無咎、岑婆的錨點提案（見〇）要先通知寫手3，補進推行規格第四節才能落筆。
 
@@ -183,7 +183,7 @@
 
 ## 相關檔案
 
-- 審查範圍：`novel/volume03a_v2/chapter020.md`～`chapter028.md`
+- 審查範圍：`novel/002_上界成道/006_禁都與萬禁會/020_兩份紀錄都要有人負責.md`～`chapter028.md`
 - 準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`
 - 硬接縫：`docs/outlines/OUTLINE_VOLUME03A_V2_FORBIDDEN_CAPITAL.md`、`docs/outlines/OUTLINE_WEN_FAMILY_CRISIS.md`
 - 人物與世界：`docs/characters/CHARACTER_WEN_YI.md`、`docs/CHARACTER_COMBAT_WEN_YI.md`、`docs/world/WORLD_FORBIDDEN_CAPITAL.md`、`docs/characters/CHARACTER_JIE_E.md`

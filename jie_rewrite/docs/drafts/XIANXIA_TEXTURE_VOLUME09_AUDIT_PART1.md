@@ -1,8 +1,8 @@
 # 仙俠質感審查：novel/volume09 第一段（ch001～ch019）
 
-- **範圍**：`novel/volume09/chapter001.md`～`chapter019.md`（19章；第十八篇〈十凶血路〉第一幕〈早年的血，現在才找到活人〉ch001～008、第二幕〈能救多少，不由最成功的一次決定〉ch009～016、第三幕〈若風險是真的，誰替尚未犯罪的人承擔〉前三章 ch017～019）。章末「一致性自檢」不審。
+- **範圍**：`novel/003_邊荒承劫/003_十凶血路/001_名冊上七十四個人.md`～`chapter019.md`（19章；第十八篇〈十凶血路〉第一幕〈早年的血，現在才找到活人〉ch001～008、第二幕〈能救多少，不由最成功的一次決定〉ch009～016、第三幕〈若風險是真的，誰替尚未犯罪的人承擔〉前三章 ch017～019）。章末「一致性自檢」不審。
 - **狀態**：2026-09-24，只讀不改（替寫手3做逐章審查；未動 novel/ 與其他 docs）。
-- **依據文件**：`docs/XIANXIA_TEXTURE_GUIDE.md`；`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點表、第五節現代詞、五之一十條教訓）；格式範本 `XIANXIA_TEXTURE_VOLUME08_AUDIT_PART3.md`；`docs/MACRO_OUTLINE.md` 第十八篇〈十凶血路〉（L356～）；`docs/outlines/OUTLINE_TEN_FIERCE_BLOOD_ROAD.md`（二入卷狀態、三～五幕、十安全閥）；`docs/characters/CHARACTER_RIVAL_TIANFA.md`（司天鑑、巡天災印感知精度 L53）；`docs/characters/CHARACTER_LUO_SHENGYI.md`（命線續接視覺 L35～36、輪印 L207）；`docs/drafts/LUO_SHENGYI_GUANSHENG_STARTER_PROMPT.md`；`novel/volume08/chapter097.md`（七十四人名冊實際來源）。
+- **依據文件**：`docs/XIANXIA_TEXTURE_GUIDE.md`；`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點表、第五節現代詞、五之一十條教訓）；格式範本 `XIANXIA_TEXTURE_VOLUME08_AUDIT_PART3.md`；`docs/MACRO_OUTLINE.md` 第十八篇〈十凶血路〉（L356～）；`docs/outlines/OUTLINE_TEN_FIERCE_BLOOD_ROAD.md`（二入卷狀態、三～五幕、十安全閥）；`docs/characters/CHARACTER_RIVAL_TIANFA.md`（司天鑑、巡天災印感知精度 L53）；`docs/characters/CHARACTER_LUO_SHENGYI.md`（命線續接視覺 L35～36、輪印 L207）；`docs/drafts/LUO_SHENGYI_GUANSHENG_STARTER_PROMPT.md`；`novel/003_邊荒承劫/002_異域同行與帝關守路/097_十凶血路.md`（七十四人名冊實際來源）。
 - **篇名說明**：README 與大綱檔自稱「第十二篇」，MACRO_OUTLINE 現行編號為「第十八篇（原第十二篇）」，本報告依 MACRO。
 
 ### 時點與角色狀態
@@ -238,7 +238,7 @@
 6. **ch013 L13 療程算數**：「標準慢藥需四十日；若再減半，至少要在深室住半年」——速度減半約八十日，與「半年」不合；L33、L37「多留半年」同源。改「住上三個月」或把「減半」改「再慢數倍」。
 7. **時序與數字小項**：ch014 L11「前三日的數據」寫在第五日清晨，試行已過四日；ch014 L11 已「再延三日」、ch016 L51 又「處決令再延三日」——是第二次延後還是重述，讀者無從判斷，須擇一；ch018 L51「九人甚至從未接觸那批古獸骨」——ch017 只有一截古獸骨，「那批」指涉不明。
 8. **【交總控】人名撞字**：「聞硯」（本卷核心倖存者）與禁都萬禁會記錄官「聞栩」（SPEC 錨點表已收錄）同姓近名，本卷又與「記錄官」同場頻繁出現；「蘇檀」（受害醫者）與「蘇禾」（採藥戶，SPEC 已收錄）、本卷「阮禾」字形相近。是否改名由總控定。
-9. **章首過期標註**：ch001 L4「時間：Volume08 ch040後」（大綱第6行同）——七十四人名冊實際在 `novel/volume08/chapter097.md`，章號已重編，須更新。
+9. **章首過期標註**：ch001 L4「時間：Volume08 ch040後」（大綱第6行同）——七十四人名冊實際在 `novel/003_邊荒承劫/002_異域同行與帝關守路/097_十凶血路.md`，章號已重編，須更新。
 10. **ch019 L33「聞硯指了指自己缺失的半日」**：半日是時間不能指；改「指了指記錄上空掉的那半日」。低優先。
 
 ---

@@ -31,7 +31,7 @@
 | --- | --- | --- |
 | RC-XH-01 | Volume04全卷（ch001～056）逐章規劃完成：25章刪除、31章整段重寫、0章保留不動。四項TODO已全部裁定（2026-09-12） | ✅ 規劃完成，實際改寫未執行 |
 | RC-XH-02 | 「血祭殘煞」機制起源已定案（長生勢力帝關分支方向），與古界弧線無直接關係，僅供背景參照 | ✅ 定案，正文待落筆 |
-| RC-XH-03 | 鑑月首次顯化外環的替代場景（封寒界潮吞噬失控、鑑月截魂，即ch011〈獅吼截魂〉【215題四伴星改名：「獅吼」為鎮無央舊獅形招式意象，該舊標題屬既有`novel/volume04/chapter011.md`檔案位置指認，非鑑月新版仍有獅吼動作，該章整段重寫時標題本身需一併更新，待`jie-chapter-editor`處理】）已確認採用 | ✅ 確認，具體分場細節待`jie-chapter-editor` |
+| RC-XH-03 | 鑑月首次顯化外環的替代場景（封寒界潮吞噬失控、鑑月截魂，即ch011〈獅吼截魂〉【215題四伴星改名：「獅吼」為鎮無央舊獅形招式意象，該舊標題屬既有[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/volume04/chapter011.md)檔案位置指認，非鑑月新版仍有獅吼動作，該章整段重寫時標題本身需一併更新，待`jie-chapter-editor`處理】）已確認採用 | ✅ 確認，具體分場細節待`jie-chapter-editor` |
 | RC-XH-04 | 「鎖魂禁」「萬雷禁」等既有能力鬆動場景，掛靠地已從仙古／死寂雷域改指界潮／古界，機制與代價邏輯不變，只換場景名稱 | ✅ 定案，正文回溯待落筆 |
 | RC-XH-05 | 界潮／古界具體場景已定案為多國戰爭史詩（即`OUTLINE_ANCIENT_REALM_WAR.md`），四項TODO已裁定 | ✅ 定案，**八節四項待覆核事項從未實際執行**（見下1.4） |
 
@@ -193,7 +193,7 @@
 
 ### 9. 五島終局
 
-已於一、1.3詳述，沿用已完稿的`novel/volume04/chapter018.md`〈站入裂縫〉、`chapter019.md`〈四傷為路〉，不重複列出。
+已於一、1.3詳述，沿用已完稿的[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/volume04/chapter018.md)〈站入裂縫〉、`chapter019.md`〈四傷為路〉，不重複列出。
 
 ### 10. 出來後怎麼銜接書院
 

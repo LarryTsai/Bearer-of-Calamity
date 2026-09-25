@@ -1,6 +1,6 @@
 # 修士邏輯審查：下界第三篇〈虛神界〉（arc03 ch001~008）
 
-> 2026-09-25，jie-cultivator-logic（agent無Write權限，報告由寫手2存檔）。範圍：`novel/lower_realm_v2/arc03_void_spirit_realm/` ch001~008，對應MACRO_OUTLINE第三篇；README與OUTLINE_DRAFT只作背景。基準表：CULTIVATOR_LOGIC_BASELINE v0.2。狀態：冷凍稿，只列建議，不改檔（PM 2026-09-25有限解凍僅限補一句專屬理由與機械修正）。
+> 2026-09-25，jie-cultivator-logic（agent無Write權限，報告由寫手2存檔）。範圍：`novel/001_下界成根/003_虛神界/README.md` ch001~008，對應MACRO_OUTLINE第三篇；README與OUTLINE_DRAFT只作背景。基準表：CULTIVATOR_LOGIC_BASELINE v0.2。狀態：冷凍稿，只列建議，不改檔（PM 2026-09-25有限解凍僅限補一句專屬理由與機械修正）。
 
 ## 場景檢查表
 

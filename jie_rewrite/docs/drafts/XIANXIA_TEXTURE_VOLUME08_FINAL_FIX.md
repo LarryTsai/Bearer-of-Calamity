@@ -1,6 +1,6 @@
 # volume08 仙俠質感代表例：四方審查後定稿修正指示（2026-09-25，寫手3）
 
-輸入：`novel/drafts/xianxia_texture_v08/REWRITES_A.md`（R1～R5＋E ch001/ch015）、`REWRITES_B.md`（R6～R10＋E ch022/029/044/048）、`REWRITES_C.md`（R11～R15＋E ch068/088/092）。硬限制：`docs/drafts/XIANXIA_TEXTURE_VOLUME08_AUDIT_G.md`。
+輸入：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/drafts/xianxia_texture_v08/REWRITES_A.md)（R1～R5＋E ch001/ch015）、`REWRITES_B.md`（R6～R10＋E ch022/029/044/048）、`REWRITES_C.md`（R11～R15＋E ch068/088/092）。硬限制：`docs/drafts/XIANXIA_TEXTURE_VOLUME08_AUDIT_G.md`。
 **審查進度**：canon（完成，warning）、power-system（完成）；**character 因 API 使用量上限中斷（2026-09-25 約 02:10 重置後重跑）**；continuity 進行中或待重跑。**character／continuity 回來前不得回寫。**
 回寫以最新 dev 為準（寫手2 蒼梧代詞批2已完成；清道夫因果補句約定在我全卷掃完後才動 volume08）。
 

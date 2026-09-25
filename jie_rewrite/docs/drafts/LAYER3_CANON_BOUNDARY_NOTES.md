@@ -1,6 +1,6 @@
 # 下界原作不可改邊界（第三層仙人文明用；jie-canon 查證，寫手2整理）
 
-> 2026-09-25。純唯讀查證，只引 docs 對原作的既有整理，不憑記憶捏造原作內容；docs 沒寫者明標「docs無記載」。出處檔皆在 `story/jie_rewrite/docs/` 或 `novel/lower_realm_v2/` 下。
+> 2026-09-25。純唯讀查證，只引 docs 對原作的既有整理，不憑記憶捏造原作內容；docs 沒寫者明標「docs無記載」。出處檔皆在 `story/jie_rewrite/docs/` 或 `novel/001_下界成根/README.md` 下。
 
 ## 一、不可改（附出處）
 - **荒的下界時序與功業**：荒的下界節點 PW-00～PW-07 不可改；硬錨 PW-03 百斷山（洞天境，第1909章回顧）、PW-06／PW-07 七神下界；第419章已鎖荒為列陣王境；荒在虛神界的破極境、肉身紀錄與聲名歸荒（`canon/PERFECT_WORLD_CANON_TIMELINE.md` L31、L32、L35、L36、L105、L232）；七神之戰、荒的死劫與復甦不可由陸沉取代（同檔 L36、L111～L115）。
@@ -11,11 +11,11 @@
 - **柳神**：迎戰上界巨頭、進入原始之門，不可略成普通離別（canon L110）。
 - **上界銜接**：荒復甦後進上界是順序鎖（canon L42、L121～L122）；陸沉先走界海雷淵與道天界，不與荒同行（`MACRO_OUTLINE.md` L133～L152）。
 - **下界大劫**：荒與劫在同一場大劫的不同戰場，劫守太玄閣、追雷入界隙（canon L36；`events/EVENT_TAIXUAN_PAVILION_SIEGE.md` L16）。
-- **下界凍結稿**：`novel/lower_realm_v2` 是冷卻凍結稿，動它必須使用者明確同意局部解凍，PM不得逕行決定（見第三節）。
+- **下界凍結稿**：`novel/001_下界成根/README.md` 是冷卻凍結稿，動它必須使用者明確同意局部解凍，PM不得逕行決定（見第三節）。
 
 ## 二、可改但需審
-- 下界內的原創時序（虛神界、真假委託、北海橋段）已由 `novel/lower_realm_v2/CONTINUITY_PLAN.md` 等鎖定順序，改動先過 canon 與 continuity。
-- 魔女在下界的稱呼：原著個人本名待查證，不自造（`lower_realm_v2/README.md` L26；CHECKLIST 第219題）。
+- 下界內的原創時序（虛神界、真假委託、北海橋段）已由 [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/lower_realm_v2/CONTINUITY_PLAN.md) 等鎖定順序，改動先過 canon 與 continuity。
+- 魔女在下界的稱呼：原著個人本名待查證，不自造（[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/lower_realm_v2/README.md) L26；CHECKLIST 第219題）。
 - 虛神界事件的紀錄歸屬已訂正為陸沉與文奕共同持有（canon L31）。
 - 下界沒有新事件可靠「原作沒寫」直接加；凡影響荒的勝負、傳承、死亡或立場，都要先有事件檔建立安全閥。
 
@@ -31,7 +31,7 @@ docs 只有荒的境界，沒有下界一般修士的境界階。docs 沒有寫�
 **(1) 下界修士密度**：docs無記載，需作者或原作查核。只有間接事實：下界有荒的石國、補天閣，也有原創的太玄閣、劫族與截天教線；閣老「無法遠行」（`CONTINUITY_PLAN.md` L17）與宋知微、阿硯入隊只是原創個案，不構成密度設定。
 **(2) 「修士文明存在幾萬年」的下界痕跡**：docs有原創痕跡，無原作對應。原創部分：虛神界「上古殘禁」與仙王殘魂、《古神禁典》（`MACRO_OUTLINE.md` L75、L77）；「太玄古代公共工程」與萬年古雷脈（`events/EVENT_TAIXUAN_ANCIENT_THUNDER_VEIN_RECONNECTION.md` L17、L25）；萬年雷池，禁地建築與傳承已消亡（`events/EVENT_TAIXUAN_TEN_THOUSAND_YEAR_THUNDER_POOL.md` L14）；劫族是遠古大劫時期被選來承接天災的人族支脈（`factions/FACTION_JIE_CLAN.md` L7）。原作部分（荒古禁地、仙古遺跡、石村祖器）docs均無記載。注意：仙古遺跡整段已推翻，劫不再去仙古遺跡（`MACRO_OUTLINE.md` L266），因此仙古不能當作下界痕跡的錨點。
 **(3) 只在上界卷補、不動下界**：docs有明確凍結規則。
-- 凍結範圍：`lower_realm_v2` 冷卻凍結，改動需使用者同意解凍；上界卷（volume03、03a_v2、10、02_v2）不受凍結限制（`drafts/CHECKLIST_268_269_TAIXUAN_PAVILION_STATUS_AND_OPTIONS.md` L5；`PIPELINE_STATUS.md` L42、L263；`CHECKLIST_PENDING_DECISIONS.md` L2226~L2234、L2260~L2279；`CULTIVATION_ASPIRATION_REVIEW_LOG.md` L332）。
+- 凍結範圍：`novel/001_下界成根/README.md` 冷卻凍結，改動需使用者同意解凍；上界卷（volume03、03a_v2、10、02_v2）不受凍結限制（`drafts/CHECKLIST_268_269_TAIXUAN_PAVILION_STATUS_AND_OPTIONS.md` L5；`PIPELINE_STATUS.md` L42、L263；`CHECKLIST_PENDING_DECISIONS.md` L2226~L2234、L2260~L2279；`CULTIVATION_ASPIRATION_REVIEW_LOG.md` L332）。
 - 先例：第272題選「上界改默寫、下界不動」；第275題 c、d、f、i 因涉及凍結稿暫緩，g 改用純文件處理；凍結稿也不套用「修仙感」整改，該整改先只用在古界 Act5。
 - 推論：舉證與補記可放上界（如太玄閣三人下落、殘冊、族老南坡孩子等已登記矛盾）；若要補「下界有幾萬年修士文明」的痕跡，最合規的做法是在上界以回憶、器物或傳訊補述並登記 CHECKLIST，經作者確認。
 

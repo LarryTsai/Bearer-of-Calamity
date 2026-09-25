@@ -1,6 +1,6 @@
 # 9/21 urgent 第六批：七峰劫瘋戰一正文
 
-[戰一工作稿](../novel/work_in_progress/EB-001/duel_01.md)已完成24段正文及兩路獨立整章複核。這是五章名戰的第一章初稿；戰二至戰五待寫，尚未整合正式閱讀線。
+[戰一工作稿](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/work_in_progress/EB-001/duel_01.md)已完成24段正文及兩路獨立整章複核。這是五章名戰的第一章初稿；戰二至戰五待寫，尚未整合正式閱讀線。
 
 本章從追腕被回鋒阻斷，推進到拍劍撤掌、短拳逼退，再以腳肩切入劍內；封寒主動進身反制，接戰二近身爭奪。第二劍收半寸、後腳發力切入、刺改撩的054回問錨點保留，沒有授予新能力或提前咳血。
 

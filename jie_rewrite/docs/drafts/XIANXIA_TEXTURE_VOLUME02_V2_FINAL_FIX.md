@@ -66,18 +66,18 @@
 
 1. 「封力拳環」建議收入`ROLLOUT_SPEC`第五節機械性現代詞對照表（見上方三）。
 2. 劫厄角色檔補「明滅＝估量/專注」vs「轉暗＝耗損」區分說明（見上方三）。
-3. `novel/README.md`記載volume02_v2「全93章」，但`novel/volume02_v2/`與`novel/published/volume02_v2/`實際皆已到chapter099——兩位寫手各自獨立發現同一落差，建議一併更新README。
+3. `novel/README.md`記載volume02_v2「全93章」，但`docs/STORY_STRUCTURE.md`與`docs/STORY_STRUCTURE.md`實際皆已到chapter099——兩位寫手各自獨立發現同一落差，建議一併更新README。
 
 ---
 
 ## 六、下一步
 
 - ~~寫手3依4-1、4-2修正`REWRITES_structural.md`後，本文件4-2的補強項可視情況一併採用；4-1為必改項。~~ **已完成**：寫手3已修正064-D青璃（改回直接對陸沉當面表態）、075-F洛生衣（補観生錨點）、提案6主裁禁制（強度定位＋資格線索，記於提案文件本身，未寫入正文旁白，避免違反「不解釋機制」原則）。
-- ~~全部四份草稿定案後，依序：回寫至`novel/volume02_v2/`對應章節正文＋`novel/published/volume02_v2/`鏡像→ Phase 2機械性現代詞掃除 → 輕量`jie-continuity`複核 → 交PM看示範。~~ **全部完成**，見下方七、執行紀錄。
+- ~~全部四份草稿定案後，依序：回寫至`docs/STORY_STRUCTURE.md`對應章節正文＋`docs/STORY_STRUCTURE.md`鏡像→ Phase 2機械性現代詞掃除 → 輕量`jie-continuity`複核 → 交PM看示範。~~ **全部完成**，見下方七、執行紀錄。
 
 ## 七、執行紀錄（2026-09-24 完成）
 
-**回寫範圍**：19個唯一章節（部分含多處改寫），dev（`novel/volume02_v2/`）＋`novel/published/volume02_v2/`鏡像＋`novel/published/upper_realm_v2/`（閱讀版，依`SOURCE_MANIFEST.md`映射）三份鏡像同步。
+**回寫範圍**：19個唯一章節（部分含多處改寫），dev（`docs/STORY_STRUCTURE.md`）＋`docs/STORY_STRUCTURE.md`鏡像＋`novel/published/002_上界成道/README.md`（閱讀版，依`SOURCE_MANIFEST.md`映射）三份鏡像同步。
 
 - 寫手2負責：ch011/013/015/019/022/042/048/061/067/068/086/089/097（含luoshengyi/luchen/others三份草稿全部＋structural的ch061/ch089連動句）。
 - 寫手3負責：ch064/065/069/075/076/077/081（structural核心四章＋連動句）。
@@ -85,8 +85,8 @@
 - **Phase 2機械性現代詞掃除**：全99章實際命中僅12章17處（面試/試紙/配額/撤離窗口/綜合配位/評議室/簽收/候選測試/供能槽/供能線/目測/核災訊牌/場地筆記/中間人），已排除2處假陽性（ch064「正面試路」是巧合斷詞，非「面試」）。寫手2完成ch019/022/023/040/043（5章7處），寫手3完成ch050/051/056/057/068/073/080（7章10處，其中ch068順手補回洛生衣觀生錨點）。交叉核對三份鏡像皆確認舊詞不殘留。
 
 **已知但本輪不處理的既有落差（建議提醒PM）**：
-1. `novel/README.md`記載volume02_v2「全93章」，但`novel/volume02_v2/`與`novel/published/volume02_v2/`實際皆已到chapter099——寫手2與寫手3各自獨立發現同一落差。
-2. `novel/published/upper_realm_v2/SOURCE_MANIFEST.md`同樣只映射volume02_v2至chapter093（對應卷7第28章），chapter094～099完全未納入upper_realm_v2閱讀版，且ch086、ch089在upper_realm_v2對應位置（volume06/chapter018.md、volume07/chapter024.md）的內容本身是舊版/不同版本，套不上這次的改寫語句——upper_realm_v2的建置腳本`scripts/build_upper_realm_reading_v2.py`看來需要重跑，才能反映volume02_v2目前到ch099的實際進度。
+1. `novel/README.md`記載volume02_v2「全93章」，但`docs/STORY_STRUCTURE.md`與`docs/STORY_STRUCTURE.md`實際皆已到chapter099——寫手2與寫手3各自獨立發現同一落差。
+2. [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/published/upper_realm_v2/SOURCE_MANIFEST.md)同樣只映射volume02_v2至chapter093（對應卷7第28章），chapter094～099完全未納入upper_realm_v2閱讀版，且ch086、ch089在upper_realm_v2對應位置（volume06/chapter018.md、volume07/chapter024.md）的內容本身是舊版/不同版本，套不上這次的改寫語句——upper_realm_v2的建置腳本`scripts/build_upper_realm_reading_v2.py`看來需要重跑，才能反映volume02_v2目前到ch099的實際進度。
 3. 「封力拳環」建議收入`ROLLOUT_SPEC`第五節機械性現代詞對照表；劫厄角色檔待補「明滅＝估量/專注」vs「轉暗＝耗損」區分說明——兩者皆待PM/顧問/author層級核可，非寫手2/3可自行拍板。
 
 **狀態**：volume02_v2仙俠質感改寫全流程（審查清單→代表例改寫→四方審查→FINAL_FIX逐例修正→回寫＋Phase2機械掃除→輕量複核）已全部完成，可交PM看示範、轉呈顧問/作者審閱。

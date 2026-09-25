@@ -1,6 +1,6 @@
 # 仙俠質感審查：novel/volume09 第二段（ch020～ch038）
 
-- **範圍**：`novel/volume09/chapter020.md`～`chapter038.md`（19章；第三幕〈若風險是真的，誰替尚未犯罪的人承擔〉後半 ch020～024、第四幕〈要阻止處決，先學會不把人打壞〉ch025～032、第五幕〈代天罰人之前，先問天由誰代〉前六章 ch033～038）。章首定位欄與章末「一致性自檢」不審。
+- **範圍**：`novel/003_邊荒承劫/003_十凶血路/020_漏掉的聲音.md`～`chapter038.md`（19章；第三幕〈若風險是真的，誰替尚未犯罪的人承擔〉後半 ch020～024、第四幕〈要阻止處決，先學會不把人打壞〉ch025～032、第五幕〈代天罰人之前，先問天由誰代〉前六章 ch033～038）。章首定位欄與章末「一致性自檢」不審。
 - **狀態**：2026-09-24，只讀不改（替寫手3做逐章審查；未動 novel/ 與其他 docs）。
 - **依據文件**：`docs/XIANXIA_TEXTURE_GUIDE.md`；`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點表、第五節現代詞、五之一十條教訓）；格式範本 `docs/drafts/XIANXIA_TEXTURE_VOLUME08_AUDIT_PART3.md`；`docs/MACRO_OUTLINE.md` 第十八篇〈十凶血路〉；`docs/outlines/OUTLINE_TEN_FIERCE_BLOOD_ROAD.md`（二入卷狀態、五～七幕逐章、十全卷安全閥）；`docs/characters/CHARACTER_RIVAL_TIANFA.md`（司天鑑：L49～L82 死戰結局、L76 不當場死亡）；`docs/systems/SYSTEM_TEN_CALAMITY_THUNDERS.md`（L171 空手「熾白骨雷配焦黑傷紋」、六之一制勢指 L220～L224）；`novel/README.md` L46。
 - **行號**：以本報告寫成當下實檔為準；引文均逐字核對。

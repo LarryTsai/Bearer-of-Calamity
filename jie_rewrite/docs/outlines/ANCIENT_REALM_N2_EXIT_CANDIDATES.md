@@ -26,7 +26,7 @@
 
 - **A. 有一個既定情節點在 v2 還沒寫進正文**：「陸沉拒絕把牠留作永久界樁」。
   - 出處：`FACTION_FOUR_COMPANION_STARS.md` 第 37 行、`EVENT_DEADSTILL_DOMAIN_XUANHENG.md` 第 53 行、`SYSTEM_TEN_CALAMITY_THUNDERS.md` 第 232 行。
-  - v2 的 ch001～079 都沒有這場戲。只有舊版 `novel/volume04/chapter017.md` 第 145 行，而那是死寂雷域版本。
+  - v2 的 ch001～079 都沒有這場戲。只有舊版 [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/volume04/chapter017.md) 第 145 行，而那是死寂雷域版本。
   - 這一拍必須發生在交魂印之前。在第四卷裡，N-2 幾乎是最後的自然落點。
 - **B. Act4 陸沉的「谷口／谷心異常」一直懸著**：ch036、ch039 寫到兩份互相矛盾的讀法，加上齊整切口的人為痕跡。ch047 以後一次都沒再提。
 - **C. ch025 的先例**：蒼梧認得程序化的秩序構造裡本來就有的洩壓縫。
@@ -106,7 +106,7 @@
   - 門檻需要 R2。
 - **涉及人物**：蒼梧、陸沉、汐禾、封寒
 - **對應大綱卡點**：N-2；伴星交魂印前置條件
-- **與既有設定的銜接點**：`EVENT_DEADSTILL_DOMAIN_XUANHENG.md` 第 53 行；`CHARACTER_XUAN_HENG.md` 第 63 行；`novel/volume10/chapter006.md`
+- **與既有設定的銜接點**：`EVENT_DEADSTILL_DOMAIN_XUANHENG.md` 第 53 行；`CHARACTER_XUAN_HENG.md` 第 63 行；`novel/003_邊荒承劫/004_長息/006_父親教他的第一件事.md`
 - **風險提示**：
   - 原作侵入程度：低
   - 是否可能提前使用未取得的能力：需 PowerSystemAgent 複查（代界的延伸解讀、鎮界的一息）
@@ -239,5 +239,5 @@
 - `docs/outlines/ANCIENT_REALM_EXIT_VERIFICATION_PLAN.md`
 - `docs/outlines/ANCIENT_REALM_EXIT_ROUTE_PROPOSAL.md`
 - 古界篇長篇化規劃（使用者原始文件）
-- `novel/volume04_v2/chapter001.md`、`chapter005.md`、`chapter025.md`、`chapter036.md`、`chapter042.md`、`chapter071.md`
-- `novel/volume04/chapter017.md`（舊版永久界樁場景，僅供參考）
+- `novel/002_上界成道/009_界潮與古界/001_強闖與截魂.md`、`chapter005.md`、`chapter025.md`、`chapter036.md`、`chapter042.md`、`chapter071.md`
+- [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/volume04/chapter017.md)（舊版永久界樁場景，僅供參考）

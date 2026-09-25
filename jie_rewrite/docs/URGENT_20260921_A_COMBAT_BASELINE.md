@@ -4,7 +4,7 @@
 
 ## 正文座標
 
-根目錄為 `story/jie_rewrite`。施工 `novel/volume02_v2` 不等於閱讀卷二。
+根目錄為 `story/jie_rewrite`。施工 `docs/STORY_STRUCTURE.md` 不等於閱讀卷二。
 
 | 施工章 | 閱讀座標 | 功能 |
 | --- | --- | --- |
@@ -15,7 +15,7 @@
 | ch046〈榜後還有路〉 | 卷五第8章 | 封寒以半決賽輸者復盤 |
 | ch054〈空著的隊長欄〉 | 卷五第16章 | 封寒回看等腳落定的錯判 |
 
-來源對照：`novel/published/upper_realm_v2/SOURCE_MANIFEST.md`。本輪不改賽序；顧問期待劫瘋名戰，不必解讀成必須把它改為冠軍決賽。
+來源對照：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/published/upper_realm_v2/SOURCE_MANIFEST.md)。本輪不改賽序；顧問期待劫瘋名戰，不必解讀成必須把它改為冠軍決賽。
 
 ## 陸沉：七峰單身參賽期
 

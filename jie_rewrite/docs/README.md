@@ -33,7 +33,7 @@
 - `outlines/OUTLINE_WEN_FAMILY_CRISIS.md`：插段〈文家遭難〉幕次拆分提案（4章），含新增勢力，**2026-09-22補記**：本檔v1.1已於2026-09-12同日完成canon/continuity/character/power-system四方覆核並經使用者裁定採用，正式定案，可進入jie-chapter-editor/jie-writer流程。
 - `outlines/OUTLINE_THREE_THOUSAND_STATES_BREATHER.md`：第十三篇三千州爭鋒篇末呼吸段插入點（ch050/051間，2～3章），尚未經覆核。
 - `outlines/OUTLINE_ACADEMY_VAULT_INTROSPECTION.md`：天神書院「書院寶庫」自省考驗（淵劫）插入點（ch030/031間，2章），三痕古域／雷霆痕／天煞痕設定與封寒護短起源已完成四方覆核（見 `CHECKLIST_PENDING_DECISIONS.md` 第180題），**2026-09-22補記**：插入編號已於2026-09-13裁定並執行完畢，新章一、新章二已正式寫入`chapter031.md`、`chapter032.md`並通過四方複核，`OUTLINE_TIANSHEN_ACADEMY.md`原ch031起章次已整體後移兩位（全篇現為五十章）。
-- `outlines/OUTLINE_BORDER_ROAD_EXPANSION.md`：Volume07界路篇擴寫（178題#2，原16章擴增至31章）＋主線甲文奕帝關插入點，含兩具分身雷身熄滅＋本尊瀕死/赤翎化灰記憶代價等核心場景設計。**2026-09-22補記**：已完稿，`novel/volume07/`ch041～071全31章，見`CHECKLIST_PENDING_DECISIONS.md`178題#2。
+- `outlines/OUTLINE_BORDER_ROAD_EXPANSION.md`：Volume07界路篇擴寫（178題#2，原16章擴增至31章）＋主線甲文奕帝關插入點，含兩具分身雷身熄滅＋本尊瀕死/赤翎化灰記憶代價等核心場景設計。**2026-09-22補記**：已完稿，`novel/003_邊荒承劫/001_帝關初戰/README.md`ch041～071全31章，見`CHECKLIST_PENDING_DECISIONS.md`178題#2。
 - `outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`：Volume08整卷重建結構規劃（178題#3，原40章擴增至約92章），含插入點結構性發現（ch016/017間，不動既有38章）、8→0→8核心場景、封寒拆王支線與文奕託付插入點；Act III約50章細節尚未展開，需分批交jie-creative後再排逐章大綱，尚未經覆核。
 - `outlines/OUTLINE_VOID_SPIRIT_REALM.md`：第三篇〈虛神界〉七節章綱，文奕、魔女兩線同場開場，尚未經覆核。
 - `outlines/OUTLINE_HUNDRED_BROKEN_MOUNTAIN.md`：第五篇〈百斷山〉六章章綱，魔女互救為全篇核心，尚未經覆核。

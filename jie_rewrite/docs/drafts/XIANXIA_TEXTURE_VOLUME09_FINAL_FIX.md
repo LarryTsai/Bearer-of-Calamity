@@ -1,6 +1,6 @@
 # volume09 仙俠質感代表例：審查後定稿修正指示（四方審查定稿，2026-09-25，寫手3）
 
-輸入：`novel/drafts/xianxia_texture_v09/REWRITES_A.md`（R1～R6＋E ch004/016/017）、`REWRITES_B.md`（R7～R11＋460A＋E ch022/023/033）、`REWRITES_C.md`（R12～R15＋E ch041/047/056）。硬限制：`docs/drafts/XIANXIA_TEXTURE_VOLUME09_AUDIT_G.md`。
+輸入：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/drafts/xianxia_texture_v09/REWRITES_A.md)（R1～R6＋E ch004/016/017）、`REWRITES_B.md`（R7～R11＋460A＋E ch022/023/033）、`REWRITES_C.md`（R12～R15＋E ch041/047/056）。硬限制：`docs/drafts/XIANXIA_TEXTURE_VOLUME09_AUDIT_G.md`。
 **審查進度**：canon／character／power／continuity 四方完成；**以本檔末節「定稿彙整」為準**（跨審查衝突已裁定）。
 另：ch049／ch005 洛生衣誤判段已依 PM 裁決（第三種）落 dev，專屬 continuity／character 複核重跑中。
 

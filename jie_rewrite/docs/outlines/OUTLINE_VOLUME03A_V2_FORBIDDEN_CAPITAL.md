@@ -1,8 +1,8 @@
 # 禁都與萬禁會 v2 逐章施工綱
 
-> 狀態：2026-09-20 施工版。新正文置於 `novel/volume03a_v2/` 及 `novel/published/volume03a_v2/`；舊 `volume03a` 24 章只作事件母本，新版規劃 28 章，正文若調整因果或拆併，必須回填本綱。禁都舊綱的「前置四案鏈」不插在文奕重逢前：兩人此前多年未見，ch003 是意外重逢。
+> 狀態：2026-09-20 施工版。新正文置於 `docs/STORY_STRUCTURE.md` 及 `docs/STORY_STRUCTURE.md`；舊 `volume03a` 24 章只作事件母本，新版規劃 28 章，正文若調整因果或拆併，必須回填本綱。禁都舊綱的「前置四案鏈」不插在文奕重逢前：兩人此前多年未見，ch003 是意外重逢。
 >
-> 權威：`novel/volume02_v2/chapter093.md`、`docs/outlines/OUTLINE_FORBIDDEN_CAPITAL_MYRIAD_CONVENTION.md`、`docs/outlines/OUTLINE_CROSS_ARC_CHARACTER_DRIVERS.md`、`docs/outlines/OUTLINE_WEN_FAMILY_CRISIS.md`。此綱涵蓋禁都／萬禁會新 ch001–024 與文家遭難新 ch025–028。
+> 權威：`novel/002_上界成道/005_古戰域深層/041_從外緣申請.md`、`docs/outlines/OUTLINE_FORBIDDEN_CAPITAL_MYRIAD_CONVENTION.md`、`docs/outlines/OUTLINE_CROSS_ARC_CHARACTER_DRIVERS.md`、`docs/outlines/OUTLINE_WEN_FAMILY_CRISIS.md`。此綱涵蓋禁都／萬禁會新 ch001–024 與文家遭難新 ch025–028。
 
 ## 跨卷硬接縫
 
@@ -106,7 +106,7 @@
 承舊 ch023，文奕視角。契環家依合法條款停協防，辛墨戰死不可逆，另有兩名守陣者受傷；文奕承認季蘊的契約道理，往後只保留公事往來。四路敵陣忽然亂起，他先核砂色，辨出陸沉手法後自主調兵，遭崔嵐二次反制而傷手，仍靠文家守陣收拾主力；他從布防圖的舊筆跡與借閱印辨出蘇溫背叛，情感與政治後果都需承擔，不公開追殺洗平。陸沉不入場領功。
 
 ### ch028〈崩角白石說了什麼〉
-承舊 ch024，依 `OUTLINE_WEN_FAMILY_CRISIS.md`。圍攻瓦解後第五日陸沉重新北行，白石感到文奕修復熟悉節點的手法，這只是被動回響，非約定暗號或超距傳話。兩人全程未見面；陸沉另從公開告示與傷亡初簿核實文奕覆核、辛墨之死及居民仍需繞路，將可證的外圍位置與碎片匿名投進事故匣，不以石頭震動替代戰後追責。他繼續北行多日抵三千州赤衢驛，承 `novel/volume03/chapter001.md`：洛已早到三日；下游 metadata 與正文已改承新 ch028，不沿用舊 `volume03/ch001` 的十二峰／卷二末約一月說法。
+承舊 ch024，依 `OUTLINE_WEN_FAMILY_CRISIS.md`。圍攻瓦解後第五日陸沉重新北行，白石感到文奕修復熟悉節點的手法，這只是被動回響，非約定暗號或超距傳話。兩人全程未見面；陸沉另從公開告示與傷亡初簿核實文奕覆核、辛墨之死及居民仍需繞路，將可證的外圍位置與碎片匿名投進事故匣，不以石頭震動替代戰後追責。他繼續北行多日抵三千州赤衢驛，承 `novel/002_上界成道/008_三千州爭鋒/001_印還在，人換了.md`：洛已早到三日；下游 metadata 與正文已改承新 ch028，不沿用舊 `volume03/ch001` 的十二峰／卷二末約一月說法。
 
 ## 閉環驗收
 

@@ -229,7 +229,7 @@
 8. **ch028 L83**：陸沉「反覆確認過，觀星司內部，沒有任何異常上報的跡象」，確認手段未交代（他是偽裝隨從，進不了觀星司）。
 9. **ch021 章首**「封寒此刻僅『勢→重』或更早階段」：依 GRAVITY_PATH 第40行，Volume06 天煞痕已發生勢→重，「或更早」不成立（ch022、ch023 章首寫「『勢→重』早期階段」，沒有這個問題）。只是章首欄位，低優先。
 10. **格式：半形逗號**：ch031～040 正文幾乎全段用半形「,」（每章 8～23 行受影響）。ch034 L20、ch037 L32 同句半形全形混用。ch021～030 無此問題。
-11. **格式：章首工作稿殘留**：ch031 L3「工作稿，暫定章號，最終章號待……由PM統一編號搬進 `novel/volume08/`」已過時。ch032～040 章首「時間」欄仍用工作稿章號（ch032 L5「接ch01分派後」、ch033 L5「ch02」、ch034 L5「ch01～03」、ch035 L5「ch04」、ch036 L5「ch01～05」、ch037 L5「ch06」、ch038 L5「ch07」、ch039 L5「ch08」、ch040 L5「ch09」），應改成現行 ch031～039。正文內的同類殘留（ch038 L34、ch039 L43/L57、ch040 L24/L48）已由 commit `3cba667` 修掉。
+11. **格式：章首工作稿殘留**：ch031 L3「工作稿，暫定章號，最終章號待……由PM統一編號搬進 `novel/003_邊荒承劫/002_異域同行與帝關守路/README.md`」已過時。ch032～040 章首「時間」欄仍用工作稿章號（ch032 L5「接ch01分派後」、ch033 L5「ch02」、ch034 L5「ch01～03」、ch035 L5「ch04」、ch036 L5「ch01～05」、ch037 L5「ch06」、ch038 L5「ch07」、ch039 L5「ch08」、ch040 L5「ch09」），應改成現行 ch031～039。正文內的同類殘留（ch038 L34、ch039 L43/L57、ch040 L24/L48）已由 commit `3cba667` 修掉。
 12. **字形不一**：「身分」（ch021 L9、ch023 L35/39/75、ch024 L21/41/79、ch025 L39、ch034 L14）vs「身份」（ch024 L71、ch025 L97、ch026 L21/57、ch028 L59/71、ch029 L21/59）；ch024 一章兩種都有。「沈」（ch033 L28「眼神沈了一沈」、ch039 L39「更沈重」）vs 全卷「沉」。
 13. **大綱對照（僅提醒）**：九之一原設計追查者是「異域年輕一代天驕」，正文 ch027 改成低階小吏莫渡。章首標明「III-2候選2莫渡（使用者2026-09-23暫選定案）」，非衝突，只提醒大綱九之一文字尚未同步。
 
@@ -243,7 +243,7 @@
 
 ## 相關檔案
 
-- 審查範圍：`novel/volume08/chapter021.md`～`chapter040.md`（鏡像 `novel/published/volume08/` 同名檔，內容與正文不完全一致）
+- 審查範圍：`novel/003_邊荒承劫/002_異域同行與帝關守路/021_試出邊界的人.md`～`chapter040.md`（鏡像 `novel/published/003_邊荒承劫/002_異域同行與帝關守路/README.md` 同名檔，內容與正文不完全一致）
 - 準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`
 - 大綱：`docs/outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`
 - 人物與系統：`docs/characters/CHARACTER_FENG_HAN.md`、`CHARACTER_ZHEN_WUYANG.md`、`CHARACTER_XUAN_HENG.md`、`CHARACTER_JIE_E.md`、`docs/factions/FACTION_FOUR_COMPANION_STARS.md`、`docs/systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`、`SYSTEM_TEN_CALAMITY_THUNDERS.md`、`SYSTEM_LU_CHEN_FORMATION_SCOPE.md`

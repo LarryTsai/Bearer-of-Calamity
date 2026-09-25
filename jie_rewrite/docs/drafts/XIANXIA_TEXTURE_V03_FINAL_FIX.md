@@ -1,8 +1,8 @@
 # volume03 仙俠質感代表例：四方審查後定稿修正指示（2026-09-24，寫手3）
 
-輸入：`novel/drafts/xianxia_texture_v03/REWRITES_A.md`（C1～C5、E1～E5）、`REWRITES_B.md`（C6～C10、ch049 L25）。審查：canon warning（低）、power-system、character、continuity。硬限制見 `docs/drafts/XIANXIA_TEXTURE_V03_AUDIT.md` G 節。
+輸入：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/drafts/xianxia_texture_v03/REWRITES_A.md)（C1～C5、E1～E5）、`REWRITES_B.md`（C6～C10、ch049 L25）。審查：canon warning（低）、power-system、character、continuity。硬限制見 `docs/drafts/XIANXIA_TEXTURE_V03_AUDIT.md` G 節。
 **以現行正文為準**：ch001「陸沉與厄」已刪；ch009/020/058/060/061/063 已依 CHECKLIST 296 修過。
-**回寫三份**：`novel/volume03/`、`novel/published/volume03/`（同號）、`novel/published/upper_realm_v2/`（ch001～039 → volume09/同號；ch040～069 → volume10/chapter(N−39)）。同段精確替換，保留 BOM 與換行；upper 找不到原句時只套換詞並記錄。開發稿章末自檢引用到被改舊句的，同步改（continuity 4-3：ch040 L49、ch041 L37、ch047 L53、ch048 L73、ch049 L53、ch064 第4條、ch066 L47/L52、ch017 L35、ch025 L37），並補一行「2026-09-24仙俠質感改寫：…」。
+**回寫三份**：`novel/002_上界成道/008_三千州爭鋒/README.md`、`novel/published/002_上界成道/008_三千州爭鋒/README.md`（同號）、`novel/published/002_上界成道/README.md`（ch001～039 → volume09/同號；ch040～069 → volume10/chapter(N−39)）。同段精確替換，保留 BOM 與換行；upper 找不到原句時只套換詞並記錄。開發稿章末自檢引用到被改舊句的，同步改（continuity 4-3：ch040 L49、ch041 L37、ch047 L53、ch048 L73、ch049 L53、ch064 第4條、ch066 L47/L52、ch017 L35、ch025 L37），並補一行「2026-09-24仙俠質感改寫：…」。
 **未核可、不得寫入**：雷意能探測禁陣或碑縫；荒隔空讀別人血氣；碑靈、刑名、過堂；具名寶術；主角或參試者御空；「很多年前」這類相識時間。
 
 ## 逐例

@@ -1,6 +1,6 @@
 # 百宗盟試古戰域深層長篇施工綱（v2）
 
-狀態：**D01～D40 正文與清道夫審核已完成；下方逐章卡保留施工歷程，與正文衝突時以「正文回填」及正式閱讀版為準。** 使用者要求保留 v2 百宗盟試 ch069～086 的表層比賽與結果，另讓古戰域成為有多地域、自治居民、百宗青年群像與真正機緣的獨立長篇。基準新增 **40 章，可依實際故事壓縮或延長**；不以章數倒逼冒險。正文錨點為 `novel/volume02_v2/chapter069.md`～`chapter086.md`、`novel/ancient_battlefield_deep_v2/chapter001.md`～`chapter040.md`、`docs/events/EVENT_HUNDRED_SECTS_ALLIANCE_TRIAL.md`、`docs/outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md`。後續若正文修訂，須當批同步回填大綱／事件／境界時間軸。
+狀態：**D01～D40 正文與清道夫審核已完成；下方逐章卡保留施工歷程，與正文衝突時以「正文回填」及正式閱讀版為準。** 使用者要求保留 v2 百宗盟試 ch069～086 的表層比賽與結果，另讓古戰域成為有多地域、自治居民、百宗青年群像與真正機緣的獨立長篇。基準新增 **40 章，可依實際故事壓縮或延長**；不以章數倒逼冒險。正文錨點為 `novel/002_上界成道/004_百宗盟試/001_一枚本源印.md`～`chapter086.md`、`novel/002_上界成道/005_古戰域深層/001_橋底還有人.md`～`chapter040.md`、`docs/events/EVENT_HUNDRED_SECTS_ALLIANCE_TRIAL.md`、`docs/outlines/OUTLINE_VOLUME02_V2_UPPER_REALM.md`。後續若正文修訂，須當批同步回填大綱／事件／境界時間軸。
 
 **章號說明（EB-001整合後）**：下方歷史施工卡中的表層／雷魂 ch065～089 均沿用整合前座標，現行來源依第七節；原044已擴為044～048，原045～089順移四章。D01～D40及閱讀卷六、七的卷內章號不變。
 
@@ -255,12 +255,12 @@
 
 | 正式閱讀版 | 正文來源 | 已完成接縫 |
 | --- | --- | --- |
-| 卷六 ch001～018 | `volume02_v2` ch069～086 | 表層百宗賽果 8／7／4 保留；ch086 只准雷魂秘地外緣資料查驗。 |
-| 卷六 ch019～037、卷七 ch001～021 | `ancient_battlefield_deep_v2` D01～D40 | 深層四十章正式收入閱讀版，D19／D20 在幕界分卷；D40 離港返宗兩日、重新覆診。 |
-| 卷七 ch022～028 | 原開發稿 `volume02_v2` ch087～093 | ch087 持展期與新醫單入雷魂秘地；逐魂辨名後才取得鎮魄，鑑月自願結印；得雷日七日限制接禁都第五日。 |
+| 卷六 ch001～018 | `docs/STORY_STRUCTURE.md` ch069～086 | 表層百宗賽果 8／7／4 保留；ch086 只准雷魂秘地外緣資料查驗。 |
+| 卷六 ch019～037、卷七 ch001～021 | `novel/002_上界成道/005_古戰域深層/README.md` D01～D40 | 深層四十章正式收入閱讀版，D19／D20 在幕界分卷；D40 離港返宗兩日、重新覆診。 |
+| 卷七 ch022～028 | 原開發稿 `docs/STORY_STRUCTURE.md` ch087～093 | ch087 持展期與新醫單入雷魂秘地；逐魂辨名後才取得鎮魄，鑑月自願結印；得雷日七日限制接禁都第五日。 |
 | 卷八～十 | 禁都與三千州 v2 | 卷號依 `docs/V2_VOLUME_READING_MAP.md` 順延；開發稿章號不改。 |
 
-正式讀序、每章映射與連結以 `novel/published/README.md`、`novel/published/upper_realm_v2/SOURCE_MANIFEST.md` 為準。施工卡內的「暫落 ch083～122」與「尚待派工」均是已過時的預案，不可再用作章號或事實來源。
+正式讀序、每章映射與連結以 [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/published/README.md)、[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/published/upper_realm_v2/SOURCE_MANIFEST.md) 為準。施工卡內的「暫落 ch083～122」與「尚待派工」均是已過時的預案，不可再用作章號或事實來源。
 
 ## 八、本輪正文回填與文學審讀
 

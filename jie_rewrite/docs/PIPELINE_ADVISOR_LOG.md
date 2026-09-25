@@ -30,9 +30,9 @@
 ### 3. 仙人視角（作者反覆強調：「不要再用凡人視角，真的很弱」「從頭開始都要用修仙角度」）
 - **共同守則**：`docs/XIANXIA_PERSPECTIVE_CHARTER.md`（兩句核心問題；六類合法理由；「有禁制」不算；不憑空發明設定；升級必附代價；陸沉不成唯一解；刻意人體尺度章受保護）。
 - **34 個 jie-* agent** 已於 `.claude/agents/` 各自插入「仙人視角」區塊（產出者／審查者／人物類／讀者類／文字類，另加 canon、author-intent-guard、originality、final-editorial-board、regression、power-system 專屬額外句）。`.claude/` 目前 untracked，是否 commit 由 PM 決定。**已在運行的 subagent 不會重載，需重新派工**。
-- **修士邏輯（第二層）**：`docs/drafts/JIE_CULTIVATOR_LOGIC_AGENT_DRAFT.md`（PM 已放進 `.claude/agents/jie-cultivator-logic.md`，範圍改為全書從 `novel/lower_realm_v2/` 依序往後）；基準表骨架 `docs/drafts/CULTIVATOR_LOGIC_BASELINE_SKELETON.md`；**清道夫做出的基準表** `docs/systems/CULTIVATOR_LOGIC_BASELINE.md` v0.2（含下界場域、角色道尺度表、缺口 BL-01~44）。基準表提醒：命牌不存在（BL-12）、司天鑑是人非官署（BL-30）、神識／儲物／飛行通則全留白（BL-01~05）。
+- **修士邏輯（第二層）**：`docs/drafts/JIE_CULTIVATOR_LOGIC_AGENT_DRAFT.md`（PM 已放進 `.claude/agents/jie-cultivator-logic.md`，範圍改為全書從 `novel/001_下界成根/README.md` 依序往後）；基準表骨架 `docs/drafts/CULTIVATOR_LOGIC_BASELINE_SKELETON.md`；**清道夫做出的基準表** `docs/systems/CULTIVATOR_LOGIC_BASELINE.md` v0.2（含下界場域、角色道尺度表、缺口 BL-01~44）。基準表提醒：命牌不存在（BL-12）、司天鑑是人非官署（BL-30）、神識／儲物／飛行通則全留白（BL-01~05）。
 - **角色「道的尺度」**：作者要求劫、生、瘋、四伴星在戰場不被降格成「能力很強的普通人」。基準表第七節已有七人尺度表。原則：只審降格、不審刻意小；升級只能在既有上限內、附代價；陸沉不成唯一解；新增能力交作者；不改已寫章節，先出報告。
-- **第三層（仙人文明）**：`docs/drafts/XIANXIA_CIVILIZATION_ROUND1_RECOMMENDATIONS.md`（第七節為作者「你決定」後的定案：少數修士多數凡人；採「錨地承限」；只補一句專屬理由；arc01 與序篇刻意人體尺度；`lower_realm_v2` 有限解凍；閣老以界雷舊傷為理由；典籍竹紙＝殘脈傳承自然狀態）。**更正**：「下界承限」不是既有規則，是新增規則候選（arc03/003 L7 一句＋文家禁渡的人為契約），原作對照待作者讀原文。
+- **第三層（仙人文明）**：`docs/drafts/XIANXIA_CIVILIZATION_ROUND1_RECOMMENDATIONS.md`（第七節為作者「你決定」後的定案：少數修士多數凡人；採「錨地承限」；只補一句專屬理由；arc01 與序篇刻意人體尺度；`novel/001_下界成根/README.md` 有限解凍；閣老以界雷舊傷為理由；典籍竹紙＝殘脈傳承自然狀態）。**更正**：「下界承限」不是既有規則，是新增規則候選（arc03/003 L7 一句＋文家禁渡的人為契約），原作對照待作者讀原文。
 - **錨地承限條文草案**：`docs/drafts/RULE_ANCHOR_BOUNDARY_LIMIT_DRAFT.md`（範圍限錨地、相對語、不寫成下界通則；建議回填基準表 §2.10、EVENT_WEN_YI、WORLD_GEOGRAPHY L40 旁註；**尚未回填**）。
 - 下界「最凡人」場景：`docs/drafts/LOWER_REALM_MOST_MORTAL_SCENES.md`（A區18則無理由、B區11則Pass範例、C區刻意人體尺度）。
 

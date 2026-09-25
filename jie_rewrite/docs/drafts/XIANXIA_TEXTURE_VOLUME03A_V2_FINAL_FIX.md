@@ -1,7 +1,7 @@
 # volume03a_v2 仙俠質感代表例：四方審查後定稿修正指示（2026-09-24，寫手3）
 
-輸入：`novel/drafts/xianxia_texture_v03a_v2/REWRITES_A.md`（R1～R7＋E四處）、`REWRITES_B.md`（R8～R15＋E兩處）。審查：canon 兩批全 pass；power-system、character、continuity 意見彙整如下。硬限制仍以 `docs/drafts/XIANXIA_TEXTURE_VOLUME03A_V2_AUDIT_G.md` 為準。
-**以現行正文為準**（ch004 可能已由寫手2改過 268/269 那一句，回寫前重讀）。回寫只動開發稿 `novel/volume03a_v2/`；鏡像（published/volume03a_v2、upper_realm_v2/volume08 同號）由寫手3以腳本同步。改寫欄的「（不動）」前綴與括號註記不得寫進正文。
+輸入：[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/drafts/xianxia_texture_v03a_v2/REWRITES_A.md)（R1～R7＋E四處）、`REWRITES_B.md`（R8～R15＋E兩處）。審查：canon 兩批全 pass；power-system、character、continuity 意見彙整如下。硬限制仍以 `docs/drafts/XIANXIA_TEXTURE_VOLUME03A_V2_AUDIT_G.md` 為準。
+**以現行正文為準**（ch004 可能已由寫手2改過 268/269 那一句，回寫前重讀）。回寫只動開發稿 `docs/STORY_STRUCTURE.md`；鏡像（published/volume03a_v2、upper_realm_v2/volume08 同號）由寫手3以腳本同步。改寫欄的「（不動）」前綴與括號註記不得寫進正文。
 每章章末加一行修訂記錄：「2026-09-24仙俠質感改寫：……」（沒有「## 修訂記錄」節就新增）。自檢句按下方「自檢補註」同步。
 
 ## 共通

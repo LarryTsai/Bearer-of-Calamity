@@ -4,13 +4,13 @@
 
 ## 前置確認
 
-- 插入座標：`novel/volume06/chapter030.md`（決賽當日至翌日，含罰修戰臺、監察令頒布）之後、`novel/volume06/chapter031.md`（開場明訂「排位後第七日」，荒隨孟天正入界墳、七站復查隊已在山門外等候）之前。空白窗口為排位後第3～6日共四天。
+- 插入座標：`novel/002_上界成道/011_天神書院/031_沒人聽清那句話.md`（決賽當日至翌日，含罰修戰臺、監察令頒布）之後、`novel/002_上界成道/011_天神書院/032_找路.md`（開場明訂「排位後第七日」，荒隨孟天正入界墳、七站復查隊已在山門外等候）之前。空白窗口為排位後第3～6日共四天。
 - 監察令核對：ch030 末尾監察令針對的是「高風險外務」（多人同行、全程留訊），書院內部的寶庫參訪不屬外務範疇，不觸發此令；巡天災印「只追蹤位置與存亡訊號」的粗粒度限定（`characters/CHARACTER_RIVAL_TIANFA.md` 第二階段）也確保裂縫內的神魂／雷紋層級異常不會被監察體系記錄——兩者共同構成這段私密性得以成立的既有依據，寫作時應維持「沒有人刻意隱瞞、只是根本沒被看見」的自然感，不需額外編造遮掩橋段。
 - 篇幅判斷：內容包含「正式入庫＋封寒登場混入＋殘骸觸發裂縫」與「深處雙人各自轉折＋脫出＋收束」兩個明顯段落，各自都有獨立的目標/阻力/轉折，且需要留出「日常呼吸」的間隙，故拆為兩章，剩餘的排位後第5～6日留白，交由 ch031 開場的「排位後第七日」以概述方式承接即可，不必另補一章。
 
 ## ✅ 插入後的章節編號方案（2026-09-13已裁定並執行）
 
-使用者裁定採整體後移編號：原 `chapter031.md`〈界墳之外〉及其後所有章節（含 `novel/published/volume06/` 對應乾淨版）已整體後移兩位（031→033……048→050），`docs/outlines/OUTLINE_TIANSHEN_ACADEMY.md` 第31～48章的章次標號已同步位移（含各章內文中「第N章」交叉引用、範圍標頭、正式事件插入表）。新章一、新章二已正式寫入空出的 `chapter031.md`、`chapter032.md`，並已通過 `jie-continuity`／`jie-canon`／`jie-character`／`jie-power-system` 四方複核（詳見下方「執行結果」）。（2026-09-24補註：2026-09-18 RC-V06 swap後再整體+3，寶庫兩章現行為`chapter034.md`、`chapter035.md`，〈界墳之外〉為`chapter036.md`）
+使用者裁定採整體後移編號：原 `chapter031.md`〈界墳之外〉及其後所有章節（含 `novel/published/002_上界成道/011_天神書院/README.md` 對應乾淨版）已整體後移兩位（031→033……048→050），`docs/outlines/OUTLINE_TIANSHEN_ACADEMY.md` 第31～48章的章次標號已同步位移（含各章內文中「第N章」交叉引用、範圍標頭、正式事件插入表）。新章一、新章二已正式寫入空出的 `chapter031.md`、`chapter032.md`，並已通過 `jie-continuity`／`jie-canon`／`jie-character`／`jie-power-system` 四方複核（詳見下方「執行結果」）。（2026-09-24補註：2026-09-18 RC-V06 swap後再整體+3，寶庫兩章現行為`chapter034.md`、`chapter035.md`，〈界墳之外〉為`chapter036.md`）
 
 ---
 
@@ -33,7 +33,7 @@
 
 **章末鉤子**：裂縫入口只容一人通過，裡面的光線不像任何已知的秘境或禁地；陸沉看著封寒已經先邁了一步——這是一個尚未收回的選擇：兩人都清楚一旦跨過去，今天這件事就再也不是「正常的寶庫參訪」了，但誰都沒有停下腳步。
 
-**引用設定**：`CHECKLIST_PENDING_DECISIONS.md` 第180題全文，步驟1～4；`systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md` 五之一「具體場景定案」；`characters/CHARACTER_FENG_HAN.md` 二、六；`outlines/OUTLINE_TIANSHEN_ACADEMY.md` 第1章（封寒隨太玄宗另一批弟子同期抵達，本章是這條伏筆第一次正式收回）；`characters/CHARACTER_RIVAL_TIANFA.md` 第二階段；`novel/volume06/chapter030.md`（監察令範圍限定）。
+**引用設定**：`CHECKLIST_PENDING_DECISIONS.md` 第180題全文，步驟1～4；`systems/SYSTEM_CALAMITY_ORDER_AND_SELF_RECONSTRUCTION.md` 五之一「具體場景定案」；`characters/CHARACTER_FENG_HAN.md` 二、六；`outlines/OUTLINE_TIANSHEN_ACADEMY.md` 第1章（封寒隨太玄宗另一批弟子同期抵達，本章是這條伏筆第一次正式收回）；`characters/CHARACTER_RIVAL_TIANFA.md` 第二階段；`novel/002_上界成道/011_天神書院/031_沒人聽清那句話.md`（監察令範圍限定）。
 
 **寫作提醒**：劫厄的反應走內在感官（悸動、耳鳴、呼吸一滯），不以實體形式出現在公共空間；封寒的登場對白體現「嘴賤但關鍵時刻收得住」的既定節奏，避免寫成單純插科打諢。
 
@@ -71,7 +71,7 @@
 
 ## 執行結果（2026-09-13，寫手1）
 
-正文已依本大綱寫出：`novel/volume06/chapter031.md`〈三品區裡沒人要的東西〉、`chapter032.md`〈裂縫無聲合上〉（含對應 `novel/published/volume06/` 乾淨版）。四方複核結果：`jie-canon`（pass 0.9，純原創容器不涉原作）、`jie-power-system`（pass，驚鴻雷身與封寒「引」的分寸均未越級）、`jie-character`（無硬傷，已採納建議補強封寒本卷首次登場的「話多岔題」份量）、`jie-continuity`（一項明確衝突：ch031「代表隊」用詞與封寒既有Volume02代表隊成員身分字面衝突，已改為「沒有名次」；一項潛在衝突：封寒棄劍後下落未交代，已補一句收尾）。三處問題均已修正，兩章均已在檔尾附「修訂記錄」註明。整卷插入正式完成。
+正文已依本大綱寫出：`novel/002_上界成道/011_天神書院/032_找路.md`〈三品區裡沒人要的東西〉、`chapter032.md`〈裂縫無聲合上〉（含對應 `novel/published/002_上界成道/011_天神書院/README.md` 乾淨版）。四方複核結果：`jie-canon`（pass 0.9，純原創容器不涉原作）、`jie-power-system`（pass，驚鴻雷身與封寒「引」的分寸均未越級）、`jie-character`（無硬傷，已採納建議補強封寒本卷首次登場的「話多岔題」份量）、`jie-continuity`（一項明確衝突：ch031「代表隊」用詞與封寒既有Volume02代表隊成員身分字面衝突，已改為「沒有名次」；一項潛在衝突：封寒棄劍後下落未交代，已補一句收尾）。三處問題均已修正，兩章均已在檔尾附「修訂記錄」註明。整卷插入正式完成。
 
 ## 與另一版本的取捨紀錄（2026-09-12）
 

@@ -1,26 +1,32 @@
 # 《劫》正文改寫產線狀態板（2026-09-25 重整）
 
-狀態：PM維護。舊版（369行歷史敘事）已歸檔於 `docs/archive/PIPELINE_STATUS_until_20260925.md`。**2026-09-25 作者指示全角色恢復運作；本次 Codex 對話已啟動接班核對。原 Claude sessions 未連接，不代表那些 sessions 已被喚醒。**
+狀態：PM維護。舊版（369行歷史敘事）已歸檔於 `docs/archive/PIPELINE_STATUS_until_20260925.md`。**2026-09-25 已恢復運作；寫手1／2／3均完成本輪階段，PM正做目錄與工具最終檢查。目錄改版尚未commit。原 Claude sessions 未連接，不代表那些 sessions 已被喚醒。**
+
+### 現行目錄與本輪提交
+- 正文入口以 `docs/STORY_STRUCTURE.json` 為準：28個篇章群、867章，各層三位數排序；可讀對照見 `docs/STORY_STRUCTURE.md`。本板以下保留的 volume／arc 編號是歷史定位，派工須先用 manifest 的 `legacy_source` 對到現行 `source`／`published`，不能直接沿舊路徑施工。
+- PM已推送：`25cd0cb`共同規則、`f6dda22`鏡像10檔修復、`bbe2e28`百斷山8章審查、`9d6dcfc`古界083／085／086局部修訂。目錄重整與工具變更另批，尚未提交。
+- 現行驗證命令為 `python scripts/build_story.py --check`，核對正文、閱讀版、索引與大綱；目錄工具仍在最終檢查，未據此宣稱全部通過。
+- 清理只刪已驗證有完整新版副本的舊章。自動審批拒絕整批刪除35個舊目錄；尚餘219個舊稿／材料，位於 `volume03a`／`volume04`及對應published、`novel/drafts`、`work_in_progress`。PM已向作者詢問具體刪除批准，尚未收到答覆，不把待批准刪除列作完成。
 
 ### 本次恢復交接
 - PM：本次 Codex `/root`，統籌派工、範圍與交叉依賴；重大創作／設定決定仍交作者。
-- 寫手1 `/root/writer1`：古界 ch085～086 修訂準備，創作把關找顧問、連續性查證找寫手2，向 PM 回報。
-- 寫手2 `/root/writer2`：下界 arc05 起修士邏輯審查；首批 ch001～008，與清道夫分區，向 PM 回報。
-- 寫手3 `/root/writer3`：鏡像唯一重建者；volume10 下一階段為 G 節窄查，向 PM 回報。
+- 寫手1 `/root/writer1`：古界083／085／086本輪局部修訂完成；顧問獨立驗收無新增P0／P1，尚非全段定稿，向 PM 回報。
+- 寫手2 `/root/writer2`：百斷山（舊下界arc05）ch001～008修士邏輯審查完成，未確認P0／P1，2項P2未修；與清道夫分區，向 PM 回報。
+- 寫手3 `/root/writer3`：鏡像10檔修復與本輪版本盤點完成；鏡像唯一重建者，向 PM 回報；volume10的G節窄查為後續階段。
 - 清道夫 `/root/scavenger`：volume03a_v2 起修士邏輯審查、因果與基準缺口，向 PM 回報。
 - 顧問 `/root/advisor`：創作把關，與寫手討論並由 PM 彙整作者待裁問題；不直接改正文與唯一來源設定。
 - 接班核對完成後，作者已授權正式開工：寫手1修 ch085～086；寫手2審下界 arc05；寫手3修復鏡像並盤點版本。角色識別僅適用本次對話，不沿用為其他 session 的身分。
 - 作者再次強調：**任何開發、故事內容及世界觀都須從仙人／修士角度推演**，已補入 `XIANXIA_PERSPECTIVE_CHARTER.md` 第一節，所有派工共同遵守。
 - 作者追加：**境界越高，人物感知、思考、行動、代價與世界文明越應呈現差異**；不可只放大戰力，已同步共同守則。
 - 號段衝突：寫手2舊日誌「360起」不可沿用，360～379已屬寫手3；新登記先由 PM 核對未用號段。
-- 本輪寫手3實查：官方鏡像 `--check` 未通過，volume02_v2 ch001 正文「念頭探出一線」而 published 仍「半尺」。舊交接的全庫零差異僅為歷史結果，不能作為目前驗證；本輪尚未修復。
+- 本輪寫手3發現的鏡像落後已修復並推送（`f6dda22`，10檔）；舊交接的全庫零差異僅為歷史結果，目錄重整後須以現行builder重新驗證。
 - 作者最新工作方式：每個階段完成並檢查後，由 PM commit 並 push；最終工作樹只留新版。已被新版完整取代的舊稿應移除並修正有效入口／引用，歷史由 Git 保留；尚未完整取代的內容先完成承接，避免刪掉唯一正文。開發稿與其同步閱讀鏡像屬同一新版的不同用途，不依檔名無 `v2` 就判為舊版。
 
 ## 一、現況摘要
-- 主線故事已寫完（序篇～第十九篇＋戰後沉封域）。**唯一完稿缺口＝古界N-2**（`novel/volume04_v2/` ch080~086已寫，N2-7〈窗〉、N2-8未落筆）。
-- N-2依據：作者2026-09-24/25裁決方案6（出口早就存在、難處在誰願意用它）；章綱`docs/outlines/ANCIENT_REALM_N2_CHAPTER_OUTLINE_DRAFT.md`、骨架`ANCIENT_REALM_N2_PLAN6_SKELETON.md`、CHECKLIST 231/320。ch080~084已審修（083/084為標竿）；ch085〈沒有門〉、ch086〈告別〉初稿，五審已跑未修（`docs/drafts/N2_CH085_086_REVIEW_SUMMARY.md`）。
-- 已完成：volume02_v2/03/03a_v2/05/06/06b/07/08/09仙俠質感；causality全庫審查（`docs/drafts/CAUSALITY_DEBT_MASTER_TABLE.md`）與T0/T1補句；蒼梧代詞「牠→他」全書；終局人物歸宿表（`docs/outlines/OUTLINE_FINALE_CHARACTER_DESTINATIONS.md`）；洛生衣觀生錨點；published/upper_realm_v2鏡像全庫一致（稽核腳本）。
-- 進行中被暫停：修士邏輯審查（基準表`docs/systems/CULTIVATOR_LOGIC_BASELINE.md` v0.2；agent `.claude/agents/jie-cultivator-logic.md`）已審 下界arc01~04、volume02_v2、volume03；共同守則`docs/XIANXIA_PERSPECTIVE_CHARTER.md`。volume10~12質感改寫未開始（volume10審查報告已產出）。
+- 主線大部已寫至第十九篇＋戰後沉封域；**古界N-2末段／N-3仍未完成**。古界入口 `novel/002_上界成道/009_界潮與古界/README.md`；ch080~086已寫，N2-7〈窗〉、N2-8未落筆，N-3亦未寫，不得標成全書完稿。
+- N-2依據：作者2026-09-24/25裁決方案6（出口早就存在、難處在誰願意用它）；章綱`docs/outlines/ANCIENT_REALM_N2_CHAPTER_OUTLINE_DRAFT.md`、骨架`ANCIENT_REALM_N2_PLAN6_SKELETON.md`、CHECKLIST 231/320。ch080~084已審修（083/084為標竿）；本輪依原五審彙整修訂083／085〈沒有門〉／086〈告別〉，顧問獨立驗收無新增P0／P1，已推送`9d6dcfc`。記錄見`docs/drafts/N2_CH085_086_REVISION_20260925.md`；原`N2_CH085_086_REVIEW_SUMMARY.md`為歷史審查依據。窗口選日、封寒對側獨處、修士送傷者替代手段等未決，不能標成全段定稿。
+- 已完成：volume02_v2/03/03a_v2/05/06/06b/07/08/09仙俠質感；causality全庫審查（`docs/drafts/CAUSALITY_DEBT_MASTER_TABLE.md`）與T0/T1補句；蒼梧代詞「牠→他」全書；終局人物歸宿表（`docs/outlines/OUTLINE_FINALE_CHARACTER_DESTINATIONS.md`）；洛生衣觀生錨點；舊published/upper_realm_v2曾通過鏡像稽核（歷史結果；現行目錄仍以本輪builder檢查為準）。
+- 修士邏輯審查已恢復並完成本輪階段：歷史已審下界arc01~04、volume02_v2、volume03；本輪新增百斷山8章（未確認P0／P1，2項P2未修）。基準表`docs/systems/CULTIVATOR_LOGIC_BASELINE.md` v0.2、agent `.claude/agents/jie-cultivator-logic.md`、共同守則`docs/XIANXIA_PERSPECTIVE_CHARTER.md`仍有效。volume10~12質感改寫未開始（volume10審查報告已產出）。
 
 ## 二、待作者裁定（依重要度）
 1. 空中救殿/救宗大型場面六題：`docs/drafts/BIG_SCENE_AIR_RESCUE_FLOWC_ROUND1.md`（位置已定後續卷/番外）。
@@ -30,17 +36,18 @@
 5. 340 volume05前提：已採方案A止血；B/C待N-2完稿後裁。
 6. 單卷承諾確認清單：`docs/drafts/SINGLE_VOLUME_PROMISES_CONFIRMATION_LIST.md`；原作待核項（御空/儲物/傳訊、461/462暫定口徑）等作者讀原作。
 
-## 三、恢復時的建議順序
-1. 寫手1：修ch085~086（依彙整檔）→N2-7〈窗〉（高潮：蒼梧自己決定不把窗口做更穩更久）→N2-8；再登記待登記項、補README。
-2. 寫手3：重建N-2鏡像（volume04_v2無鏡像則免）；volume10~12質感。
-3. 寫手2/清道夫：修士邏輯審查往後（arc05起、03a_v2、04_v2至ch079、05起）＋已核可補句。
-4. 全書完成後：`docs/FINAL_REVIEW_PIPELINE_MANUAL.md` 的最終審查pipeline。
+## 三、下一階段順序（由PM另派，以下舊編號先查manifest）
+1. PM先完成本輪目錄／工具檢查與提交；未獲批准的219個舊稿／材料繼續保留。
+2. 寫手1：本批修訂已完成；N2-7動筆前處理窗口與對側獨處等未決，再接〈窗〉（蒼梧自己決定不把窗口做更穩更久）、N2-8與N-3。不得把未裁新設定自行補成定案。
+3. 寫手3：目錄重整後依現行builder核對閱讀版，再接volume10的G節窄查及後續質感工程。
+4. 寫手2／清道夫：百斷山本批2項P2仍待處置；後續審查按manifest重新界定分區，既有候選範圍為03a_v2、04_v2至ch079、05起及已核可補句。
+5. 全書完成後：`docs/FINAL_REVIEW_PIPELINE_MANUAL.md` 的最終審查pipeline。
 
 ## 四、協作規則（持續有效）
 - 每次對話開始先ListAgents確認身分，讀本檔＋自己的`PIPELINE_WRITERn_LOG.md`。
 - **git commit/push只由PM統一做**；寫手回報附「檔案清單＋一行摘要」。
 - CHECKLIST號段：清道夫304~319/380~459、寫手1 320~339、寫手2 340~359、寫手3 360~379/460~479。
-- published/與upper_realm_v2鏡像只由寫手3重建（用`scripts/build_upper_realm_reading_v2.py`＋稽核腳本）。
+- 閱讀鏡像只由寫手3重建；現行映射以`docs/STORY_STRUCTURE.json`為準，使用`scripts/build_story.py`及其`--check`。舊`upper_realm_v2`與舊builder說明只作歷史參考。
 - 作者指示原則：「階段完成就停手」；創作/設定重大決定（角色道、悲劇本質、新能力）交作者，連續性/對表由PM裁決。
 
 ## 五、角色↔session

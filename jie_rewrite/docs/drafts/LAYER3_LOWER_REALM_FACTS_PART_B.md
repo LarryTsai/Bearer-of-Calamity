@@ -1,7 +1,7 @@
 # 第三層仙人文明：下界事實 Part B（太玄閣定位＋下界冷凍規則）
 
 > 2026-09-25。純唯讀查證，供顧問擬「仙人文明第三層」建議答案用。只引 docs／正文既有內容，不替作者補設定；找不到證據者明標「未找到」。
-> 引用縮寫：下界正文 = `novel/lower_realm_v2/`（簡稱 a02＝arc02_enter_mountain、a04＝arc04_taixuan_forging、a07＝arc07_lower_realm_storm；行號為各章檔內行號）；其餘檔案路徑均在 `story/jie_rewrite/` 下。
+> 引用縮寫：下界正文 = `novel/001_下界成根/README.md`（簡稱 a02＝arc02_enter_mountain、a04＝arc04_taixuan_forging、a07＝arc07_lower_realm_storm；行號為各章檔內行號）；其餘檔案路徑均在 `story/jie_rewrite/` 下。
 > `AUTHOR_SECRETS.md` 依指示：只確認它有太玄閣老人條目（L25～L35，「四、太玄閣老人」），**內容不轉載**；下表「留白」欄請 PM 另對照該條目，勿與之矛盾。本文引用的守閣動機等事實，皆取自公開檔（`characters/CHARACTER_TAIXUAN_ELDER.md`、`events/EVENT_TAIXUAN_PAVILION_SIEGE.md`）。
 
 ---
@@ -45,7 +45,7 @@
 | 項目 | 內容 | 出處（檔:行） |
 | --- | --- | --- |
 | **凍結的起點與名稱** | 「下界 v2 已完成 65 章，暫停修改、留待冷卻後回讀」（2026-09-20 新工作線）。docs 裡稱「冷凍／冷卻／凍結稿」，指同一狀態。 | `docs/PIPELINE_STATUS.md:263`；亦見 `:206`、`:42`（「下界v2本身仍在冷凍，這批只登記不改稿」） |
-| **凍結對象（範圍）** | `novel/lower_realm_v2/`：序篇＋第一至第七篇＋北海橋段，65 章。`published/lower_realm_v2/` 為其乾淨閱讀版；`README.md` 寫「舊 volume01 留作上一版」。 | `novel/lower_realm_v2/README.md:3`（65 章、三卷閱讀版）、`CHECKLIST_PENDING_DECISIONS.md:1255、:1267`（218 題）；`PIPELINE_STATUS.md:106`（volume01 已非 canon） |
+| **凍結對象（範圍）** | `novel/001_下界成根/README.md`：序篇＋第一至第七篇＋北海橋段，65 章。`novel/published/001_下界成根/README.md` 為其乾淨閱讀版；`README.md` 寫「舊 volume01 留作上一版」。 | `novel/lower_realm_v2/README.md:3`（65 章、三卷閱讀版）、`CHECKLIST_PENDING_DECISIONS.md:1255、:1267`（218 題）；`PIPELINE_STATUS.md:106`（volume01 已非 canon） |
 | **凍結是否包含 published 鏡像** | **docs 沒有獨立條文明說**；只有 REVIEW_LOG 談「併回 `novel/published/`」時說「等於觸碰目前冷卻凍結中的下界內容，需使用者明確同意」（推論：published/lower_realm_v2 亦屬凍結）。 | `docs/CULTIVATION_ASPIRATION_REVIEW_LOG.md:51` |
 | **不受凍結的範圍** | 上界卷：volume03／03a_v2／10（並實務上含 volume02_v2、volume07、11、12）；設定文件（docs）可補寫。 | `docs/drafts/CHECKLIST_268_269_TAIXUAN_PAVILION_STATUS_AND_OPTIONS.md:5`；`docs/drafts/LAYER3_CANON_BOUNDARY_NOTES.md:34`；`PIPELINE_STATUS.md:42` |
 | **凍結下的工作性質** | 只能登記、診斷、唯讀審查；「純唯讀診斷不構成解凍」。仙化整改（manifesto）暫不套用下界，「下界等冷卻期滿再回頭」。 | `CULTIVATION_ASPIRATION_REVIEW_LOG.md:5、:7、:332`；`PIPELINE_STATUS.md:206、:210` |
@@ -91,9 +91,9 @@
 
 | 先例 | 處理 | 出處 |
 | --- | --- | --- |
-| 270 | `volume10/chapter003.md` 「無人生還」錯句改為「谷已無人居住、倖存者四散」。 | `CHECKLIST_PENDING_DECISIONS.md:2202`；`novel/volume10/chapter003.md:33` |
-| 271 | `volume10/chapter002.md` 雷紋「腕」改「小腿」；`volume02_v2` 六處「父親遺物」改「石窟斷片」。 | `CHECKLIST_PENDING_DECISIONS.md:2214`；`novel/volume10/chapter002.md:7` |
-| 272 | `volume02_v2/chapter013.md` 改為陸沉憑記憶默寫、「沒有殘冊在手——那卷早已留在下界」，下界不動。 | `CHECKLIST_PENDING_DECISIONS.md:2226`；`novel/volume02_v2/chapter013.md:23` |
+| 270 | `novel/003_邊荒承劫/004_長息/003_他認得兒子.md` 「無人生還」錯句改為「谷已無人居住、倖存者四散」。 | `CHECKLIST_PENDING_DECISIONS.md:2202`；`novel/volume10/chapter003.md:33` |
+| 271 | `novel/003_邊荒承劫/004_長息/002_古雷道又痛了一次.md` 雷紋「腕」改「小腿」；`docs/STORY_STRUCTURE.md` 六處「父親遺物」改「石窟斷片」。 | `CHECKLIST_PENDING_DECISIONS.md:2214`；`novel/volume10/chapter002.md:7` |
+| 272 | `novel/002_上界成道/002_太玄宗・鎮岳入門/002_缺的那四頁.md` 改為陸沉憑記憶默寫、「沒有殘冊在手——那卷早已留在下界」，下界不動。 | `CHECKLIST_PENDING_DECISIONS.md:2226`；`novel/volume02_v2/chapter013.md:23` |
 
 ### 三之四、上界補「下界事件的後續回聲」（一句級）
 

@@ -3,7 +3,7 @@
 > 狀態：正式事件 v1.0
 > 時間：第九篇「命圖初成」前段，仙古兩座獨立雷境（玄寂神雷、玄黃界雷完整入圖）之後、天神書院追尋三刻瞬雷之前
 > 機制唯一來源：`systems/SYSTEM_TEN_CALAMITY_THUNDERS.md` 六、二之一
-> 正文落點：`novel/volume05/chapter003.md`～`chapter010.md`
+> 正文落點：`novel/002_上界成道/010_無兵雷域/003_劍留在第一塊界碑外.md`～`chapter010.md`
 
 ## 一、定位
 

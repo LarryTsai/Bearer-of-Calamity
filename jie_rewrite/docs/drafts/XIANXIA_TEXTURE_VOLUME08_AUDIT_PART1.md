@@ -1,6 +1,6 @@
 # 仙俠質感審查：novel/volume08 ch001～020（第一段／共五段）
 
-範圍：`novel/volume08/chapter001.md`～`chapter020.md`（ch001～008褚七遺骸弧；ch009～010第0幕文奕託付；ch011～018交荒、越界、分線、封寒登場、三句會合；ch019～020 Act III-1〈基準線〉〈停下的那一息〉）。
+範圍：`novel/003_邊荒承劫/002_異域同行與帝關守路/001_敵人送回四具屍體.md`～`chapter020.md`（ch001～008褚七遺骸弧；ch009～010第0幕文奕託付；ch011～018交荒、越界、分線、封寒登場、三句會合；ch019～020 Act III-1〈基準線〉〈停下的那一息〉）。
 狀態：2026-09-24，只讀不改（jie-xianxia-texture，替寫手3）。章末「一致性自檢」與「待確認提案」區塊不列為正文審查對象，只在F記格式問題。
 依據：`docs/XIANXIA_TEXTURE_GUIDE.md`；`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點表、第五節現代詞、五之一十條教訓）；格式範本 `XIANXIA_TEXTURE_V07_AUDIT.md`、`XIANXIA_TEXTURE_VOLUME03A_V2_AUDIT_PART2.md`；`docs/outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`（第四節橋接段、第十節Q1～Q5、第61行斷路開關台詞）、`OUTLINE_BORDER_ROAD_EXPANSION.md`（第38～41行陸沉八雷狀態）、`docs/characters/CHARACTER_FENG_HAN.md`（六之一、七）、`docs/systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`（二、三之黑洞三段式第2項）、`CHARACTER_LU_CHEN.md`第286行（王族偽裝）、`CHARACTER_LUO_SHENGYI.md`第47～48行（觀生範圍與專屬起手式）、`CHARACTER_GU_XIAOMAN.md`、`CHARACTER_JIN_CHANGMING.md`（赤翎外貌）。
 
@@ -245,7 +245,7 @@
 
 ## 相關檔案
 
-- 審查範圍：`novel/volume08/chapter001.md`～`chapter020.md`
+- 審查範圍：`novel/003_邊荒承劫/002_異域同行與帝關守路/001_敵人送回四具屍體.md`～`chapter020.md`
 - 準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`
 - 大綱：`docs/outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`、`docs/outlines/OUTLINE_FOREIGN_DOMAIN_RETURN_ROUTE.md`、`docs/outlines/OUTLINE_BORDER_ROAD_EXPANSION.md`
 - 人物與系統：`docs/characters/CHARACTER_FENG_HAN.md`、`docs/systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`、`docs/characters/CHARACTER_LU_CHEN.md`、`docs/characters/CHARACTER_LUO_SHENGYI.md`、`docs/characters/CHARACTER_GU_XIAOMAN.md`、`docs/characters/CHARACTER_JIN_CHANGMING.md`

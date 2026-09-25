@@ -1,6 +1,6 @@
 # 仙俠質感審查：novel/volume08 ch061～080（第四段／共20章）
 
-範圍：`novel/volume08/chapter061.md`～`chapter080.md`。ch061～072 是 Act III 全新章（8→0→8 大道大劫的零雷、重塑、清場，再接休養三章、情報一章、啟程一章）；ch073～080 是原五幕後段（帝城遺孤側線、黑水城、無槐、戰神書院烏迭、七路追兵、雷身延遲、界縫、黑水角鬥場）。
+範圍：`novel/003_邊荒承劫/002_異域同行與帝關守路/061_這個異常已經死了.md`～`chapter080.md`。ch061～072 是 Act III 全新章（8→0→8 大道大劫的零雷、重塑、清場，再接休養三章、情報一章、啟程一章）；ch073～080 是原五幕後段（帝城遺孤側線、黑水城、無槐、戰神書院烏迭、七路追兵、雷身延遲、界縫、黑水角鬥場）。
 狀態：2026-09-24，只讀不改。
 依據：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點表、第五節現代詞、五之一十條教訓）、格式範本 `XIANXIA_TEXTURE_V07_AUDIT.md`／`XIANXIA_TEXTURE_VOLUME03A_V2_AUDIT_PART2.md`；大綱 `docs/outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`（階段四～八、「銜接到後續」L126、編號對照L132、L147）、`docs/outlines/OUTLINE_FOREIGN_DOMAIN_RETURN_ROUTE.md`（ch020〈戰神書院〉L109～111：戰神書院是異域原創機構，「守禁權限」是大綱原詞）；人物檔 `CHARACTER_JIE_E.md`（人形「頸側與手背有少量龍鱗」、劫印明滅兩種訊號）、`CHARACTER_ZHEN_WUYANG.md`（鑑月，人形女性）、`CHARACTER_XUAN_HENG.md` L47（蒼梧人形不外顯骨刺，改用眉心／後頸淡疤）、`CHARACTER_JIN_CHANGMING.md`（赤翎：守燼／燼生／鎮燃，不能替人續命；人形金紅眼瞳、鎖骨與手腕有燒灼紋）、`factions/FACTION_FOUR_COMPANION_STARS.md` L9（三段形態）、`CHARACTER_FENG_HAN.md`／`systems/SYSTEM_FENG_HAN_GRAVITY_PATH.md`（V08 是古界之後）。
 章末「一致性自檢」與「待確認提案」不是正文，不審。自檢和正文不一致的地方只在F順帶記錄。
@@ -220,7 +220,7 @@
 
 ## 相關檔案
 
-- 審查範圍：`novel/volume08/chapter061.md`～`chapter080.md`
+- 審查範圍：`novel/003_邊荒承劫/002_異域同行與帝關守路/061_這個異常已經死了.md`～`chapter080.md`
 - 準則：`docs/XIANXIA_TEXTURE_GUIDE.md`、`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`
 - 大綱：`docs/outlines/OUTLINE_FOREIGN_DOMAIN_REFORGING.md`、`docs/outlines/OUTLINE_FOREIGN_DOMAIN_RETURN_ROUTE.md`
 - 人物：`docs/characters/CHARACTER_JIE_E.md`、`CHARACTER_ZHEN_WUYANG.md`、`CHARACTER_XUAN_HENG.md`、`CHARACTER_JIN_CHANGMING.md`、`docs/factions/FACTION_FOUR_COMPANION_STARS.md`

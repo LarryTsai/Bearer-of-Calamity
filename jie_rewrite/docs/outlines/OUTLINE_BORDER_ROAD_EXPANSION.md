@@ -2,7 +2,7 @@
 
 ## 狀態
 
-規劃用大綱 v1.0（2026-09-12）。回應 `CHECKLIST_PENDING_DECISIONS.md` 第178題「三大最高優先作者裁示」之一（Volume07界路篇重建），以及 `MASTER_TABLE_OF_CONTENTS.md` 主線甲「共同建造者・帝關」節點的缺口。範圍：`novel/volume07/chapter041.md`～`chapter056.md`（焚羽古巢／燃身／西三垛／天譴截矛／孟天正／收束）。**本大綱是純規劃，未寫正文；所有新增角色、地名與具體機制設計均為提案，需經對應審查 agent 與使用者核可後才能定案，詳見文末「待確認事項」。**
+規劃用大綱 v1.0（2026-09-12）。回應 `CHECKLIST_PENDING_DECISIONS.md` 第178題「三大最高優先作者裁示」之一（Volume07界路篇重建），以及 `MASTER_TABLE_OF_CONTENTS.md` 主線甲「共同建造者・帝關」節點的缺口。範圍：`novel/003_邊荒承劫/001_帝關初戰/041_失援古巢.md`～`chapter056.md`（焚羽古巢／燃身／西三垛／天譴截矛／孟天正／收束）。**本大綱是純規劃，未寫正文；所有新增角色、地名與具體機制設計均為提案，需經對應審查 agent 與使用者核可後才能定案，詳見文末「待確認事項」。**
 
 ---
 
@@ -260,4 +260,4 @@
 - `docs/STORY_CAUSALITY_NETWORK.md`（一之一）
 - `docs/WRITING_GUIDELINES.md`（十一、十二節）
 - `docs/outlines/OUTLINE_WEN_FAMILY_CRISIS.md`（格式參考）
-- `novel/volume07/chapter041.md` ～ `chapter056.md`（現有正文，已讀取比對）
+- `novel/003_邊荒承劫/001_帝關初戰/041_失援古巢.md` ～ `chapter056.md`（現有正文，已讀取比對）
