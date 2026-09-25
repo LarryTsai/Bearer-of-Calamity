@@ -3643,6 +3643,24 @@
           "legacy_source": "novel/volume04_v2/chapter086.md",
           "source_sha256": "d8dc0c28c0bf51b43c36e76606432718410f94248f194565f1ea5fd223309821",
           "body_sha256": "220fd76c0577c7dc0d82bba7d88cf8854d154bb400bdbc723e7669ca4fea633d"
+        },
+        {
+          "number": 87,
+          "title": "先走的人",
+          "source": "novel/002_上界成道/009_界潮與古界/087_先走的人.md",
+          "published": "novel/published/002_上界成道/009_界潮與古界/087_先走的人.md"
+        },
+        {
+          "number": 88,
+          "title": "自己過去",
+          "source": "novel/002_上界成道/009_界潮與古界/088_自己過去.md",
+          "published": "novel/published/002_上界成道/009_界潮與古界/088_自己過去.md"
+        },
+        {
+          "number": 89,
+          "title": "不在原處的地方",
+          "source": "novel/002_上界成道/009_界潮與古界/089_不在原處的地方.md",
+          "published": "novel/published/002_上界成道/009_界潮與古界/089_不在原處的地方.md"
         }
       ],
       "historical_outline_title": "第十四篇：界潮與古界"
