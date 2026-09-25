@@ -11,6 +11,10 @@
 - 是 **PM**：讀 `docs/PIPELINE_STATUS.md` 全文，並在每次重大進度後更新它，讓其他人（含未來/clear後的你自己）能對上現況。
 - 是 **寫手1**：讀 `docs/PIPELINE_WRITER1_LOG.md`——裡面有你的角色定義、標準作業流程、必須遵守的長期寫作原則，以及你自己過去完成過什麼、卡在哪。
 - 是 **寫手2**：讀 `docs/PIPELINE_WRITER2_LOG.md`，同上。
+- 是 **寫手3**：讀 `docs/PIPELINE_WRITER3_LOG.md`（鏡像重建唯一負責人）。
+- 是 **清道夫**：讀 `docs/PIPELINE_SCAVENGER_LOG.md`。
+- 是 **顧問**：讀 `docs/PIPELINE_ADVISOR_LOG.md`（創作面諮詢，與作者多輪討論，不直接改正文/設定）。
+- **所有角色**另須先讀 `docs/XIANXIA_PERSPECTIVE_CHARTER.md`（全書修仙者視角共同守則，作者2026-09-25指示）。git commit/push只由PM統一執行。
 - 對照不到（名字沒出現在那份表裡）：這個repo可能有別的團隊/session也在協作，或你是今天才被指派的新角色，先讀 `docs/PIPELINE_STATUS.md` 了解現況，不要假設自己是PM或寫手，必要時直接問使用者。
 
 不論哪個角色，都先讀 `docs/PIPELINE_STATUS.md` 對一次全局現況，再讀自己專屬的檔案，就能直接接續工作，不需要使用者重新解釋一次。

@@ -31,3 +31,13 @@
 
 ## 五、角色↔session
 ListAgents查當下事實，不記名字。角色：PM、寫手1、寫手2、寫手3、清道夫、顧問（創作面諮詢、與作者多輪討論）。
+
+## 六、2026-09-24/25 作者決定索引（唯一來源檔在括號內；細節查CHECKLIST_PENDING_DECISIONS.md對應題號）
+- **古界N-2**：方案6；先驗者封寒；殘鐧放N-3；不放寬蒼梧定位；隔日第二次代界（用第二次即走不了＝當樁）；骨刺顫固定兩次（N2-2/N2-7）；封寒折損三日；劃掉黎母阿荇（離界名冊）；聽島令歸還阿磯；轄域前因補在ch006/018/027；章數8~10不壓縮；N2-7高潮＝蒼梧自己決定不把窗口做更穩更久（CHECKLIST 231/320、`outlines/ANCIENT_REALM_N2_*`）。
+- **蒼梧代詞**：敘事一律「他」，僅陌生人第一印象/獸群/物種描述可用「牠」；對他說話用「你」（CHECKLIST 343；盤點`drafts/pronoun_xuanheng_audit/`）。稱呼定「蒼梧」不用「梧」（345）。
+- **268/269太玄閣**選C：閣後倒、三人只入簿待查、陸沉自認、宋知微守閣簿筆跡；306「劫瘫」→「雷者」；318選B（volume07古世回望）；315~317、319（06b時間帳）已施工。
+- **通則**：雷身重凝（`systems/SYSTEM_THUNDER_BODY_DIVISION.md`五之二）；年數三十年硬錨；終局歸宿表；單卷收束清單（`drafts/CAUSALITY_DEBT_MASTER_TABLE.md`第七節）。
+- **洛生衣誤判聞硯**：第三種（道沒有說謊、錯在把看得見的範圍當成全部；volume09 ch049保持全卷第一次）。
+- **封寒終局近況**：volume12 ch024石片界石＋青璃一句；魔女容器＝後續卷；文奕落事件點C（volume12 ch013）。
+- **修仙視角全書**（`XIANXIA_PERSPECTIVE_CHARTER.md`）：三層（詞/修士邏輯/仙人文明）；第三層第一輪決定：錨地承限（場域限制、相對語、不寫下界通則）、有限解凍lower_realm_v2（僅一句專屬理由＋機械修正）、大型場面（空中救一殿/一宗）放後續卷或番外，走流程C（`drafts/XIANXIA_CIVILIZATION_ROUND1_RECOMMENDATIONS.md`第七節、`drafts/RULE_ANCHOR_BOUNDARY_LIMIT_DRAFT.md`、`drafts/BIG_SCENE_AIR_RESCUE_FLOWC_ROUND1.md`）。
+- 各人交接：`PIPELINE_WRITER1/2/3_LOG.md`、`PIPELINE_SCAVENGER_LOG.md`、`PIPELINE_ADVISOR_LOG.md`（2026-09-25新增一節）。
