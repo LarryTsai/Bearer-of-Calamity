@@ -366,15 +366,65 @@
       "id": "lower_life_007",
       "title": "007_雨谷不收藥",
       "path": "001_下界成根/007_雨谷不收藥",
-      "status": "篇級規劃，待開發正文",
-      "chapters": []
+      "status": "現行正文",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "草醒在什麼時候",
+          "source": "novel/001_下界成根/007_雨谷不收藥/001_草醒在什麼時候.md",
+          "published": "novel/published/001_下界成根/007_雨谷不收藥/001_草醒在什麼時候.md"
+        },
+        {
+          "number": 2,
+          "title": "山坡翻過一面",
+          "source": "novel/001_下界成根/007_雨谷不收藥/002_山坡翻過一面.md",
+          "published": "novel/published/001_下界成根/007_雨谷不收藥/002_山坡翻過一面.md"
+        },
+        {
+          "number": 3,
+          "title": "空筐也要背回去",
+          "source": "novel/001_下界成根/007_雨谷不收藥/003_空筐也要背回去.md",
+          "published": "novel/published/001_下界成根/007_雨谷不收藥/003_空筐也要背回去.md"
+        },
+        {
+          "number": 4,
+          "title": "明日去問水",
+          "source": "novel/001_下界成根/007_雨谷不收藥/004_明日去問水.md",
+          "published": "novel/published/001_下界成根/007_雨谷不收藥/004_明日去問水.md"
+        }
+      ]
     },
     {
       "id": "lower_life_008",
       "title": "008_水源下的舊禁",
       "path": "001_下界成根/008_水源下的舊禁",
-      "status": "篇級規劃，待開發正文",
-      "chapters": []
+      "status": "現行正文",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "水從山裡站起來",
+          "source": "novel/001_下界成根/008_水源下的舊禁/001_水從山裡站起來.md",
+          "published": "novel/published/001_下界成根/008_水源下的舊禁/001_水從山裡站起來.md"
+        },
+        {
+          "number": 2,
+          "title": "那一筆還在等雨",
+          "source": "novel/001_下界成根/008_水源下的舊禁/002_那一筆還在等雨.md",
+          "published": "novel/published/001_下界成根/008_水源下的舊禁/002_那一筆還在等雨.md"
+        },
+        {
+          "number": 3,
+          "title": "先讓這一段過去",
+          "source": "novel/001_下界成根/008_水源下的舊禁/003_先讓這一段過去.md",
+          "published": "novel/published/001_下界成根/008_水源下的舊禁/003_先讓這一段過去.md"
+        },
+        {
+          "number": 4,
+          "title": "明年還有水聲",
+          "source": "novel/001_下界成根/008_水源下的舊禁/004_明年還有水聲.md",
+          "published": "novel/published/001_下界成根/008_水源下的舊禁/004_明年還有水聲.md"
+        }
+      ]
     },
     {
       "id": "lower_life_009",
