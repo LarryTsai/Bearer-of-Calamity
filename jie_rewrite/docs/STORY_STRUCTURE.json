@@ -8518,6 +8518,44 @@
       "historical_outline_title": "戰後收束：萬劫沉封域・劫後有家"
     },
     {
+      "id": "ancient_dragon_home",
+      "title": "006_古龍界・自己的巢",
+      "path": "003_邊荒承劫/006_古龍界・自己的巢",
+      "status": "現行正文",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "牠要去看看",
+          "source": "novel/003_邊荒承劫/006_古龍界・自己的巢/001_牠要去看看.md",
+          "published": "novel/published/003_邊荒承劫/006_古龍界・自己的巢/001_牠要去看看.md"
+        },
+        {
+          "number": 2,
+          "title": "巢在風裡換了位置",
+          "source": "novel/003_邊荒承劫/006_古龍界・自己的巢/002_巢在風裡換了位置.md",
+          "published": "novel/published/003_邊荒承劫/006_古龍界・自己的巢/002_巢在風裡換了位置.md"
+        },
+        {
+          "number": 3,
+          "title": "沒有那一片蛻鱗",
+          "source": "novel/003_邊荒承劫/006_古龍界・自己的巢/003_沒有那一片蛻鱗.md",
+          "published": "novel/published/003_邊荒承劫/006_古龍界・自己的巢/003_沒有那一片蛻鱗.md"
+        },
+        {
+          "number": 4,
+          "title": "這一處朝著雲",
+          "source": "novel/003_邊荒承劫/006_古龍界・自己的巢/004_這一處朝著雲.md",
+          "published": "novel/published/003_邊荒承劫/006_古龍界・自己的巢/004_這一處朝著雲.md"
+        },
+        {
+          "number": 5,
+          "title": "下次還來",
+          "source": "novel/003_邊荒承劫/006_古龍界・自己的巢/005_下次還來.md",
+          "published": "novel/published/003_邊荒承劫/006_古龍界・自己的巢/005_下次還來.md"
+        }
+      ]
+    },
+    {
       "id": "arc20",
       "title": "001_萬古獨行",
       "path": "004_可選終篇・番外/001_萬古獨行",
