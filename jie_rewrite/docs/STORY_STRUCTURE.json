@@ -662,15 +662,41 @@
       "id": "lower_life_014",
       "title": "014_偏城量地",
       "path": "001_下界成根/014_偏城量地",
-      "status": "篇級規劃，待開發正文",
-      "chapters": []
+      "status": "現行正文；依人生總綱續補",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "腳下還有一座城",
+          "source": "novel/001_下界成根/014_偏城量地/001_腳下還有一座城.md",
+          "published": "novel/published/001_下界成根/014_偏城量地/001_腳下還有一座城.md"
+        }
+      ]
     },
     {
       "id": "lower_life_015",
-      "title": "015_欠爐的人",
-      "path": "001_下界成根/015_欠爐的人",
-      "status": "篇級規劃，待開發正文",
-      "chapters": []
+      "title": "015_爭爐的人",
+      "path": "001_下界成根/015_爭爐的人",
+      "status": "現行正文；依人生總綱續補",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "那口爐，我想留下",
+          "source": "novel/001_下界成根/015_爭爐的人/001_那口爐，我想留下.md",
+          "published": "novel/published/001_下界成根/015_爭爐的人/001_那口爐，我想留下.md"
+        },
+        {
+          "number": 2,
+          "title": "火退了，藥還在",
+          "source": "novel/001_下界成根/015_爭爐的人/002_火退了，藥還在.md",
+          "published": "novel/published/001_下界成根/015_爭爐的人/002_火退了，藥還在.md"
+        },
+        {
+          "number": 3,
+          "title": "門上留了他的名字",
+          "source": "novel/001_下界成根/015_爭爐的人/003_門上留了他的名字.md",
+          "published": "novel/published/001_下界成根/015_爭爐的人/003_門上留了他的名字.md"
+        }
+      ]
     },
     {
       "id": "lower_life_016",
