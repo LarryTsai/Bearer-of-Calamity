@@ -773,8 +773,27 @@
       "id": "lower_life_017",
       "title": "017_潮汐不是時辰",
       "path": "001_下界成根/017_潮汐不是時辰",
-      "status": "篇級規劃，待開發正文",
-      "chapters": []
+      "status": "現行正文；海市潮樂三章已完成",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "耳朵底下還有一層海",
+          "source": "novel/001_下界成根/017_潮汐不是時辰/001_耳朵底下還有一層海.md",
+          "published": "novel/published/001_下界成根/017_潮汐不是時辰/001_耳朵底下還有一層海.md"
+        },
+        {
+          "number": 2,
+          "title": "他要那口沉沉的鐘",
+          "source": "novel/001_下界成根/017_潮汐不是時辰/002_他要那口沉沉的鐘.md",
+          "published": "novel/published/001_下界成根/017_潮汐不是時辰/002_他要那口沉沉的鐘.md"
+        },
+        {
+          "number": 3,
+          "title": "那一拍有人回答",
+          "source": "novel/001_下界成根/017_潮汐不是時辰/003_那一拍有人回答.md",
+          "published": "novel/published/001_下界成根/017_潮汐不是時辰/003_那一拍有人回答.md"
+        }
+      ]
     },
     {
       "id": "lower_life_018",
