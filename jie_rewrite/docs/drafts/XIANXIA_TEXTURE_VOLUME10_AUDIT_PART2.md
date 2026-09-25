@@ -1,6 +1,6 @@
 # 仙俠質感審查：novel/volume10 第二段（ch021～ch040）
 
-- **範圍**：`novel/003_邊荒承劫/004_長息/021_她先收了那一個交界.md`～`chapter040.md`（20章；卷間篇〈長息〉第三幕後半 ch021～024〈同代老去／三套制度換班〉、第四幕 ch025～032〈罪州失界與蒼梧永久解印〉、第五幕 ch033～040〈荒再起的公開餘波／太玄舊址／父母／紀元大劫啟動〉）。章末「一致性自檢」「修訂記錄」不審。
+- **範圍**：`novel/003_邊荒承劫/004_長息/028_她先收了那一個交界.md`～`chapter040.md`（20章；卷間篇〈長息〉第三幕後半 ch021～024〈同代老去／三套制度換班〉、第四幕 ch025～032〈罪州失界與蒼梧永久解印〉、第五幕 ch033～040〈荒再起的公開餘波／太玄舊址／父母／紀元大劫啟動〉）。章末「一致性自檢」「修訂記錄」不審。
 - **狀態**：2026-09-24，只讀不改（替寫手3做逐章審查；未動 novel/ 與其他 docs）。
 - **依據文件**：`docs/XIANXIA_PERSPECTIVE_CHARTER.md`（最高前提）；`docs/XIANXIA_TEXTURE_GUIDE.md`；`docs/drafts/XIANXIA_TEXTURE_ROLLOUT_SPEC.md`（第四節錨點表、第五節現代詞、五之一十條教訓）；格式範本 `XIANXIA_TEXTURE_VOLUME08_AUDIT_PART3.md`；`docs/outlines/OUTLINE_LONG_BREATH.md`（第四～六節、離卷狀態）；`docs/MACRO_OUTLINE.md` L372〈銜接段：長息〉；`docs/characters/CHARACTER_JIN_CHANGMING.md`（赤翎守燼「不能替人續命」）、`CHARACTER_XUAN_HENG.md`（蒼梧立界、頸段、代詞343裁決）、`CHARACTER_ZHEN_WUYANG.md`（鑑月白澤）、`CHARACTER_QING_LI.md`（瞳色隨屬性微變）、`CHARACTER_LUO_QINGHE.md`、`CHARACTER_LU_CHEN_FATHER.md`；`docs/drafts/XIANXIA_TEXTURE_VOLUME09_AUDIT_G.md`（上卷窄查慣例：劫厄不寫叼、蒼梧不寫咬、紅燈→示警燈、379A 聲紋→音紋、預案→排法）；`docs/drafts/LUO_SHENGYI_GUANSHENG_CANDIDATES_V10_V12.md`（G節對照）。
 - **保護句**：volume10 ch007 L13（寫手2 已落洛生衣觀生句）不在本段範圍，本報告無任何條目觸及。ch022 L15、L47 已列為既有觀生位置，本報告 C 節不動。
