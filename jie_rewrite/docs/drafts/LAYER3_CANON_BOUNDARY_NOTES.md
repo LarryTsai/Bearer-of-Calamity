@@ -1,3 +1,5 @@
+> 資料移存：分篇大綱與接口規則現位於 `docs/outlines/001_下界成根/`，各篇按現行數字與名稱分層；舊 OUTLINE_DRAFT 對應各篇 OUTLINE.md。下列歷史行號不重編，移存文件新增兩行用途註記；以文字內容定位。
+
 # 下界原作不可改邊界（第三層仙人文明用；jie-canon 查證，寫手2整理）
 
 > 2026-09-25。純唯讀查證，只引 docs 對原作的既有整理，不憑記憶捏造原作內容；docs 沒寫者明標「docs無記載」。出處檔皆在 `story/jie_rewrite/docs/` 或 `novel/001_下界成根/README.md` 下。
@@ -14,7 +16,7 @@
 - **下界凍結稿**：`novel/001_下界成根/README.md` 是冷卻凍結稿，動它必須使用者明確同意局部解凍，PM不得逕行決定（見第三節）。
 
 ## 二、可改但需審
-- 下界內的原創時序（虛神界、真假委託、北海橋段）已由 [歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/lower_realm_v2/CONTINUITY_PLAN.md) 等鎖定順序，改動先過 canon 與 continuity。
+- 下界內的原創時序（虛神界、真假委託、北海橋段）已由 [歷史素材](../outlines/001_下界成根/CONTINUITY_PLAN.md) 等鎖定順序，改動先過 canon 與 continuity。
 - 魔女在下界的稱呼：原著個人本名待查證，不自造（[歷史素材](https://github.com/LarryTsai/Bearer-of-Calamity/blob/9d6dcfc807dc0149ab7c3a61bf0646d0dc2c589f/jie_rewrite/novel/lower_realm_v2/README.md) L26；CHECKLIST 第219題）。
 - 虛神界事件的紀錄歸屬已訂正為陸沉與文奕共同持有（canon L31）。
 - 下界沒有新事件可靠「原作沒寫」直接加；凡影響荒的勝負、傳承、死亡或立場，都要先有事件檔建立安全閥。

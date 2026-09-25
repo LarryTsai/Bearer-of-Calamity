@@ -13,7 +13,7 @@ python scripts/build_story.py
 python scripts/build_story.py --check
 ```
 
-目前另有219份歷史材料等待作者批准移除；此期間生成與檢查暫加 `--allow-legacy`，只豁免清單已盤點的舊檔。新版867章與大綱已驗證，舊材料清理狀態見[遷移紀錄](docs/STORY_STRUCTURE_MIGRATION.md)。
+舊正文、重複閱讀版、已落稿施工稿與過時方案已清除；正文區只保留新版。仍供待修工作使用的13份必要資料移至 `docs/`，用途見[清理紀錄](docs/STORY_LEGACY_CLEANUP.md)。日常檢查使用上列標準命令，無須舊檔例外。
 
 `docs/STORY_STRUCTURE.json` 管理時期、篇名、順序與章目錄；`docs/MACRO_OUTLINE.md` 管理故事內容與篇界，兩者須一起更新。新章先登記manifest，再生成目錄和閱讀版。舊施工章號對照保留在manifest與逐章表，不再用舊volume編號判斷閱讀順序。
 

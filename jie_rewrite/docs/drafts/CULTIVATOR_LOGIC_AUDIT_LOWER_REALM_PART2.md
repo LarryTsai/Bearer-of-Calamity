@@ -1,3 +1,5 @@
+> 資料移存：分篇大綱與接口規則現位於 `docs/outlines/001_下界成根/`，各篇按現行數字與名稱分層；舊 OUTLINE_DRAFT 對應各篇 OUTLINE.md。下列歷史行號不重編，移存文件新增兩行用途註記；以文字內容定位。
+
 # 修士邏輯審查報告：lower_realm_v2 第二篇〈入山問道〉（太玄閣入門）
 
 審查者：jie-cultivator-logic（修士邏輯審查員）

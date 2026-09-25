@@ -1,3 +1,5 @@
+> 資料移存：分篇大綱與接口規則現位於 `docs/outlines/001_下界成根/`，各篇按現行數字與名稱分層；舊 OUTLINE_DRAFT 對應各篇 OUTLINE.md。下列歷史行號不重編，移存文件新增兩行用途註記；以文字內容定位。
+
 # 第二篇〈入山問道〉世界層修仙痕跡缺口盤點（只讀盤點，未改正文）
 
 盤點日期：2026-09-25。依據：`docs/XIANXIA_PERSPECTIVE_CHARTER.md`、`docs/XIANXIA_TEXTURE_GUIDE.md`，正文 `novel/lower_realm_v2/arc02_enter_mountain/chapter001～005.md`。
