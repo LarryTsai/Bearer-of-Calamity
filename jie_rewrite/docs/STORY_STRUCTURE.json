@@ -382,9 +382,9 @@
         },
         {
           "number": 3,
-          "title": "空筐也要背回去",
-          "source": "novel/001_下界成根/007_雨谷不收藥/003_空筐也要背回去.md",
-          "published": "novel/published/001_下界成根/007_雨谷不收藥/003_空筐也要背回去.md"
+          "title": "筒裡有一片春天",
+          "source": "novel/001_下界成根/007_雨谷不收藥/003_筒裡有一片春天.md",
+          "published": "novel/published/001_下界成根/007_雨谷不收藥/003_筒裡有一片春天.md"
         },
         {
           "number": 4,
@@ -595,7 +595,7 @@
       "id": "lower_life_012",
       "title": "012_傷後未還的帳",
       "path": "001_下界成根/012_傷後未還的帳",
-      "status": "現行正文；依人生總綱續補",
+      "status": "現行正文",
       "chapters": [
         {
           "number": 1,
@@ -605,6 +605,24 @@
           "legacy_source": "novel/lower_realm_v2/arc05_hundred_broken_mountain/chapter008.md",
           "source_sha256": "352a082ff1dc6088cb63a1647006d08bc8653ee5259741f8c7cdb5b859bd76b9",
           "body_sha256": "9a69f147499a5d23518c7a0abdda150b1d3c8c5158870548af54c1978bac31a2"
+        },
+        {
+          "number": 2,
+          "title": "藥先敷在傷邊",
+          "source": "novel/001_下界成根/012_傷後未還的帳/002_藥先敷在傷邊.md",
+          "published": "novel/published/001_下界成根/012_傷後未還的帳/002_藥先敷在傷邊.md"
+        },
+        {
+          "number": 3,
+          "title": "廊下各有一張凳",
+          "source": "novel/001_下界成根/012_傷後未還的帳/003_廊下各有一張凳.md",
+          "published": "novel/published/001_下界成根/012_傷後未還的帳/003_廊下各有一張凳.md"
+        },
+        {
+          "number": 4,
+          "title": "會帖上的小爐",
+          "source": "novel/001_下界成根/012_傷後未還的帳/004_會帖上的小爐.md",
+          "published": "novel/published/001_下界成根/012_傷後未還的帳/004_會帖上的小爐.md"
         }
       ]
     },
@@ -612,8 +630,33 @@
       "id": "lower_life_013",
       "title": "013_三城不賣的東西",
       "path": "001_下界成根/013_三城不賣的東西",
-      "status": "篇級規劃，待開發正文",
-      "chapters": []
+      "status": "現行正文",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "三座城的雲",
+          "source": "novel/001_下界成根/013_三城不賣的東西/001_三座城的雲.md",
+          "published": "novel/published/001_下界成根/013_三城不賣的東西/001_三座城的雲.md"
+        },
+        {
+          "number": 2,
+          "title": "有人把火收小",
+          "source": "novel/001_下界成根/013_三城不賣的東西/002_有人把火收小.md",
+          "published": "novel/published/001_下界成根/013_三城不賣的東西/002_有人把火收小.md"
+        },
+        {
+          "number": 3,
+          "title": "那一片不拆",
+          "source": "novel/001_下界成根/013_三城不賣的東西/003_那一片不拆.md",
+          "published": "novel/published/001_下界成根/013_三城不賣的東西/003_那一片不拆.md"
+        },
+        {
+          "number": 4,
+          "title": "回爐才知道",
+          "source": "novel/001_下界成根/013_三城不賣的東西/004_回爐才知道.md",
+          "published": "novel/published/001_下界成根/013_三城不賣的東西/004_回爐才知道.md"
+        }
+      ]
     },
     {
       "id": "lower_life_014",
