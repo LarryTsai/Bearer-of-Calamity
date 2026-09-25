@@ -2,6 +2,11 @@
 
 狀態：PM維護。舊版（369行歷史敘事）已歸檔於 `docs/archive/PIPELINE_STATUS_until_20260925.md`。**2026-09-25 已恢復運作；寫手1／2／3均完成本輪階段。目錄改版已commit `abdfe94`，現行新版驗證通過；舊材料已依作者裁示完成分類清理，必要資料13份移至docs。原 Claude sessions 未連接，不代表那些 sessions 已被喚醒。**
 
+### 當前優先：先鋪大綱（2026-09-25）
+
+- 已完成[下界24篇草案與65章映射](outlines/LOWER_REALM_LIFE_MASTER_OUTLINE.md)、[完美世界容量研究](drafts/PERFECT_WORLD_LOWER_REALM_STRUCTURE_STUDY.md)，含三界昇龍台與伏筆接力；這是設計階段，未新增正文、未變更現行867章分層。
+- 作者確認洛生衣保留上界初遇；下界丹師另有自己人生。先核篇級因果与時間窗，再展開場景；長息G正文修訂保留待辦。
+
 ### 現行目錄與本輪提交
 - 正文入口以 `docs/STORY_STRUCTURE.json` 為準：28個篇章群、867章，各層三位數排序；可讀對照見 `docs/STORY_STRUCTURE.md`。本板以下保留的 volume／arc 編號是歷史定位，派工須先用 manifest 的 `legacy_source` 對到現行 `source`／`published`，不能直接沿舊路徑施工。
 - PM已推送：`25cd0cb`共同規則、`f6dda22`鏡像10檔修復、`bbe2e28`百斷山8章審查、`9d6dcfc`古界083／085／086局部修訂。目錄重整與工具變更已提交 `abdfe94`；遠端同步狀態以Git收尾查核為準。
